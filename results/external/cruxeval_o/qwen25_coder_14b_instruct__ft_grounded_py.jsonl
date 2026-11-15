@@ -1,0 +1,800 @@
+{"id": "sample_0", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[(4, 1), (2, 3)]'"}
+{"id": "sample_1", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_2", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_3", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_4", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'      '\""}
+{"id": "sample_5", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"(2, 'xxxxxxxxxxxxxxxxxx')\""}
+{"id": "sample_6", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[('a', 12)]\""}
+{"id": "sample_7", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_8", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_9", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_10", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_11", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_12", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'If you want to live a happy life! '\""}
+{"id": "sample_13", "official_pass": false, "official_status": "fail", "detail": "[value] answer='3'"}
+{"id": "sample_14", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'   POO   '\""}
+{"id": "sample_15", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_16", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_17", "official_pass": false, "official_status": "fail", "detail": "[value] answer='10'"}
+{"id": "sample_18", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[5, 4, 3, 3, 2, 1, 0]'"}
+{"id": "sample_19", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_20", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_21", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 1, 2, 2, 2, 2]'"}
+{"id": "sample_22", "official_pass": false, "official_status": "fail", "detail": "[value] answer='0'"}
+{"id": "sample_23", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'new-medium-performing-application - XQuery 2.2'\""}
+{"id": "sample_24", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_25", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_26", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_27", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_28", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_29", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_30", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_31", "official_pass": false, "official_status": "fail", "detail": "[value] answer='4'"}
+{"id": "sample_32", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'e;v;om'\""}
+{"id": "sample_33", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'5': [5, 5], '2': [2, 2], '7': [5, 2, 7], '3': [5, 2, 7, 3]}\""}
+{"id": "sample_34", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_35", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 1, 1, 3]'"}
+{"id": "sample_36", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_37", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_38", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'1Oe-Errebzz-Bmm'\""}
+{"id": "sample_39", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_40", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_41", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[21, 58, 92]'"}
+{"id": "sample_42", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_43", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_44", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'+*n+z+o+h'\""}
+{"id": "sample_45", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_46", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_47", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_48", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_49", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_50", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 1, 1, 1]'"}
+{"id": "sample_51", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_52", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_53", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 1, 1, 1, 1, 1]'"}
+{"id": "sample_54", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_55", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_56", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_57", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'no'\""}
+{"id": "sample_58", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[-1, 0, 0, 1, 1, -1, 0, 1]'"}
+{"id": "sample_59", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_60", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_61", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_62", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"('eating', 'books', 'piano', 'excitement')\""}
+{"id": "sample_63", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_64", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'   7    '\""}
+{"id": "sample_65", "official_pass": false, "official_status": "fail", "detail": "[value] answer='15'"}
+{"id": "sample_66", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'pp'\""}
+{"id": "sample_67", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_68", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'wpvr.dq.omeunh'\""}
+{"id": "sample_69", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_70", "official_pass": false, "official_status": "fail", "detail": "[value] answer='32'"}
+{"id": "sample_71", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_72", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_73", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_74", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_75", "official_pass": false, "official_status": "fail", "detail": "[value] answer='1'"}
+{"id": "sample_76", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[6, 2, 2, 3, 10]'"}
+{"id": "sample_77", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_78", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_79", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_80", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'        ba'\""}
+{"id": "sample_81", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[('Bulls', 23), ('White Sox', 45)]\""}
+{"id": "sample_82", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_83", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'2:3'\""}
+{"id": "sample_84", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'nwvday mefday ofmeday bdryly'\""}
+{"id": "sample_85", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_86", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_87", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_88", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_89", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'o'\""}
+{"id": "sample_90", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_91", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_92", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_93", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'iq!!'\""}
+{"id": "sample_94", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_95", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_96", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_97", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_98", "official_pass": false, "official_status": "fail", "detail": "[value] answer='2'"}
+{"id": "sample_99", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'aa___+++bb'\""}
+{"id": "sample_100", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_101", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_102", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_103", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_104", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_105", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"permissioN Is Granted\"'"}
+{"id": "sample_106", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[4, 2, 16, 8, -4, -2, 18, 9, 6, 3, 3]'"}
+{"id": "sample_107", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_108", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_109", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_110", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_111", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_112", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'XYZ LRRH LiT LiT LiT LiT LiT LiT LiT LiT LiT LiT LiT LiT LiT LiT LiT LiT LiT LiT LiT LiT LiT LiT LiT LiT LiT LiT LiT Li\""}
+{"id": "sample_113", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'987YhNsHaShD 93275YrGsGbGsShfBsFb'\""}
+{"id": "sample_114", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_115", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"b'111; 115; 111; 124; 124; 97; 103; 120; 53; '\""}
+{"id": "sample_116", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_117", "official_pass": false, "official_status": "fail", "detail": "[value] answer='1'"}
+{"id": "sample_118", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'zbzquiuqnfkx'\""}
+{"id": "sample_119", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_120", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_121", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'1'\""}
+{"id": "sample_122", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_123", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_124", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_125", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'!123Leap and the net will appear'\""}
+{"id": "sample_126", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'kkxkxxfck'\""}
+{"id": "sample_127", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_128", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'Mmthao'\""}
+{"id": "sample_129", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[25, 22, 18, 15, 12, 9, 6, 3, 0]'"}
+{"id": "sample_130", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'{}={}'\""}
+{"id": "sample_131", "official_pass": false, "official_status": "fail", "detail": "[value] answer='4'"}
+{"id": "sample_132", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'abcdabc'\""}
+{"id": "sample_133", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[7, 1, 2, 6]'"}
+{"id": "sample_134", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_135", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_136", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'  a  \\\\n b c \\\\n   \\\\n  d  \\\\n ef '\""}
+{"id": "sample_137", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[0, 0]'"}
+{"id": "sample_138", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_139", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_140", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_141", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_142", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_143", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_144", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_145", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_146", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_147", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_148", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'2io 12 tfiqr.'\""}
+{"id": "sample_149", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'3,2,3,2,3,2,3,5,4,3,1,3,2,3,2,3,3,3,0,0,'\""}
+{"id": "sample_150", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_151", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_152", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_153", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_154", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_155", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'dskj\\\\ns hjc\\\\ndjnx\\\\nhjic\\\\nnn'\""}
+{"id": "sample_156", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_157", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_158", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[6, 4, -2]'"}
+{"id": "sample_159", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'mgItR'\""}
+{"id": "sample_160", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_161", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"' rinpxdifkj'\""}
+{"id": "sample_162", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'SBISHOPSWIFT'\""}
+{"id": "sample_163", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'w))))))'\""}
+{"id": "sample_164", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_165", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_166", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_167", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'aaQwBbQwCcQwde'\""}
+{"id": "sample_168", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'spain'\""}
+{"id": "sample_169", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'+t+a+o+l+e++++'\""}
+{"id": "sample_170", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_171", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[2, 3]'"}
+{"id": "sample_172", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_173", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_174", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_175", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'\\\\n'\""}
+{"id": "sample_176", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_177", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'HeY duDe thIs $Nd^ &*&ThIs@#'\""}
+{"id": "sample_178", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[2, 2, 2, 2]'"}
+{"id": "sample_179", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[7, 1, 2, 6, 0, 2, 7, 1, 2, 6]'"}
+{"id": "sample_180", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[-1, 5, 3, -2, -6, 8, 8]'"}
+{"id": "sample_181", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['3291223', 9]\""}
+{"id": "sample_182", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_183", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['echo', 'hello!!!']\""}
+{"id": "sample_184", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[2, 1]'"}
+{"id": "sample_185", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[11, 9, 7, 12, 14, 16]'"}
+{"id": "sample_186", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_187", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_188", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_189", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_190", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_191", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_192", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'klcd!ma:ri'\""}
+{"id": "sample_193", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_194", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_195", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'ilfdoirwirmtoibs'\""}
+{"id": "sample_196", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'mixed'\""}
+{"id": "sample_197", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'0 oC'\""}
+{"id": "sample_198", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'mfstcm'\""}
+{"id": "sample_199", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'mnmnj krupa...##!@#!@#$$'\""}
+{"id": "sample_200", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'mt aojhouse'\""}
+{"id": "sample_201", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'461524'\""}
+{"id": "sample_202", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[15]'"}
+{"id": "sample_203", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_204", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['m', 's']\""}
+{"id": "sample_205", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_206", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_207", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_208", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['c', 'a', 't', ' ', 'd', ' ', 'd', 'e', 'e']\""}
+{"id": "sample_209", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'fulhxhzpnyihyf'\""}
+{"id": "sample_210", "official_pass": false, "official_status": "fail", "detail": "[value] answer='48'"}
+{"id": "sample_211", "official_pass": false, "official_status": "fail", "detail": "[value] answer='3'"}
+{"id": "sample_212", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_213", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_214", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_215", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_216", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_217", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_218", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'cbfcabfcabfcabfcabfcabfcabfcabfcabfcabfcabfcabfcabfcabfcabfcabfcabfcabfcabfcabfcabfcabfcabfcabfcabfcabfcabfcabfcabfcabf\""}
+{"id": "sample_219", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_220", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"cbcbcbcbcb\"'"}
+{"id": "sample_221", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'fc5.bpxa24'\""}
+{"id": "sample_222", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'0aabba0b'\""}
+{"id": "sample_223", "official_pass": false, "official_status": "fail", "detail": "[value] answer='2'"}
+{"id": "sample_224", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'23': 123}\""}
+{"id": "sample_225", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_226", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_227", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_228", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'llthh#safalpkphtswp'\""}
+{"id": "sample_229", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['9m', 'mA', '10K', 'Lk']\""}
+{"id": "sample_230", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_231", "official_pass": false, "official_status": "fail", "detail": "[value] answer='3'"}
+{"id": "sample_232", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'fssnvd'\""}
+{"id": "sample_233", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_234", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_235", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_236", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'ac8qk69wg'\""}
+{"id": "sample_237", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'uzlwaqiaju'\""}
+{"id": "sample_238", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_239", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"' t 1cos'\""}
+{"id": "sample_240", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'3.12'\""}
+{"id": "sample_241", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_242", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_243", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_244", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"''\""}
+{"id": "sample_245", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['v', 'z', 'all_uppercased']\""}
+{"id": "sample_246", "official_pass": false, "official_status": "fail", "detail": "[value] answer='0'"}
+{"id": "sample_247", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_248", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_249", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_250", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'wlace A A'\""}
+{"id": "sample_251", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"Marie;Nelson;Oscar;+353\"'"}
+{"id": "sample_252", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'foo'\""}
+{"id": "sample_253", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_254", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'lower case'\""}
+{"id": "sample_255", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_256", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_257", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_258", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_259", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'S'\""}
+{"id": "sample_260", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_261", "official_pass": false, "official_status": "fail", "detail": "[value] answer='([], [12, 516, 5, 2, 3, 214, 51])'"}
+{"id": "sample_262", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_263", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_264", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'pApApA'\""}
+{"id": "sample_265", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_266", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_267", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_268", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'h /ateful k'\""}
+{"id": "sample_269", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_270", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_271", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_272", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[9, 7, 5, 3, 1, 2, 4, 6, 8, 0, 0, 8, 6, 4, 2]'"}
+{"id": "sample_273", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'.NET'\""}
+{"id": "sample_274", "official_pass": false, "official_status": "fail", "detail": "[value] answer='2'"}
+{"id": "sample_275", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_276", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_277", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_278", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{0: [5, 991, 32, 997], 132: [5, 32]}'"}
+{"id": "sample_279", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_280", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'iiiiiiii iiii iiii iiii iiii'\""}
+{"id": "sample_281", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{1: 2, 3: 4, 5: 6, 8: 2, 'message': 'qrTHo'}\""}
+{"id": "sample_282", "official_pass": false, "official_status": "fail", "detail": "[value] answer='4'"}
+{"id": "sample_283", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'Captain America'\""}
+{"id": "sample_284", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_285", "official_pass": false, "official_status": "fail", "detail": "[value] answer='4'"}
+{"id": "sample_286", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_287", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'PINNEAPLE'\""}
+{"id": "sample_288", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[(1, 3), (55, 4), (71, 7), (99, 21)]'"}
+{"id": "sample_289", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_290", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_291", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'a': 'a'}\""}
+{"id": "sample_292", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'5*83*23**'\""}
+{"id": "sample_293", "official_pass": false, "official_status": "fail", "detail": "[value] answer='False'"}
+{"id": "sample_294", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_295", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_296", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_297", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'Half Life'\""}
+{"id": "sample_298", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_299", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'kstaovk'\""}
+{"id": "sample_300", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_301", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[0, 6, 2, -1, -2, 6, 2, -1, -2, -1, -2]'"}
+{"id": "sample_302", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_303", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'mJkLbn'\""}
+{"id": "sample_304", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_305", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'o hseto'\""}
+{"id": "sample_306", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_307", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'p|xc|z|n|y|f'\""}
+{"id": "sample_308", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_309", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'faqo osax o'\""}
+{"id": "sample_310", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'__1.0r0__a_j6__6'\""}
+{"id": "sample_311", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_312", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_313", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_314", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'105, -90 244'\""}
+{"id": "sample_315", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_316", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_317", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"' vup u zwwo oihee umuwuuw! '\""}
+{"id": "sample_318", "official_pass": false, "official_status": "fail", "detail": "[value] answer='2'"}
+{"id": "sample_319", "official_pass": false, "official_status": "fail", "detail": "[value] answer='3'"}
+{"id": "sample_320", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'UsAr'\""}
+{"id": "sample_321", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_322", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_323", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_324", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_325", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_326", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_327", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[3, -7, 1, 3]'"}
+{"id": "sample_328", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_329", "official_pass": false, "official_status": "fail", "detail": "[value] answer='False'"}
+{"id": "sample_330", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'4 2 '\""}
+{"id": "sample_331", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_332", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[0, 1]'"}
+{"id": "sample_333", "official_pass": false, "official_status": "fail", "detail": "[value] answer='3'"}
+{"id": "sample_334", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'00nU00 9 rCSAz00w00 lpA5BO00sizL00i7rlVr'\""}
+{"id": "sample_335", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_336", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_337", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_338", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_339", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_340", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'E jIkx HtDpV G'\""}
+{"id": "sample_341", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_342", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_343", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_344", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_345", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_346", "official_pass": false, "official_status": "fail", "detail": "[value] answer='True'"}
+{"id": "sample_347", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'hhzzccww    '\""}
+{"id": "sample_348", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_349", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'noeohqhk': 623}\""}
+{"id": "sample_350", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_351", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_352", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_353", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_354", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_355", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'123x John '\""}
+{"id": "sample_356", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 2]'"}
+{"id": "sample_357", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'weur'\""}
+{"id": "sample_358", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'burger'\""}
+{"id": "sample_359", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_360", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_361", "official_pass": false, "official_status": "fail", "detail": "[value] answer='2'"}
+{"id": "sample_362", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_363", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_364", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_365", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_366", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'[]+ ,!_'\""}
+{"id": "sample_367", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_368", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'004327 00000004327 000000004327 004327 04327 4327'\""}
+{"id": "sample_369", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"str\"'"}
+{"id": "sample_370", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_371", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_372", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['v,']\""}
+{"id": "sample_373", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 2, 3, 100]'"}
+{"id": "sample_374", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_375", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'sierizam'\""}
+{"id": "sample_376", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_377", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_378", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_379", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_380", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'xxjarczx'\""}
+{"id": "sample_381", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_382", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_383", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'ellod!p.kyp.exa.bi.y.hain'\""}
+{"id": "sample_384", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'asfdellos'\""}
+{"id": "sample_385", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[0, 2, 6]'"}
+{"id": "sample_386", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_387", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_388", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'28in'\""}
+{"id": "sample_389", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_390", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_391", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['+', '+', '+']\""}
+{"id": "sample_392", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_393", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'---l---c---s'\""}
+{"id": "sample_394", "official_pass": false, "official_status": "fail", "detail": "[value] answer='2'"}
+{"id": "sample_395", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_396", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_397", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_398", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_399", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'ac-ad-o'\""}
+{"id": "sample_400", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_401", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_402", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_403", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_404", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_405", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_406", "official_pass": false, "official_status": "fail", "detail": "[value] answer='True'"}
+{"id": "sample_407", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_408", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_409", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'quersit'\""}
+{"id": "sample_410", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 1, 3, 3, -1, -1, 1, 1, -2, -2, 6, 6]'"}
+{"id": "sample_411", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_412", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_413", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'ucwcw'\""}
+{"id": "sample_414", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_415", "official_pass": false, "official_status": "fail", "detail": "[value] answer='None'"}
+{"id": "sample_416", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'1ysrhfm 1wesf xgwwdyr dlrul ymba bpq'\""}
+{"id": "sample_417", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[7, 8, 2]'"}
+{"id": "sample_418", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_419", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'mmfbfe'\""}
+{"id": "sample_420", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_421", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_422", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_423", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_424", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"Makers of a Statement\"'"}
+{"id": "sample_425", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_426", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_427", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'s a a s a a'\""}
+{"id": "sample_428", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_429", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_430", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_431", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_432", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_433", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"T,Dmreh,Sspp,G ,.tB,Vxk,Cct\"'"}
+{"id": "sample_434", "official_pass": false, "official_status": "fail", "detail": "[value] answer='11'"}
+{"id": "sample_435", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'1'\""}
+{"id": "sample_436", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['7', ' ', 's', 's', ' ']\""}
+{"id": "sample_437", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'john': None, 'doe': None, 'the': None}\""}
+{"id": "sample_438", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'1  \\\\t\\\\t\\\\t3'\""}
+{"id": "sample_439", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_440", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_441", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_442", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_443", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_444", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[-5, 3, -2, -3, -1, 3, 5]'"}
+{"id": "sample_445", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"Carrot, Banana, and Strawberry\"'"}
+{"id": "sample_446", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_447", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'|a'\""}
+{"id": "sample_448", "official_pass": false, "official_status": "fail", "detail": "[value] answer='True'"}
+{"id": "sample_449", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_450", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_451", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_452", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_453", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_454", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'a': 2, 'b': [], 'c': {}}\""}
+{"id": "sample_455", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'?XYZ'\""}
+{"id": "sample_456", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_457", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_458", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"',,34,pIm'\""}
+{"id": "sample_459", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_460", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_461", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_462", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'o o o o o o o o o o'\""}
+{"id": "sample_463", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{-1: -1, 5: 5, -4: -4}'"}
+{"id": "sample_464", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_465", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_466", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_467", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_468", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_469", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'syduai'\""}
+{"id": "sample_470", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_471", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_472", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['5', 'c', 'x', 'y', 'z']\""}
+{"id": "sample_473", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'scedvtvktwqfqn'\""}
+{"id": "sample_474", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_475", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_476", "official_pass": false, "official_status": "fail", "detail": "[value] answer='True'"}
+{"id": "sample_477", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"('', '|xduaisf', '')\""}
+{"id": "sample_478", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_479", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 5, 3]'"}
+{"id": "sample_480", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_481", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_482", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_483", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"''\""}
+{"id": "sample_484", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[182, 32, 'r6', 'r5', 'rge', '', 'f', 'f1q', '-2']\""}
+{"id": "sample_485", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'avdropj  gsd    '\""}
+{"id": "sample_486", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_487", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_488", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'tezmgvn 651h'\""}
+{"id": "sample_489", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_490", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_491", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[4, 8, 8, 5, 5, 5, 5, 8, 8, 8, 8, 4, 4, 4, 4]'"}
+{"id": "sample_492", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_493", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_494", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_495", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_496", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_497", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['4', '4', '+']\""}
+{"id": "sample_498", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_499", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'......magazine........'\""}
+{"id": "sample_500", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'dsj osq wi'\""}
+{"id": "sample_501", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'jqjf ijm'\""}
+{"id": "sample_502", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_503", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_504", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_505", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'209'\""}
+{"id": "sample_506", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_507", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_508", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_509", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_510", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'ii5p'\""}
+{"id": "sample_511", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_512", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_513", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[2]'"}
+{"id": "sample_514", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'stew corn and beans in soup .'\""}
+{"id": "sample_515", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_516", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['condor']\""}
+{"id": "sample_517", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'SzHjifn'\""}
+{"id": "sample_518", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_519", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_520", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_521", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[0, 9, 77, 2, 5, 77, 4, 0, 43]'"}
+{"id": "sample_522", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_523", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_524", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{2: 0, 4: 1, 3: 2, 1: 3, 5: 4}'"}
+{"id": "sample_525", "official_pass": false, "official_status": "fail", "detail": "[value] answer='(3, 7)'"}
+{"id": "sample_526", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'ekwiesrpg'\""}
+{"id": "sample_527", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_528", "official_pass": false, "official_status": "fail", "detail": "[value] answer='0'"}
+{"id": "sample_529", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_530", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_531", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"Ibaskdjgblw asdl \"'"}
+{"id": "sample_532", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_533", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_534", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_535", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_536", "official_pass": false, "official_status": "fail", "detail": "[value] answer='6'"}
+{"id": "sample_537", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_538", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_539", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[]'"}
+{"id": "sample_540", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_541", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_542", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_543", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'.,,,,,., \u0645\u0646\u0628\u062a'\""}
+{"id": "sample_544", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'        tab tab tabulates'\""}
+{"id": "sample_545", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[8, 2, -9, 8]'"}
+{"id": "sample_546", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_547", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_548", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_549", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_550", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 1, 4, 4, 16, 16]'"}
+{"id": "sample_551", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['a', 'b', 'c', 'd', 'inf']\""}
+{"id": "sample_552", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_553", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'439m2670hlsw'\""}
+{"id": "sample_554", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_555", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_556", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'\\\\n\\\\n\\\\t\\\\tz\\\\td\\\\ng\\\\n\\\\t\\\\t\\\\te'\""}
+{"id": "sample_557", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_558", "official_pass": false, "official_status": "fail", "detail": "[value] answer='True'"}
+{"id": "sample_559", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"first._second_third\"'"}
+{"id": "sample_560", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_561", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_562", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_563", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_564", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_565", "official_pass": false, "official_status": "fail", "detail": "[value] answer='10'"}
+{"id": "sample_566", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_567", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_568", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'bwmmh'\""}
+{"id": "sample_569", "official_pass": false, "official_status": "fail", "detail": "[value] answer='5'"}
+{"id": "sample_570", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 2, 2]'"}
+{"id": "sample_571", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'a   b'\""}
+{"id": "sample_572", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[(1, 9), (2, 10), (3, 1)]'"}
+{"id": "sample_573", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_574", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'George'\""}
+{"id": "sample_575", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_576", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['x', -2, -1, -6, -1]\""}
+{"id": "sample_577", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_578", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_579", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_580", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[0, 2]'"}
+{"id": "sample_581", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'aksXoon'\""}
+{"id": "sample_582", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_583", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_584", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_585", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_586", "official_pass": false, "official_status": "fail", "detail": "[value] answer='1'"}
+{"id": "sample_587", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_588", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_589", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_590", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"   $\"'"}
+{"id": "sample_591", "official_pass": false, "official_status": "fail", "detail": "[value] answer='([0, 0, 0, 1, 1, 0, 1, 1, 1], [3, 4, 6, 7, 8])'"}
+{"id": "sample_592", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_593", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_594", "official_pass": false, "official_status": "fail", "detail": "[value] answer='15'"}
+{"id": "sample_595", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_596", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['9', '8', '7', '4', '3', '2']\""}
+{"id": "sample_597", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_598", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'abc'\""}
+{"id": "sample_599", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['a', 'b', 'c', 'b', 'c', 'c']\""}
+{"id": "sample_600", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_601", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'c c c c c h h h h h a a a a a r r r r r p p p p p'\""}
+{"id": "sample_602", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_603", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_604", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_605", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_606", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_607", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_608", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_609", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_610", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{1: 3, 2: 3}'"}
+{"id": "sample_611", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_612", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_613", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'eat!'\""}
+{"id": "sample_614", "official_pass": false, "official_status": "fail", "detail": "[value] answer='2'"}
+{"id": "sample_615", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_616", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'\\\\n\\\\n[y]\\\\n'\""}
+{"id": "sample_617", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_618", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'889'\""}
+{"id": "sample_619", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_620", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"3 ihoxmqdn a dna trel\"'"}
+{"id": "sample_621", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_622", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'galgu'\""}
+{"id": "sample_623", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'hi'\""}
+{"id": "sample_624", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'llomnrpc'\""}
+{"id": "sample_625", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_626", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'bababa'\""}
+{"id": "sample_627", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[7, -5]'"}
+{"id": "sample_628", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_629", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_630", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{1: 0, 0: 1, 2: 1, 3: 0}'"}
+{"id": "sample_631", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'*********a*********'\""}
+{"id": "sample_632", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_633", "official_pass": false, "official_status": "fail", "detail": "[value] answer='3'"}
+{"id": "sample_634", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_635", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_636", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_637", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_638", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'a'\""}
+{"id": "sample_639", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"yes yes no \"'"}
+{"id": "sample_640", "official_pass": false, "official_status": "fail", "detail": "[value] answer='15'"}
+{"id": "sample_641", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_642", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_643", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_644", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 6]'"}
+{"id": "sample_645", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_646", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'YzS , ,cBa'\""}
+{"id": "sample_647", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['/alcm@ an)t//eprw)/e!/d\\\\nujv']\""}
+{"id": "sample_648", "official_pass": false, "official_status": "fail", "detail": "[value] answer='4'"}
+{"id": "sample_649", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_650", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_651", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_652", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_653", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_654", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_655", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_656", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_657", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_658", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_659", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_660", "official_pass": false, "official_status": "fail", "detail": "[value] answer='12'"}
+{"id": "sample_661", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'elrts,SS ee'\""}
+{"id": "sample_662", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_663", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_664", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_665", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"acbced\"'"}
+{"id": "sample_666", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_667", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_668", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'ehellomyfriendar'\""}
+{"id": "sample_669", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_670", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_671", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"ewriyat emf rwto segya\"'"}
+{"id": "sample_672", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_673", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"Ca\"'"}
+{"id": "sample_674", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_675", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_676", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_677", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'Igot1'\""}
+{"id": "sample_678", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_679", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_680", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_681", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_682", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'hy_hy_hy'\""}
+{"id": "sample_683", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_684", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_685", "official_pass": false, "official_status": "fail", "detail": "[value] answer='-1'"}
+{"id": "sample_686", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_687", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'j:u:g: :n:z:u:f:E:rjug nzufe'\""}
+{"id": "sample_688", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_689", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_690", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_691", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'rpyttc'\""}
+{"id": "sample_692", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_693", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x\""}
+{"id": "sample_694", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_695", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_696", "official_pass": false, "official_status": "fail", "detail": "[value] answer='2'"}
+{"id": "sample_697", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"('not it', '', '')\""}
+{"id": "sample_698", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'(((((((((((d))))))))).((((('\""}
+{"id": "sample_699", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_700", "official_pass": false, "official_status": "fail", "detail": "[value] answer='25'"}
+{"id": "sample_701", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_702", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[0, -5, -4]'"}
+{"id": "sample_703", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'v2sg'\""}
+{"id": "sample_704", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_705", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['Somewhere Sydney', 'Somewhere Hong Kong', 'Somewhere Melbourne', 'Somewhere Sao Paolo', 'Somewhere Istanbul', 'Somewhe\""}
+{"id": "sample_706", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_707", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'ndbs l'\""}
+{"id": "sample_708", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_709", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_710", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_711", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'apples\\\\t\\\\tpears\\\\t\\\\tbananas'\""}
+{"id": "sample_712", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_713", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_714", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_715", "official_pass": false, "official_status": "fail", "detail": "[value] answer='True'"}
+{"id": "sample_716", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_717", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"timetable, 2mil\"'"}
+{"id": "sample_718", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_719", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"if (x) { y = 1;} else { z = 1;}\"'"}
+{"id": "sample_720", "official_pass": false, "official_status": "fail", "detail": "[value] answer='25'"}
+{"id": "sample_721", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_722", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"',WpzPPPDL/'\""}
+{"id": "sample_723", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['dga nqdk ull qcha kl']\""}
+{"id": "sample_724", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[3, 3, 3]'"}
+{"id": "sample_725", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_726", "official_pass": false, "official_status": "fail", "detail": "[value] answer='(2, 36)'"}
+{"id": "sample_727", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_728", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_729", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[8, 2]'"}
+{"id": "sample_730", "official_pass": false, "official_status": "fail", "detail": "[value] answer='3'"}
+{"id": "sample_731", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'Chris requires  ride to the iport on Friday.'\""}
+{"id": "sample_732", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_733", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_734", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_735", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'Ab'\""}
+{"id": "sample_736", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'pi chiwa'\""}
+{"id": "sample_737", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_738", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"r;r;r;r;r;r;r;r;r\"'"}
+{"id": "sample_739", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_740", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_741", "official_pass": false, "official_status": "fail", "detail": "[value] answer='3'"}
+{"id": "sample_742", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_743", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_744", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_745", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_746", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_747", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_748", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_749", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'l\\\\nl'\""}
+{"id": "sample_750", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_751", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"WWWWHHHTTTpp\"'"}
+{"id": "sample_752", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'zzzzzzabc'\""}
+{"id": "sample_753", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_754", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_755", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_756", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_757", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_758", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_759", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_760", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_761", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_762", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'this And cpanel'\""}
+{"id": "sample_763", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'yCxpg2C2Pny2'\""}
+{"id": "sample_764", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_765", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_766", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_767", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_768", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'abba'\""}
+{"id": "sample_769", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_770", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'$$$$$78$$$$$'\""}
+{"id": "sample_771", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_772", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'DFdbcA.'\""}
+{"id": "sample_773", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_774", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_775", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_776", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_777", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_778", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'mjqwmjsqjwisojqwiso'\""}
+{"id": "sample_779", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'pythony, rubyx, c, javascriptp'\""}
+{"id": "sample_780", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'2 5'\""}
+{"id": "sample_781", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_782", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_783", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_784", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_785", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'1  '\""}
+{"id": "sample_786", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_787", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_788", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_789", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_790", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_791", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_792", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_793", "official_pass": false, "official_status": "fail", "detail": "[value] answer='4'"}
+{"id": "sample_794", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_795", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_796", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_797", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_798", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_799", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'nnnnnneqe-;ew22'\""}

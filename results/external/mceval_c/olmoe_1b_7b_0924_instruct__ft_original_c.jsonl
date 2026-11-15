@@ -1,0 +1,50 @@
+{"id": "C/1", "official_pass": false, "official_status": "compile_failed", "detail": "path=fence exit=None <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_c/tmp/1.c: In function ‘main’:\n<evaluator>"}
+{"id": "C/2", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/3", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_c/tmp/3.c:51: main: Assertion `strcmp(calculate_functi"}
+{"id": "C/4", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_c/tmp/4.c:36: main: Assertion `max == 3 && min == 1' f"}
+{"id": "C/5", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/6", "official_pass": false, "official_status": "compile_failed", "detail": "path=fence exit=None error: ld returned 1 exit status"}
+{"id": "C/7", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/8", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 double free or corruption (out)"}
+{"id": "C/9", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_c/tmp/9.c:32: main: Assertion `count_odd_numbers(4, 2,"}
+{"id": "C/10", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/11", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: redefinition of ‘are_intervals_intersecting’"}
+{"id": "C/12", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_c/tmp/12.c:51: main: Assertion `extraNumber(2, 7, 2) ="}
+{"id": "C/13", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/14", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_c/tmp/14.c:50: main: Assertion `decode_numbers(\"0000\")"}
+{"id": "C/15", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_c/tmp/15.c:52: main: Assertion `count_coloring_methods"}
+{"id": "C/16", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_c/tmp/16.c:28: main: Assertion `count_valid_coin_toss_"}
+{"id": "C/17", "official_pass": false, "official_status": "compile_failed", "detail": "path=fence exit=None _length'\n/usr/bin/ld: 17.c:(.text+0xa4): undefined reference to `find_longest_consecutive_ones_length'\n/usr/bin/ld: 17.c:(.text+0xd7): undefined reference to `f"}
+{"id": "C/18", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_c/tmp/18.c:43: main: Assertion `strcmp(id, \"ftiasch\") "}
+{"id": "C/19", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_c/tmp/19.c:124: main: Assertion `count_permutations_of"}
+{"id": "C/20", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_c/tmp/20.c:50: main: Assertion `strcmp(answer_question"}
+{"id": "C/21", "official_pass": false, "official_status": "compile_failed", "detail": "path=fence exit=None error: ‘n’ undeclared (first use in this function)"}
+{"id": "C/22", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: ‘a’ undeclared (first use in this function)"}
+{"id": "C/23", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None error: stray ‘`’ in program"}
+{"id": "C/24", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/25", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_c/tmp/25.c:35: main: Assertion `strcmp(shift_character"}
+{"id": "C/26", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_c/tmp/26.c:45: main: Assertion `classify_integer(\"24\")"}
+{"id": "C/27", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/28", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/29", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_c/tmp/29.c:38: main: Assertion `evaluate_integer_grade"}
+{"id": "C/30", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_c/tmp/30.c:40: main: Assertion `strcmp(check_two_equal"}
+{"id": "C/31", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-11 "}
+{"id": "C/32", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_c/tmp/32.c:27: main: Assertion `apocalypseYear(6, (int"}
+{"id": "C/33", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_c/tmp/33.c:45: main: Assertion `newModuloFactorial(3, "}
+{"id": "C/34", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None error: stray ‘`’ in program"}
+{"id": "C/35", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_c/tmp/35.c:67: main: Assertion `gameWinner(3, test1) ="}
+{"id": "C/36", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None error: stray ‘`’ in program"}
+{"id": "C/37", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_c/tmp/37.c:32: main: Assertion `countHandshakes(4, or1"}
+{"id": "C/38", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None error: stray ‘`’ in program"}
+{"id": "C/39", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_c/tmp/39.c:39: main: Assertion `sumOfXorSubarrays(test"}
+{"id": "C/40", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_c/tmp/40.c:34: main: Assertion `countPowerNumbers(99, "}
+{"id": "C/41", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_c/tmp/41.c:28: main: Assertion `countBalancedSubsequen"}
+{"id": "C/42", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: redefinition of ‘expectedCutsAfterCuttingAfterCuttingAfterCuttingAfterCuttingAfterCutting’"}
+{"id": "C/43", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: variable-sized object may not be initialized"}
+{"id": "C/44", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: redefinition of ‘generateRandomArray’"}
+{"id": "C/45", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: ‘OperationSet {aka struct <anonymous>}’ has no member named ‘color’"}
+{"id": "C/46", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/47", "official_pass": false, "official_status": "compile_failed", "detail": "path=fence exit=None error: redefinition of ‘isPalindrome’"}
+{"id": "C/48", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_c/tmp/48.c:27: main: Assertion `addDigits(38) == 2' fa"}
+{"id": "C/49", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_c/tmp/49.c:28: main: Assertion `canWinNim(1) == true' "}
+{"id": "C/50", "official_pass": false, "official_status": "compile_failed", "detail": "path=fence exit=None error: called object ‘sum’ is not a function or function pointer"}

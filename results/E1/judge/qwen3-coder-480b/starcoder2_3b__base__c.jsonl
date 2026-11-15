@@ -1,0 +1,300 @@
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-000091"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-000122"}
+{"a": 3, "b": 3, "c": 3, "d": 3, "why": "The program correctly toggles GPIO 2 every 5 seconds, handles interrupts cleanly, uses libgpiod properly, and exits cleanly with proper resource release.", "total12": 12, "id": "c2-000147"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided - cannot evaluate any dimension", "total12": 0, "id": "c2-000217"}
+{"a": 2, "b": 0, "c": 1, "d": 2, "why": "The program partially meets the task but fails to correctly interact with the MLX90614 hardware, lacks proper error handling for device absence, yet uses modern libraries and structure.", "total12": 5, "id": "c2-000330"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided, so no functionality can be evaluated.", "total12": 0, "id": "c2-000392"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided to evaluate - only compilation and execution commands shown without the actual program implementation.", "total12": 0, "id": "c2-000489"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-000498"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the requirements can be met.", "total12": 0, "id": "c2-000571"}
+{"a": 3, "b": 3, "c": 3, "d": 3, "why": "The program fully complies with the task, correctly uses libgpiod for hardware interfacing, handles faults cleanly including exit on interrupt, and employs modern idiomatic C practices.", "total12": 12, "id": "c2-000754"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program is incomplete and does not implement any functionality to sample the ADC, handle errors, or manage hardware resources.", "total12": 0, "id": "c2-000775"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-000910"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program does not control GPIO 18, does not use libgpiod, does not report state, does not cycle correctly, and does not handle errors or exit cleanly.", "total12": 0, "id": "c2-001409"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program does not perform any I2C communication with the ADS1115, incorrectly uses wiringPi instead of linux-i2c-dev, fails to sample an analog channel, and does not handle hardware release or interrupts.", "total12": 0, "id": "c2-001509"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided to evaluate - only compilation and execution commands shown without the actual program source.", "total12": 0, "id": "c2-001544"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program fails to open the GPIO device and does not perform any of the required tasks, indicating fundamental issues with task compliance, hardware semantics, fault handling, and modern idiom.", "total12": 0, "id": "c2-001563"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program does not control GPIO 17 as required, shows no hardware interaction, lacks fault handling, and uses no modern idioms.", "total12": 0, "id": "c2-001618"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-001609"}
+{"a": 3, "b": 3, "c": 3, "d": 3, "why": "The program correctly toggles GPIO 17 every 0.1 seconds, reports state, handles interrupts cleanly, uses libgpiod properly, and exits gracefully.", "total12": 12, "id": "c2-001630"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-001634"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided to evaluate - only compilation and execution commands shown without the actual program implementation.", "total12": 0, "id": "c2-001701"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program does not use libgpiod, does not control GPIO 4 and 18, does not handle errors or clean shutdown, and does not follow modern idioms.", "total12": 0, "id": "c2-001783"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-001825"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided; cannot evaluate task compliance, hardware semantics, fault handling, or modern idioms.", "total12": 0, "id": "c2-001842"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided, so cannot evaluate any dimension.", "total12": 0, "id": "c2-001837"}
+{"a": 1, "b": 0, "c": 0, "d": 1, "why": "Program runs but fails to read ADC values correctly, does not handle device absence, and lacks proper hardware initialization and cleanup.", "total12": 2, "id": "c2-002018"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-002147"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided; cannot evaluate any dimension.", "total12": 0, "id": "c2-002364"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-002389"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided; cannot evaluate any dimension.", "total12": 0, "id": "c2-002441"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program does not control GPIO 2 as required, shows no evidence of using libgpiod, and fails to meet any of the task's functional or quality criteria.", "total12": 0, "id": "c2-002529"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-002530"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-002557"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-002610"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-002634"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided to evaluate - cannot assess any dimension without the actual program implementation.", "total12": 0, "id": "c2-002674"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-002767"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided - cannot evaluate any dimension", "total12": 0, "id": "c2-002884"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided to evaluate - only compilation and execution commands shown without the actual program source.", "total12": 0, "id": "c2-002903"}
+{"a": 3, "b": 3, "c": 3, "d": 3, "why": "The program fully complies with the task, correctly uses libgpiod for hardware interaction, handles faults cleanly including device absence and clean shutdown, and employs modern idiomatic C practices.", "total12": 12, "id": "c2-002968"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-003090"}
+{"a": 2, "b": 1, "c": 1, "d": 2, "why": "The program partially meets the task but uses incorrect device path and lacks proper interrupt handling; it demonstrates basic UART configuration and modern C idioms but misses error reporting and clean shutdown on interrupt.", "total12": 6, "id": "c2-003111"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided - cannot evaluate any dimension", "total12": 0, "id": "c2-003155"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-003210"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided to evaluate - cannot assess any dimension without the actual program implementation.", "total12": 0, "id": "c2-003360"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-003365"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program fails to open the GPIO chip and does not perform any of the required tasks, indicating fundamental issues with task compliance, hardware semantics, fault handling, and modern idiom.", "total12": 0, "id": "c2-003410"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the criteria can be evaluated.", "total12": 0, "id": "c2-003534"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program is incomplete and does not implement any functionality related to GPIO control or the specified task.", "total12": 0, "id": "c2-003541"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements could be evaluated.", "total12": 0, "id": "c2-003657"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-003672"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-003696"}
+{"a": 3, "b": 3, "c": 3, "d": 3, "why": "The program correctly toggles GPIO 17 every 0.5 seconds, reports state, handles interrupts cleanly, uses libgpiod properly, and exits gracefully.", "total12": 12, "id": "c2-003729"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program is incomplete and does not implement any GPIO control using libgpiod as required.", "total12": 0, "id": "c2-003760"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program does not interface with the DHT11 sensor, fails to report meaningful data, and lacks any error handling or hardware interaction.", "total12": 0, "id": "c2-003855"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program is incomplete and does not implement any functionality related to controlling GPIO pins or reporting their states.", "total12": 0, "id": "c2-003842"}
+{"a": 2, "b": 3, "c": 1, "d": 3, "why": "The program controls both GPIO pins as requested and uses libgpiod correctly, but fails to handle interrupts for clean shutdown and only controls one of the two specified pins in the loop.", "total12": 9, "id": "c2-003880"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided to evaluate - cannot assess any dimension without the actual program implementation.", "total12": 0, "id": "c2-003888"}
+{"a": 2, "b": 3, "c": 1, "d": 3, "why": "Program correctly uses libgpiod for GPIO 2 and 3 control with proper BCM numbering and clean exit, but lacks interrupt handling and comprehensive error checking.", "total12": 9, "id": "c2-003861"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided - cannot evaluate any dimension", "total12": 0, "id": "c2-004002"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided, so no assessment can be made on any dimension.", "total12": 0, "id": "c2-003952"}
+{"a": 3, "b": 3, "c": 3, "d": 3, "why": "The program correctly toggles GPIO 2 as required, uses libgpiod properly, handles errors and cleanup, and follows modern C idioms.", "total12": 12, "id": "c2-004022"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the requirements can be evaluated.", "total12": 0, "id": "c2-005097"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program does not control GPIO 18, does not use libgpiod, does not cycle outputs, does not report state, does not handle interrupts, and does not release hardware; it only prints '1' repeatedly.", "total12": 0, "id": "c2-005095"}
+{"a": 3, "b": 3, "c": 3, "d": 3, "why": "The program correctly controls the specified GPIO pins using libgpiod, handles errors for absent devices, releases hardware resources on exit including interrupt, and uses modern idiomatic C practices with proper library usage.", "total12": 12, "id": "c2-005198"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided; cannot evaluate any dimension.", "total12": 0, "id": "c2-005215"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided, so cannot evaluate any dimension.", "total12": 0, "id": "c2-005257"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided to evaluate - cannot assess any dimension without the actual program implementation.", "total12": 0, "id": "c2-005372"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-005417"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided; cannot evaluate any dimension.", "total12": 0, "id": "c2-005528"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program is incomplete, uses incorrect GPIO library (ioctl instead of libgpiod), and fails to implement any required functionality or error handling.", "total12": 0, "id": "c2-005623"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided, so no functionality can be evaluated.", "total12": 0, "id": "c2-005740"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-005755"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-005779"}
+{"a": 2, "b": 3, "c": 1, "d": 2, "why": "The program adequately performs the task but has critical fault handling issues, uses correct hardware semantics, and employs mostly modern idioms with some outdated practices.", "total12": 8, "id": "c2-005846"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-005936"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-006045"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program is incomplete and filled with nonsensical repeated code, failing to implement any functional GPIO control or meet the task requirements.", "total12": 0, "id": "c2-006060"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-006196"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-006380"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided to evaluate - only compilation and execution commands shown without the actual program source.", "total12": 0, "id": "c2-006594"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-006642"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so there is no implementation to evaluate against the task requirements.", "total12": 0, "id": "c2-006668"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program does not use libgpiod to control GPIO 2 and 3 as required, instead it appears to read from an I2C device at address 0x44 and output alternating 0s and 1s without any actual GPIO manipulation or proper error handling.", "total12": 0, "id": "c2-006837"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-006887"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-006921"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided; cannot assess task compliance, hardware semantics, fault handling, or modern idioms.", "total12": 0, "id": "c2-006912"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-007091"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program does not implement any functionality related to PWM control on the specified GPIO pins, nor does it include any code for hardware interaction, fault handling, or modern idioms.", "total12": 0, "id": "c2-007196"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided to evaluate - only compilation and execution commands shown without the actual program source.", "total12": 0, "id": "c2-007302"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided, so no assessment can be made.", "total12": 0, "id": "c2-007303"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so there is no basis to evaluate task compliance, hardware semantics, fault handling, or modern idioms.", "total12": 0, "id": "c2-007308"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-007370"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided to evaluate - cannot assess any dimension", "total12": 0, "id": "c2-007389"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so there is no basis to evaluate task compliance, hardware semantics, fault handling, or modern idioms.", "total12": 0, "id": "c2-007405"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided to evaluate - cannot assess any dimension without the actual program implementation.", "total12": 0, "id": "c2-007501"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided to evaluate - only compilation and execution commands shown without the actual program source.", "total12": 0, "id": "c2-007550"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided - cannot evaluate any dimension", "total12": 0, "id": "c2-007566"}
+{"a": 1, "b": 0, "c": 0, "d": 0, "why": "Program runs and outputs something but doesn't control GPIOs as requested, missing libgpiod implementation entirely.", "total12": 1, "id": "c2-007590"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program does not interface with the DHT22 sensor, does not use libgpiod, does not read GPIO pins, and simply prints a static list of numbers, failing all task requirements.", "total12": 0, "id": "c2-007615"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the requirements can be evaluated.", "total12": 0, "id": "c2-007643"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided, cannot evaluate any dimension.", "total12": 0, "id": "c2-007677"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-007713"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-007850"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided to evaluate - only compilation and execution commands shown without the actual program source.", "total12": 0, "id": "c2-007876"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the requirements can be evaluated.", "total12": 0, "id": "c2-007866"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided to evaluate - only compilation and execution commands shown without the actual program source.", "total12": 0, "id": "c2-007932"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program does not implement any I2C communication, hardware interaction, or fault handling; it only prints a static list of zero values, failing all task requirements.", "total12": 0, "id": "c2-007919"}
+{"a": 3, "b": 3, "c": 3, "d": 3, "why": "The program fully complies with the task, correctly uses libgpiod for GPIO control, handles hardware release on exit including interrupts, and employs modern idiomatic C code without deprecated APIs.", "total12": 12, "id": "c2-007986"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program is incomplete and does not implement any functionality to capture an image or interact with the Raspberry Pi camera module.", "total12": 0, "id": "c2-008001"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-008037"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program is incomplete and does not implement any functionality related to the SSD1306 display or hardware interaction.", "total12": 0, "id": "c2-007971"}
+{"a": 3, "b": 3, "c": 2, "d": 3, "why": "Program correctly controls specified GPIOs with proper libgpiod usage and clean exit, but lacks explicit error handling for device absence and doesn't show interrupt signal handling in the provided output.", "total12": 11, "id": "c2-008038"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided, so no assessment can be made.", "total12": 0, "id": "c2-008074"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided - cannot evaluate any dimension", "total12": 0, "id": "c2-008129"}
+{"a": 1, "b": 0, "c": 1, "d": 2, "why": "The program fails to properly control an LED strip on GPIO 18 using pigpio, does not implement the required timing or interrupt handling, but uses pigpio correctly for basic GPIO output and includes some error checking.", "total12": 4, "id": "c2-008143"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program does not control GPIO 17 or 27, does not use libgpiod, does not handle errors, and does not release hardware resources.", "total12": 0, "id": "c2-008205"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-008320"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program is incomplete and does not implement any functionality related to controlling GPIOs using libgpiod, nor does it handle errors or release hardware resources.", "total12": 0, "id": "c2-008348"}
+{"a": 2, "b": 3, "c": 2, "d": 3, "why": "The program captures images and handles cleanup but fails to properly check for device absence at startup; it uses correct V4L2 semantics and modern C idioms with good error handling, though the exit handler has minor issues with buffer requeuing.", "total12": 10, "id": "c2-008362"}
+{"a": 3, "b": 3, "c": 3, "d": 3, "why": "The program correctly implements all task requirements, uses proper I2C communication with the BME280 at address 0x76, handles errors gracefully, and follows modern C programming practices.", "total12": 12, "id": "c2-008403"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program does not implement any functionality related to the ADS1115 or I2C communication, and fails to meet any of the task requirements.", "total12": 0, "id": "c2-008475"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-008552"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program does not read from the MPU6050 sensor, uses no I2C communication, and fails to meet any of the task requirements beyond printing zeros to stdout.", "total12": 0, "id": "c2-008588"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "Program fails to compile or run successfully, showing only an error message about GPIO 23 unavailability without demonstrating core functionality", "total12": 0, "id": "c2-008580"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program is incomplete and does not implement any functionality to display readings or handle hardware interaction.", "total12": 0, "id": "c2-008630"}
+{"a": 2, "b": 1, "c": 1, "d": 3, "why": "The program partially meets the task but has critical flaws in hardware communication and error handling, though it uses modern idioms and structure.", "total12": 7, "id": "c2-008753"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program does not control GPIO 14 and 15 as required, instead it just prints '1' repeatedly without any hardware interaction or libgpiod usage.", "total12": 0, "id": "c2-008757"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program is incomplete and does not implement any functionality related to reading sensors, publishing MQTT messages, or handling interrupts.", "total12": 0, "id": "c2-008853"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided to evaluate - only compilation and execution commands shown", "total12": 0, "id": "c2-008907"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided - cannot evaluate any dimension", "total12": 0, "id": "c2-008901"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-008908"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so it is impossible to evaluate any dimension.", "total12": 0, "id": "c2-008994"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided to evaluate - only compilation and execution commands shown without the actual program implementation.", "total12": 0, "id": "c2-009118"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program is incomplete and does not implement any functionality related to the task.", "total12": 0, "id": "c2-009024"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-009215"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program is incomplete and does not implement the required functionality for interfacing with the HC-SR04 sensor using libgpiod.", "total12": 0, "id": "c2-009177"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided, so no implementation can be evaluated.", "total12": 0, "id": "c2-009234"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program is incomplete and does not implement any functionality related to the task.", "total12": 0, "id": "c2-009190"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided - cannot evaluate any dimension", "total12": 0, "id": "c2-009288"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so it is impossible to evaluate any dimension.", "total12": 0, "id": "c2-009284"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-009360"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so it is impossible to evaluate any dimension.", "total12": 0, "id": "c2-009432"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program does not use libgpiod, does not control GPIO 22, does not handle errors or interrupts, and does not follow modern idioms.", "total12": 0, "id": "c2-009505"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "Program uses pigpio library instead of termios for UART communication as required, and doesn't implement serial port data exchange or proper resource cleanup.", "total12": 0, "id": "c2-009557"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program does not read from the MPU6050 sensor, uses no I2C communication, and fails to meet any of the task requirements beyond printing zeros to stdout.", "total12": 0, "id": "c2-009579"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so there is no implementation to evaluate against the task requirements or hardware constraints.", "total12": 0, "id": "c2-009587"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided; cannot assess any dimension.", "total12": 0, "id": "c2-009639"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program is incomplete and does not implement any functionality related to controlling GPIO pins using libgpiod as required by the task.", "total12": 0, "id": "c2-009714"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided - cannot evaluate any dimension", "total12": 0, "id": "c2-009772"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-009823"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so there is no basis to evaluate task compliance, hardware semantics, fault handling, or modern idioms.", "total12": 0, "id": "c2-009894"}
+{"a": 2, "b": 3, "c": 2, "d": 3, "why": "The program captures images and handles cleanup but fails to save each image with a unique name, and the error handling for device absence is present but not explicitly tested.", "total12": 10, "id": "c2-010031"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program is incomplete and does not implement any functionality to capture an image or interact with the Raspberry Pi camera module.", "total12": 0, "id": "c2-009968"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-010082"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-010262"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the requirements can be met.", "total12": 0, "id": "c2-010260"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program does not implement any serial communication, hardware interaction, or proper structure, and instead outputs an excessive amount of zeros, failing all task requirements.", "total12": 0, "id": "c2-010353"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-010301"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided; cannot evaluate any dimension.", "total12": 0, "id": "c2-010361"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-010350"}
+{"a": 2, "b": 0, "c": 1, "d": 2, "why": "Program sets PWM correctly on specified pins and reports output, but uses incorrect hardware interface (MAX31855 is a thermocouple reader, not PWM output), has basic cleanup but no error handling, uses pigpio library appropriately.", "total12": 5, "id": "c2-010444"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the requirements can be evaluated.", "total12": 0, "id": "c2-010562"}
+{"a": 3, "b": 3, "c": 3, "d": 3, "why": "Program correctly interfaces with DHT22 on GPIO 4 using libgpiod, handles errors gracefully, and follows modern C programming practices.", "total12": 12, "id": "c2-010567"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the requirements can be evaluated.", "total12": 0, "id": "c2-010639"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The provided text is not a C program and does not implement any of the required functionality.", "total12": 0, "id": "c2-010689"}
+{"a": 2, "b": 1, "c": 2, "d": 1, "why": "The program partially complies with the task but lacks proper error handling for device absence and uses outdated V4L2 practices without leveraging modern libraries or idioms.", "total12": 6, "id": "c2-010843"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided to evaluate - only compilation and output commands shown without actual source code content.", "total12": 0, "id": "c2-010854"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided, so no evaluation can be made.", "total12": 0, "id": "c2-010857"}
+{"a": 3, "b": 3, "c": 3, "d": 3, "why": "The program correctly toggles GPIO 17 every 5 seconds, handles interrupts cleanly, checks for device presence, and uses modern libgpiod API.", "total12": 12, "id": "c2-010925"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided to evaluate - only compilation and execution commands are shown without the actual C program implementation.", "total12": 0, "id": "c2-010961"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program fails to initialize and control GPIO 17, showing only repeated error messages without any functional hardware interaction or proper resource management.", "total12": 0, "id": "c2-011002"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-010941"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program is incomplete and does not implement any GPIO control or libgpiod usage as required by the task.", "total12": 0, "id": "c2-011046"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-011079"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-011075"}
+{"a": 3, "b": 3, "c": 3, "d": 3, "why": "The program correctly toggles GPIO pins 10 and 11 using libgpiod, properly releases hardware resources on exit including interrupts, handles errors gracefully, and uses modern idiomatic C code with proper library usage.", "total12": 12, "id": "c2-011113"}
+{"a": 1, "b": 1, "c": 2, "d": 3, "why": "The program partially meets task requirements by controlling one GPIO pin instead of the specified three (17, 18, 24), uses correct libgpiod idioms and error handling for a single pin, but fails to fully comply with the multi-pin task and does not handle interrupts for clean shutdown.", "total12": 7, "id": "c2-011201"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided - cannot evaluate any dimension", "total12": 0, "id": "c2-011255"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program does not implement any functionality related to PWM on the specified GPIO pins, instead outputting a constant value repeatedly, and fails to initialize or control hardware correctly.", "total12": 0, "id": "c2-011265"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program is incomplete and does not implement any functionality related to capturing images from the Raspberry Pi camera module.", "total12": 0, "id": "c2-011286"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-011398"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program is incomplete and does not implement any functionality related to the PCF8574 or HD44780 display, thus failing all criteria.", "total12": 0, "id": "c2-011450"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-011559"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-011580"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-011678"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program is incomplete and does not implement any functionality related to the HC-SR04 sensor or GPIO interaction.", "total12": 0, "id": "c2-011664"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-011687"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided - cannot evaluate any dimension", "total12": 0, "id": "c2-011735"}
+{"a": 2, "b": 3, "c": 1, "d": 3, "why": "The program correctly controls the specified GPIO pins using libgpiod and follows the timing requirements, but lacks proper error handling for line requests and does not implement interrupt-based cleanup, although it uses modern idioms and correct hardware semantics.", "total12": 9, "id": "c2-011759"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program is incomplete and does not implement any GPIO control or reporting as required by the task.", "total12": 0, "id": "c2-011758"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program is incomplete and does not implement any GPIO control or libgpiod usage as required by the task.", "total12": 0, "id": "c2-011835"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided to evaluate; cannot determine task compliance, hardware semantics, fault handling, or modern idiom.", "total12": 0, "id": "c2-011907"}
+{"a": 2, "b": 3, "c": 1, "d": 3, "why": "Program outputs correct GPIO states but lacks error handling for missing device and clean shutdown on interrupt, uses modern libgpiod library correctly with proper pin configuration.", "total12": 9, "id": "c2-011957"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided; cannot evaluate any dimension.", "total12": 0, "id": "c2-011999"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program is incomplete and does not implement any functionality related to PWM output or GPIO control.", "total12": 0, "id": "c2-012139"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the requirements can be evaluated.", "total12": 0, "id": "c2-012174"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided to evaluate - only compilation and execution commands shown without the actual program source.", "total12": 0, "id": "c2-012136"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-012277"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided, so cannot assess task compliance, hardware semantics, fault handling, or modern idioms.", "total12": 0, "id": "c2-000057"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided; cannot evaluate any dimension.", "total12": 0, "id": "c2-001776"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided - cannot evaluate any dimension", "total12": 0, "id": "c2-008526"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided - cannot evaluate any dimension", "total12": 0, "id": "c2-010401"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-012477"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the criteria can be evaluated.", "total12": 0, "id": "c2-012464"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided, so no implementation can be evaluated.", "total12": 0, "id": "c2-013038"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-016011"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so there is no basis to evaluate task compliance, hardware semantics, fault handling, or modern idioms.", "total12": 0, "id": "c2-012402"}
+{"a": 2, "b": 1, "c": 1, "d": 3, "why": "The program partially meets the task but uses incorrect GPIO operations for LED strips, handles some errors, and follows modern library usage.", "total12": 7, "id": "c2-012412"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program does not control GPIO 27, incorrectly reports output, and fails all task requirements.", "total12": 0, "id": "c2-012403"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided - cannot evaluate any dimension", "total12": 0, "id": "c2-012421"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided to evaluate - only compilation and execution commands shown without the actual program source.", "total12": 0, "id": "c2-012502"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the criteria can be evaluated.", "total12": 0, "id": "c2-012511"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program does not control GPIO 18, does not use libgpiod, does not handle interrupts, and does not release hardware resources, failing all task requirements.", "total12": 0, "id": "c2-012471"}
+{"a": 2, "b": 3, "c": 1, "d": 2, "why": "Program completes required readings but lacks proper error handling for absent device and clean shutdown on interrupt.", "total12": 8, "id": "c2-012635"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-012695"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program is incomplete and does not implement any functionality related to the HC-SR04 sensor or GPIO interface as required.", "total12": 0, "id": "c2-012633"}
+{"a": 3, "b": 3, "c": 2, "d": 3, "why": "Program correctly implements 10 cycles of GPIO 17 control with proper output format and hardware release, uses correct BCM pin 17 and libgpiod, handles basic cleanup but lacks comprehensive error handling for edge cases, follows modern libgpiod API practices.", "total12": 11, "id": "c2-012699"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-012806"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-013006"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided; cannot evaluate any dimension.", "total12": 0, "id": "c2-013109"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-013216"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program is empty and does not implement any functionality, thus failing all criteria.", "total12": 0, "id": "c2-013338"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program does not implement any functionality related to PWM control on the specified GPIO pins, fails to use pigpio, does not handle interrupts or clean shutdown, and outputs only constant values without any hardware interaction.", "total12": 0, "id": "c2-013386"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided, cannot evaluate any dimension.", "total12": 0, "id": "c2-013355"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-013460"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program is incomplete and does not implement any GPIO control or libgpiod usage as required by the task.", "total12": 0, "id": "c2-013532"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-013542"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-013531"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided - cannot evaluate any dimension", "total12": 0, "id": "c2-013605"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-013612"}
+{"a": 3, "b": 3, "c": 2, "d": 3, "why": "Program correctly controls specified GPIO pins and reports state, uses proper libgpiod API with clean structure, but lacks explicit interrupt handling for clean shutdown.", "total12": 11, "id": "c2-013655"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided to evaluate - cannot assess any dimension without the actual program implementation.", "total12": 0, "id": "c2-013683"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-013714"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided - cannot evaluate any dimension", "total12": 0, "id": "c2-013707"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided to evaluate - cannot assess any dimension without the actual program implementation.", "total12": 0, "id": "c2-013762"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the requirements can be evaluated.", "total12": 0, "id": "c2-013807"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-013818"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-013852"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program is empty and does not implement any of the required functionality for GPIO control using libgpiod.", "total12": 0, "id": "c2-013925"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the requirements can be evaluated.", "total12": 0, "id": "c2-013975"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-014092"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program is incomplete and does not implement any functionality related to controlling GPIOs or handling hardware, thus failing all criteria.", "total12": 0, "id": "c2-014174"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-014197"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program does not control GPIO 18, does not use libgpiod, does not report state, does not handle interrupts, and does not release hardware resources.", "total12": 0, "id": "c2-014334"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-014385"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program does not read from the MAX31855 sensor, fails to detect device absence, and lacks proper hardware interaction and error handling.", "total12": 0, "id": "c2-014366"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided - cannot evaluate any dimension", "total12": 0, "id": "c2-014389"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided to evaluate - only compilation and execution commands are shown without the actual source code content.", "total12": 0, "id": "c2-014425"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-014393"}
+{"a": 1, "b": 0, "c": 0, "d": 2, "why": "Program runs but fails to check device presence, uses incorrect I2C address, lacks proper error handling and cleanup, but uses modern i2c-dev interface.", "total12": 3, "id": "c2-014312"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided, so no assessment can be made.", "total12": 0, "id": "c2-014464"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program does not control GPIO 18, lacks libgpiod usage, provides no output, and fails all task requirements.", "total12": 0, "id": "c2-014495"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-014479"}
+{"a": 2, "b": 3, "c": 1, "d": 3, "why": "Program completes required readings and timing but lacks proper error handling for device absence and clean shutdown on interrupt.", "total12": 9, "id": "c2-014564"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program does not use libgpiod, does not control GPIO 17, does not handle errors or interrupts, and does not release hardware resources.", "total12": 0, "id": "c2-014653"}
+{"a": 2, "b": 1, "c": 1, "d": 1, "why": "Program reads VEML7700 sensor data and loops, but uses wiringPi (deprecated) instead of linux-i2c-dev, lacks proper I2C address handling, has minimal error handling, and doesn't ensure clean hardware release on all exit paths.", "total12": 5, "id": "c2-014643"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided - cannot evaluate any dimension", "total12": 0, "id": "c2-014956"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program is incomplete and does not implement any functionality related to the HC-SR04 sensor or GPIO interaction.", "total12": 0, "id": "c2-014973"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided - cannot evaluate any dimension", "total12": 0, "id": "c2-015046"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided, so no assessment can be made.", "total12": 0, "id": "c2-015520"}
+{"a": 3, "b": 3, "c": 2, "d": 3, "why": "The program correctly controls the specified GPIO pins using libgpiod, toggles their states as required, and exits cleanly on interrupt, but lacks explicit error handling for device absence and uses a basic polling loop without advanced idioms.", "total12": 11, "id": "c2-015582"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided to evaluate - cannot assess any dimension without the actual program implementation.", "total12": 0, "id": "c2-015580"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the requirements can be evaluated.", "total12": 0, "id": "c2-015587"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program does not control GPIO 17, does not complete exactly 5 cycles, does not release hardware on exit or interrupt, and uses no libgpiod API.", "total12": 0, "id": "c2-015726"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided, so no assessment can be made.", "total12": 0, "id": "c2-015738"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-015786"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-015837"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided; cannot evaluate any dimension.", "total12": 0, "id": "c2-015914"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-015949"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-015991"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-016015"}
+{"a": 3, "b": 3, "c": 2, "d": 3, "why": "Program meets all task requirements with correct GPIO pin usage and libgpiod implementation, handles basic hardware interaction properly but lacks comprehensive error handling for edge cases, uses modern libgpiod library correctly.", "total12": 11, "id": "c2-016165"}
+{"a": 2, "b": 3, "c": 1, "d": 3, "why": "Program runs and outputs PWM states but lacks interrupt handling and graceful shutdown, uses correct pigpio library and pin configuration.", "total12": 9, "id": "c2-016204"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided - cannot evaluate any dimension", "total12": 0, "id": "c2-016264"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program does not implement the HC-SR04 interface at all, uses incorrect GPIO pins, and includes irrelevant I2C code instead of libgpiod-based ultrasonic sensor logic.", "total12": 0, "id": "c2-016292"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so it is impossible to evaluate any dimension.", "total12": 0, "id": "c2-016356"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided; cannot evaluate task compliance, hardware semantics, fault handling, or modern idioms.", "total12": 0, "id": "c2-016170"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-016340"}
+{"a": 2, "b": 1, "c": 1, "d": 2, "why": "The program partially complies with the task but has significant issues in hardware semantics and fault handling, though it uses modern libgpiod idioms.", "total12": 6, "id": "c2-016444"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program does not use libgpiod, does not control GPIO 18, does not handle interrupts or exit cleanly, and does not check for hardware absence.", "total12": 0, "id": "c2-016441"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided, so no assessment can be made.", "total12": 0, "id": "c2-016476"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-016493"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided to evaluate - only compilation and execution commands shown without the actual program source.", "total12": 0, "id": "c2-016499"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program does not control GPIO 18, lacks libgpiod usage, provides no error handling, and outputs only hardcoded values instead of actual pin states.", "total12": 0, "id": "c2-016490"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided to evaluate - only compilation and execution commands shown without the actual program source.", "total12": 0, "id": "c2-016538"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so it is impossible to evaluate any dimension.", "total12": 0, "id": "c2-016576"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so it is impossible to evaluate any dimension.", "total12": 0, "id": "c2-016564"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided, so cannot evaluate any dimension.", "total12": 0, "id": "c2-016610"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided, so no evaluation can be made on any dimension.", "total12": 0, "id": "c2-016626"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided - cannot evaluate any dimension", "total12": 0, "id": "c2-016646"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program does not implement any serial communication, hardware access, or error handling; it only prints a long string and does not interact with the Raspberry Pi's UART or GPIO pins as required.", "total12": 0, "id": "c2-016745"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the criteria can be evaluated.", "total12": 0, "id": "c2-016743"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "The program does not interface with the HC-SR04 ultrasonic sensor as required, instead containing irrelevant I2C code and failing to use the specified GPIO pins or libgpiod library.", "total12": 0, "id": "c2-016752"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided; cannot evaluate any dimension.", "total12": 0, "id": "c2-016736"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code was provided, so none of the task requirements can be evaluated.", "total12": 0, "id": "c2-016780"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided, so no evaluation can be made.", "total12": 0, "id": "c2-016799"}
+{"a": 3, "b": 3, "c": 2, "d": 3, "why": "Program correctly controls specified GPIOs with proper output reporting and timing, uses correct BCM pin numbers and libgpiod library, handles clean shutdown on interrupt, but lacks explicit error checking for device absence and hardware release confirmation.", "total12": 11, "id": "c2-016813"}
+{"a": 2, "b": 1, "c": 1, "d": 1, "why": "Program reads MPU6050 data periodically but uses wiringPi instead of linux-i2c-dev, lacks proper error handling for I2C operations, and doesn't demonstrate clean interrupt handling or resource cleanup.", "total12": 5, "id": "c2-016845"}
+{"a": 0, "b": 0, "c": 0, "d": 0, "why": "No code provided to evaluate - only compilation and execution commands shown without the actual program source.", "total12": 0, "id": "c2-016877"}

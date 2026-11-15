@@ -1,0 +1,50 @@
+{"id": "C/1", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__base/tmp/1.c:12: main: Assertion `strcmp(hello_mmcodeeval(), \"Hello, "}
+{"id": "C/2", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/3", "official_pass": false, "official_status": "compile_failed", "detail": "path=fence exit=None error: incompatible type for argument 1 of ‘sprintf’"}
+{"id": "C/4", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/5", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/6", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__base/tmp/6.c:40: main: Assertion `process_request(10000) == 6991' fai"}
+{"id": "C/7", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/8", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__base/tmp/8.c:25: main: Assertion `hamming_distance(1, 2) == 2' failed"}
+{"id": "C/9", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/10", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/11", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__base/tmp/11.c:28: main: Assertion `are_intervals_intersecting(1, 1, 1"}
+{"id": "C/12", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__base/tmp/12.c:58: main: Assertion `extraNumber(2, 7, 2) == 7' failed."}
+{"id": "C/13", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/14", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__base/tmp/14.c:43: main: Assertion `decode_numbers(\"0000\") == 4' faile"}
+{"id": "C/15", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__base/tmp/15.c:56: main: Assertion `count_coloring_methods(3, 3) == 6'"}
+{"id": "C/16", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/17", "official_pass": false, "official_status": "compile_failed", "detail": "path=fence exit=None error: ‘std’ undeclared (first use in this function)"}
+{"id": "C/18", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__base/tmp/18.c:48: main: Assertion `strcmp(id, \"ftiasch\") == 0' failed"}
+{"id": "C/19", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__base/tmp/19.c:33: main: Assertion `count_permutations_of_binary_strin"}
+{"id": "C/20", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-11 "}
+{"id": "C/21", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/22", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__base/tmp/22.c:37: main: Assertion `find_integers(5, 6) == 2' failed."}
+{"id": "C/23", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__base/tmp/23.c:51: main: Assertion `count_acute_triangles(4, 1, 1, 1, "}
+{"id": "C/24", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/25", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__base/tmp/25.c:41: main: Assertion `strcmp(shift_characters(test1), \"I"}
+{"id": "C/26", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__base/tmp/26.c:53: main: Assertion `classify_integer(\"39\") == 3' faile"}
+{"id": "C/27", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/28", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/29", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/30", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/31", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__base/tmp/31.c:33: main: Assertion `minRoundsToSameChar(\"abc\") == 2' f"}
+{"id": "C/32", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__base/tmp/32.c:21: main: Assertion `apocalypseYear(6, (int[]){3,2,4,5,"}
+{"id": "C/33", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__base/tmp/33.c:40: main: Assertion `newModuloFactorial(45, 7) == 1' fa"}
+{"id": "C/34", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__base/tmp/34.c:42: main: Assertion `makeEqualAgain(6, a1) == 4' failed"}
+{"id": "C/35", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__base/tmp/35.c:49: main: Assertion `gameWinner(5, test2) == \"Charlie\"'"}
+{"id": "C/36", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__base/tmp/36.c:43: main: Assertion `minTotalCost(4, costs3) == 11' fai"}
+{"id": "C/37", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__base/tmp/37.c:35: main: Assertion `countHandshakes(4, or1) == 2' fail"}
+{"id": "C/38", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__base/tmp/38.c:34: main: Assertion `maxModeSum(3, (int[]){1, 3, 2}) =="}
+{"id": "C/39", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__base/tmp/39.c:37: main: Assertion `sumOfXorSubarrays(test, 5) == 39' "}
+{"id": "C/40", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__base/tmp/40.c:27: main: Assertion `countPowerNumbers(99, 3) == 7' fai"}
+{"id": "C/41", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__base/tmp/41.c:52: main: Assertion `countBalancedSubsequences(2, 2, 2)"}
+{"id": "C/42", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__base/tmp/42.c:35: main: Assertion `expectedCuts(2, 4, 10) == 0' faile"}
+{"id": "C/43", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__base/tmp/43.c:37: main: Assertion `countPermutations(2, 1, q1) == 2' "}
+{"id": "C/44", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__base/tmp/44.c:39: main: Assertion `countTriplets(heights2, 4) == 3' f"}
+{"id": "C/45", "official_pass": false, "official_status": "compile_failed", "detail": "path=fence exit=None error: ‘INT_MAX’ undeclared (first use in this function); did you mean ‘TMP_MAX’?"}
+{"id": "C/46", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/47", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/48", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__base/tmp/48.c:20: main: Assertion `addDigits(38) == 2' failed."}
+{"id": "C/49", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__base/tmp/49.c:23: main: Assertion `canWinNim(1) == true' failed."}
+{"id": "C/50", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}

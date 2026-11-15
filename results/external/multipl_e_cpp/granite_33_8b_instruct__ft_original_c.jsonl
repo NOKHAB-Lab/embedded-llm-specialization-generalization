@@ -1,0 +1,161 @@
+{"id": "HumanEval_0_has_close_elements", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_1_separate_paren_groups", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpluv3njp8: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpluv3njp8.cpp:52: int main(): Asserti"}
+{"id": "HumanEval_2_truncate_number", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_3_below_zero", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_4_mean_absolute_deviation", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_5_intersperse", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_6_parse_nested_parens", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_7_filter_by_substring", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_8_sum_product", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_9_rolling_max", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_10_make_palindrome", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018isPalindrome\u2019 was not declared in this scope; did you mean \u2018make_palindrome\u2019?"}
+{"id": "HumanEval_11_string_xor", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_12_longest", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_13_greatest_common_divisor", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_14_all_prefixes", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_15_string_sequence", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_16_count_distinct_characters", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: no matching function for call to \u2018std::unordered_set<char, std::function<bool(char, char)> >::unordered_set(count_distinct_characters(std::string)::<lamb"}
+{"id": "HumanEval_17_parse_music", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpr8jmwl29: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpr8jmwl29.cpp:38: int main(): Asserti"}
+{"id": "HumanEval_18_how_many_times", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp2z690rry: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmp2z690rry.cpp:26: int main(): Asserti"}
+{"id": "HumanEval_19_sort_numbers", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 <evaluator>/multipl_e_cpp/toolchain/gcc11-jammy/root/usr/include/c++/11/bits/stl_vector.h:1585:33:   required from \u2018void std::v"}
+{"id": "HumanEval_20_find_closest_elements", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpwbevlp89: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpwbevlp89.cpp:35: int main(): Asserti"}
+{"id": "HumanEval_21_rescale_to_unit", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_22_filter_integers", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: no matching function for call to \u2018holds_alternative<long int>(const std::any&)\u2019"}
+{"id": "HumanEval_23_strlen", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_24_largest_divisor", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_25_factorize", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_26_remove_duplicates", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmps_xtkzvq: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmps_xtkzvq.cpp:25: int main(): Asserti"}
+{"id": "HumanEval_27_flip_case", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_28_concatenate", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_29_filter_by_prefix", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018startswith\u2019 is not a member of \u2018std\u2019"}
+{"id": "HumanEval_30_get_positive", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_31_is_prime", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_33_sort_third", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp3590_j92: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmp3590_j92.cpp:29: int main(): Asserti"}
+{"id": "HumanEval_34_unique", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_35_max_element", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_36_fizz_buzz", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: call of overloaded \u2018strchr(NULL, char)\u2019 is ambiguous"}
+{"id": "HumanEval_37_sort_even", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_39_prime_fib", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018isPrime\u2019 was not declared in this scope"}
+{"id": "HumanEval_40_triples_sum_to_zero", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpz8b2gftu: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpz8b2gftu.cpp:38: int main(): Asserti"}
+{"id": "HumanEval_41_car_race_collision", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmprkyalvbu: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmprkyalvbu.cpp:11: int main(): Asserti"}
+{"id": "HumanEval_42_incr_list", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_43_pairs_sum_to_zero", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_44_change_base", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_45_triangle_area", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_46_fib4", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp0zjt5c2z: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmp0zjt5c2z.cpp:27: int main(): Asserti"}
+{"id": "HumanEval_47_median", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp_6an_rqr: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmp_6an_rqr.cpp:19: int main(): Asserti"}
+{"id": "HumanEval_48_is_palindrome", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_49_modp", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpjfo44h2f: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpjfo44h2f.cpp:21: int main(): Asserti"}
+{"id": "HumanEval_51_remove_vowels", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_52_below_threshold", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_53_add", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_54_same_chars", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpk5llpb0n: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpk5llpb0n.cpp:35: int main(): Asserti"}
+{"id": "HumanEval_55_fib", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_56_correct_bracketing", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_57_monotonic", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_58_common", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpsx8gmhkq: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpsx8gmhkq.cpp:19: int main(): Asserti"}
+{"id": "HumanEval_59_largest_prime_factor", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_60_sum_to_n", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_61_correct_bracketing", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_62_derivative", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp4hsqr53p: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmp4hsqr53p.cpp:16: int main(): Asserti"}
+{"id": "HumanEval_63_fibfib", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_64_vowels_count", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpkhv50wp_: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpkhv50wp_.cpp:34: int main(): Asserti"}
+{"id": "HumanEval_65_circular_shift", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpb2syaecv: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpb2syaecv.cpp:23: int main(): Asserti"}
+{"id": "HumanEval_66_digitSum", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_67_fruit_distribution", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018class __gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char> >\u2019 has no member named \u2018__ptr_val\u2019"}
+{"id": "HumanEval_68_pluck", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_69_search", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_70_strange_sort_list", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 Fatal glibc error: malloc.c:2599 (sysmalloc): assertion failed: (old_top == initial_top (av) && old_size == 0) || ((unsigned long) (old_size) >= MINSIZE && prev"}
+{"id": "HumanEval_71_triangle_area", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_72_will_it_fly", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp6cy6obfl: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmp6cy6obfl.cpp:24: int main(): Asserti"}
+{"id": "HumanEval_73_smallest_change", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_74_total_match", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_75_is_multiply_prime", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: expected primary-expression before \u2018}\u2019 token"}
+{"id": "HumanEval_76_is_simple_power", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp16tdrg0w: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmp16tdrg0w.cpp:22: int main(): Asserti"}
+{"id": "HumanEval_77_iscube", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpycnccxgn: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpycnccxgn.cpp:38: int main(): Asserti"}
+{"id": "HumanEval_78_hex_key", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmphgbrbtiw: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmphgbrbtiw.cpp:48: int main(): Asserti"}
+{"id": "HumanEval_79_decimal_to_binary", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpfi6uta1f: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpfi6uta1f.cpp:31: int main(): Asserti"}
+{"id": "HumanEval_80_is_happy", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_81_numerical_letter_grade", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp1gspo9pl: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmp1gspo9pl.cpp:44: int main(): Asserti"}
+{"id": "HumanEval_82_prime_length", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_83_starts_one_ends", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpdzsjqfsh: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpdzsjqfsh.cpp:37: int main(): Asserti"}
+{"id": "HumanEval_84_solve", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpdojorvft: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpdojorvft.cpp:28: int main(): Asserti"}
+{"id": "HumanEval_85_add", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpd6rsj_wa: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpd6rsj_wa.cpp:21: int main(): Asserti"}
+{"id": "HumanEval_86_anti_shuffle", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpc9c2o6wr: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpc9c2o6wr.cpp:46: int main(): Asserti"}
+{"id": "HumanEval_87_get_row", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp6vkjx4au: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmp6vkjx4au.cpp:24: int main(): Asserti"}
+{"id": "HumanEval_88_sort_array", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-11 "}
+{"id": "HumanEval_89_encrypt", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_90_next_smallest", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_91_is_bored", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpcpq23cdy: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpcpq23cdy.cpp:33: int main(): Asserti"}
+{"id": "HumanEval_92_any_int", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpm32i6kd7: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpm32i6kd7.cpp:38: int main(): Asserti"}
+{"id": "HumanEval_93_encode", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpm4eh7bct: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpm4eh7bct.cpp:38: int main(): Asserti"}
+{"id": "HumanEval_94_skjkasdkd", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_95_check_dict_case", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmphm_yfoea: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmphm_yfoea.cpp:31: int main(): Asserti"}
+{"id": "HumanEval_96_count_up_to", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_97_multiply", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpt3sczvek: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpt3sczvek.cpp:37: int main(): Asserti"}
+{"id": "HumanEval_98_count_upper", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmprsuqhtk3: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmprsuqhtk3.cpp:25: int main(): Asserti"}
+{"id": "HumanEval_99_closest_integer", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpxzhh612m: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpxzhh612m.cpp:42: int main(): Asserti"}
+{"id": "HumanEval_100_make_a_pile", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpw2reu1ae: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpw2reu1ae.cpp:23: int main(): Asserti"}
+{"id": "HumanEval_101_words_string", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: no match for \u2018operator>>\u2019 (operand types are \u2018std::stringstream\u2019 {aka \u2018std::__cxx11::basic_stringstream<char>\u2019} and \u2018bool\u2019)"}
+{"id": "HumanEval_102_choose_num", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpgsu22dj5: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpgsu22dj5.cpp:23: int main(): Asserti"}
+{"id": "HumanEval_103_rounded_avg", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpqcqjem_q: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpqcqjem_q.cpp:35: int main(): Asserti"}
+{"id": "HumanEval_104_unique_digits", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpr7p2l_x0: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpr7p2l_x0.cpp:28: int main(): Asserti"}
+{"id": "HumanEval_105_by_length", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_106_f", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_107_even_odd_palindrome", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018is_palindrome\u2019 was not declared in this scope"}
+{"id": "HumanEval_108_count_nums", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp_c66ag13: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmp_c66ag13.cpp:31: int main(): Asserti"}
+{"id": "HumanEval_109_move_one_ball", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp6k5mt4r7: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmp6k5mt4r7.cpp:37: int main(): Asserti"}
+{"id": "HumanEval_110_exchange", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_111_histogram", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_112_reverse_delete", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_113_odd_count", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpow1rivy_: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpow1rivy_.cpp:27: int main(): Asserti"}
+{"id": "HumanEval_114_minSubArraySum", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_115_max_fill", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpssv0p5z6: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpssv0p5z6.cpp:38: int main(): Asserti"}
+{"id": "HumanEval_116_sort_array", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmphho4tgpq: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmphho4tgpq.cpp:26: int main(): Asserti"}
+{"id": "HumanEval_117_select_words", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018class __gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char> >\u2019 has no member named \u2018__iter__\u2019"}
+{"id": "HumanEval_118_get_closest_vowel", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpk2ukhxfh: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpk2ukhxfh.cpp:26: int main(): Asserti"}
+{"id": "HumanEval_119_match_parens", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: a function-definition is not allowed here before \u2018{\u2019 token"}
+{"id": "HumanEval_120_maximum", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpm7e0g48t: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpm7e0g48t.cpp:16: int main(): Asserti"}
+{"id": "HumanEval_121_solution", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_122_add_elements", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpk00l2idc: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpk00l2idc.cpp:26: int main(): Asserti"}
+{"id": "HumanEval_123_get_odd_collatz", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_124_valid_date", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmph4yy01mz: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmph4yy01mz.cpp:80: int main(): Asserti"}
+{"id": "HumanEval_125_split_words", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018Union_std_vector_std_string__long\u2019 does not name a type"}
+{"id": "HumanEval_126_is_sorted", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpeauc67_9: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpeauc67_9.cpp:31: int main(): Asserti"}
+{"id": "HumanEval_127_intersection", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpzjp3jrhw: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpzjp3jrhw.cpp:43: int main(): Asserti"}
+{"id": "HumanEval_128_prod_signs", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_129_minPath", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018n\u2019 is not captured"}
+{"id": "HumanEval_130_tri", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpn8i0x_dw: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpn8i0x_dw.cpp:26: int main(): Asserti"}
+{"id": "HumanEval_131_digits", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpx_amb01h: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpx_amb01h.cpp:33: int main(): Asserti"}
+{"id": "HumanEval_132_is_nested", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpv2bgu9o1: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpv2bgu9o1.cpp:23: int main(): Asserti"}
+{"id": "HumanEval_133_sum_squares", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_134_check_if_last_char_is_a_letter", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpf0dm_dhe: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpf0dm_dhe.cpp:25: int main(): Asserti"}
+{"id": "HumanEval_135_can_arrange", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmphu10mzxt: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmphu10mzxt.cpp:30: int main(): Asserti"}
+{"id": "HumanEval_136_largest_smallest_integers", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_137_compare_one", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018nullopt\u2019 in namespace \u2018std\u2019 does not name a type"}
+{"id": "HumanEval_138_is_equal_to_sum_even", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp8beznu4v: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmp8beznu4v.cpp:27: int main(): Asserti"}
+{"id": "HumanEval_139_special_factorial", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp2ntu09ct: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmp2ntu09ct.cpp:29: int main(): Asserti"}
+{"id": "HumanEval_140_fix_spaces", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpq7zhlauf: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpq7zhlauf.cpp:35: int main(): Asserti"}
+{"id": "HumanEval_141_file_name_check", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_142_sum_squares", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_143_words_in_sentence", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpphyphja3: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpphyphja3.cpp:57: int main(): Asserti"}
+{"id": "HumanEval_144_simplify", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmplj1ttk5z: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmplj1ttk5z.cpp:45: int main(): Asserti"}
+{"id": "HumanEval_145_order_by_points", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018begin\u2019 was not declared in this scope"}
+{"id": "HumanEval_146_specialFilter", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpuimjvni7: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpuimjvni7.cpp:37: int main(): Asserti"}
+{"id": "HumanEval_147_get_max_triples", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpo5h2cz1q: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpo5h2cz1q.cpp:32: int main(): Asserti"}
+{"id": "HumanEval_148_bf", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: expected \u2018,\u2019 or \u2018;\u2019 before \u2018int\u2019"}
+{"id": "HumanEval_149_sorted_list_sum", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_150_x_or_y", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpbsynsno5: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpbsynsno5.cpp:33: int main(): Asserti"}
+{"id": "HumanEval_151_double_the_difference", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: invalid operands of types \u2018float\u2019 and \u2018int\u2019 to binary \u2018operator%\u2019"}
+{"id": "HumanEval_152_compare", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_153_Strongest_Extension", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpm26fk7zg: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpm26fk7zg.cpp:44: int main(): Asserti"}
+{"id": "HumanEval_154_cycpattern_check", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_155_even_odd_count", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_156_int_to_mini_roman", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018class std::unordered_map<long int, std::__cxx11::basic_string<char> >\u2019 has no member named \u2018rbegin\u2019; did you mean \u2018begin\u2019?"}
+{"id": "HumanEval_157_right_angle_triangle", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_158_find_max", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_159_eat", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpa1dqb33n: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpa1dqb33n.cpp:27: int main(): Asserti"}
+{"id": "HumanEval_160_do_algebra", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpte0ph1os: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpte0ph1os.cpp:37: int main(): Asserti"}
+{"id": "HumanEval_161_solve", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpohnij84z: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpohnij84z.cpp:29: int main(): Asserti"}
+{"id": "HumanEval_162_string_to_md5", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: ld returned 1 exit status"}
+{"id": "HumanEval_163_generate_integers", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpjwc5w4ez: <evaluator>/multipl_e_cpp/native/granite_33_8b_instruct__ft_original_c/tmp/tmpjwc5w4ez.cpp:23: int main(): Asserti"}

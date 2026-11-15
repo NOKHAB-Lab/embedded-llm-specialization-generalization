@@ -1,0 +1,50 @@
+{"id": "C/1", "official_pass": false, "official_status": "run_failed", "detail": "path=whole_text exit=-6 work: <evaluator>/mceval_c/native/codellama_13b_instruct_hf__ft_original_c/tmp/1.c:13: main: Assertion `strcmp(hello_mmcodeeval"}
+{"id": "C/2", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/codellama_13b_instruct_hf__ft_original_c/tmp/2.c:42: main: Assertion `area == -1' failed."}
+{"id": "C/3", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/4", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/codellama_13b_instruct_hf__ft_original_c/tmp/4.c:50: main: Assertion `max == 5 && min == 3' f"}
+{"id": "C/5", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/6", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/codellama_13b_instruct_hf__ft_original_c/tmp/6.c:38: main: Assertion `process_request(10000) "}
+{"id": "C/7", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/8", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/9", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/10", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/11", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/12", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/13", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/14", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/codellama_13b_instruct_hf__ft_original_c/tmp/14.c:45: main: Assertion `decode_numbers(\"0000\")"}
+{"id": "C/15", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/codellama_13b_instruct_hf__ft_original_c/tmp/15.c:37: main: Assertion `count_coloring_methods"}
+{"id": "C/16", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/codellama_13b_instruct_hf__ft_original_c/tmp/16.c:28: main: Assertion `count_valid_coin_toss_"}
+{"id": "C/17", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/18", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/codellama_13b_instruct_hf__ft_original_c/tmp/18.c:68: main: Assertion `strcmp(id, \"ftiasch\") "}
+{"id": "C/19", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/codellama_13b_instruct_hf__ft_original_c/tmp/19.c:38: main: Assertion `count_permutations_of_"}
+{"id": "C/20", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-11 "}
+{"id": "C/21", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None error: ld returned 1 exit status"}
+{"id": "C/22", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/23", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/codellama_13b_instruct_hf__ft_original_c/tmp/23.c:53: main: Assertion `count_acute_triangles("}
+{"id": "C/24", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/25", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/codellama_13b_instruct_hf__ft_original_c/tmp/25.c:39: main: Assertion `strcmp(shift_character"}
+{"id": "C/26", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/27", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/28", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/29", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/30", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/31", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/codellama_13b_instruct_hf__ft_original_c/tmp/31.c:39: main: Assertion `minRoundsToSameChar(\"a"}
+{"id": "C/32", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/codellama_13b_instruct_hf__ft_original_c/tmp/32.c:17: main: Assertion `apocalypseYear(6, (int"}
+{"id": "C/33", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/codellama_13b_instruct_hf__ft_original_c/tmp/33.c:22: main: Assertion `newModuloFactorial(10,"}
+{"id": "C/34", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/codellama_13b_instruct_hf__ft_original_c/tmp/34.c:37: main: Assertion `makeEqualAgain(6, a1) "}
+{"id": "C/35", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/codellama_13b_instruct_hf__ft_original_c/tmp/35.c:38: main: Assertion `gameWinner(5, test2) ="}
+{"id": "C/36", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/codellama_13b_instruct_hf__ft_original_c/tmp/36.c:21: main: Assertion `minTotalCost(5, costs1"}
+{"id": "C/37", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/codellama_13b_instruct_hf__ft_original_c/tmp/37.c:20: main: Assertion `countHandshakes(4, or1"}
+{"id": "C/38", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/codellama_13b_instruct_hf__ft_original_c/tmp/38.c:32: main: Assertion `maxModeSum(3, (int[]){"}
+{"id": "C/39", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/40", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/codellama_13b_instruct_hf__ft_original_c/tmp/40.c:33: main: Assertion `countPowerNumbers(99, "}
+{"id": "C/41", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/codellama_13b_instruct_hf__ft_original_c/tmp/41.c:40: main: Assertion `countBalancedSubsequen"}
+{"id": "C/42", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/codellama_13b_instruct_hf__ft_original_c/tmp/42.c:48: main: Assertion `expectedCuts(2, 4, 8) "}
+{"id": "C/43", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/codellama_13b_instruct_hf__ft_original_c/tmp/43.c:44: main: Assertion `countPermutations(2, 1"}
+{"id": "C/44", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/45", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/codellama_13b_instruct_hf__ft_original_c/tmp/45.c:40: main: Assertion `minOperations(5, (int["}
+{"id": "C/46", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/47", "official_pass": false, "official_status": "timeout", "detail": "path=entry_regex exit=None official time_limit(15)"}
+{"id": "C/48", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/49", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/50", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}

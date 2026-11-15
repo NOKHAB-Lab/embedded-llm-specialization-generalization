@@ -1,0 +1,800 @@
+{"id": "sample_0", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([1, 1, 3, 1, 3, 1])'"}
+{"id": "sample_1", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f((1, ), (1, ), (1, 2))'"}
+{"id": "sample_2", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('hbtofdeiequ')\""}
+{"id": "sample_3", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"Failed to allocate memory\");\\n        return NULL; // Or handle the error as appropriate\\n    }\\n  '"}
+{"id": "sample_4", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'    '\""}
+{"id": "sample_5", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('DSUWeqExTQdCMGpqur', 'a', 'x')\""}
+{"id": "sample_6", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f({'11': 52, '65': 34, 'a': 12, '4': 52, '74': 31})\""}
+{"id": "sample_7", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_8", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_9", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_10", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_11", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_12", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'If you want to live a happy life! '\""}
+{"id": "sample_13", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <stdio.h>\\n#include <stdlib.h>\\n#include <string.h>\\n\\nint f(char **names, int count) {\\n    int numberOfNames = 0;\\n'"}
+{"id": "sample_14", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'   PPO   '\""}
+{"id": "sample_15", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"zn kgd jw lnt\", \"h\", \"u\")'"}
+{"id": "sample_16", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='0) {\\n        // Allocate memory for the new string\\n        char* new_text = (char*)malloc(text_len - suffix_len + 1);\\n  '"}
+{"id": "sample_17", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"There are, no, commas, in this text\")'"}
+{"id": "sample_18", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"Failed to allocate memory\");\\n        return NULL;\\n    }\\n    for (int i = 0; i < size; i++) {\\n   '"}
+{"id": "sample_19", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"\", \"sdasdnakjsda80\")'"}
+{"id": "sample_20", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('was,')\""}
+{"id": "sample_21", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 1, 2, 2, 2, 2]'"}
+{"id": "sample_22", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(000)'"}
+{"id": "sample_23", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'new-medium-performing-application - XQuery 2.2'\""}
+{"id": "sample_24", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"Failed to allocate memory\");\\n        return 1;\\n    }\\n\\n    for (int j = 0; j < size; j++) {\\n     '"}
+{"id": "sample_25", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{\"l\": 1, \"x:\": 3}'"}
+{"id": "sample_26", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"qy. dg. rnvprt rse.. irtwv tx..\", \"wtwdoacb\")'"}
+{"id": "sample_27", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('flak')\""}
+{"id": "sample_28", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_29", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_30", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_31", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('PoIOarTvpoead')\""}
+{"id": "sample_32", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('volume', 'l')\""}
+{"id": "sample_33", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([5, 2, 7, 2, 3, 5])'"}
+{"id": "sample_34", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([1, 2, 3, 7, 7, 6, 8, 4, 1, 2, 3, 5, 1, 3, 21, 1, 3], 3, 1)'"}
+{"id": "sample_35", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[2, 0, 2, 2, 2]'"}
+{"id": "sample_36", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_37", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_38", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'1oEBzzBmm'\""}
+{"id": "sample_39", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <stdio.h>\\nint main() {\\n    printf(\"Python literal: 0\\\\n\");\\n    return 0;\\n}'"}
+{"id": "sample_40", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"the cow goes moo\")'"}
+{"id": "sample_41", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[92, 58, 21]'"}
+{"id": "sample_42", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([4, 3, 2, 1, 2, -1, 4, 2])'"}
+{"id": "sample_43", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"6 ** 2\")'"}
+{"id": "sample_44", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('nzoh')\""}
+{"id": "sample_45", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('za1fd1as8f7afasdfam97adfa', '7')\""}
+{"id": "sample_46", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f(['many', 'letters', 'asvsz', 'hello', 'man'], '')\""}
+{"id": "sample_47", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('bbbbr')\""}
+{"id": "sample_48", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_49", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('816')\""}
+{"id": "sample_50", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['a', 'c', 'v']\""}
+{"id": "sample_51", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(21)'"}
+{"id": "sample_52", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='NULL) {\\n        perror(\"Failed to allocate memory\");\\n        return NULL;\\n    }\\n    int j = 0;\\n    for (int i = 0; text['"}
+{"id": "sample_53", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 1, 1, 1, 1]'"}
+{"id": "sample_54", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('happy', 0, 3)\""}
+{"id": "sample_55", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <iostream>\\n#include <vector>\\n#include <algorithm>\\nusing namespace std;\\n\\nvector<int> f(vector<int> array) {\\n    '"}
+{"id": "sample_56", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('1z1z1')\""}
+{"id": "sample_57", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('ax')\""}
+{"id": "sample_58", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([-1, 0, 0, 1, 1])'"}
+{"id": "sample_59", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_60", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n                perror(\"Memory allocation failed\");\\n                return NULL; // Or handle the error appropri'"}
+{"id": "sample_61", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_62", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f({\"eating\" : \"ja\", \"books\" : \"nee\", \"piano\" : \"coke\", \"excitement\" : \"zoo\"})'"}
+{"id": "sample_63", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('ndbtdabdahesyehu', 'n')\""}
+{"id": "sample_64", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"7\", 10)'"}
+{"id": "sample_65", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <stdio.h>\\nint main() {\\n    int nums[] = {3, 2, 0, 3, 7};\\n    int index = 3;\\n    int result = nums[index] % 42 +'"}
+{"id": "sample_66", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('happy', 'ha')\""}
+{"id": "sample_67", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(6,8,8)'"}
+{"id": "sample_68", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('omeunhwpvr.dq', 'omeunh')\""}
+{"id": "sample_69", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_70", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"strdup failed\");\\n        return 1;\\n    }\\n\\n    token = strtok(str, \" \");\\n    while (token != NULL'"}
+{"id": "sample_71", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{2: 1, 4: 3, 6: 5, 8: 7, 10: 9}'"}
+{"id": "sample_72", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_73", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'1') {\\n            ones++;\\n        } else if (input[i]\""}
+{"id": "sample_74", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <stdio.h>\\n#include <stdlib.h>\\n\\nvoid f(int *lst, int i, int n, int size) {\\n    for (int j = size - 1; j > i; j--'"}
+{"id": "sample_75", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='elem) {\\n            ind = i;\\n            break;\\n        }\\n    }\\n    int result = ind * 2 + array[-ind - 1] * 3;\\n    prin'"}
+{"id": "sample_76", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[6, 3, 2, 2, 0, 0, 0, 0, 0, 0]'"}
+{"id": "sample_77", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('h ,lpvvkohh,u', 'i')\""}
+{"id": "sample_78", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('mTYWLMwbLRVOqNEf.oLsYkZORKE[Ko[{n')\""}
+{"id": "sample_79", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_80", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_81", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"Failed to allocate memory for Dictionary\");\\n        return NULL;\\n    }\\n    dict->pairs = (KeyVal'"}
+{"id": "sample_82", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='0 && strcmp(b, \"BFS\")'"}
+{"id": "sample_83", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('qq0tt')\""}
+{"id": "sample_84", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"nwv mef ofme bdryl\")'"}
+{"id": "sample_85", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(12)'"}
+{"id": "sample_86", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f(['sdfs', 'drcr', '2e'], ['sdfs', 'dr2c', 'QWERTY'], 0)\""}
+{"id": "sample_87", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'2-139-1'\""}
+{"id": "sample_88", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"he\", \"hello\")'"}
+{"id": "sample_89", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'A' || c\""}
+{"id": "sample_90", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_91", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['1', '2', 'a', 'b', 'x', 'y']\""}
+{"id": "sample_92", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_93", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('iq')\""}
+{"id": "sample_94", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_95", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) return NULL;\\n    map->pairs = (Pair *)malloc(capacity * sizeof(Pair));\\n    if (map->pairs'"}
+{"id": "sample_96", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('lunabotics')\""}
+{"id": "sample_97", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([2, 0])'"}
+{"id": "sample_98", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('SOME OF THIS Is uknowN!')\""}
+{"id": "sample_99", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'aa___bb'\""}
+{"id": "sample_100", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_101", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"Failed to allocate memory\");\\n        return 1;\\n    }\\n\\n    // Copy elements before the insertion '"}
+{"id": "sample_102", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='winners[j]) {\\n                ls[count++] = i;\\n                break; // Exit inner loop after finding a match\\n         '"}
+{"id": "sample_103", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_104", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_105", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"PermissioN is GRANTed\")'"}
+{"id": "sample_106", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <iostream>\\n#include <vector>\\nusing namespace std;\\n\\nvector<int> f(vector<int> nums) {\\n    int count = nums.size('"}
+{"id": "sample_107", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_108", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_109", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <iostream>\\n#include <vector>\\nusing namespace std;\\n\\nvector<int> f(vector<int> nums, int spot, int idx) {\\n    num'"}
+{"id": "sample_110", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"       \")'"}
+{"id": "sample_111", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f({'x': 67, 'v': 89, '': 4, 'alij': 11, 'kgfsd': 72, 'yafby': 83})\""}
+{"id": "sample_112", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'LittleRedRidingHood'\""}
+{"id": "sample_113", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"987yhNSHAshd 93275yrgSgbgSshfbsfB\")'"}
+{"id": "sample_114", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['a', '.-.b']\""}
+{"id": "sample_115", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"b'111; 115; 116; 114; 105; 110; 103; 59; '\""}
+{"id": "sample_116", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_117", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"23157\")'"}
+{"id": "sample_118", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('zbzquiuqnmfkx', 'mk')\""}
+{"id": "sample_119", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"vsnlygltaw\")'"}
+{"id": "sample_120", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_121", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'101'\""}
+{"id": "sample_122", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('Nuva?dlfuyjys')\""}
+{"id": "sample_123", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <stdio.h>\\n#include <stdlib.h>\\n\\nint main() {\\n    int array[] = {1, 2, 3, 5, 8};\\n    int size = sizeof(array) / s'"}
+{"id": "sample_124", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('i like you', ' ', -1)\""}
+{"id": "sample_125", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\\'\"Leap and the net will appear\\', 123)'"}
+{"id": "sample_126", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('kkxkxxfck')\""}
+{"id": "sample_127", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <stdio.h>\\n#include <stdlib.h>\\n#include <string.h>\\n\\nint main() {\\n    char *input = \"145\\\\n\\\\n12fjkjg\";\\n    int cou'"}
+{"id": "sample_128", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('Mammoth')\""}
+{"id": "sample_129", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[17, 13, 9, 5, 1]'"}
+{"id": "sample_130", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'h=6=l'\""}
+{"id": "sample_131", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='\\'a\\') {\\n            count += strcspn(text, \" \");\\n        } else {\\n            count += strcspn(text, \"\\\\n\");\\n        }\\n   '"}
+{"id": "sample_132", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'abcdabc'\""}
+{"id": "sample_133", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <iostream>\\n#include <vector>\\nusing namespace std;\\n\\nvector<int> f(vector<int> nums, vector<int> elements) {\\n    '"}
+{"id": "sample_134", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'104372359'\""}
+{"id": "sample_135", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_136", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"a\\\\nbc\\\\n\\\\nd\\\\nef\", 5)'"}
+{"id": "sample_137", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='0) break;\\n        if (count % 2'"}
+{"id": "sample_138", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('tflb omn rtt', 'm')\""}
+{"id": "sample_139", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([1, 2, 1], [1, 1, 2])'"}
+{"id": "sample_140", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_141", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_142", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'hpfdky'\""}
+{"id": "sample_143", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"daaX\", \"daaX\")'"}
+{"id": "sample_144", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_145", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='0) {\\n            found = 1;\\n            break;\\n        }\\n    }\\n    if (!found) {\\n        return price;\\n    } else {\\n    '"}
+{"id": "sample_146", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_147", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_148", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('2imo 12 tfiqr.', 'm')\""}
+{"id": "sample_149", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f((32332, 23543, 132323, 33300), ',')\""}
+{"id": "sample_150", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[-2, 4, -4, -2, 4, -4]'"}
+{"id": "sample_151", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('697 this is the ultimate 7 address to attack')\""}
+{"id": "sample_152", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f(''.join(['A'] * 20))\""}
+{"id": "sample_153", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('friends and love', 'and', 3)\""}
+{"id": "sample_154", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('Hello There', '*')\""}
+{"id": "sample_155", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"dskjs hjcdjnxhjicnn\", 4)'"}
+{"id": "sample_156", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_157", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='\\'0\\') {\\n            ans++;\\n        }\\n    }\\n    return ans;\\n}\\n\\nint main() {\\n    const char *input = \"aboba 212 has 0 digit'"}
+{"id": "sample_158", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='0) {\\n            n[j] = arr[i];\\n            j++;\\n        }\\n    }\\n\\n    // Concatenate arr and n into m\\n    k = 0;\\n    for'"}
+{"id": "sample_159", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('RTiGM')\""}
+{"id": "sample_160", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{}'"}
+{"id": "sample_161", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('difkj rinpx', 'k')\""}
+{"id": "sample_162", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('\u0441 bishop.Swift')\""}
+{"id": "sample_163", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('w', '))', 7)\""}
+{"id": "sample_164", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_165", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('=xtanp|sugv?z', 3, 6)\""}
+{"id": "sample_166", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_167", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <iostream>\\n#include <string>\\nusing namespace std;\\n\\nstring f(string XAAXX, string s) {\\n    int count = 0;\\n    in'"}
+{"id": "sample_168", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"Failed to allocate memory for key\");\\n        return NULL; // Or handle the error as appropriate\\n'"}
+{"id": "sample_169", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('taole')\""}
+{"id": "sample_170", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([12, 0, 13, 4, 12], 12)'"}
+{"id": "sample_171", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([3, 4, 1, 2, 3])'"}
+{"id": "sample_172", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_173", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_174", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <stdio.h>\\n#include <stdlib.h>\\n\\nint main() {\\n    int arr[] = {1, 2, 3};\\n    int *lst = arr;\\n    int size = sizeo'"}
+{"id": "sample_175", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('\\\\n', 2)\""}
+{"id": "sample_176", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('some text', 'some')\""}
+{"id": "sample_177", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'hEy dUdE tHiS $nD^ &*&tHiS@#'\""}
+{"id": "sample_178", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"Failed to allocate memory\");\\n        exit(EXIT_FAILURE);\\n    }\\n    for (int i = n; i < 7; i++) {'"}
+{"id": "sample_179", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[2, 7, 1, 2, 6, 0, 2]'"}
+{"id": "sample_180", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([-1, 5, 3, -2, -6, 8, 8])'"}
+{"id": "sample_181", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_182", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_183", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['echo', 'nice!']\""}
+{"id": "sample_184", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <iostream>\\n#include <vector>\\n#include <algorithm>\\n\\nstd::vector<int> f(std::vector<int> digits) {\\n    std::rever'"}
+{"id": "sample_185", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <stdio.h>\\n#include <stdlib.h>\\n\\nvoid swap(int *a, int *b) {\\n    int temp = *a;\\n    *a = *b;\\n    *b = temp;\\n}\\n\\nvo'"}
+{"id": "sample_186", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"strdup failed\");\\n        return NULL;\\n    }\\n\\n    char* token = strtok(result, \" \");\\n    while (t'"}
+{"id": "sample_187", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <stdio.h>\\n#include <stdlib.h>\\n#include <string.h>\\n#include <time.h>\\n#include <signal.h>\\n#include <unistd.h>\\n#in'"}
+{"id": "sample_188", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([\"a\", \"b\", \"car\", \"d\"])'"}
+{"id": "sample_189", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_190", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('980jio80jic kld094398IIl ')\""}
+{"id": "sample_191", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_192", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'klcdma:ri'\""}
+{"id": "sample_193", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('1::1')\""}
+{"id": "sample_194", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_195", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('ilfdoirwirmtoibsac')\""}
+{"id": "sample_196", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='NULL) {\\n        perror(\"strdup failed\");\\n        return NULL; // Or handle the error as appropriate\\n    }\\n\\n    char* x_p'"}
+{"id": "sample_197", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'1234567889 oC'\""}
+{"id": "sample_198", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'fsm'\""}
+{"id": "sample_199", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_200", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('jao mt', 'house')\""}
+{"id": "sample_201", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('--4yrw 251-//4 6p')\""}
+{"id": "sample_202", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='0; });\\n    vector<int> greater_than_10;\\n    copy_if(even_numbers.begin(), even_numbers.end(), back_inserter(greater_than'"}
+{"id": "sample_203", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_204", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"Memory allocation failed\");\\n        return NULL; // Or handle the error in a different way\\n    }'"}
+{"id": "sample_205", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"##fiu##nk#he###wumun##\")'"}
+{"id": "sample_206", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'hello world!'\""}
+{"id": "sample_207", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_208", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f(['123', 'cat', 'd dee'])\""}
+{"id": "sample_209", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'fulhxhzpnyihyf'\""}
+{"id": "sample_210", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='#include <stdio.h>\\nint main() {\\n    printf(\"Predicted Output: %d\\\\n\", f(46, 48, 21));\\n    return 0;\\n}'"}
+{"id": "sample_211", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"abca dea ead\")'"}
+{"id": "sample_212", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <iostream>\\n#include <vector>\\n#include <algorithm>\\n\\nstd::vector<int> f(std::vector<int> nums) {\\n    for (int i ='"}
+{"id": "sample_213", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"Failed to allocate memory\");\\n        return NULL;\\n    }\\n    int i, j = 0;\\n    for (i = 0; str[i]'"}
+{"id": "sample_214", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('present/here/car%2Fwe')\""}
+{"id": "sample_215", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f(')')\""}
+{"id": "sample_216", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"dp ef1 gh2\")'"}
+{"id": "sample_217", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('Str zahrnuje anglo-ameri\u00e6ske vasi piscina and kuca!')\""}
+{"id": "sample_218", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('caabcfcabfc', 'ab')\""}
+{"id": "sample_219", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"Hello\", \")\")'"}
+{"id": "sample_220", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"abcdefgabc\", 1, 2)'"}
+{"id": "sample_221", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'24fc5.bpxa'\""}
+{"id": "sample_222", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('0aabbaa0b', 'a')\""}
+{"id": "sample_223", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <stdio.h>\\nint main() {\\n    int array[] = {1, 2, -1, 4};\\n    int target = 2;\\n    int count = 0, i = 1;\\n    for ('"}
+{"id": "sample_224", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <iostream>\\n#include <vector>\\n#include <map>\\n#include <algorithm>\\n\\nstd::map<std::string, int> f(std::vector<std:'"}
+{"id": "sample_225", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"54882\")'"}
+{"id": "sample_226", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='0) {\\n            nums.push_back(nums[i]);\\n        }\\n    }\\n    return nums;\\n}\\n\\nint main() {\\n    vector<int> input = {1, 3'"}
+{"id": "sample_227", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL || strlen(text)'"}
+{"id": "sample_228", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# Python 3.8\\nf('LlTHH sAfLAPkPhtsWP', '#')\""}
+{"id": "sample_229", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"Failed to allocate memory for Dictionary\");\\n        return NULL;\\n    }\\n    dic->entries = (Entry'"}
+{"id": "sample_230", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'qzx020o1'\""}
+{"id": "sample_231", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <stdio.h>\\nint main() {\\n    int years[] = {1872, 1995, 1945};\\n    int a10 = 0, a90 = 0;\\n    for (int i = 0; i < '"}
+{"id": "sample_232", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('fssnvd', 'yes')\""}
+{"id": "sample_233", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <iostream>\\n#include <vector>\\n#include <algorithm>\\n\\nstd::vector<int> f(std::vector<int> xs) {\\n    for (int idx ='"}
+{"id": "sample_234", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('wduhzxlfk', 'w')\""}
+{"id": "sample_235", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_236", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'ac8qk69wg'\""}
+{"id": "sample_237", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('uzlwaqiaj', 'u')\""}
+{"id": "sample_238", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='n) {\\n            answer = ls[i][0];\\n        }\\n    }\\n    printf(\"%d\\\\n\", answer);\\n    return 0;\\n}'"}
+{"id": "sample_239", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('0 t 1cos ', 'st ' + '0\\\\t\\\\n  ')\""}
+{"id": "sample_240", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'3.12'\""}
+{"id": "sample_241", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_242", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"udhv zcvi nhtnfyd :erwuyawa pun\")'"}
+{"id": "sample_243", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('abc', 'e')\""}
+{"id": "sample_244", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('', 'BC1ty')\""}
+{"id": "sample_245", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['v', 'z', 'all_uppercased']\""}
+{"id": "sample_246", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"345gerghjehg\", \"345\")'"}
+{"id": "sample_247", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('Boolean')\""}
+{"id": "sample_248", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[]'"}
+{"id": "sample_249", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'f': 2, 's': 2, 'a': 2}\""}
+{"id": "sample_250", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('wlace A')\""}
+{"id": "sample_251", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f([['Marie','Nelson','Oscar']])\""}
+{"id": "sample_252", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('\\\\\\\\foo', '\\\\\\\\')\""}
+{"id": "sample_253", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('kumwwfv', 'k')\""}
+{"id": "sample_254", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('upper case', 'lower case')\""}
+{"id": "sample_255", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'j'\""}
+{"id": "sample_256", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <stdio.h>\\n#include <stdlib.h>\\n#include <string.h>\\n\\nint f(char *text, char *sub) {\\n    int a = 0;\\n    int b = st'"}
+{"id": "sample_257", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[[[\\'Hello World\\'], [\\'\"I am String\"\\']]]'"}
+{"id": "sample_258", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(thigh_o_two[:], 3, 3, 2)'"}
+{"id": "sample_259", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'gSngiRgnm aR aibg ptof RExEx lbrary.'\""}
+{"id": "sample_260", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='expected) {\\n        std::cout << \"Correct\" << std::endl;\\n    } else {\\n        std::cout << \"Incorrect\" << std::endl;\\n   '"}
+{"id": "sample_261", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([12, 516, 5, 2, 3, 214, 51], 5)'"}
+{"id": "sample_262", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'BD'\""}
+{"id": "sample_263", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_264", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"papera\")'"}
+{"id": "sample_265", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"Failed to allocate memory for pair\");\\n        return NULL;\\n    }\\n    pair->key = key;\\n    pair->'"}
+{"id": "sample_266", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[2, 3, 3, 4, 6, 6, -2]'"}
+{"id": "sample_267", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'   sowpf'\""}
+{"id": "sample_268", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='separator) {\\n            char* new_s = strdup(s); // Duplicate the string\\n            if (new_s'"}
+{"id": "sample_269", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([9, 2])'"}
+{"id": "sample_270", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_271", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_272", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([9, 7, 5, 3, 1], [2, 4, 6, 8, 0])'"}
+{"id": "sample_273", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('.NET')\""}
+{"id": "sample_274", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='target);\\n        }\\n    }\\n    return count;\\n}\\n\\nint main() {\\n    vector<int> nums = {1, 2, 3};\\n    int target = 4;\\n    int'"}
+{"id": "sample_275", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_276", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([])'"}
+{"id": "sample_277", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_278", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([0, 132], [5, 991, 32, 997])'"}
+{"id": "sample_279", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_280", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('00000000 00000000 01101100 01100101 01101110')\""}
+{"id": "sample_281", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='output.end() || output[8] != 2) {\\n        cout'"}
+{"id": "sample_282", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('xinyyexyxx', 'xx')\""}
+{"id": "sample_283", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"Failed to allocate memory for Dictionary\");\\n        return NULL;\\n    }\\n    dict->entries = (Entr'"}
+{"id": "sample_284", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_285", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"This be Pirate\\'s Speak for \\'help\\'!\", \\' \\')'"}
+{"id": "sample_286", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([1,2,3,4,5,6,7,8,9,10], 11, 4)'"}
+{"id": "sample_287", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_288", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f({55: 4, 4: 555, 1: 3, 99: 21, 499: 4, 71: 7, 12: 6})'"}
+{"id": "sample_289", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"Failed to allocate memory\");\\n        return NULL;\\n    }\\n    sprintf(result, \"%s: %s\", code, code'"}
+{"id": "sample_290", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('abixaaaily', 'al')\""}
+{"id": "sample_291", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='0) {\\n            index = i;\\n            break;\\n        }\\n    }\\n\\n    if (index'"}
+{"id": "sample_292", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'*****u23saa'\""}
+{"id": "sample_293", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('dEXE')\""}
+{"id": "sample_294", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"x\", \"$\", \"2xz&5H3*1a@#a*1hris\")'"}
+{"id": "sample_295", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['pear']\""}
+{"id": "sample_296", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <iostream>\\n#include <string>\\n#include <algorithm>\\n\\nstd::string f(std::string url) {\\n    std::string::size_type '"}
+{"id": "sample_297", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <stdio.h>\\n#include <stdlib.h>\\n#include <string.h>\\n\\n#define MAX_DIGITS 4\\n\\n// Function to sort digits in descendi'"}
+{"id": "sample_298", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_299", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'kstaovk'\""}
+{"id": "sample_300", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <stdio.h>\\nint main() {\\n    int nums[] = {1, 2, 3};\\n    int count = 1;\\n    for (int i = count; i < sizeof(nums) '"}
+{"id": "sample_301", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([0, 6, 2, -1, -2])'"}
+{"id": "sample_302", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('wdeejjjzsjsjjsxjjneddaddddddefsfd')\""}
+{"id": "sample_303", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'MjKlBn'\""}
+{"id": "sample_304", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_305", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('o horseto', 'r')\""}
+{"id": "sample_306", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[6, 1, 2]'"}
+{"id": "sample_307", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'p|x|c|z|n|y|f'\""}
+{"id": "sample_308", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_309", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"Failed to allocate memory\");\\n        return NULL;\\n    }\\n    strcpy(result, text);\\n    strcat(res'"}
+{"id": "sample_310", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f(['__', '1', '.', '0', 'r0', '__', 'a_j', '6', '__', '6'])\""}
+{"id": "sample_311", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_312", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('777')\""}
+{"id": "sample_313", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'urecord='\""}
+{"id": "sample_314", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"Failed to allocate memory for result\");\\n        return NULL; // Or handle the error appropriatel'"}
+{"id": "sample_315", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('czywZ')\""}
+{"id": "sample_316", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_317", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f(' vup a zwwo oihee amuwuuw! ', 'a', 'u')\""}
+{"id": "sample_318", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('234rtccde', 'e')\""}
+{"id": "sample_319", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('a', 'xxxaaxaaxx')\""}
+{"id": "sample_320", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('USaR')\""}
+{"id": "sample_321", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_322", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_323", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('ncdsdfdaaa0a1cdscsk*XFd')\""}
+{"id": "sample_324", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_325", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_326", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('Thisisastring') # Returns 0 because no numeric characters are present in the string.\""}
+{"id": "sample_327", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[-1, -7, 1, -3]'"}
+{"id": "sample_328", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <iostream>\\n#include <vector>\\nusing namespace std;\\n\\nvector<int> f(vector<int> array, int L) {\\n    if (L <= 0) {\\n'"}
+{"id": "sample_329", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('jh54kkk6')\""}
+{"id": "sample_330", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'4 2 '\""}
+{"id": "sample_331", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('', 'abc')\""}
+{"id": "sample_332", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([-6, -2, 1, -3, 0, 1])'"}
+{"id": "sample_333", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='lazy[i]) {\\n                places[j] = -1; // Mark as removed\\n                break;\\n            }\\n        }\\n    }\\n\\n    '"}
+{"id": "sample_334", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'00nU00 9 rCSAz00w00 lpA5BO00sizL00i7rlVr'\""}
+{"id": "sample_335", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('sjbrlfqmw', 'l')\""}
+{"id": "sample_336", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('234dsfssdfs333324314', 's')\""}
+{"id": "sample_337", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"5ll6\")'"}
+{"id": "sample_338", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'1': 'a', '2': 'd', '3': 'c'}\""}
+{"id": "sample_339", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <stdio.h>\\nint main() {\\n    printf(\"Python literal: 3\\\\n\");\\n    return 0;\\n}'"}
+{"id": "sample_340", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('E jIkx HtDpV G')\""}
+{"id": "sample_341", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_342", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"---123-4\")'"}
+{"id": "sample_343", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([[1, 2, 3], [1, 2], 1], [[1, 2, 3], 3, [2, 1]])'"}
+{"id": "sample_344", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([6, 4, 2, 8, 15], (lambda x: x.reverse()))'"}
+{"id": "sample_345", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"Failed to allocate memory for Map\");\\n        return NULL;\\n    }\\n    map->pairs = (Pair *)malloc('"}
+{"id": "sample_346", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('docs.doc')\""}
+{"id": "sample_347", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('hzcw')\""}
+{"id": "sample_348", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_349", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"Failed to allocate memory for Dictionary\");\\n        return NULL;\\n    }\\n    dict->entries = (Entr'"}
+{"id": "sample_350", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_351", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_352", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <stdio.h>\\n#include <stdlib.h>\\n\\nint main() {\\n    int nums[] = {-1, -3, -5, -7, 0};\\n    int len = sizeof(nums) / '"}
+{"id": "sample_353", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([1, 0, 2, 2, 0, 0, 0, 1])'"}
+{"id": "sample_354", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_355", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"' John z'\""}
+{"id": "sample_356", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 2]'"}
+{"id": "sample_357", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'wrec'\""}
+{"id": "sample_358", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('btrburger', 'b')\""}
+{"id": "sample_359", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['  dZwbSR  ', '  wijHeq  ', '  qluVok  ', '  dxjxbF  ']\""}
+{"id": "sample_360", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'ggggggggggggggg'\""}
+{"id": "sample_361", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"#! : #!\")'"}
+{"id": "sample_362", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('wrazugizoernmgzu')\""}
+{"id": "sample_363", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_364", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[[3, True], [1, False]]'"}
+{"id": "sample_365", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('xqc', 'mRcwVqXsRDRb')\""}
+{"id": "sample_366", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('[ Hello ]+ Hello, World!!_ Hi')\""}
+{"id": "sample_367", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <iostream>\\n#include <vector>\\n#include <algorithm>\\n\\nstd::vector<int> f(std::vector<int> nums, int rmvalue) {\\n   '"}
+{"id": "sample_368", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('4327', [2, 8, 9, 2, 7, 1])\""}
+{"id": "sample_369", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\" 99 777\")'"}
+{"id": "sample_370", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_371", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([11, 21, 0, 11])'"}
+{"id": "sample_372", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['v,']\""}
+{"id": "sample_373", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[2, 3, 100]'"}
+{"id": "sample_374", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_375", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'izsierizam'\""}
+{"id": "sample_376", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"2two programmers\")'"}
+{"id": "sample_377", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"BYE\\\\nNO\\\\nWAY\")'"}
+{"id": "sample_378", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f(dict(did=0), 'u')\""}
+{"id": "sample_379", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([0, 0, 1, 2, 1])'"}
+{"id": "sample_380", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_381", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_382", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f({15: \"Qltuf\", 12: \"Rwrepny\"})'"}
+{"id": "sample_383", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('ellod!p.nkyp.exa.bi.y.hain', '.n.in.ha.y')\""}
+{"id": "sample_384", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'asfdellos'\""}
+{"id": "sample_385", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([0, 2, 1, 2, 6, 2, 6, 3, 0])'"}
+{"id": "sample_386", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('mid', {'0':'q','1':'f','2':'w','3':'i'})\""}
+{"id": "sample_387", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <iostream>\\n#include <vector>\\nusing namespace std;\\n\\nvector<int> f(vector<int> nums, int pos, int value) {\\n    nu'"}
+{"id": "sample_388", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"2nm_28in\", \"nm\")'"}
+{"id": "sample_389", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f([1, 2, 3], 'nammo')\""}
+{"id": "sample_390", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\" \\\\t \")'"}
+{"id": "sample_391", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['r', '+', '9', '+']\""}
+{"id": "sample_392", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_393", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('scala')\""}
+{"id": "sample_394", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"2 m2 \\\\n\\\\nbike\")'"}
+{"id": "sample_395", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"11\")'"}
+{"id": "sample_396", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_397", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_398", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='dict.end()) {\\n            dict[count] = std::vector<std::string>();\\n        }\\n        dict[count].push_back(k);\\n    }\\n  '"}
+{"id": "sample_399", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('avacado', 'va', '-')\""}
+{"id": "sample_400", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('I am hungry! eat food.')\""}
+{"id": "sample_401", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('mathematics', 'example')\""}
+{"id": "sample_402", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_403", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('hrsiajiajieihruejfhbrisvlmmy', 'hr')\""}
+{"id": "sample_404", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f(['l', 'f', 'h', 'g', 's', 'b'])\""}
+{"id": "sample_405", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <iostream>\\n#include <vector>\\nusing namespace std;\\n\\nvector<int> f(vector<int> xs) {\\n    int new_x = xs[0] - 1;\\n '"}
+{"id": "sample_406", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('Josh')\""}
+{"id": "sample_407", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <iostream>\\n#include <vector>\\nusing namespace std;\\n\\nint f(vector<int> s) {\\n    while (s.size() > 1) {\\n        s.'"}
+{"id": "sample_408", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_409", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'qrest'\""}
+{"id": "sample_410", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([1, 3, -1, 1, -2, 6])'"}
+{"id": "sample_411", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('Hello World', 'W')\""}
+{"id": "sample_412", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='#include <stdio.h>\\nint main() {\\n    printf(\"Python Output: %d\\\\n\", f(3, 10, 1));\\n    return 0;\\n}'"}
+{"id": "sample_413", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"Failed to allocate memory\");\\n        return NULL;\\n    }\\n    strncpy(result, s + 3, 3);\\n    strnc'"}
+{"id": "sample_414", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_415", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(((8, 5), (8, 2), (5, 3)))'"}
+{"id": "sample_416", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'1ysrhfm o1wesf xgwwdyr dlrul ymba bpq'\""}
+{"id": "sample_417", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"Failed to allocate memory\");\\n        exit(EXIT_FAILURE);\\n    }\\n\\n    for (int i = 0; i < n; i++) '"}
+{"id": "sample_418", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"qqqqq\", \"qqq\")'"}
+{"id": "sample_419", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('mmfbifen', 'i')\""}
+{"id": "sample_420", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"x\")'"}
+{"id": "sample_421", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"try.\", 5)'"}
+{"id": "sample_422", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_423", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='selfie[0]) {\\n                selfie.erase(selfie.begin() + lo - 1);\\n            }\\n        }\\n        return selfie;\\n    }'"}
+{"id": "sample_424", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'Makers of a Statement'\""}
+{"id": "sample_425", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['/CL44', '', '']\""}
+{"id": "sample_426", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_427", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('s a a b s d s a a s a a')\""}
+{"id": "sample_428", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_429", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[('defghi', 2), ('abc', 2), (87.29, 3), (5, 1)]\""}
+{"id": "sample_430", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f([5, 1, 3, 7, 8], ['', 0, -1, []])\""}
+{"id": "sample_431", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"Failed to allocate memory\");\\n        return 1;\\n    }\\n\\n    for (int i = 0; i < n; i++) {\\n        '"}
+{"id": "sample_432", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f(-5, 'G5ogb6f,c7e.EMm')\""}
+{"id": "sample_433", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"Dmreh,Sspp,T,G ,.tB,Vxk,Cct\")'"}
+{"id": "sample_434", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('eeuseeeoehasa')\""}
+{"id": "sample_435", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([], 0, 1)'"}
+{"id": "sample_436", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['7', '6', 's', 's']\""}
+{"id": "sample_437", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'john': None, 'doe': None, 'the': None}\""}
+{"id": "sample_438", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <stdio.h>\\n#include <stdlib.h>\\n#include <string.h>\\n\\nchar* f(char* string) {\\n    int bigTab = 100;\\n    for (int i'"}
+{"id": "sample_439", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('coscifysu')\""}
+{"id": "sample_440", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"abc\")'"}
+{"id": "sample_441", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_442", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_443", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"lorem ipsum\")'"}
+{"id": "sample_444", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <iostream>\\n#include <vector>\\nusing namespace std;\\n\\nvector<int> f(vector<int> nums) {\\n    int count = nums.size('"}
+{"id": "sample_445", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"carrot, banana, and strawberry\")'"}
+{"id": "sample_446", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_447", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"\\\\ta\", 3)'"}
+{"id": "sample_448", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('uMeGndkGh', 'kG')\""}
+{"id": "sample_449", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_450", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('K zBK')\""}
+{"id": "sample_451", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_452", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('l000*',)\""}
+{"id": "sample_453", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('wrsch)xjmb8', 'c')\""}
+{"id": "sample_454", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_455", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'?XYZ'\""}
+{"id": "sample_456", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_457", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_458", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('mmm34mIm', 'mm3', ',po')\""}
+{"id": "sample_459", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <iostream>\\n#include <map>\\n#include <vector>\\n#include <string>\\n\\nstd::map<std::string, std::string> f(std::vector'"}
+{"id": "sample_460", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('GENERAL NAGOOR', 5)\""}
+{"id": "sample_461", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('123', '123eenhas0')\""}
+{"id": "sample_462", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('ldebgp o', 'o')\""}
+{"id": "sample_463", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f({-1: -1, 5: 5, 3: 6, -4: -4})'"}
+{"id": "sample_464", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('0')\""}
+{"id": "sample_465", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_466", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_467", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_468", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_469", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"Failed to allocate memory\");\\n        return NULL;\\n    }\\n    strncpy(new_text, text, index);\\n    '"}
+{"id": "sample_470", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"0) {\\n            char temp[2];\\n            temp[0] = transl[i];\\n            temp[1] = '\\\\0';\\n            strcat(result, t\""}
+{"id": "sample_471", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('o', 'fnmart')\""}
+{"id": "sample_472", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['5', 'c', 'x', 'y', 'z']\""}
+{"id": "sample_473", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('scedvtvotkwqfoqn', 'o')\""}
+{"id": "sample_474", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('#[)[]>[^e>\\\\n 8', -5)\""}
+{"id": "sample_475", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <stdio.h>\\n#include <stdlib.h>\\n\\nint main() {\\n    int array[] = {1};\\n    int index = 0;\\n    int length = sizeof(a'"}
+{"id": "sample_476", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"booty boot-boot bootclass\", \\'k\\')'"}
+{"id": "sample_477", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='0) {\\n                char *p = strstr(topic, \"u\");\\n                if (p != NULL) {\\n                    *p = \\'p\\';\\n      '"}
+{"id": "sample_478", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'meow': 2}\""}
+{"id": "sample_479", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <iostream>\\n#include <vector>\\nusing namespace std;\\n\\nvector<int> f(vector<int> nums, int pop1, int pop2) {\\n    nu'"}
+{"id": "sample_480", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('', 'mi', 'siast')\""}
+{"id": "sample_481", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='item2) {\\n        if (values[0] != values[1]) {\\n            values[size] = values[0];\\n        }\\n    } else if (values[siz'"}
+{"id": "sample_482", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"Failed to allocate memory\");\\n        return NULL;\\n    }\\n    size_t i, j = 0;\\n    for (i = 0; i <'"}
+{"id": "sample_483", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'a'\""}
+{"id": "sample_484", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['182', '32', 'r6', 'r5', 'rge', '', 'f', '1fq', -2]\""}
+{"id": "sample_485", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('gsd avdropj')\""}
+{"id": "sample_486", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <stdio.h>\\n#include <stdlib.h>\\n#include <string.h>\\n\\nint main() {\\n    char *input = \"{\\\\\"1\\\\\":1,\\\\\"2\\\\\":2,\\\\\"3\\\\\":3}\";\\n'"}
+{"id": "sample_487", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[]'"}
+{"id": "sample_488", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('tezmgvn 651h', '6')\""}
+{"id": "sample_489", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('coscifysu', 'cos')\""}
+{"id": "sample_490", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_491", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <iostream>\\n#include <vector>\\nusing namespace std;\\n\\nvector<int> f(vector<int> xs) {\\n    for (int i = -1; i > -xs'"}
+{"id": "sample_492", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('abbkebaniuwurzvr', 'm')\""}
+{"id": "sample_493", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_494", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"1\", 3)'"}
+{"id": "sample_495", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('a1234\u00e5r')\""}
+{"id": "sample_496", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('eftw{\u044c\u0422\u0441k_1', '\\\\\\\\')\""}
+{"id": "sample_497", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['4', '4', '+']\""}
+{"id": "sample_498", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <iostream>\\n#include <vector>\\nusing namespace std;\\n\\nvector<int> f(vector<int> nums, int idx, int added) {\\n    nu'"}
+{"id": "sample_499", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('magazine', 25, '.')\""}
+{"id": "sample_500", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'wi w'\""}
+{"id": "sample_501", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('qpfi jzm', 'j')\""}
+{"id": "sample_502", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_503", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_504", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_505", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('--4/0-209')\""}
+{"id": "sample_506", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"Memory allocation failed\");\\n        return NULL; // Or handle the error in a different way\\n    }'"}
+{"id": "sample_507", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('car hat', 'car')\""}
+{"id": "sample_508", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'p.ertubwi'\""}
+{"id": "sample_509", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'05'\""}
+{"id": "sample_510", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) return NULL;\\n    d->entries = (dict_entry *)malloc(capacity * sizeof(dict_entry));\\n    if (d->entries'"}
+{"id": "sample_511", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_512", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'0') {\\n            zero_count++;\\n        } else if (input[i]\""}
+{"id": "sample_513", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([0, 2])'"}
+{"id": "sample_514", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('-stew---corn-and-beans-in soup-.-')\""}
+{"id": "sample_515", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_516", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['eyes', 'gay']\""}
+{"id": "sample_517", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('SzHjifnzog')\""}
+{"id": "sample_518", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('the speed is -36 miles per hour')\""}
+{"id": "sample_519", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_520", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <stdio.h>\\nint main() {\\n    printf(\"6\");\\n    return 0;\\n}'"}
+{"id": "sample_521", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([43, 0, 4, 77, 5, 2, 0, 9, 77])'"}
+{"id": "sample_522", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(range(100, 120))'"}
+{"id": "sample_523", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('   ')\""}
+{"id": "sample_524", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <stdio.h>\\n#include <stdlib.h>\\n#include <string.h>\\n\\ntypedef struct {\\n    int key;\\n    int value;\\n} Pair;\\n\\nint co'"}
+{"id": "sample_525", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"Failed to allocate memory for HashMap\");\\n        return NULL;\\n    }\\n    map->entries = (Entry *)'"}
+{"id": "sample_526", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('ekwies', 's', 'rpg', 1)\""}
+{"id": "sample_527", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"!?\", \"\")'"}
+{"id": "sample_528", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('papeluchis')\""}
+{"id": "sample_529", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_530", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"@@@ff\", \\'@\\')'"}
+{"id": "sample_531", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"Ibaskdjgblw asdl \", \"djgblw\")'"}
+{"id": "sample_532", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_533", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_534", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('hosu', 'o')\""}
+{"id": "sample_535", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(1341240312)'"}
+{"id": "sample_536", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('C24Bxxx982ab')\""}
+{"id": "sample_537", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'[-1]'\""}
+{"id": "sample_538", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'zzz0574zzz'\""}
+{"id": "sample_539", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[]'"}
+{"id": "sample_540", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <iostream>\\n#include <vector>\\n#include <algorithm>\\n\\nstd::vector<int> f(std::vector<int> a) {\\n    std::vector<int'"}
+{"id": "sample_541", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f(' \\\\t  \\\\u3000')\""}
+{"id": "sample_542", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_543", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('.,,,,,. \u0645\u0646\u0628\u062a')\""}
+{"id": "sample_544", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"\\\\t\\\\t\\\\ttab tab tabulates\")'"}
+{"id": "sample_545", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([8, 8, -4, -9, 2, 8, -1, 8])'"}
+{"id": "sample_546", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_547", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"h,e,l,l,o,wo,r,ld,\")'"}
+{"id": "sample_548", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('spider', 'ed')\""}
+{"id": "sample_549", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_550", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 1, 4, 4, 16]'"}
+{"id": "sample_551", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['a', 'b', 'c', 'd', 'inf']\""}
+{"id": "sample_552", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <iostream>\\n#include <map>\\n#include <vector>\\nusing namespace std;\\n\\nmap<int, float> f(map<float, vector<int>> d) '"}
+{"id": "sample_553", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('439m2670hlsw', 3)\""}
+{"id": "sample_554", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_555", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"odes\\\\tcode\\\\twell\", 2)'"}
+{"id": "sample_556", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('\\\\n\\\\n\\\\t\\\\tz\\\\td\\\\ng\\\\n\\\\t\\\\t\\\\te')\""}
+{"id": "sample_557", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('xxxarmmarxx')\""}
+{"id": "sample_558", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([3, 1, 2, 1, 4, 1], [1])'"}
+{"id": "sample_559", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"first-second-third\")'"}
+{"id": "sample_560", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <stdio.h>\\n#include <stdlib.h>\\n#include <string.h>\\n\\nint main() {\\n    char input[] = \"591237865\";\\n    int output '"}
+{"id": "sample_561", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('7Ljnw4Lj', '7')\""}
+{"id": "sample_562", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('VTBAEPJSLGAHINS')\""}
+{"id": "sample_563", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('jivespdcxc', 'sx')\""}
+{"id": "sample_564", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <iostream>\\n#include <vector>\\nusing namespace std;\\n\\nvector<int> f(vector<vector<int>> lists) {\\n    lists[1].clea'"}
+{"id": "sample_565", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <stdio.h>\\n#include <stdlib.h>\\n#include <string.h>\\n\\nint main() {\\n    char text[] = \"qsqgijwmmhbchoj\";\\n    int ma'"}
+{"id": "sample_566", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"towaru\", \"UTF-8\")'"}
+{"id": "sample_567", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_568", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"strdup failed\");\\n        return NULL;\\n    }\\n\\n    char* temp = result;\\n    int letter = 1;\\n\\n    w'"}
+{"id": "sample_569", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"11 1 1\")'"}
+{"id": "sample_570", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"Failed to allocate memory\");\\n        return 1;\\n    }\\n\\n    // Copy the original array to the temp'"}
+{"id": "sample_571", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"Failed to allocate memory\");\\n        return 1;\\n    }\\n\\n    int i = 0, j = 0;\\n    while (input[i] '"}
+{"id": "sample_572", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[{2: 10, 3: 1}, {1: 9}]'"}
+{"id": "sample_573", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"Vipra\", \"via\")'"}
+{"id": "sample_574", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f(['George', 'Michael', 'George', 'Costanza'])\""}
+{"id": "sample_575", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <stdio.h>\\nint main() {\\n    printf(\"Predicted Output: %d\\\\n\", f({10, 4}, 3));\\n    return 0;\\n}'"}
+{"id": "sample_576", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"Failed to allocate memory\");\\n        return 1;\\n    }\\n\\n    output[0] = \\'x\\';\\n    for (int i = 1; i'"}
+{"id": "sample_577", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[]'"}
+{"id": "sample_578", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) return NULL;\\n    map->pairs = (Pair *)malloc(capacity * sizeof(Pair));\\n    if (map->pairs'"}
+{"id": "sample_579", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_580", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[0, 2]'"}
+{"id": "sample_581", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('akoon', 'sXo')\""}
+{"id": "sample_582", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"Failed to allocate memory\");\\n        return 1;\\n    }\\n\\n    for (int i = 0; i < k; i++) {\\n        '"}
+{"id": "sample_583", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"t\\\\nza\\\\na\", \"t\")'"}
+{"id": "sample_584", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"5123807309875480094949830\")'"}
+{"id": "sample_585", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f(';,,,?')\""}
+{"id": "sample_586", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"breakfast\", \"e\")'"}
+{"id": "sample_587", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'abcca': 'abcca', 0: 'abcca', 1: 'abcca', 2: 'abcca'}\""}
+{"id": "sample_588", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f(['''1''', '+', '-', '**', '//', '*', '+'], '**')\""}
+{"id": "sample_589", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_590", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"25000   $\")'"}
+{"id": "sample_591", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <iostream>\\n#include <vector>\\n#include <algorithm>\\n#include <map>\\n#include <set>\\n#include <string>\\n#include <sst'"}
+{"id": "sample_592", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <stdio.h>\\n#include <stdlib.h>\\n\\nint main() {\\n    int numbers[] = {11, 3};\\n    int new_numbers[2];\\n    int len = '"}
+{"id": "sample_593", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_594", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"n wez szize lnson tilebi it 504n.\\\\n\")'"}
+{"id": "sample_595", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('qdhstudentamxupuihbuztn', 'jdm')\""}
+{"id": "sample_596", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['9', '8', '7', '4', '3', '2']\""}
+{"id": "sample_597", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"Jaafodsfa SOdofj AoaFjIs  JAFasIdfSa1\")'"}
+{"id": "sample_598", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"Memory allocation failed\");\\n        return NULL; // Or handle the error in a different way\\n    }'"}
+{"id": "sample_599", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['a', ' ', 'b', ' ', 'c']\""}
+{"id": "sample_600", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_601", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'CAAAAA# SSSSSS# AAAAAA# SSSSSS# HHHHHH# SSSSSS#'\""}
+{"id": "sample_602", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([1, 1], 1)'"}
+{"id": "sample_603", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('not numbers')\""}
+{"id": "sample_604", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"Hello world\", \"Hello\")'"}
+{"id": "sample_605", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([2, 5, 1, 7, 9, 3])'"}
+{"id": "sample_606", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"Failed to allocate memory\");\\n        return NULL; // Or handle the error as appropriate\\n    }\\n  '"}
+{"id": "sample_607", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('. C.')\""}
+{"id": "sample_608", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_609", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_610", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([1, 2, 1, 1], 3)'"}
+{"id": "sample_611", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[-6, -2, 1, -3, 0, 1]'"}
+{"id": "sample_612", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_613", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'eat!eat'\""}
+{"id": "sample_614", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('zjegiymjc', 'j', 2)\""}
+{"id": "sample_615", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='max) {\\n            return i;\\n        }\\n    }\\n    return -1; // Should not reach here\\n}\\n\\nint main() {\\n    int in_list[] ='"}
+{"id": "sample_616", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('\\\\n\\\\ny\\\\n')\""}
+{"id": "sample_617", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"<<<<\")'"}
+{"id": "sample_618", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('9', '8', 2)\""}
+{"id": "sample_619", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'rock paper scissors'\""}
+{"id": "sample_620", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"lert dna ndqmxohi3\")'"}
+{"id": "sample_621", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('13:45:56', 'shift_jis')\""}
+{"id": "sample_622", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('galgu')\""}
+{"id": "sample_623", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('hi~!', ['~', '`', '!', '&'])\""}
+{"id": "sample_624", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'llomnrpc'\""}
+{"id": "sample_625", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"bwiajegrwjd??djoda,?\")'"}
+{"id": "sample_626", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_627", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f([('u', 1), ('s', 7), ('u', -5)])\""}
+{"id": "sample_628", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='delete) {\\n            nums[i] = nums[size - 1];\\n            size--;\\n            i--; // Recheck the swapped element\\n    '"}
+{"id": "sample_629", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_630", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{2: -9, 3: -7}'"}
+{"id": "sample_631", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('a', 19)\""}
+{"id": "sample_632", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([63, 0, 1, 5, 9, 87, 0, 7, 25, 4])'"}
+{"id": "sample_633", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([5, -3, 3, 2], 2)'"}
+{"id": "sample_634", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('biec')\""}
+{"id": "sample_635", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"9.twCpTf.H7 HPeaQ^ C7I6U,C:YtW\")'"}
+{"id": "sample_636", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_637", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'yes'\""}
+{"id": "sample_638", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='0) {\\n        s[strlen(s) - suffix_len] = \\'\\\\0\\';\\n    }\\n    return s;\\n}\\n\\nint main() {\\n    char* result = f(\"ababa\", \"ab\");\\n'"}
+{"id": "sample_639", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"xabxfiwoexahxaxbxs\", \"xbabcabccb\")'"}
+{"id": "sample_640", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"3eeeeeeoopppppppw14film3oee3\")'"}
+{"id": "sample_641", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('dummy33;d')\""}
+{"id": "sample_642", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"     \")'"}
+{"id": "sample_643", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('damdrodm', 'm')\""}
+{"id": "sample_644", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <iostream>\\n#include <vector>\\n#include <algorithm>\\n\\nstd::vector<int> f(std::vector<int> nums, int pos) {\\n    std'"}
+{"id": "sample_645", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([1, 1, 1, 2], 3)'"}
+{"id": "sample_646", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'Yza, ,cbA'\""}
+{"id": "sample_647", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['/alcm@ an)t//eprw)/e!/d\\\\nujv']\""}
+{"id": "sample_648", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='list2[0]) {\\n            // Remove the last element\\n            for (i = 0; i < sizeof(l) / sizeof(l[0]) - 1; i++) {\\n    '"}
+{"id": "sample_649", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'\\\\t\\\\tf9\\\\n\\\\t\\\\tldf9\\\\n\\\\t\\\\tadf9!\\\\n\\\\t\\\\tf9?'\""}
+{"id": "sample_650", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_651", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_652", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_653", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"c, c, c ,c, c\", \"c\")'"}
+{"id": "sample_654", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('aphid', 'i', '?')\""}
+{"id": "sample_655", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('rpaar')\""}
+{"id": "sample_656", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_657", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"djhasghasgdha\")'"}
+{"id": "sample_658", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_659", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f(['yR?TAJhIW?n', 'o11BgEFDfoe', 'KnHdn2vdEd', 'wvwruuqfhXbGis'])\""}
+{"id": "sample_660", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='0 || j'"}
+{"id": "sample_661", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"strdup failed\");\\n        return NULL;\\n    }\\n\\n    char* token = strtok(letters, \" \");\\n    int cou'"}
+{"id": "sample_662", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <iostream>\\n#include <vector>\\n#include <algorithm>\\n#include <string>\\n\\nstd::vector<std::string> f(const std::vect'"}
+{"id": "sample_663", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_664", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"Failed to allocate memory\");\\n        return NULL; // Or handle the error appropriately\\n    }\\n   '"}
+{"id": "sample_665", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"acbced\")'"}
+{"id": "sample_666", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f({ 0: [], 1: [] }, { 0: [0, 0, 0, 0], 2: [2, 2, 2] })'"}
+{"id": "sample_667", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['< C7 level=0 >', '< level=1 >']\""}
+{"id": "sample_668", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'earmyfriendealoh'\""}
+{"id": "sample_669", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"fubarbaz\")'"}
+{"id": "sample_670", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f(['12','ab'], [2,2])\""}
+{"id": "sample_671", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"ewriyat emf rwto segya\", \"tey\", \"dgo\")'"}
+{"id": "sample_672", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <stdio.h>\\n#include <stdlib.h>\\n#include <string.h>\\n\\nchar* f(char* text, int position, char value) {\\n    int leng'"}
+{"id": "sample_673", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"cA\")'"}
+{"id": "sample_674", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('qq')\""}
+{"id": "sample_675", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <iostream>\\n#include <vector>\\n#include <algorithm>\\n\\nint main() {\\n    std::vector<int> nums = {1, 2, 2, 3, 4, 5};'"}
+{"id": "sample_676", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_677", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('I got 1 and 0.', 5)\""}
+{"id": "sample_678", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_679", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('meet')\""}
+{"id": "sample_680", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"we@32r71g72ug94=(823658*!@324\")'"}
+{"id": "sample_681", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <stdio.h>\\n#include <stdlib.h>\\n\\nvoid insert_element(int *array, int size, int index, int element) {\\n    if (inde'"}
+{"id": "sample_682", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('hypernimovichyp', 2, 2)\""}
+{"id": "sample_683", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_684", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"Transform quotations\\\\\"\\\\nnot into numbers.\")'"}
+{"id": "sample_685", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='#include <stdio.h>\\nint main() {\\n    printf(\"Python literal: %d\\\\n\", f([1, 1, 1], -2));\\n    return 0;\\n}'"}
+{"id": "sample_686", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"Failed to allocate memory for dictionary\");\\n        return NULL;\\n    }\\n\\n    dict->entries = (dic'"}
+{"id": "sample_687", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('Rjug nzufE')\""}
+{"id": "sample_688", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_689", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"Failed to allocate memory\");\\n        return NULL;\\n    }\\n    for (int i = 0; i < count; i++) {\\n  '"}
+{"id": "sample_690", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('800')\""}
+{"id": "sample_691", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('rpyttc', 'cyt')\""}
+{"id": "sample_692", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_693", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"sa832d83r xd 8g 26a81xdf\")'"}
+{"id": "sample_694", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_695", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_696", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <stdio.h>\\n#include <stdlib.h>\\n#include <string.h>\\n\\nint f(char *text) {\\n    int s = 0;\\n    for (int i = 1; i < s'"}
+{"id": "sample_697", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"('not it', '', '')\""}
+{"id": "sample_698", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"Failed to allocate memory\");\\n        return NULL;\\n    }\\n    int j = 0;\\n    for (int i = 0; text['"}
+{"id": "sample_699", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='0) {\\n        new_text += strlen(elem);\\n    }\\n\\n    while (strncmp(new_elem, text, strlen(text))'"}
+{"id": "sample_700", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'b' && text[i + 1]\""}
+{"id": "sample_701", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_702", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([0, -5, -4])'"}
+{"id": "sample_703", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('vzzv2sg', 'z')\""}
+{"id": "sample_704", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('.', 0, '99')\""}
+{"id": "sample_705", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['Somewhere Sydney', 'Somewhere Hong Kong', 'Somewhere Melbourne', 'Somewhere Sao Paolo', 'Somewhere Istanbul', 'Somewhe\""}
+{"id": "sample_706", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"ab\", \"xy\")'"}
+{"id": "sample_707", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'undbs '\""}
+{"id": "sample_708", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'jcmfxv'\""}
+{"id": "sample_709", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_710", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_711", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_712", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_713", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('only one line', ' ')\""}
+{"id": "sample_714", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_715", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('abababac', 'a')\""}
+{"id": "sample_716", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_717", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"timetable, 2mil\")'"}
+{"id": "sample_718", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('ThisIsSoAtrocious')\""}
+{"id": "sample_719", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"if (x) {y = 1;} else {z = 1;}\")'"}
+{"id": "sample_720", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('bfreratrrbdbzagbretaredtroefcoiqrrneaosf'.split('-'), 'n')\""}
+{"id": "sample_721", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[-6, -5, -7, -8, 2]'"}
+{"id": "sample_722", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f(',wPzPppdl/')\""}
+{"id": "sample_723", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['dga nqdk ull qcha kl']\""}
+{"id": "sample_724", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"010100\", \"010\")'"}
+{"id": "sample_725", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"mrq7y\")'"}
+{"id": "sample_726", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <iostream>\\n#include <string>\\nusing namespace std;\\n\\nint main() {\\n    string text = \"jcle oq wsnibktxpiozyxmopqkf'"}
+{"id": "sample_727", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['', 'dxh', 'i', 'ix', 'negi', 's', 'u', 'ubvu', 'wi']\""}
+{"id": "sample_728", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('ru')\""}
+{"id": "sample_729", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('abcdefghabc', 'abc')\""}
+{"id": "sample_730", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"wys silak v5 e4fi rotbi fwj 78 wigf t8s lcl\")'"}
+{"id": "sample_731", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('Chris requires a ride to the airport on Friday.', 'a')\""}
+{"id": "sample_732", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_733", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_734", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='0) {\\n            nums.erase(nums.begin() + i);\\n        }\\n    }\\n    return nums;\\n}\\n\\nint main() {\\n    vector<int> input = '"}
+{"id": "sample_735", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('(A (b B))')\""}
+{"id": "sample_736", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('pi wa', 'chi')\""}
+{"id": "sample_737", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([0, 6, 2, -1, -2])'"}
+{"id": "sample_738", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"r;r;r;r;r;r;r;r;r\", \"x.r\")'"}
+{"id": "sample_739", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('qwbnjrxs', ['jr', 'b', 'r', 'qw'])\""}
+{"id": "sample_740", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_741", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <iostream>\\n#include <vector>\\n#include <algorithm>\\nusing namespace std;\\n\\nint main() {\\n    vector<int> nums = {6,'"}
+{"id": "sample_742", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"-1-3\")'"}
+{"id": "sample_743", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('dog,cat')\""}
+{"id": "sample_744", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        fprintf(stderr, \"Memory allocation failed!\\\\n\");\\n        return NULL; // Or handle the error as appropria'"}
+{"id": "sample_745", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'@minimc.io'\""}
+{"id": "sample_746", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_747", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"123E-10\")'"}
+{"id": "sample_748", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f({'a': 123, 'b': 456, 'c': 789})\""}
+{"id": "sample_749", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('l\\\\nl', 2)\""}
+{"id": "sample_750", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_751", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"wwwwhhhtttpp\", \\'w\\', 3)'"}
+{"id": "sample_752", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"Failed to allocate memory\");\\n        return NULL;\\n    }\\n    memset(result, \\'z\\', amount - len);\\n '"}
+{"id": "sample_753", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"Failed to allocate memory for Bag\");\\n        return NULL;\\n    }\\n    bag->pairs = (Pair *)malloc('"}
+{"id": "sample_754", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <iostream>\\n#include <vector>\\n#include <string>\\n#include <sstream>\\n#include <iomanip>\\n\\nstd::vector<std::string> '"}
+{"id": "sample_755", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\\'###\\', \"ph>t#A#BiEcDefW#ON#iiNCU\", \\'.\\')'"}
+{"id": "sample_756", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'integer'\""}
+{"id": "sample_757", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"Failed to allocate memory\");\\n        return NULL;\\n    }\\n    result[0] = \\'\\\\0\\'; // Initialize as a'"}
+{"id": "sample_758", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_759", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('egmdartoa', 'good')\""}
+{"id": "sample_760", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['j', 'k', 'h', 'f']\""}
+{"id": "sample_761", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_762", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('this And cPanel')\""}
+{"id": "sample_763", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"strdup failed\");\\n        return NULL;\\n    }\\n\\n    char* end = result + strlen(result);\\n\\n    // Re'"}
+{"id": "sample_764", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"some test string\", \"some\", \"any\")'"}
+{"id": "sample_765", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <stdio.h>\\n#include <stdlib.h>\\n#include <string.h>\\n\\nint main() {\\n    char *text = \"so456\";\\n    int count = 0;\\n  '"}
+{"id": "sample_766", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) return NULL;\\n    map->entries = (Entry *)malloc(capacity * sizeof(Entry));\\n    if (map->entries'"}
+{"id": "sample_767", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"d khqw whi fwi bbn 41\")'"}
+{"id": "sample_768", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='0) {\\n        return s;\\n    }\\n    char* result = malloc(strlen(s) + strlen(o) + 1);\\n    if (result'"}
+{"id": "sample_769", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_770", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('$78'.upper(), '$')\""}
+{"id": "sample_771", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f((1, 2, 3, 4, 5, 6, 7, 8))'"}
+{"id": "sample_772", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'DFdbcA.'\""}
+{"id": "sample_773", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <stdio.h>\\n#include <stdlib.h>\\n\\nint main() {\\n    int nums[] = {-7, 3, 1, -1, -1, 0, 4};\\n    int n = 6;\\n    int r'"}
+{"id": "sample_774", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='NULL) {\\n        perror(\"Memory allocation failed\");\\n        return NULL; // Or handle the error in a different way\\n    }'"}
+{"id": "sample_775", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_776", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_777", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_778", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('mjs', 'mjqwmjsqjwisojqwiso')\""}
+{"id": "sample_779", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('python ruby c javascript')\""}
+{"id": "sample_780", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([2, 3, 5, 2, 4, 5, 2, 89])'"}
+{"id": "sample_781", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('shivajimonto6', '6')\""}
+{"id": "sample_782", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"a j c n x X k\")'"}
+{"id": "sample_783", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"managed\", \"\")'"}
+{"id": "sample_784", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_785", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(1)'"}
+{"id": "sample_786", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('19kefp7', '9')\""}
+{"id": "sample_787", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='0) {\\n        return \"\";\\n    }\\n    char* result = malloc(strlen(text) + 1);\\n    if (result'"}
+{"id": "sample_788", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='0) {\\n        char* result = malloc(strlen(text) + strlen(suffix) - 1 + 1);\\n        if (result'"}
+{"id": "sample_789", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_790", "official_pass": false, "official_status": "fail", "detail": "[value] answer='(False, False)'"}
+{"id": "sample_791", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(8999,2)'"}
+{"id": "sample_792", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'a': 'car', 'b': 'dog'}\""}
+{"id": "sample_793", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='#include <stdio.h>\\nint main() {\\n    int list[] = {1, 2, 4, 3, 2, 1};\\n    int start = 0;\\n    int end = 3;\\n    int count ='"}
+{"id": "sample_794", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"\\\\\"\\\\\\\\%$ normal chars $%~ qwet42\\'\")'"}
+{"id": "sample_795", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'Fu,ux Zfujijabji Pfu.'\""}
+{"id": "sample_796", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_797", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_798", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('@hihu@!', '@hihu')\""}
+{"id": "sample_799", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('eqe-;ew22')\""}

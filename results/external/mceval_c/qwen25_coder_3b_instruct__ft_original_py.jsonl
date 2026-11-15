@@ -1,0 +1,50 @@
+{"id": "C/1", "official_pass": false, "official_status": "run_failed", "detail": "path=whole_text exit=-6 work: <evaluator>/mceval_c/native/qwen25_coder_3b_instruct__ft_original_py/tmp/1.c:10: main: Assertion `strcmp(hello_mmcodeeval"}
+{"id": "C/2", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/qwen25_coder_3b_instruct__ft_original_py/tmp/2.c:38: main: Assertion `area == -1' failed."}
+{"id": "C/3", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/qwen25_coder_3b_instruct__ft_original_py/tmp/3.c:50: main: Assertion `strcmp(calculate_functi"}
+{"id": "C/4", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/5", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/6", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/7", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/8", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/9", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/10", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/11", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/qwen25_coder_3b_instruct__ft_original_py/tmp/11.c:20: main: Assertion `are_intervals_intersec"}
+{"id": "C/12", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/13", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/14", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 *** stack smashing detected ***: terminated"}
+{"id": "C/15", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None error: algorithm: No such file or directory"}
+{"id": "C/16", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/qwen25_coder_3b_instruct__ft_original_py/tmp/16.c:28: main: Assertion `count_valid_coin_toss_"}
+{"id": "C/17", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/18", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/qwen25_coder_3b_instruct__ft_original_py/tmp/18.c:46: main: Assertion `strcmp(id, \"ftiasch\") "}
+{"id": "C/19", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/qwen25_coder_3b_instruct__ft_original_py/tmp/19.c:26: main: Assertion `count_permutations_of_"}
+{"id": "C/20", "official_pass": false, "official_status": "run_failed", "detail": "path=whole_text exit=-6 work: <evaluator>/mceval_c/native/qwen25_coder_3b_instruct__ft_original_py/tmp/20.c:50: main: Assertion `strcmp(answer_question"}
+{"id": "C/21", "official_pass": false, "official_status": "run_failed", "detail": "path=whole_text exit=-6 work: <evaluator>/mceval_c/native/qwen25_coder_3b_instruct__ft_original_py/tmp/21.c:22: main: Assertion `Is_Square(1, (int[]){9"}
+{"id": "C/22", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/23", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/qwen25_coder_3b_instruct__ft_original_py/tmp/23.c:48: main: Assertion `count_acute_triangles("}
+{"id": "C/24", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/25", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/qwen25_coder_3b_instruct__ft_original_py/tmp/25.c:31: main: Assertion `strcmp(shift_character"}
+{"id": "C/26", "official_pass": false, "official_status": "run_failed", "detail": "path=whole_text exit=-6 work: <evaluator>/mceval_c/native/qwen25_coder_3b_instruct__ft_original_py/tmp/26.c:26: main: Assertion `classify_integer(\"39\")"}
+{"id": "C/27", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/28", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/29", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/30", "official_pass": false, "official_status": "run_failed", "detail": "path=whole_text exit=-6 work: <evaluator>/mceval_c/native/qwen25_coder_3b_instruct__ft_original_py/tmp/30.c:24: main: Assertion `strcmp(check_two_equal"}
+{"id": "C/31", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/qwen25_coder_3b_instruct__ft_original_py/tmp/31.c:29: main: Assertion `minRoundsToSameChar(\"a"}
+{"id": "C/32", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/qwen25_coder_3b_instruct__ft_original_py/tmp/32.c:17: main: Assertion `apocalypseYear(6, (int"}
+{"id": "C/33", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/qwen25_coder_3b_instruct__ft_original_py/tmp/33.c:21: main: Assertion `newModuloFactorial(10,"}
+{"id": "C/34", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: algorithm: No such file or directory"}
+{"id": "C/35", "official_pass": false, "official_status": "run_failed", "detail": "path=whole_text exit=-6 work: <evaluator>/mceval_c/native/qwen25_coder_3b_instruct__ft_original_py/tmp/35.c:27: main: Assertion `gameWinner(5, test2) ="}
+{"id": "C/36", "official_pass": false, "official_status": "run_failed", "detail": "path=whole_text exit=-6 work: <evaluator>/mceval_c/native/qwen25_coder_3b_instruct__ft_original_py/tmp/36.c:22: main: Assertion `minTotalCost(5, costs1"}
+{"id": "C/37", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/qwen25_coder_3b_instruct__ft_original_py/tmp/37.c:22: main: Assertion `countHandshakes(4, or1"}
+{"id": "C/38", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/qwen25_coder_3b_instruct__ft_original_py/tmp/38.c:51: main: Assertion `maxModeSum(3, (int[]){"}
+{"id": "C/39", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/qwen25_coder_3b_instruct__ft_original_py/tmp/39.c:25: main: Assertion `sumOfXorSubarrays(test"}
+{"id": "C/40", "official_pass": false, "official_status": "timeout", "detail": "path=entry_regex exit=None official time_limit(15)"}
+{"id": "C/41", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/qwen25_coder_3b_instruct__ft_original_py/tmp/41.c:54: main: Assertion `countBalancedSubsequen"}
+{"id": "C/42", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: vector: No such file or directory"}
+{"id": "C/43", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None error: unknown type name ‘from’"}
+{"id": "C/44", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None '\n/usr/bin/ld: 44.c:(.text+0x3be): undefined reference to `countTriplets'\n/usr/bin/ld: 44.c:(.text+0x45e): undefined reference to `countTriplets'\n/usr/bin/ld: 4"}
+{"id": "C/45", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/qwen25_coder_3b_instruct__ft_original_py/tmp/45.c:38: main: Assertion `minOperations(5, (int["}
+{"id": "C/46", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/47", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/48", "official_pass": false, "official_status": "run_failed", "detail": "path=whole_text exit=-6 work: <evaluator>/mceval_c/native/qwen25_coder_3b_instruct__ft_original_py/tmp/48.c:17: main: Assertion `addDigits(9) == 9' fai"}
+{"id": "C/49", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/50", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}

@@ -1,0 +1,800 @@
+{"id": "sample_0", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[(3, 1)]'"}
+{"id": "sample_1", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{1, 1, 2}'"}
+{"id": "sample_2", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('hbtofdeiequ')\""}
+{"id": "sample_3", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('bcksrut', 'q')\""}
+{"id": "sample_4", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'     '\""}
+{"id": "sample_5", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('DSUWeqExTQdCMGpqur', 'a', 'x')\""}
+{"id": "sample_6", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[('a', 12), ('65', 34)]\""}
+{"id": "sample_7", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_8", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_9", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_10", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_11", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'foo': 'bar'}\""}
+{"id": "sample_12", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('If you want to live a happy life! Daniel', 'Daniel')\""}
+{"id": "sample_13", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f(['sharron', 'Savannah', 'Mike Cherokee'])\""}
+{"id": "sample_14", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('   OOP   ')  # returns 'POO'\""}
+{"id": "sample_15", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"zn kgd jw lnt\", \"h\", \"u\")'"}
+{"id": "sample_16", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_17", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"fThere are, no, commas, in this text\".find(\",\")'"}
+{"id": "sample_18", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[5, 4, 3, 3, 2, 1, 0]'"}
+{"id": "sample_19", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_20", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('was,')\""}
+{"id": "sample_21", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 1, 2, 2, 2, 2]'"}
+{"id": "sample_22", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_23", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('new-medium-performing-application - XQuery 2.2', '0123456789-')\""}
+{"id": "sample_24", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_25", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_26", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"qy. dg. rnvprt rse.. irtwv tx..\", \"wtwdoacb\")'"}
+{"id": "sample_27", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('flak')\""}
+{"id": "sample_28", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([5, 8])'"}
+{"id": "sample_29", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'-123'\""}
+{"id": "sample_30", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_31", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('PoIOarTvpoead')\""}
+{"id": "sample_32", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"';*volume*l'\""}
+{"id": "sample_33", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'5': [5, 2, 7, 2, 3], '2': [2, 7, 2], '7': [7, 2, 3], '3': [3]}\""}
+{"id": "sample_34", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[2, 6, 8, 4, 5, 21]'"}
+{"id": "sample_35", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 2, 3]'"}
+{"id": "sample_36", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('ha', '')\""}
+{"id": "sample_37", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_38", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'1oE-ErR bzz-bmm'\""}
+{"id": "sample_39", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([6, 2, 7, 1], 6)'"}
+{"id": "sample_40", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"fthe cow goes moo#\"'"}
+{"id": "sample_41", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[92, 21]'"}
+{"id": "sample_42", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[8, 6, 4, 2, 4, -2, 8, 4]'"}
+{"id": "sample_43", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_44", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('nzoh')\""}
+{"id": "sample_45", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('za1fd1as8f7afasdfam97adfa', '7')\""}
+{"id": "sample_46", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['many', 'letters', 'asvsz', 'hello', 'man']\""}
+{"id": "sample_47", "official_pass": false, "official_status": "fail", "detail": "[value] answer='True'"}
+{"id": "sample_48", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_49", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_50", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['a', 'c', 'v', 1]\""}
+{"id": "sample_51", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(21)'"}
+{"id": "sample_52", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"seiq7229 d27\")'"}
+{"id": "sample_53", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['b', 'b', 'c', 'c', 'c', 'd', 'd', 'd', 'd', 'e', 'e', 'e', 'e', 'e', 'f', 'f', 'f', 'f', 'f', 'f']\""}
+{"id": "sample_54", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('happy', 0, 3)\""}
+{"id": "sample_55", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[89, 43, 17, 8, 4]'"}
+{"id": "sample_56", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_57", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('ax')\""}
+{"id": "sample_58", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[-1, 0, 0, 1, 1, -1, 0, 0, 1, 1]'"}
+{"id": "sample_59", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('hi ')\""}
+{"id": "sample_60", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('raruwa')\""}
+{"id": "sample_61", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_62", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"({'eating', 'books', 'piano', 'excitement'})\""}
+{"id": "sample_63", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('ndbtdabdahesyehu', 'n')\""}
+{"id": "sample_64", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'    7    '\""}
+{"id": "sample_65", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([3, 2, 0, 3, 7], 3)'"}
+{"id": "sample_66", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('happy', 'ha')\""}
+{"id": "sample_67", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_68", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'omeunhwpvr.dq'\""}
+{"id": "sample_69", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_70", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('999893767522480')\""}
+{"id": "sample_71", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{7: 8, 9: 10}'"}
+{"id": "sample_72", "official_pass": false, "official_status": "fail", "detail": "[value] answer='False'"}
+{"id": "sample_73", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"100010010\")  # Output: (4, 4)'"}
+{"id": "sample_74", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[44, 34, 23, 15, 82, 24, 11, 63, 99]'"}
+{"id": "sample_75", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([-1, 2, 1, -8, 2], 2)'"}
+{"id": "sample_76", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[10, 3, 2, 2, 6]'"}
+{"id": "sample_77", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('h ,lpvvkohh,u', 'i')\""}
+{"id": "sample_78", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"f('mTYWLMwbLRVOqNEf.oLsYkZORKE[Ko[{n'])\""}
+{"id": "sample_79", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_80", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_81", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_82", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('CJU', 'BFS', 'WBYDZPVES', 'Y')\""}
+{"id": "sample_83", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('qq0tt')\""}
+{"id": "sample_84", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"nwv mef ofme bdryl\")'"}
+{"id": "sample_85", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'4.5', 6}\""}
+{"id": "sample_86", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f(['sdfs', 'drcr', '2e'], ['sdfs', 'dr2c', 'QWERTY'], 0)\""}
+{"id": "sample_87", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['-2', '1', '3', '9', '-1']\""}
+{"id": "sample_88", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"he\", \"hello\")'"}
+{"id": "sample_89", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('o')\""}
+{"id": "sample_90", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_91", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['1', '2', 'a', 'b', '2', '3', 'x', 'y']\""}
+{"id": "sample_92", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_93", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('iq')\""}
+{"id": "sample_94", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_95", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_96", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('lunabotics')\""}
+{"id": "sample_97", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([2, 0])'"}
+{"id": "sample_98", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('SOME OF THIS Is uknowN!')  # returns 1\""}
+{"id": "sample_99", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'aa+bb'\""}
+{"id": "sample_100", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_101", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[ -4, 1, 4, 0]'"}
+{"id": "sample_102", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[4, 5]'"}
+{"id": "sample_103", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_104", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_105", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"Permission is granted\"'"}
+{"id": "sample_106", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[4, 16, -4, 18, 6, 6]'"}
+{"id": "sample_107", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"ua6hajq\")'"}
+{"id": "sample_108", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(1)'"}
+{"id": "sample_109", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 9, 0, 1, 1]'"}
+{"id": "sample_110", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"       \")'"}
+{"id": "sample_111", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f({'x': 67, 'v': 89, '': 4, 'alij': 11, 'kgfsd': 72, 'yafby': 83})\""}
+{"id": "sample_112", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('XYZ LittleRedRidingHood LiTTleBIGGeXEiT fault')\""}
+{"id": "sample_113", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='0:\\n            a.append(line[i].swapcase())\\n        else:\\n            a.append(line[i])\\n    return \\'\\'.join(a)\\n\\nprint(f(\"'"}
+{"id": "sample_114", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['a', 'b', '']\""}
+{"id": "sample_115", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"b'0; \\\\x3b; \\\\x00; \\\\x3b; \\\\x00; \\\\x3b; \\\\x00; \\\\x3b; \\\\x00; \\\\x3b; \\\\x00; \\\\x3b; \\\\x00; \\\\x3b; \\\\x00; \\\\x3b; \\\\x00; \\\\x3b; \\\\x00; \\\\x3b; \\\\\""}
+{"id": "sample_116", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_117", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"23157\")'"}
+{"id": "sample_118", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('zbzquiuqnmfkx', 'mk')\""}
+{"id": "sample_119", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"VnSlygltAw\"'"}
+{"id": "sample_120", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_121", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('01,001')\""}
+{"id": "sample_122", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_123", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 2, 3, 6, 5, 8]'"}
+{"id": "sample_124", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('i like you', ' ', -1)\""}
+{"id": "sample_125", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\\'\"Leap and the net will appear\\', 123)'"}
+{"id": "sample_126", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('kkxkxxfck')\""}
+{"id": "sample_127", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"145\\\\n\\\\n12fjkjg\")'"}
+{"id": "sample_128", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('Mammoth')\""}
+{"id": "sample_129", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[9, 21]'"}
+{"id": "sample_130", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['{}={}', '{1}={0}'][3 % 2].format(*m.keys(), **m)\""}
+{"id": "sample_131", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"a\\\\nkgf\\\\nasd\\\\n\")'"}
+{"id": "sample_132", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'abcd'\""}
+{"id": "sample_133", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[7, 1, 2, 6, 0]'"}
+{"id": "sample_134", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'10004372359372359372359372359372359372359372359372359372359372359372359372359372359372359372359372359372359372359372359\""}
+{"id": "sample_135", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_136", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"  a\\\\n  bc\\\\n  \\\\nd\\\\n  ef\"'"}
+{"id": "sample_137", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[0, 0, 2, 3]'"}
+{"id": "sample_138", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('tflb omn rtt', 'm')\""}
+{"id": "sample_139", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['1', '1', '1', '1', '1', '1', '1', '1', '1', '1']\""}
+{"id": "sample_140", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'Hi'\""}
+{"id": "sample_141", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"[f(['k', 'x', 'c', 'x', 'x', 'b', 'l', 'f', 'r', 'n', 'g'])]\""}
+{"id": "sample_142", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('ykdfhp')\""}
+{"id": "sample_143", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_144", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[[]]'"}
+{"id": "sample_145", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_146", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_147", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_148", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('2imo 12 tfiqr.', 'm')\""}
+{"id": "sample_149", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"',32332,23543,132323,33300'\""}
+{"id": "sample_150", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[-2, 4, -4, -2, 4, -4, -2]'"}
+{"id": "sample_151", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'69700000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000\""}
+{"id": "sample_152", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f(''.join(['A'] * 20))\""}
+{"id": "sample_153", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('friends and love', 'and', 3)\""}
+{"id": "sample_154", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'*  Hello There  '\""}
+{"id": "sample_155", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"dskjs hjcdjnxhjicnn\", 4)'"}
+{"id": "sample_156", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('tqzym', 5, 'c')\""}
+{"id": "sample_157", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"aboba 212 has 0 digits\")'"}
+{"id": "sample_158", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[6, 4, -2]'"}
+{"id": "sample_159", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('RTiGM')\""}
+{"id": "sample_160", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_161", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'rinpxdifkj'\""}
+{"id": "sample_162", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('\u0441 bishop.Swift')\""}
+{"id": "sample_163", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('w', '))', 7)\""}
+{"id": "sample_164", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[0, 1, 5]'"}
+{"id": "sample_165", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('=xtanp|sugv?z', 3, 6)\""}
+{"id": "sample_166", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_167", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('aaXXXXbbXXXXccXXXXde', 'QW')\""}
+{"id": "sample_168", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'bsnai'\""}
+{"id": "sample_169", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('taole')\""}
+{"id": "sample_170", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([12, 0, 13, 4, 12], 12)'"}
+{"id": "sample_171", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_172", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_173", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[8, 6, 8, 5]'"}
+{"id": "sample_174", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_175", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'\\\\n'\""}
+{"id": "sample_176", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'os textsome'\""}
+{"id": "sample_177", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('Hey DUdE THis $nd^ &*&this@#')\""}
+{"id": "sample_178", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_179", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[0, 2, 1, 2, 7, 6]'"}
+{"id": "sample_180", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[-1, 3, -2, -6, 8, 8]'"}
+{"id": "sample_181", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['329kn12a23', 4]\""}
+{"id": "sample_182", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_183", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['echo', 'hello!!!', 'nice', 'echo', 'nice']\""}
+{"id": "sample_184", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[2, 1]'"}
+{"id": "sample_185", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[11, 9, 12, 14, 16, 7]'"}
+{"id": "sample_186", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_187", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f({27:39}, 1)'"}
+{"id": "sample_188", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['a', 'car']\""}
+{"id": "sample_189", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"{{{{}}}}\", {})'"}
+{"id": "sample_190", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('980jio80jic kld094398IIl ')\""}
+{"id": "sample_191", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_192", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('!klcd!ma:ri', '!')\""}
+{"id": "sample_193", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_194", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[[[], 5, 6, 2, 3], [1, 9, 5, 6]]'"}
+{"id": "sample_195", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('ilfdoirwirmtoibsac')\""}
+{"id": "sample_196", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"398 Is A Poor Year To Sow\")'"}
+{"id": "sample_197", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_198", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('tcmfsmj', 'cfj')\""}
+{"id": "sample_199", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'nmnj krupa...##!@#'\""}
+{"id": "sample_200", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('jao mt', 'house')\""}
+{"id": "sample_201", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('--4yrw 251-//4 6p')\""}
+{"id": "sample_202", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[15, 15, 1, 2]'"}
+{"id": "sample_203", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_204", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['m', 'r']\""}
+{"id": "sample_205", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"##fiu##nk#he###wumun##\")'"}
+{"id": "sample_206", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'hello world!'\""}
+{"id": "sample_207", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_208", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['1', '2', '3', 'c', 'a', 't', 'd', ' ', 'd', 'e', 'e']\""}
+{"id": "sample_209", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_210", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(46, 48, 21)'"}
+{"id": "sample_211", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"abca dea ead\")'"}
+{"id": "sample_212", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[-3, 6, 2, 7, -9, 9, 1]'"}
+{"id": "sample_213", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_214", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('present/here/car%2Fwe')\""}
+{"id": "sample_215", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f(')')\""}
+{"id": "sample_216", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"dp ef1 gh2\")'"}
+{"id": "sample_217", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='\"f(\\'Str zahrnuje anglo-ameri\u00e6ske vasi piscina and kuca!\\')\"'"}
+{"id": "sample_218", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"('caabcfcabfcabcaabcfcabfc')[::-1]\""}
+{"id": "sample_219", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"Hello\", \")\")'"}
+{"id": "sample_220", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"abcdefgabc\", 1, 2)'"}
+{"id": "sample_221", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'24fc5..bpxa'\""}
+{"id": "sample_222", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('0aabbaa0b', 'a')\""}
+{"id": "sample_223", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([1, 2, -1, 4], 2)'"}
+{"id": "sample_224", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'23': 123}\""}
+{"id": "sample_225", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_226", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_227", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'ManOlo'\""}
+{"id": "sample_228", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'#l lthh saflapkphthswp'\""}
+{"id": "sample_229", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['mA', 1, '9m', 2, '10K', 2, 'Lk', 2]\""}
+{"id": "sample_230", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('102x0zoq')\""}
+{"id": "sample_231", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([1872, 1995, 1945])'"}
+{"id": "sample_232", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('fssnvd', 'yes')\""}
+{"id": "sample_233", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[3, 1, 2]'"}
+{"id": "sample_234", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('wduhzxlfk', 'w')\""}
+{"id": "sample_235", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_236", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['ac8', 'qk6', '9wg']\""}
+{"id": "sample_237", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'uzlwaqiajua'\""}
+{"id": "sample_238", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([[1, 9, 4], [83, 0, 5], [9, 6, 100]], 1)'"}
+{"id": "sample_239", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('0 t 1cos ', 'st ' + '0\\\\t\\\\n  ')\""}
+{"id": "sample_240", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'3.12'\""}
+{"id": "sample_241", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_242", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"udhv zcvi nhtnfyd :erwuyawa pun\")'"}
+{"id": "sample_243", "official_pass": false, "official_status": "fail", "detail": "[value] answer='False'"}
+{"id": "sample_244", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"''\""}
+{"id": "sample_245", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x',\""}
+{"id": "sample_246", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_247", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"no\"'"}
+{"id": "sample_248", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[666, 666]'"}
+{"id": "sample_249", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'f': 1, 's': 1}\""}
+{"id": "sample_250", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('wlace A')\""}
+{"id": "sample_251", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['+353Marie,Nelson,Oscar']\""}
+{"id": "sample_252", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'foo'\""}
+{"id": "sample_253", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('kumwwfv', 'k')\""}
+{"id": "sample_254", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'lower case'\""}
+{"id": "sample_255", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('no asw', 'j', 1)\""}
+{"id": "sample_256", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('dorfunctions', '2')\""}
+{"id": "sample_257", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[[\\'Hello World\\'], [\"I am String\"]]'"}
+{"id": "sample_258", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 2, 3, 7, 9]'"}
+{"id": "sample_259", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('String matching is a big part of RexEx library.')\""}
+{"id": "sample_260", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 2, 3, 4, 5, 6]'"}
+{"id": "sample_261", "official_pass": false, "official_status": "fail", "detail": "[value] answer='([2, 3], [12, 516, 5, 214, 51])'"}
+{"id": "sample_262", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([4, 5])'"}
+{"id": "sample_263", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[\"banana\", \"barn\", \"lawn\"]'"}
+{"id": "sample_264", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"papera\")'"}
+{"id": "sample_265", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{1: 2}'"}
+{"id": "sample_266", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[2, 3, 4, 6, -2, 3]'"}
+{"id": "sample_267", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('sowpf', -7)\""}
+{"id": "sample_268", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"' h / grateful / k '\""}
+{"id": "sample_269", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[9, 0, 0, 2, 0, 0]'"}
+{"id": "sample_270", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_271", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'ufh'\""}
+{"id": "sample_272", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='[9, 7, 5, 3, 1, 2, 4, 6, 8, 0, 9, 7, 5, 3, 1, 2, 4, 6, 8, 0, 9, 7, 5, 3, 1, 2, 4, 6, 8, 0, 9, 7, 5, 3, 1, 2, 4, 6, 8, 0,'"}
+{"id": "sample_273", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('.NET')\""}
+{"id": "sample_274", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([1, 2, 3], 4)'"}
+{"id": "sample_275", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{-1: 'c', 0: 'b', 1: 'a'}\""}
+{"id": "sample_276", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_277", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_278", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_279", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_280", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('00000000 00000000 01101100 01100101 01101110')\""}
+{"id": "sample_281", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{1: 2, 3: 4, 5: 6}'"}
+{"id": "sample_282", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('xinyyexyxx', 'xx')\""}
+{"id": "sample_283", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f({'Iron Man': 4, 'Captain America': 3, 'Black Panther': 0,'Thor': 1, 'Ant-Man': 6}, 'Iron Man')\""}
+{"id": "sample_284", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"text[idx:]  # After the loop, idx is 10, and text is 'bestest', so text[10:] is ''\""}
+{"id": "sample_285", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"This be Pirate\\'s Speak for \\'help\\'!\", \\' \\')'"}
+{"id": "sample_286", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 2, 3, 11, 5, 6, 7, 8, 9, 10]'"}
+{"id": "sample_287", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('Pinneaple')\""}
+{"id": "sample_288", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[(1, 3), (4, 555), (71, 7), (12, 6)]'"}
+{"id": "sample_289", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'148: b'148'\""}
+{"id": "sample_290", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'ixaaaily'\""}
+{"id": "sample_291", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'a': 'a'}\""}
+{"id": "sample_292", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('5f83u23saa')\""}
+{"id": "sample_293", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('dEXE')\""}
+{"id": "sample_294", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"2xz&5H3*$1a@#a*1hris\"'"}
+{"id": "sample_295", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['apple', 'pear', 'banana', 'pear']\""}
+{"id": "sample_296", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"https://www.ekapusta.com/image/url\"'"}
+{"id": "sample_297", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_298", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('dst vavf n dmv dfvm gamcu dgcvb.')\""}
+{"id": "sample_299", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'kstaovk'\""}
+{"id": "sample_300", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_301", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[0, 0, 6, 6, 2, 2, -1, -1, -2, -2]'"}
+{"id": "sample_302", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'wdeejjjzsjsjjsxjjhaystacksddddddefsfd'\""}
+{"id": "sample_303", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('mJkLbn')\""}
+{"id": "sample_304", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'87': 7, '18': 6}\""}
+{"id": "sample_305", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('o horseto', 'r')\""}
+{"id": "sample_306", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_307", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('pxcznyf')\""}
+{"id": "sample_308", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_309", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'faqo osax'\""}
+{"id": "sample_310", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f(['__', '1', '.', '0', 'r0', '__', 'a_j', '6', '__', '6'])\""}
+{"id": "sample_311", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_312", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_313", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_314", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"', 105 244'\""}
+{"id": "sample_315", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('czywZ').casefold().replace('l', ',')\""}
+{"id": "sample_316", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_317", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"' vup u zwwo oihee amuwuuw! '\""}
+{"id": "sample_318", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('234rtccde', 'e')\""}
+{"id": "sample_319", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('a', 'xxxaaxaaxx')\""}
+{"id": "sample_320", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('USaR')\""}
+{"id": "sample_321", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_322", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['lsi', 's', 't', 'd']\""}
+{"id": "sample_323", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('ncdsdfdaaa0a1cdscsk*XFd')\""}
+{"id": "sample_324", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_325", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"\")'"}
+{"id": "sample_326", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('Thisisastring')\""}
+{"id": "sample_327", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[-1, 7, 1, -3]'"}
+{"id": "sample_328", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_329", "official_pass": false, "official_status": "fail", "detail": "[value] answer='False'"}
+{"id": "sample_330", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('m4n2o')\""}
+{"id": "sample_331", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"''\""}
+{"id": "sample_332", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[-6, 1, -3]'"}
+{"id": "sample_333", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([375, 564, 857, 90, 728, 92], [728])'"}
+{"id": "sample_334", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'00nU00 9 rCSAz00w00 lpA5BO00sizL00i7rlVr'\""}
+{"id": "sample_335", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('sjbrlfqmw', 'l')\""}
+{"id": "sample_336", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'234dsfssdfs'\""}
+{"id": "sample_337", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"5ll6\")'"}
+{"id": "sample_338", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'1': 'a', '2': 'b', '3': 'c'}\""}
+{"id": "sample_339", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([-1, 2, 1, -8, -8, 2], 2)'"}
+{"id": "sample_340", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'eiikxhtdpvg'\""}
+{"id": "sample_341", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_342", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"---123-4\")'"}
+{"id": "sample_343", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 2, 3, 1, 2, 3, 3, 2, 1]'"}
+{"id": "sample_344", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[2, 4, 6, 8, 15]'"}
+{"id": "sample_345", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_346", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('docs.doc')\""}
+{"id": "sample_347", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('hzcw')\""}
+{"id": "sample_348", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_349", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'noeohqhk': 623}\""}
+{"id": "sample_350", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_351", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('a_A_b_B3 ')\""}
+{"id": "sample_352", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([-1, -3, -5, -7, 0])'"}
+{"id": "sample_353", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([1, 0, 2, 2, 0, 0, 0, 1])'"}
+{"id": "sample_354", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('{0}, {0}!!!', ['R', None])\""}
+{"id": "sample_355", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'123x John '\""}
+{"id": "sample_356", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 2]'"}
+{"id": "sample_357", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('crew')\""}
+{"id": "sample_358", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('btrburger', 'b')\""}
+{"id": "sample_359", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['dZwbSR     ', 'wijHeq     ', 'qluVok     ', 'dxjxbF     ']\""}
+{"id": "sample_360", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_361", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"#! : #!\")'"}
+{"id": "sample_362", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'z'\""}
+{"id": "sample_363", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_364", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_365", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('xqc', 'mRcwVqXsRDRb')\""}
+{"id": "sample_366", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('[ Hello ]+ Hello, World!!_ Hi')\""}
+{"id": "sample_367", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_368", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['4327', '00043', '000043', '000004327', '0000043271']\""}
+{"id": "sample_369", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"str\"'"}
+{"id": "sample_370", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_371", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([11, 21, 0, 11])'"}
+{"id": "sample_372", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['50,']\""}
+{"id": "sample_373", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 2, 100]'"}
+{"id": "sample_374", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['zzzz', 'zz']\""}
+{"id": "sample_375", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('sierizam', 'iz')\""}
+{"id": "sample_376", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"2two programmers\")'"}
+{"id": "sample_377", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\", NO, WAY\"'"}
+{"id": "sample_378", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_379", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([0, 0, 1, 2, 1])'"}
+{"id": "sample_380", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'jarczx'\""}
+{"id": "sample_381", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('19', 5)\""}
+{"id": "sample_382", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'12': 'Rwrepny', '15': 'Qltuf'}\""}
+{"id": "sample_383", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('ellod!p.nkyp.exa.bi.y.hain', '.n.in.ha.y')\""}
+{"id": "sample_384", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('asfdellos', 'Ta')\""}
+{"id": "sample_385", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[0, 2, 6]'"}
+{"id": "sample_386", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('mid', {'0':'q','1':'f','2':'w','3':'i'})\""}
+{"id": "sample_387", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_388", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"2nm_28in\", \"nm\")'"}
+{"id": "sample_389", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[1, 2, 3, 'nammo']\""}
+{"id": "sample_390", "official_pass": false, "official_status": "fail", "detail": "[value] answer='None'"}
+{"id": "sample_391", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['+', '+', '+']\""}
+{"id": "sample_392", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_393", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('scala')  # returns 'scala---'\""}
+{"id": "sample_394", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"2 m2 \\\\n\\\\nbike\")'"}
+{"id": "sample_395", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"11\")'"}
+{"id": "sample_396", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_397", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_398", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'0': ['2', '1'], '1': ['2', '0'], '2': ['2', '1']}\""}
+{"id": "sample_399", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('avacado', 'va', '-')\""}
+{"id": "sample_400", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_401", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_402", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{0: 0}'"}
+{"id": "sample_403", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('hrsiajiajieihruejfhbrisvlmmy', 'hr')\""}
+{"id": "sample_404", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[6]'"}
+{"id": "sample_405", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_406", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('Josh')\""}
+{"id": "sample_407", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[3]'"}
+{"id": "sample_408", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_409", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('querist', 'u')\""}
+{"id": "sample_410", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='[1, 1, 1, 3, -1, -1, 1, -2, -2, 6, 6, -1, 1, -1, 1, -2, 1, 6, -1, 1, 1, -2, 1, 6, -1, 1, 1, -2, 1, 6, -1, 1, 1, -2, 1, 6'"}
+{"id": "sample_411", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('Hello World', 'W')\""}
+{"id": "sample_412", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(3, 10, 1)'"}
+{"id": "sample_413", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'cwcjb'\""}
+{"id": "sample_414", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_415", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(((8, 5), (8, 2), (5, 3)))'"}
+{"id": "sample_416", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('jysrhfm ojwesf xgwwdyr dlrul ymba bpq', 'j', '1')\""}
+{"id": "sample_417", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[7, 2, 8]'"}
+{"id": "sample_418", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"qqqqq\", \"qqq\")  # returns \\'qqqqqqqq#\\''"}
+{"id": "sample_419", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"''\""}
+{"id": "sample_420", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_421", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"try\"'"}
+{"id": "sample_422", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_423", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[4, 2, 5, 1, 3]'"}
+{"id": "sample_424", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\\'\"Makers of a Statement\"\\')'"}
+{"id": "sample_425", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['/CL44', '', '']\""}
+{"id": "sample_426", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 2, 3, 8, 8]'"}
+{"id": "sample_427", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('s a a b s d s a a s a a')\""}
+{"id": "sample_428", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_429", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[('defghi', 2), (87.29, 3), (5, 1)]\""}
+{"id": "sample_430", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_431", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_432", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_433", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"Dmreh,Sspp,T,G ,.tB,Vxk,Cct\")'"}
+{"id": "sample_434", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('eeuseeeoehasa')\""}
+{"id": "sample_435", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['1']\""}
+{"id": "sample_436", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['s', '  ', 's', 'ss', 's']\""}
+{"id": "sample_437", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'john': None, 'doe': None, 'the': None}\""}
+{"id": "sample_438", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'1\\t3'\""}
+{"id": "sample_439", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'cosc'\""}
+{"id": "sample_440", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_441", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{37: 'forty-five'}\""}
+{"id": "sample_442", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_443", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_444", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[-5, 6, 5, 5, 4, 8, 8]'"}
+{"id": "sample_445", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"carrot, banana, and strawberry\")'"}
+{"id": "sample_446", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_447", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"\\\\ta\", 3)'"}
+{"id": "sample_448", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('uMeGndkGh', 'kG')\""}
+{"id": "sample_449", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('1')\""}
+{"id": "sample_450", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('K zBK')\""}
+{"id": "sample_451", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['n']\""}
+{"id": "sample_452", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_453", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('wrsch)xjmb8', 'c')\""}
+{"id": "sample_454", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_455", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'?XyZ'.upper()\""}
+{"id": "sample_456", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"    Join us in Hungary\"'"}
+{"id": "sample_457", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[7, 5, 6]'"}
+{"id": "sample_458", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('mmm34mIm', 'mm3', ',po')\""}
+{"id": "sample_459", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_460", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'|  GENERAL NAGOOR  |'\""}
+{"id": "sample_461", "official_pass": false, "official_status": "fail", "detail": "[value] answer='False'"}
+{"id": "sample_462", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('ldebgp o', 'o')\""}
+{"id": "sample_463", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{5: 5, 3: 6}'"}
+{"id": "sample_464", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('0')\""}
+{"id": "sample_465", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_466", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('-----\\\\t\\\\n\\\\tth\\\\n-----')\""}
+{"id": "sample_467", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_468", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'cunrndqafi'\""}
+{"id": "sample_469", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('sduyai', 1, 'y')\""}
+{"id": "sample_470", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_471", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('o', 'fnmart')\""}
+{"id": "sample_472", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['x', 'y', 'z', '5', 'c']\""}
+{"id": "sample_473", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('scedvtvotkwqfoqn', 'o')\""}
+{"id": "sample_474", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('#[)[]>[^e>\\\\n 8', -5)\""}
+{"id": "sample_475", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([1], 0)'"}
+{"id": "sample_476", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"booty boot-boot bootclass\", \\'k\\')'"}
+{"id": "sample_477", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('|xduaisf')\""}
+{"id": "sample_478", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'meow': 2}\""}
+{"id": "sample_479", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 5, 3, 6]'"}
+{"id": "sample_480", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_481", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 1, 1]'"}
+{"id": "sample_482", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\\'\"Because it intrigues them\"\\''"}
+{"id": "sample_483", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['a']\""}
+{"id": "sample_484", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['182', '32', 'r6', 'r5', 'reg', '', 'f', '1fq', '4']\""}
+{"id": "sample_485", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'    gsd    avdropj'\""}
+{"id": "sample_486", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_487", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_488", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'zmvgvn 651h'\""}
+{"id": "sample_489", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'fysu'\""}
+{"id": "sample_490", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'  \\\\n\\\\n'\""}
+{"id": "sample_491", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[4, 4, 8, 8, 8, 8, 5, 5]'"}
+{"id": "sample_492", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('abbkebaniuwurzvr', 'm')\""}
+{"id": "sample_493", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[('-4', '4'), ('1', '2'), ('-', '-3')]\""}
+{"id": "sample_494", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"0011\"'"}
+{"id": "sample_495", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('a1234\u00e5r')  # returns ('a1234', '4\u00e5r')\""}
+{"id": "sample_496", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('eftw{\u044c\u0422\u0441k_1', '\\\\\\\\')\""}
+{"id": "sample_497", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['4', '+', '4']\""}
+{"id": "sample_498", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[2, 2, 3, 3, 3]'"}
+{"id": "sample_499", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('magazine', 25, '.')\""}
+{"id": "sample_500", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'w i osq jds'\""}
+{"id": "sample_501", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('qpfi jzm', 'j')\""}
+{"id": "sample_502", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'*Fred Smith*'\""}
+{"id": "sample_503", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[None, None]'"}
+{"id": "sample_504", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_505", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('--4/0-209')\""}
+{"id": "sample_506", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"' sn'\""}
+{"id": "sample_507", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('car hat', 'car')\""}
+{"id": "sample_508", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('ertubwi', 'p', 5)\""}
+{"id": "sample_509", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'-5'\""}
+{"id": "sample_510", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f({7: 'ii5p', 1: 'o3Jwus', 3: 'lot9L', 2: '04g', 9: 'Wjf', 8: '5b', 0: 'te6', 5: 'flLO', 6: 'jq', 4: 'vfa0tW'}, 4, 'Wy',\""}
+{"id": "sample_511", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_512", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('102')\""}
+{"id": "sample_513", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[2]'"}
+{"id": "sample_514", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('-stew---corn-and-beans-in soup-.-')\""}
+{"id": "sample_515", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[10, 4, 6, 8, 20]'"}
+{"id": "sample_516", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['condor', 'isa']\""}
+{"id": "sample_517", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('SzHjifnzog')\""}
+{"id": "sample_518", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"not 'the speed is -36 miles per hour'.isdecimal()\""}
+{"id": "sample_519", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_520", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[6]'"}
+{"id": "sample_521", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[2, 0, 5, 77, 4, 0, 43, 9, 77]'"}
+{"id": "sample_522", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0,'"}
+{"id": "sample_523", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('   ') returns '   '\""}
+{"id": "sample_524", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{1: 0, 2: 1, 3: 2, 4: 3, 5: 4}'"}
+{"id": "sample_525", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f({'TEXT': 7, 'CODE': 3}, 7, 3)\""}
+{"id": "sample_526", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('ekwies', 's', 'rpg', 1)\""}
+{"id": "sample_527", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"!??\"'"}
+{"id": "sample_528", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('papeluchis')\""}
+{"id": "sample_529", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 3]'"}
+{"id": "sample_530", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'!?'\""}
+{"id": "sample_531", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"Ibaskdjgblw asdl \", \"djgblw\")'"}
+{"id": "sample_532", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_533", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_534", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('hosu', 'o')\""}
+{"id": "sample_535", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(1341240312)'"}
+{"id": "sample_536", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('C24Bxxx982ab')\""}
+{"id": "sample_537", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('abv', 'a')\""}
+{"id": "sample_538", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'0574zzzz'\""}
+{"id": "sample_539", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_540", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[5, 5, 5, 5, 5, 6, 4, 9, 5]'"}
+{"id": "sample_541", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f(' \\\\t  \\\\u3000')\""}
+{"id": "sample_542", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['ab', 'cd']\""}
+{"id": "sample_543", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('.,,,,,. \u0645\u0646\u0628\u062a')\""}
+{"id": "sample_544", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"\\\\t\\\\t\\\\ttab tab tabulates\"'"}
+{"id": "sample_545", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[-1, 8, 8, -4, 2, 8]'"}
+{"id": "sample_546", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('[CHARRUNNERS]Do you know who the other was? [NEGMENDS]', '[CHARRUNNERS]')\""}
+{"id": "sample_547", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"....h....e....l....l....o....w....o....r....l....d....\"'"}
+{"id": "sample_548", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_549", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[[1, 1, 1, 1], [1, 1, 1, 1]]'"}
+{"id": "sample_550", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 1, 4, 4, 16, 16]'"}
+{"id": "sample_551", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['a', 'b', 'c']\""}
+{"id": "sample_552", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{0.76: 2, 3: 5, 6: 5, 9: 5, 12: 5}'"}
+{"id": "sample_553", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('439m2670hlsw', 3)\""}
+{"id": "sample_554", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_555", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"odes\\\\tcode\\\\twell\", 2)'"}
+{"id": "sample_556", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('\\\\n\\\\n\\\\t\\\\tz\\\\td\\\\ng\\\\n\\\\t\\\\t\\\\te')\""}
+{"id": "sample_557", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'xxx arm marxx'\""}
+{"id": "sample_558", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([3, 1, 2, 1, 4, 1], [1])'"}
+{"id": "sample_559", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"first._second._third\"'"}
+{"id": "sample_560", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"591237865\")'"}
+{"id": "sample_561", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_562", "official_pass": false, "official_status": "fail", "detail": "[value] answer='False'"}
+{"id": "sample_563", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('jivespdcxc', 'sx')\""}
+{"id": "sample_564", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_565", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"qsqgijwmmhbchoj\")'"}
+{"id": "sample_566", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_567", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['four five', 'one two three']\""}
+{"id": "sample_568", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('bwmm7h')\""}
+{"id": "sample_569", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"11 1 1\")'"}
+{"id": "sample_570", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 2, 2]'"}
+{"id": "sample_571", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f(r'a\\\\tb', 4)\""}
+{"id": "sample_572", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{2: 10, 3: 1, None: None}'"}
+{"id": "sample_573", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_574", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['George', 'Michael', 'George', 'Costanza']\""}
+{"id": "sample_575", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[10, 10, 10, 4, 4, 4]'"}
+{"id": "sample_576", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['x', -2, -1, -2, 1]\""}
+{"id": "sample_577", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_578", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'R': 0, 'T': -3, 'F': 6, 'K': 0}\""}
+{"id": "sample_579", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_580", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 0]'"}
+{"id": "sample_581", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('akoon', 'sXo')\""}
+{"id": "sample_582", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_583", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='\"t\\\\nza\\\\na\".splitlines() gives [\\'t\\', \\'za\\', \\'a\\']\\nFor each line:\\n- \\'t\\' starts with \\'t\\', so it\\'s lowercased to \\'t\\'\\n- \\'za\\' st'"}
+{"id": "sample_584", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_585", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"';,,,'\""}
+{"id": "sample_586", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"breakfast\", \"e\")'"}
+{"id": "sample_587", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_588", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f(['''1''', '+', '-', '**', '//', '*', '+'], '**')\""}
+{"id": "sample_589", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_590", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"25000   $\")'"}
+{"id": "sample_591", "official_pass": false, "official_status": "fail", "detail": "[value] answer='([0, 0, 1, 0, 1, 0, 1, 0, 0], [6, 3, 0, 7, 4, 8])'"}
+{"id": "sample_592", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_593", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_594", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"n wez szize lnson tilebi it 504n.\\\\n\")'"}
+{"id": "sample_595", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('qdhstudentamxupuihbuztn', 'jdm')\""}
+{"id": "sample_596", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['8', '2', '3', '4', '7', '9']\""}
+{"id": "sample_597", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"JAAFODSF AOAFOJ JAFAISDFSA1\"'"}
+{"id": "sample_598", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('abc', 1)\""}
+{"id": "sample_599", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['a', 'b', 'c', 'ab', 'c']\""}
+{"id": "sample_600", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_601", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['C' * 5, 'S' * 5, 'H' * 5, 'P' * 5, 'R' * 5]\""}
+{"id": "sample_602", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([1, 1], 1)'"}
+{"id": "sample_603", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_604", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"Hello world\", \"Hello\")'"}
+{"id": "sample_605", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([2, 5, 1, 7, 9, 3])'"}
+{"id": "sample_606", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('ruam')\""}
+{"id": "sample_607", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('. C.')\""}
+{"id": "sample_608", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_609", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_610", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{1: 3}'"}
+{"id": "sample_611", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[-3, 0, 1, -3, -2, -6]'"}
+{"id": "sample_612", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_613", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('eat!') returns 'e!t'\""}
+{"id": "sample_614", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('zjegiymjc', 'j', 2)\""}
+{"id": "sample_615", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[-1, 12, -6, -2]'"}
+{"id": "sample_616", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('\\\\n\\\\ny\\\\n')\""}
+{"id": "sample_617", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"<<<<\")'"}
+{"id": "sample_618", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'88'\""}
+{"id": "sample_619", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_620", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"f dna ndqmxohi3 l\"'"}
+{"id": "sample_621", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"b'13:45:56'.encode('shift_jis')\""}
+{"id": "sample_622", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'galgu'\""}
+{"id": "sample_623", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('hi~!', ['~', '`', '!', '&'])\""}
+{"id": "sample_624", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('llomnrpc', 'x')\""}
+{"id": "sample_625", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"bwiajegrwjd??djoda,?\")'"}
+{"id": "sample_626", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'baab'\""}
+{"id": "sample_627", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['s', -5]\""}
+{"id": "sample_628", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_629", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_630", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{2: -9, 3: -7}'"}
+{"id": "sample_631", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('a', 19)\""}
+{"id": "sample_632", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_633", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([5, -3, 3, 2], 2)'"}
+{"id": "sample_634", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('biec')\""}
+{"id": "sample_635", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"9.twCpTf.H7 HPeaQ^ C7I6U,C:YtW\")'"}
+{"id": "sample_636", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_637", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('03625163633 d')\""}
+{"id": "sample_638", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('ababa', 'ab')\""}
+{"id": "sample_639", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"xabxfiwoexahxaxbxs\", \"xbabcabccb\")'"}
+{"id": "sample_640", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"3eeeeeeoopppppppw14film3oee3\")'"}
+{"id": "sample_641", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_642", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"     \")'"}
+{"id": "sample_643", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('damdrodm', 'm')\""}
+{"id": "sample_644", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_645", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([1, 1, 1, 2], 3)'"}
+{"id": "sample_646", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('aBc, ,SzY', 2)\""}
+{"id": "sample_647", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_648", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[4, 5, 6]'"}
+{"id": "sample_649", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'\\\\tf9\\\\n\\\\tldf9\\\\n\\\\tadf9!\\\\n\\\\tf9?'\""}
+{"id": "sample_650", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_651", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('E wrestled evil until upperfeat', 'e')\""}
+{"id": "sample_652", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('3')\""}
+{"id": "sample_653", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"c, c, c ,c, c\", \"c\")'"}
+{"id": "sample_654", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'?' + 'a' + 'p' + 'h' + 'd'\""}
+{"id": "sample_655", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('rpaar')\""}
+{"id": "sample_656", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f(['b', 'i', 'r', 'o', 's', 'j', 'v', 'p'])\""}
+{"id": "sample_657", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"djhasghasgdha\")'"}
+{"id": "sample_658", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[3, None, 'c', None, 5]\""}
+{"id": "sample_659", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f(['yR?TAJhIW?n', 'o11BgEFDfoe', 'KnHdn2vdEd', 'wvwruuqfhXbGis'])\""}
+{"id": "sample_660", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(3)'"}
+{"id": "sample_661", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('elrts,SS ee', 6)\""}
+{"id": "sample_662", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['Angela', 'Dusty', 'Dan', 'Joe', 'Linda']\""}
+{"id": "sample_663", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_664", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"3 4\"'"}
+{"id": "sample_665", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"acbced\")'"}
+{"id": "sample_666", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f({ 0: [], 1: [] }, { 0: [0, 0, 0, 0], 2: [2, 2, 2] })'"}
+{"id": "sample_667", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['< C level=0 >']\""}
+{"id": "sample_668", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'earhellomyfriend'\""}
+{"id": "sample_669", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'fubaz'\""}
+{"id": "sample_670", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['ab', 2]\""}
+{"id": "sample_671", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"dywqybt dgo emf rwto segya\"'"}
+{"id": "sample_672", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"1zd\", 0, \\'m\\')'"}
+{"id": "sample_673", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"cA\")'"}
+{"id": "sample_674", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('qq')\""}
+{"id": "sample_675", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 2]'"}
+{"id": "sample_676", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"' a ' * 100\""}
+{"id": "sample_677", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('I got 1 and 0.', 5)\""}
+{"id": "sample_678", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_679", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('meet')\""}
+{"id": "sample_680", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"fwe32r71g72ug94=(823658*!\"'"}
+{"id": "sample_681", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 5, 8, 2, 0, 7, 3]'"}
+{"id": "sample_682", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'_hy_p_hy'\""}
+{"id": "sample_683", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_684", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"9833\\\\n9833\"'"}
+{"id": "sample_685", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([1, 1, 1], -2)'"}
+{"id": "sample_686", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_687", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"':j:u:z:u:f:e'\""}
+{"id": "sample_688", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_689", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[-15, -30, 10, 35]'"}
+{"id": "sample_690", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('800')\""}
+{"id": "sample_691", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('rpyttc', 'cyt')\""}
+{"id": "sample_692", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_693", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'x0x0x0'\""}
+{"id": "sample_694", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_695", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_696", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('wdj')\""}
+{"id": "sample_697", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"('not it', '', '')\""}
+{"id": "sample_698", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f(('(((((((((((d))))))))).))))(((((')))))')\""}
+{"id": "sample_699", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_700", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"Where is the bot in this world?\")  # Output: 0'"}
+{"id": "sample_701", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('31849 let it!31849 pass!', ('3','1','8',' ','1','9','2','d'))\""}
+{"id": "sample_702", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[0, -5, -4]'"}
+{"id": "sample_703", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('vzzv2sg', 'z')\""}
+{"id": "sample_704", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'99'\""}
+{"id": "sample_705", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['Somewhere Sydney', 'Somewhere Hong Kong', 'Somewhere Melbourne', 'Somewhere Sao Paolo', 'Somewhere Istanbul', 'Somewhe\""}
+{"id": "sample_706", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_707", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('undbs l', 1)\""}
+{"id": "sample_708", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('    jcmfxv     ')\""}
+{"id": "sample_709", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_710", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_711", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'apples\\\\t\\\\npears\\\\t\\\\nbananas'\""}
+{"id": "sample_712", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[[\"c\", \"u\", \"b\", \"i\", \"p\", \"A\", \"A\"]]'"}
+{"id": "sample_713", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('only one line', ' ')\""}
+{"id": "sample_714", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['x', 'x', 0, -2, 3]\""}
+{"id": "sample_715", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('abababac', 'a')\""}
+{"id": "sample_716", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[2, 1, 2, 3, 1, 6, 3]'"}
+{"id": "sample_717", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"timetable, 2mil\")'"}
+{"id": "sample_718", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_719", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"if (x) {y = 1;} else {z = 1;}\"'"}
+{"id": "sample_720", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"item:\\n        items.pop()\\n    items.append(item)\\n    return len(items)\\n\\nf('bfreratrrbdbzagbretaredtroefcoiqrrneaosf'.spl\""}
+{"id": "sample_721", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[-8, -7, -6, 2, -5]'"}
+{"id": "sample_722", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f(',wPzPppdl/')\""}
+{"id": "sample_723", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['dga nqdk', 'rull qcha', 'kl']\""}
+{"id": "sample_724", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['100']\""}
+{"id": "sample_725", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"mrq7y\")'"}
+{"id": "sample_726", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"jcle oq wsnibktxpiozyxmopqkfnrfjds\")  # returns (3, 30)'"}
+{"id": "sample_727", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['dxh', 'snegi', 'wiubvu']\""}
+{"id": "sample_728", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('ru')\""}
+{"id": "sample_729", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[5, 11]'"}
+{"id": "sample_730", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"wys silak v5 e4fi rotbi fwj 78 wigf t8s lcl\")'"}
+{"id": "sample_731", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'Chris requires a ride to the airport on Friday.'\""}
+{"id": "sample_732", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_733", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('n') returns 'n'\""}
+{"id": "sample_734", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[3, 7]'"}
+{"id": "sample_735", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('(A (b B))')\""}
+{"id": "sample_736", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'pi chi'\""}
+{"id": "sample_737", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([0, 6, 2, -1, -2])'"}
+{"id": "sample_738", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"r\"'"}
+{"id": "sample_739", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('qwbnjrxs', ['jr', 'b', 'r', 'qw'])\""}
+{"id": "sample_740", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_741", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([6, 8, 2, 5, 3, 1, 9, 7], 6)'"}
+{"id": "sample_742", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"-1-3\")'"}
+{"id": "sample_743", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('dog,cat')\""}
+{"id": "sample_744", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('jro', 'wdlp')\""}
+{"id": "sample_745", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('minimc@minimc.io')\""}
+{"id": "sample_746", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_747", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_748", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"('a', 123)\""}
+{"id": "sample_749", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"' l\\\\n l'\""}
+{"id": "sample_750", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'h': 'a', 'b': 'c', 'd': 'e'}\""}
+{"id": "sample_751", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"wwwwhhhtttpp\", \\'w\\', 3)'"}
+{"id": "sample_752", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('abc', 8)\""}
+{"id": "sample_753", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{0: 1, 1: 1, 2: 1, 3: 1, 4: 1}'"}
+{"id": "sample_754", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['  2', '  2', '    44', '    0', '  7', '20257']\""}
+{"id": "sample_755", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\\'###\\', \"ph>t#A#BiEcDefW#ON#iiNCU\", \\'.\\')'"}
+{"id": "sample_756", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'integer'\""}
+{"id": "sample_757", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('a1a8', '1', 'n2')\""}
+{"id": "sample_758", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_759", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('egmdartoa', 'good')\""}
+{"id": "sample_760", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[4, 3, 2, 1]'"}
+{"id": "sample_761", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_762", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('this And cPanel')\""}
+{"id": "sample_763", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('2Pn', 'yCxpg2C2Pny2', '')\""}
+{"id": "sample_764", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_765", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('so456')\""}
+{"id": "sample_766", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_767", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"d khqw whi fwi bbn 41\")'"}
+{"id": "sample_768", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'abba'\""}
+{"id": "sample_769", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('akA?riu')\""}
+{"id": "sample_770", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'$78'.upper().center(2, '$')\""}
+{"id": "sample_771", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 3, 5, 7]'"}
+{"id": "sample_772", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('serjgpoDFdbcA.')\""}
+{"id": "sample_773", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[-7, 3, 1, -1, -1, 0]'"}
+{"id": "sample_774", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_775", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 6, 1, 3, 2]'"}
+{"id": "sample_776", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_777", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['avca .d e']\""}
+{"id": "sample_778", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('mjs', 'mjqwmjsqjwisojqwiso')\""}
+{"id": "sample_779", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('python ruby c javascript')\""}
+{"id": "sample_780", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([2, 3, 5, 2, 4, 5, 2, 89])'"}
+{"id": "sample_781", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('shivajimonto6', '6')\""}
+{"id": "sample_782", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"a j c n x X k\")'"}
+{"id": "sample_783", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"managed\", \"\")'"}
+{"id": "sample_784", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'read': 'Is'}\""}
+{"id": "sample_785", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'11'\""}
+{"id": "sample_786", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'19kefp7'\""}
+{"id": "sample_787", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_788", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_789", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('bR', -1)\""}
+{"id": "sample_790", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"(f({'i': 1, 'love': 'parakeets'}))\""}
+{"id": "sample_791", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_792", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{}'"}
+{"id": "sample_793", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([1, 2, 4, 3, 2, 1], 0, 3)'"}
+{"id": "sample_794", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"\\\\\"\\\\\\\\%$ normal chars $%~ qwet42\\'\")'"}
+{"id": "sample_795", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'Fu,ux Zfujijabji Pfu.'\""}
+{"id": "sample_796", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'uiyh'\""}
+{"id": "sample_797", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_798", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'!'\""}
+{"id": "sample_799", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('eqe-;ew22')\""}

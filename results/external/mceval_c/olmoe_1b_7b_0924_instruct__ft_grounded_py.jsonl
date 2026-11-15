@@ -1,0 +1,50 @@
+{"id": "C/1", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None error: stray ‘`’ in program"}
+{"id": "C/2", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_grounded_py/tmp/2.c:38: main: Assertion `area == -1' failed."}
+{"id": "C/3", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-11 "}
+{"id": "C/4", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/5", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/6", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_grounded_py/tmp/6.c:40: main: Assertion `process_request(10000)"}
+{"id": "C/7", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_grounded_py/tmp/7.c:50: main: Assertion `fabs(calculate_triangl"}
+{"id": "C/8", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_grounded_py/tmp/8.c:37: main: Assertion `hamming_distance(1, 2)"}
+{"id": "C/9", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/10", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/11", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None error: stray ‘`’ in program"}
+{"id": "C/12", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected declaration or statement at end of input"}
+{"id": "C/13", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None error: ld returned 1 exit status"}
+{"id": "C/14", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_grounded_py/tmp/14.c:126: main: Assertion `decode_numbers(\"0000"}
+{"id": "C/15", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected declaration or statement at end of input"}
+{"id": "C/16", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_grounded_py/tmp/16.c:47: main: Assertion `count_valid_coin_toss"}
+{"id": "C/17", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_grounded_py/tmp/17.c:68: main: Assertion `find_longest_consecut"}
+{"id": "C/18", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_grounded_py/tmp/18.c:45: main: Assertion `strcmp(id, \"ftiasch\")"}
+{"id": "C/19", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_grounded_py/tmp/19.c:35: main: Assertion `count_permutations_of"}
+{"id": "C/20", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None error: invalid initializer"}
+{"id": "C/21", "official_pass": false, "official_status": "compile_failed", "detail": "path=fence exit=None error: conflicting types for ‘is_square’"}
+{"id": "C/22", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None error: stray ‘`’ in program"}
+{"id": "C/23", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None error: two or more data types in declaration specifiers"}
+{"id": "C/24", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/25", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_grounded_py/tmp/25.c:50: main: Assertion `strcmp(shift_characte"}
+{"id": "C/26", "official_pass": false, "official_status": "compile_failed", "detail": "path=fence exit=None pe ‘int’\n int get_integer(char *str) {\n     ^~~~~~~~~~~\n<evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_grounded_py/t"}
+{"id": "C/27", "official_pass": false, "official_status": "compile_failed", "detail": "path=fence exit=None error: unknown type name ‘bool’; did you mean ‘_Bool’?"}
+{"id": "C/28", "official_pass": false, "official_status": "compile_failed", "detail": "path=fence exit=None error: expected expression before ‘int’"}
+{"id": "C/29", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_grounded_py/tmp/29.c:38: main: Assertion `evaluate_integer_grad"}
+{"id": "C/30", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_grounded_py/tmp/30.c:40: main: Assertion `strcmp(check_two_equa"}
+{"id": "C/31", "official_pass": false, "official_status": "timeout", "detail": "path=fence exit=None official time_limit(15)"}
+{"id": "C/32", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: ‘Event {aka struct <anonymous>}’ has no member named ‘events’"}
+{"id": "C/33", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: unknown type name ‘uint64_t’; did you mean ‘__uint64_t’?"}
+{"id": "C/34", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: too few arguments to function ‘makeEqualAgain’"}
+{"id": "C/35", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: conflicting types for ‘printGameState’"}
+{"id": "C/36", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None edefined\n #define C_i (C[n - i])\n \n<evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_grounded_py/tmp/36.c:24:0: note: t"}
+{"id": "C/37", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None 6): undefined reference to `countHandshakes'\n/usr/bin/ld: 37.c:(.text+0x17b): undefined reference to `countHandshakes'\n/usr/bin/ld: 37.c:(.text+0x1df): undefine"}
+{"id": "C/38", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected declaration or statement at end of input"}
+{"id": "C/39", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_grounded_py/tmp/39.c:31: main: Assertion `sumOfXorSubarrays(tes"}
+{"id": "C/40", "official_pass": false, "official_status": "compile_failed", "detail": "path=fence exit=None error: too few arguments to function ‘isPower’"}
+{"id": "C/41", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected declaration or statement at end of input"}
+{"id": "C/42", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None error: ‘m3’ undeclared (first use in this function); did you mean ‘m2’?"}
+{"id": "C/43", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None error: expected expression before ‘int’"}
+{"id": "C/44", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None error: redefinition of ‘sum’"}
+{"id": "C/45", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: unknown type name ‘bool’; did you mean ‘_Bool’?"}
+{"id": "C/46", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/47", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_grounded_py/tmp/47.c:55: main: Assertion `isPalindrome(\"A man a"}
+{"id": "C/48", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_grounded_py/tmp/48.c:40: main: Assertion `addDigits(38) == 2' f"}
+{"id": "C/49", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected declaration or statement at end of input"}
+{"id": "C/50", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}

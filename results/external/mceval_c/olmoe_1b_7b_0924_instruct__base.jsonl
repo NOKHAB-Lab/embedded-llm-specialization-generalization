@@ -1,0 +1,50 @@
+{"id": "C/1", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__base/tmp/1.c:12: main: Assertion `strcmp(hello_mmcodeeval(), \"Hell"}
+{"id": "C/2", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__base/tmp/2.c:41: main: Assertion `area == -1' failed."}
+{"id": "C/3", "official_pass": false, "official_status": "compile_failed", "detail": "path=fence exit=None error: incompatible type for argument 2 of ‘sprintf’"}
+{"id": "C/4", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/5", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/6", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__base/tmp/6.c:37: main: Assertion `process_request(10000) == 6991' "}
+{"id": "C/7", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/8", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__base/tmp/8.c:41: main: Assertion `hamming_distance(1, 2) == 2' fai"}
+{"id": "C/9", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__base/tmp/9.c:30: main: Assertion `count_odd_numbers(5, 1, 4, 3, 2,"}
+{"id": "C/10", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/11", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__base/tmp/11.c:21: main: Assertion `are_intervals_intersecting(3, 5"}
+{"id": "C/12", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__base/tmp/12.c:34: main: Assertion `extraNumber(2, 7, 2) == 7' fail"}
+{"id": "C/13", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/14", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__base/tmp/14.c:32: main: Assertion `decode_numbers(\"0000\") == 4' fa"}
+{"id": "C/15", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__base/tmp/15.c:52: main: Assertion `count_coloring_methods(2, 2) =="}
+{"id": "C/16", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__base/tmp/16.c:71: main: Assertion `count_valid_coin_toss_sequences"}
+{"id": "C/17", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/18", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__base/tmp/18.c:57: main: Assertion `strcmp(id, \"ftiasch\") == 0' fai"}
+{"id": "C/19", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__base/tmp/19.c:63: main: Assertion `count_permutations_of_binary_st"}
+{"id": "C/20", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-11 "}
+{"id": "C/21", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/22", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__base/tmp/22.c:41: main: Assertion `find_integers(5, 6) == 2' faile"}
+{"id": "C/23", "official_pass": false, "official_status": "compile_failed", "detail": "path=fence exit=None error: invalid use of flexible array member"}
+{"id": "C/24", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/25", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__base/tmp/25.c:40: main: Assertion `strcmp(shift_characters(test1),"}
+{"id": "C/26", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__base/tmp/26.c:46: main: Assertion `classify_integer(\"24\") == 6' fa"}
+{"id": "C/27", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/28", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__base/tmp/28.c:75: main: Assertion `display_ascii_info('0') == 48' "}
+{"id": "C/29", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__base/tmp/29.c:38: main: Assertion `evaluate_integer_grade(101) == "}
+{"id": "C/30", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__base/tmp/30.c:37: main: Assertion `strcmp(check_two_equal_digits(\""}
+{"id": "C/31", "official_pass": false, "official_status": "compile_failed", "detail": "path=fence exit=None error: variable-sized object may not be initialized"}
+{"id": "C/32", "official_pass": false, "official_status": "compile_failed", "detail": "path=fence exit=None error: too few arguments to function ‘apocalypseYear’"}
+{"id": "C/33", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__base/tmp/33.c:29: main: Assertion `newModuloFactorial(3, 7) == 6' "}
+{"id": "C/34", "official_pass": false, "official_status": "compile_failed", "detail": "path=fence exit=None error: ‘INT_MAX’ undeclared (first use in this function); did you mean ‘TMP_MAX’?"}
+{"id": "C/35", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: stray ‘`’ in program"}
+{"id": "C/36", "official_pass": false, "official_status": "compile_failed", "detail": "path=fence exit=None error: ‘INT_MAX’ undeclared (first use in this function); did you mean ‘TMP_MAX’?"}
+{"id": "C/37", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__base/tmp/37.c:37: main: Assertion `countHandshakes(4, or1) == 2' f"}
+{"id": "C/38", "official_pass": false, "official_status": "compile_failed", "detail": "path=fence exit=None error: ld returned 1 exit status"}
+{"id": "C/39", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: stray ‘`’ in program"}
+{"id": "C/40", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__base/tmp/40.c:32: main: Assertion `countPowerNumbers(99, 1) == 99'"}
+{"id": "C/41", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__base/tmp/41.c:62: main: Assertion `countBalancedSubsequences(3, 2,"}
+{"id": "C/42", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-8 "}
+{"id": "C/43", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__base/tmp/43.c:50: main: Assertion `countPermutations(2, 1, q1) == "}
+{"id": "C/44", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__base/tmp/44.c:58: main: Assertion `countTriplets(heights1, 3) == 1"}
+{"id": "C/45", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__base/tmp/45.c:77: main: Assertion `minOperations(5, (int[]){1, 2, "}
+{"id": "C/46", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/47", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__base/tmp/47.c:48: main: Assertion `isPalindrome(\"Madam, in Eden, I"}
+{"id": "C/48", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__base/tmp/48.c:20: main: Assertion `addDigits(38) == 2' failed."}
+{"id": "C/49", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None error: unknown type name ‘Here’"}
+{"id": "C/50", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}

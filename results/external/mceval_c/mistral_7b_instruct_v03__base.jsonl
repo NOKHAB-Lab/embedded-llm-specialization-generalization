@@ -1,0 +1,50 @@
+{"id": "C/1", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__base/tmp/1.c:14: main: Assertion `strcmp(hello_mmcodeeval(), \"Hello,"}
+{"id": "C/2", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/3", "official_pass": false, "official_status": "compile_failed", "detail": "path=fence exit=None error: incompatible types when returning type ‘char *’ but ‘double’ was expected"}
+{"id": "C/4", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__base/tmp/4.c:61: main: Assertion `max == 3 && min == 1' failed."}
+{"id": "C/5", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/6", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__base/tmp/6.c:43: main: Assertion `process_request(0) == 1' failed."}
+{"id": "C/7", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/8", "official_pass": false, "official_status": "timeout", "detail": "path=fence exit=None official time_limit(15)"}
+{"id": "C/9", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/10", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__base/tmp/10.c:35: main: Assertion `calculate_even_sum(sample1, 5) =="}
+{"id": "C/11", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/12", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__base/tmp/12.c:43: main: Assertion `extraNumber(3, 2, 2) == 3' failed"}
+{"id": "C/13", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/14", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__base/tmp/14.c:68: main: Assertion `decode_numbers(\"0000\") == 4' fail"}
+{"id": "C/15", "official_pass": false, "official_status": "compile_failed", "detail": "path=fence exit=None error: variable-sized object may not be initialized"}
+{"id": "C/16", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__base/tmp/16.c:40: main: Assertion `count_valid_coin_toss_sequences(1"}
+{"id": "C/17", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__base/tmp/17.c:53: main: Assertion `find_longest_consecutive_ones_len"}
+{"id": "C/18", "official_pass": false, "official_status": "run_failed", "detail": "path=whole_text exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__base/tmp/18.c:58: main: Assertion `strcmp(id, \"ftiasch\") == 0' faile"}
+{"id": "C/19", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__base/tmp/19.c:44: main: Assertion `count_permutations_of_binary_stri"}
+{"id": "C/20", "official_pass": false, "official_status": "compile_failed", "detail": "path=fence exit=None error: invalid operands to binary + (have ‘const char *’ and ‘const char *’)"}
+{"id": "C/21", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__base/tmp/21.c:45: main: Assertion `Is_Square(1, (int[]){9}) == 1' fa"}
+{"id": "C/22", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__base/tmp/22.c:44: main: Assertion `find_integers(5, 6) == 2' failed."}
+{"id": "C/23", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__base/tmp/23.c:80: main: Assertion `count_acute_triangles(3, 1, 2, 3)"}
+{"id": "C/24", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__base/tmp/24.c:51: main: Assertion `strcmp(output1, \"234,H\") == 0' fa"}
+{"id": "C/25", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__base/tmp/25.c:39: main: Assertion `strcmp(shift_characters(test1), \""}
+{"id": "C/26", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/27", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__base/tmp/27.c:18: main: Assertion `transform_letter_case('b') == 'B'"}
+{"id": "C/28", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/29", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/30", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__base/tmp/30.c:51: main: Assertion `strcmp(check_two_equal_digits(\"11"}
+{"id": "C/31", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__base/tmp/31.c:51: main: Assertion `minRoundsToSameChar(\"abc\") == 2' "}
+{"id": "C/32", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__base/tmp/32.c:29: main: Assertion `apocalypseYear(6, (int[]){3,2,4,5"}
+{"id": "C/33", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__base/tmp/33.c:79: main: Assertion `newModuloFactorial(3, 7) == 6' fa"}
+{"id": "C/34", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__base/tmp/34.c:40: main: Assertion `makeEqualAgain(6, a1) == 4' faile"}
+{"id": "C/35", "official_pass": false, "official_status": "compile_failed", "detail": "path=fence exit=None error: called object ‘new_game’ is not a function or function pointer"}
+{"id": "C/36", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__base/tmp/36.c:36: main: Assertion `minTotalCost(5, costs1) == 15' fa"}
+{"id": "C/37", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__base/tmp/37.c:48: main: Assertion `countHandshakes(4, or1) == 2' fai"}
+{"id": "C/38", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None <evaluator>/mceval_c/native/mistral_7b_instruct_v03__base/tmp/38.c:39:19: warning: implicit declaration of function ‘max’ [-Wimplicit-function-declaration]\n         max_s"}
+{"id": "C/39", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__base/tmp/39.c:42: main: Assertion `sumOfXorSubarrays(test, 5) == 39'"}
+{"id": "C/40", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-8 "}
+{"id": "C/41", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__base/tmp/41.c:60: main: Assertion `countBalancedSubsequences(2, 2, 2"}
+{"id": "C/42", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__base/tmp/42.c:44: main: Assertion `expectedCuts(2, 4, 10) == 0' fail"}
+{"id": "C/43", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__base/tmp/43.c:84: main: Assertion `countPermutations(2, 1, q1) == 2'"}
+{"id": "C/44", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__base/tmp/44.c:36: main: Assertion `countTriplets(heights2, 4) == 3' "}
+{"id": "C/45", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__base/tmp/45.c:42: main: Assertion `minOperations(5, (int[]){1, 2, 3,"}
+{"id": "C/46", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/47", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__base/tmp/47.c:53: main: Assertion `isPalindrome(\"Was it a car or a c"}
+{"id": "C/48", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/49", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/50", "official_pass": false, "official_status": "compile_failed", "detail": "path=fence exit=None (.text+0xb1): undefined reference to `evenSumOrOddProduct'\n/usr/bin/ld: 50.c:(.text+0xe9): undefined reference to `evenSumOrOddProduct'\n/usr/bin/ld: 50.c:(.text"}

@@ -1,0 +1,33 @@
+benchmark E1  (results/E1/composite_<lang>.json)
+
+LIVE SET: 80 of 100 points instrumented (structural, compilation, quality, execution). The 20 functional points are the mean rating of two LLM judges; stats.py reports every contrast with and without them. 
+
+paired over n=21 models; 95% t interval, Wilcoxon signed-rank (EXACT by enumeration at n=21), exact sign-flip permutation
+
+C [STRICT] — conjunctive: a program scores a dimension only if it passes every check in it; execution requires verdict pass_steady
+PYTHON [LENIENT] — partial credit: each dimension is a weighted mean of per-check pass rates; execution accepts pass or pass_steady
+
+--- C  full composite /100
+    base->ft_original    +31.25  95% CI [ +23.07, +39.44]  t=+7.96  wilcoxon p=<=9.5e-07  perm p=<=9.5e-07  21/21
+    ft_original->ft_grounded    +10.81  95% CI [  +7.48, +14.14]  t=+6.77  wilcoxon p=<=9.5e-07  perm p=<=9.5e-07  21/21
+
+--- C  judge removed  /80
+    base->ft_original    +29.38  95% CI [ +21.67, +37.08]  t=+7.95  wilcoxon p=<=9.5e-07  perm p=<=9.5e-07  21/21
+    ft_original->ft_grounded     +7.78  95% CI [  +4.58, +10.97]  t=+5.08  wilcoxon p=<=9.5e-07  perm p=<=9.5e-07  21/21
+
+--- C  judge+quality removed  /60
+    base->ft_original    +25.18  95% CI [ +18.39, +31.98]  t=+7.74  wilcoxon p=<=9.5e-07  perm p=<=9.5e-07  21/21
+    ft_original->ft_grounded     +3.73  95% CI [  +1.01,  +6.46]  t=+2.86  wilcoxon p=0.00165  perm p=0.00141  17/21
+
+--- PYTHON  full composite /100
+    base->ft_original    +19.96  95% CI [ +12.81, +27.10]  t=+5.83  wilcoxon p=<=9.5e-07  perm p=<=9.5e-07  21/21
+    ft_original->ft_grounded     +1.16  95% CI [  +0.29,  +2.04]  t=+2.76  wilcoxon p=0.01135  perm p=0.00751  15/21
+
+--- PYTHON  judge removed  /80
+    base->ft_original    +17.23  95% CI [ +11.54, +22.92]  t=+6.32  wilcoxon p=<=9.5e-07  perm p=<=9.5e-07  21/21
+    ft_original->ft_grounded     -1.13  95% CI [  -1.99,  -0.27]  t=-2.74  wilcoxon p=0.01269  perm p=0.01385  4/21
+
+--- PYTHON  judge+quality removed  /60
+    base->ft_original    +12.82  95% CI [  +7.92, +17.72]  t=+5.46  wilcoxon p=<=9.5e-07  perm p=<=9.5e-07  21/21
+    ft_original->ft_grounded     +1.12  95% CI [  +0.32,  +1.93]  t=+2.90  wilcoxon p=0.00375  perm p=0.00341  17/21
+

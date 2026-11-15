@@ -1,0 +1,800 @@
+{"id": "sample_0", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[ (3, 1), (2, 3), (1, 1) ]'"}
+{"id": "sample_1", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_2", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_3", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'bcksrutq'\""}
+{"id": "sample_4", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"' '\\nTrue\\n\\n# The function does not modify the original list.\\n>>> [' ', '  ', '    ', '   ']\\n[' ', '  ', '    ', '   ']\\n\\n#\""}
+{"id": "sample_5", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"(2, 'xxxxxxxxxxxxxxxx')\""}
+{"id": "sample_6", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f({'11': 52, '65': 34, 'a': 12, '4': 52, '74': 31}) returns [('a', 12), ('4', 52)]\\n# The function sorts the dictionary\""}
+{"id": "sample_7", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f([]) returns []\\n\\nExplanation:\\n\\n1. `list = []`\\n2. `original = []`\\n3. `while len(list) > 1` is False, so the loop body '"}
+{"id": "sample_8", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_9", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# def f(t):\\n#     for c in t:\\n#         if not c.isnumeric():\\n#             return False\\n#     return True\\n#\\n# print(f('\""}
+{"id": "sample_10", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_11", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_12", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'If you want to live a happy life! Daniel'\\n# 'Daniel'\\n# 'If you want to live a happy life! '\\n# 'If you want to live a \""}
+{"id": "sample_13", "official_pass": false, "official_status": "fail", "detail": "[value] answer='3'"}
+{"id": "sample_14", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# '   OOP   ' -> '   PUO   '\\n''.join([' ', 'P', 'U', 'O', ' ', ' ', ' ', ' ', ' '])\""}
+{"id": "sample_15", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_16", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'zejrohaj' does not end with 'owc', so the original string is returned.\\n>>> 'zejrohaj'\\n'zejrohaj'\""}
+{"id": "sample_17", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='# The output of the function is the index of the first comma in the string.\\n# Since there is no comma in the string, the'"}
+{"id": "sample_18", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[5, 4, 3, 3, 2, 1, 0]'"}
+{"id": "sample_19", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f(\"\", \"sdasdnakjsda80\") returns \"80\"\\n\\nExplanation:\\n\\n1. `y[::-1]` reverses the string \"sdasdnakjsda80\" to \"08asdnakjsda'"}
+{"id": "sample_20", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'was,'\""}
+{"id": "sample_21", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 1, 2, 2, 2, 2]'"}
+{"id": "sample_22", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='000 -> 0'"}
+{"id": "sample_23", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'-'\""}
+{"id": "sample_24", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_25", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f({\"l\": 1, \"t\": 2, \"x:\": 3}) returns {\"l\": 1, \"t\": 2}\\n\\nThe function creates a copy of the dictionary using the `copy()'"}
+{"id": "sample_26", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"len('qy.')-1 -> False\\n'qy.' index('.')\""}
+{"id": "sample_27", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_28", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[5, 8]'"}
+{"id": "sample_29", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_30", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f([\"a\", \"b\", \"c\"]) returns [\"a\", \"b\", \"c\"]\\n# All elements are strings and are ASCII.\\n# The second condition in the if '"}
+{"id": "sample_31", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"upper = 0\\nfor c in 'PoIOarTvpoead':\\n    if c.isupper():\\n        upper += 1\\nreturn upper * (2,1)[upper % 2]\""}
+{"id": "sample_32", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# volume -> '*volume'\\n# l -> '*l'\\n# reverse = ['*' + e for e in s.split(sep)]\\n# reverse = ['*volume', '*l']\\n# reversed(r\""}
+{"id": "sample_33", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f([5, 2, 7, 2, 3, 5]) returns:\\n{2: [2, 7], 3: [3], 5: [5, 5]}\\n\\nExplanation:\\nThe function iterates through the input li'"}
+{"id": "sample_34", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f([1, 2, 3, 7, 7, 6, 8, 4, 1, 2, 3, 5, 1, 3, 21, 1, 3], 3, 1)\\n# returns [2, 7, 7, 6, 8, 4, 2, 5, 21]\\n[2, 7, 7, 6, 8, 4'"}
+{"id": "sample_35", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 2, 0, 1, -1]'"}
+{"id": "sample_36", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_37", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_38", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'OneErrBzzBmm'\""}
+{"id": "sample_39", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_40", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"the cow goes moo##########\"'"}
+{"id": "sample_41", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[92, 58, 21]'"}
+{"id": "sample_42", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[8, 6, 4, 2, 4, -2, 8, 4]'"}
+{"id": "sample_43", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_44", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'+n+z+o+h'\""}
+{"id": "sample_45", "official_pass": false, "official_status": "fail", "detail": "[value] answer='1'"}
+{"id": "sample_46", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='# The function returns an empty string because the second argument to join() is an empty string.\\n# The result of join() '"}
+{"id": "sample_47", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'bb'.decode():\\n    return True\\nelse:\\n    return False\""}
+{"id": "sample_48", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f([]) returns \"\"\\n\\nThe function iterates over the list of names, but since the list is empty, the loop body is never ex'"}
+{"id": "sample_49", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# '816' is a valid identifier in Python, so the output is '816'.\\n\\nThe function checks if the input is a valid identifier\""}
+{"id": "sample_50", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['a', 'c', 'v', 1]\""}
+{"id": "sample_51", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_52", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='a = []\\nfor i in range(len(\"seiq7229 d27\")):\\n    if not \"seiq7229 d27\"[i].isdecimal():\\n        a.append(\"seiq7229 d27\"[i]'"}
+{"id": "sample_53", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='occ = {}\\nfor ch in \"URW rNB\":\\n    name = {\\'a\\': \\'b\\', \\'b\\': \\'c\\', \\'c\\': \\'d\\', \\'d\\': \\'e\\', \\'e\\': \\'f\\'}\\n    name = name.get(ch, ch)\\n'"}
+{"id": "sample_54", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('happy', 0, 3) returns -1\\n\\nThe function takes a string, s, and e as indices. It returns the index of the minimum ele\""}
+{"id": "sample_55", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[89, 43, 17, 8, 4]'"}
+{"id": "sample_56", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('1z1z1') returns False\\nFalse\""}
+{"id": "sample_57", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='# no\\n\\nThe function iterates over each character in the input string and checks if it is uppercase. If any character is n'"}
+{"id": "sample_58", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[-1, 0, 0, 1, 1, 0, 1, 1]'"}
+{"id": "sample_59", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_60", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'Raruwa' is a string.\\n# The function iterates over the characters in the string.\\n# The first character 'r' is not alph\""}
+{"id": "sample_61", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_62", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f({\"eating\" : \"ja\", \"books\" : \"nee\", \"piano\" : \"coke\", \"excitement\" : \"zoo\"})\\n# returns tuple of keys\\n(\\'eating\\', \\'book'"}
+{"id": "sample_63", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'ndbtdabdahesyehu' starts with 'n', so the loop runs once.\\n# text = 'dbtdabdahesyehu'\\n# prefix = 'n'\\n# text.startswith\""}
+{"id": "sample_64", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\" 7 \"'"}
+{"id": "sample_65", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f([3, 2, 0, 3, 7], 3) returns 11\\n# Explanation:\\n# nums = [3, 2, 0, 3, 7]\\n# index = 3\\n# nums[index] = 7\\n# 7 % 42 = 7\\n# '"}
+{"id": "sample_66", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'yppah'\""}
+{"id": "sample_67", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_68", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'omeunhwpvr.dq'\\n# 'omeunh'\\n# 'wpvr.dq'\\n```\""}
+{"id": "sample_69", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# The function pops the value associated with the key '6f53p' from the dictionary {'882afmfp': 56} and returns it.\\n# Sin\""}
+{"id": "sample_70", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('999893767522480') returns 108\\n# Explanation:\\n# The input string is split on spaces: ['999893767522480']\\n# For each \""}
+{"id": "sample_71", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{2: 1, 4: 3, 6: 5, 8: 7, 10: 9}'"}
+{"id": "sample_72", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('99') returns False\\nFalse\""}
+{"id": "sample_73", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='# The function returns a tuple of integers.\\n(5, 5)'"}
+{"id": "sample_74", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_75", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f([-1, 2, 1, -8, 2], 2) returns 10\\n# Explanation:\\n# ind = array.index(elem) finds the index of the first occurrence of'"}
+{"id": "sample_76", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[3, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 6, 10]'"}
+{"id": "sample_77", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('h ,lpvvkohh,u', 'i') returns ''\\n\\nExplanation:\\nThe function takes two arguments: `text` and `character`.\\nThe functio\""}
+{"id": "sample_78", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('mTYWLMwbLRVOqNEf.oLsYkZORKE[Ko[{n')\\n'mty'\""}
+{"id": "sample_79", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_80", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'ab        ' -> '        b'\\n'b'\""}
+{"id": "sample_81", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_82", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('CJU', 'BFS', 'WBYDZPVES', 'Y')\""}
+{"id": "sample_83", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"return '2:1'\""}
+{"id": "sample_84", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_85", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[4.5, 3]'"}
+{"id": "sample_86", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='imgur:\\n#     return wins\\n# if wins'"}
+{"id": "sample_87", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'2139-1-2'\""}
+{"id": "sample_88", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_89", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'o' is a vowel (lowercase), so it returns 'o'.\\n'o'\""}
+{"id": "sample_90", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_91", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['1', '2', 'a', 'b', 'x', 'y']\""}
+{"id": "sample_92", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# The function is attempting to check if the input string contains only ASCII characters.\\n# The string 'wW\uc758IV]HDJjhgK[dG\""}
+{"id": "sample_93", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'qiq!!!!'\""}
+{"id": "sample_94", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# {'w': 3, 'wi': 10}\\n\\nThe function `f` takes two dictionaries `a` and `b` and returns a new dictionary that is the union\""}
+{"id": "sample_95", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_96", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('lunabotics') returns False\\nFalse\""}
+{"id": "sample_97", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([2, 0])'"}
+{"id": "sample_98", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=''"}
+{"id": "sample_99", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'aa___bb'\""}
+{"id": "sample_100", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f({'1': 'a', 1: 'a', 1: 'b', '1': 'b'}, [1])\\n# returns {'1': 'a', '1': 'b'}\\n\\n# The function takes two arguments: a dic\""}
+{"id": "sample_101", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_102", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"The function takes two arguments: `names` and `winners`.\\n\\n`names` is a list of strings: `['e', 'f', 'j', 'x', 'r', 'k']`\""}
+{"id": "sample_103", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_104", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_105", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"Permission Is GRANTed\"'"}
+{"id": "sample_106", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f([2, 8, -2, 9, 3, 3]) returns [4, 16, -4, 18, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6,'"}
+{"id": "sample_107", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_108", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f(1) returns 0\\n0'"}
+{"id": "sample_109", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_110", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='a = [\\'\\']\\nb = \\'\\'\\nfor i in \"       \":\\n    if not i.isspace():\\n        a.append(b)\\n        b = \\'\\'\\n    else:\\n        b += i\\n'"}
+{"id": "sample_111", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_112", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'LRRH LBGEXEI'\""}
+{"id": "sample_113", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"987YHnshashd 93275YRGsgbgSshfbsfB\"'"}
+{"id": "sample_114", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[\"a\", \".b\"]'"}
+{"id": "sample_115", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"b'o; s; |; |; g; x; 5; '\""}
+{"id": "sample_116", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f({}, 200) returns {}\\n\\nThe function iterates over the range(count) which is 0 to 199. Since the dictionary is empty, t'"}
+{"id": "sample_117", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='In this case, the input string is \"23157\". The function iterates through the string using a for loop, and for each itera'"}
+{"id": "sample_118", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_119", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_120", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='# {} is an empty dictionary, so the function will return an empty dictionary.\\n{}'"}
+{"id": "sample_121", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'1'\""}
+{"id": "sample_122", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'Nuva'\\n```\""}
+{"id": "sample_123", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_124", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'i like you'\\n# sep = ' '\\n# sep_count = -1\\n\\n# o = ''\\n# while sep_count > 0 and txt.count(sep) > 0:\\n#     o += txt.rspli\""}
+{"id": "sample_125", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f(\\'\"Leap and the net will appear\\', 123)\\n# returns: \\'!123!123Leap and the net will appear\\'\\n\\nThe function iterates over '"}
+{"id": "sample_126", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'kkxkk-kk-fck'\""}
+{"id": "sample_127", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_128", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'Mmothth'\""}
+{"id": "sample_129", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 10, 19]'"}
+{"id": "sample_130", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f({\\'l\\':4, \\'h\\':6, \\'o\\':9}) returns \"h=4 l=6 o=9\"\\n\\nExplanation:\\n\\n1. The function takes a dictionary `m` as input.\\n2. It c'"}
+{"id": "sample_131", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f(\"a\\\\nkgf\\\\nasd\\\\n\") returns 1\\n# The function processes the input string in chunks of size a+1 (initially 4)\\n# starting '"}
+{"id": "sample_132", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'abcdabc'\""}
+{"id": "sample_133", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[2, 6, 0, 2]'"}
+{"id": "sample_134", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f(372359) returns '104104104104104104104104104104104104104104104104104104104104104104104104104104104104104104104104104\""}
+{"id": "sample_135", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_136", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='a  \\n bc \\n  \\n  d \\n ef'"}
+{"id": "sample_137", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='0: nums.pop() -> [3, 2, 0, 0, 2, 3] -> [3, 2, 0, 0, 2]\\n3. count += 1 -> count = 1\\n4. len(nums) = 5, count % 2'"}
+{"id": "sample_138", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'tflb omn rtt' with 'm'\\n# 'm' is the last character in the string, so it is popped from the list.\\n# The loop iterates \""}
+{"id": "sample_139", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# no\\n\\nThe function returns 'no' because the condition `len(first) < 10 or len(second) < 10` is not met. The length of th\""}
+{"id": "sample_140", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_141", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 3, 1, 3, 1, 1, 1, 1, 1, 1, 1]'"}
+{"id": "sample_142", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'ykdfhp' is already in lowercase, so the function returns 'ykdfhp'\\n'ykdfhp'\""}
+{"id": "sample_143", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f(\"daaX\", \"daaX\") returns True\\nTrue'"}
+{"id": "sample_144", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_145", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f(8.50, 'grapes') returns 8.50\\n\\nThe function checks if 'grapes' is in the inventory list. Since it is not, the else cl\""}
+{"id": "sample_146", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_147", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_148", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# '2imo 12 tfiqr.'\\n# 'm'\\n# '2imo 12 tfiqr.'\\n```\""}
+{"id": "sample_149", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# The function takes a tuple of integers and a string as input.\\n# It concatenates each integer in the tuple to a string,'"}
+{"id": "sample_150", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_151", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('697 this is the ultimate 7 address to attack')\\n# returns: '00000000000000000000000000000000000000000000000000000000\""}
+{"id": "sample_152", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f(''.join(['A'] * 20))\""}
+{"id": "sample_153", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('friends and love', 'and', 3) returns False\\nFalse\""}
+{"id": "sample_154", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'*  There Hello'\""}
+{"id": "sample_155", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"dskjs\\\\nhjcdjnxhjicnn\"'"}
+{"id": "sample_156", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'tqzym'[0:5] = 'tqzym'\\n# 'tqzym'.ljust(5, 'c') = 'tqzymc'\\n'tqzymc'\""}
+{"id": "sample_157", "official_pass": false, "official_status": "fail", "detail": "[value] answer='3'"}
+{"id": "sample_158", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='0]` filters even numbers from the input list.\\n2. `m = n+arr` concatenates the filtered list `n` with the original list `'"}
+{"id": "sample_159", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'RTiGM' -> 'rTiGm'\\n'rTiGm'\""}
+{"id": "sample_160", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f({1: 47698, 1: 32849, 1: 38381, 3: 83607}) returns {}\\n\\nThe function iterates over the dictionary keys and checks if t'"}
+{"id": "sample_161", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'rinpx difkj'\""}
+{"id": "sample_162", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_163", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'w)))'\""}
+{"id": "sample_164", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_165", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('=xtanp|sugv?z', 3, 6) returns False\\n# The slice 'xtan' contains non-ASCII characters (x, t, a, n), so isascii() ret\""}
+{"id": "sample_166", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# {}\\nf({})  # {}\\n```'"}
+{"id": "sample_167", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'QWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQ\""}
+{"id": "sample_168", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# 'spain' with index 4 replaced by 'b'\\n'spain'.maketrans('a', 'b')\\n'spain'.translate(key)\\n'spain'\\n\\nf('spain', 'b', 4) re\""}
+{"id": "sample_169", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'taole' -> 'taole+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\""}
+{"id": "sample_170", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_171", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_172", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_173", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_174", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[2, 3, 1]'"}
+{"id": "sample_175", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'\\\\n  '\""}
+{"id": "sample_176", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'some text'\\n# 'some'\\n# 'some text'\\n# 'text'\\n# 'textsome text'\\n# 'some text'\\n# 'some text'\\n# 'some text'\\n# 'some text'\\n\""}
+{"id": "sample_177", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'Hey DUdE THis $nd^ &*&this@#'\\n# -> 'Hey dUdE tHis $nd^ &*&THIS@#'\\n'Hey dUdE tHis $nd^ &*&THIS@#'\""}
+{"id": "sample_178", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[2, 2, 2, 2]'"}
+{"id": "sample_179", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='# [7, 1, 2, 6, 0, 2]\\n# [7, 1, 2, 6, 0, 2, 7, 1, 2, 6, 0, 2]\\n# [7, 1, 2, 6, 0, 2, 7, 1, 2, 6, 0, 2, 7, 1, 2, 6, 0, 2]\\n# ['"}
+{"id": "sample_180", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f([-1, 5, 3, -2, -6, 8, 8]) returns [-1, 5, 3, -2, -6, 8]\\n# The function removes the first element of the list (index '"}
+{"id": "sample_181", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[\"32912\", 5]'"}
+{"id": "sample_182", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_183", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='Explanation:\\n\\n1. `text = \"echo hello!!! nice!\"`\\n2. `ls = text.split()` -> `ls = [\"echo\", \"hello\", \"!!!\", \"nice\", \"!\"]`\\n3'"}
+{"id": "sample_184", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='# [1, 2]\\n# [2, 1]\\n```'"}
+{"id": "sample_185", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[11, 14, 12, 7, 9, 16]'"}
+{"id": "sample_186", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'pvtso' -> 'pvtso'\\n'pvtso'  # No change because no leading whitespace to strip.\""}
+{"id": "sample_187", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_188", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['a', 'p']\""}
+{"id": "sample_189", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f(\"{{{{}}}}\", {}) returns \"{{{{}}}}\"\\n\\nExplanation:\\n\\n1. The function iterates over the keys in the `mapping` dictionary'"}
+{"id": "sample_190", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'jiojiclIIl'\""}
+{"id": "sample_191", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# The output of `f('Ohno')` is `False`.\\nFalse\""}
+{"id": "sample_192", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# '!klcd!ma:ri' ends with '!', so the loop runs once.\\n# output = '!klcd!ma:ri'[:-1] = '!klcd!ma:r'\\n# text = '!klcd!ma:r'\""}
+{"id": "sample_193", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'11'\""}
+{"id": "sample_194", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_195", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'ilfdoirwirmtoibsac'\""}
+{"id": "sample_196", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'mixed'\""}
+{"id": "sample_197", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'1234567890 oC'\""}
+{"id": "sample_198", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'tcmfsmj' reversed is 'jfmsctm'\\n# Stripping 'cfj' from both ends gives 'jfms'\\n# Reversing back gives 'smj'\\n'smj'\""}
+{"id": "sample_199", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('mnmnj krupa...##!@#!@#$$@##', '@')\\n# returns 'mnmnj krupa...##!@#!@#$$@##'\\n# The base is '@' * (str.count('@') + 1)\""}
+{"id": "sample_200", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'j' + 'a' + 'o' + ' ' + 'm' + 't' = 'jaomt'\\n# 'h' + 'o' + 'u' + 's' + 'e' = 'house'\\n# 'jaomt' + 'house' = 'jaomthouse'\""}
+{"id": "sample_201", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# '462514yrw'\\n```\""}
+{"id": "sample_202", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[15, 10]'"}
+{"id": "sample_203", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='# The function clears the dictionary and returns it.\\n# After clearing, the dictionary is empty.\\n{}\\n\\n# The function retur'"}
+{"id": "sample_204", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['m', 'r']\""}
+{"id": "sample_205", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='# \"fiu#nkhewumun\"\\n```'"}
+{"id": "sample_206", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'hello world!'\\n```\""}
+{"id": "sample_207", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_208", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['c', 'd', 'd']\""}
+{"id": "sample_209", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'fulhxhzpnyihyf'\""}
+{"id": "sample_210", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='0:\\n        return x_list[j]'"}
+{"id": "sample_211", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='s = \"abca dea ead\"\\ncount = 0\\nfor c in s:\\n    if s.rindex(c) != s.index(c):\\n        count += 1\\nprint(count) # 4'"}
+{"id": "sample_212", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[3, -3, 6, 2, 7, -9, 1]'"}
+{"id": "sample_213", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"ac\"'"}
+{"id": "sample_214", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"i = -1\\nwhile sample.find('/', i+1) != -1:\\n    i = sample.find('/', i+1)\\n# i is now 10\\nreturn sample.rindex('/', 0, i)\""}
+{"id": "sample_215", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f(')') returns ''\\n\\nExplanation:\\nThe function iterates over the characters of the input string, checking if the first c\""}
+{"id": "sample_216", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f(\"dp ef1 gh2\") returns 2\\n2'"}
+{"id": "sample_217", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_218", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'caabcfcabfc' repeated twice with 'ab' in between\\n'fcabfcabfcabfcabfc'\""}
+{"id": "sample_219", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(s1, s2):\\n    for k in range(0, len(s2)+len(s1)):\\n        s1 += s1[0]\\n        if s1.find(s2) >= 0:\\n            retu'"}
+{"id": "sample_220", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"cdefgabca\"'"}
+{"id": "sample_221", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'4fc5.bpxa'\""}
+{"id": "sample_222", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# '0aabbaa0b'\\n```\""}
+{"id": "sample_223", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f([1, 2, -1, 4], 2) returns 2\\n\\nThe function iterates over the elements of the input array, maintaining a counter `coun'"}
+{"id": "sample_224", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='0`.\\n4. The `while` loop in the second block also iterates 0 times because `len(odd)'"}
+{"id": "sample_225", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# def f(text):\\n#     if text.islower():\\n#         return True\\n#     return False\\n#\\n# print(f(\"54882\"))\\n#'"}
+{"id": "sample_226", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_227", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_228", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'llthhh sAfLAPkPhtsWP' -> ['llthhh', 'saflapkhptswp'] -> '#llthhh#saflapkhptswp'\\n'#llthhh#saflapkhptswp'\""}
+{"id": "sample_229", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[2, 'mA', 2, '9m', 2, '10K', 'Lk']\""}
+{"id": "sample_230", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# '02x0qo'\\n'qo'\""}
+{"id": "sample_231", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='a10 = sum(1 for x in [1872, 1995, 1945] if x <= 1900)  # 1\\na90 = sum(1 for x in [1872, 1995, 1945] if x > 1910)   # 2\\nif'"}
+{"id": "sample_232", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'yssnvd'\""}
+{"id": "sample_233", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[3, 1, 2]'"}
+{"id": "sample_234", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_235", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f([], []) returns []\\n\\nExplanation:\\n\\n* `array` is an empty list, so `array.index(s)` will raise a ValueError for any `s'"}
+{"id": "sample_236", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'ac8ac8qk6qk69wg9wg'\""}
+{"id": "sample_237", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'uzlwaqiaj'\\n# 'u'\\n# 'uzlwaqiaj'\\n# 'uzlwaqiaj'\\n# 'uzlwaqiaj'\\n# 'uzlwaqiaj'\\n# 'uzlwaqiaj'\\n# 'uzlwaqiaj'\\n# 'uzlwaqiaj'\\n# \""}
+{"id": "sample_238", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_239", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# '0 t 1cos '\\n# 'st ' + '0\\\\t\\\\n  '\\n# '0 t 1cos '\\n# 'st ' + '0\\\\t\\\\n  '\\n\\n# '0 t 1cos '\\n# 'st ' + '0\\\\t\\\\n  '\\n# '0 t 1cos '\\n# '\""}
+{"id": "sample_240", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'3.12'\""}
+{"id": "sample_241", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'ED20 CW'\\n'CW'\""}
+{"id": "sample_242", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_243", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\">>> f('abc', 'e')\\nFalse\""}
+{"id": "sample_244", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'BC1tyBC1tyBC1tyBC1tyBC1tyBC1tyBC1tyBC1tyBC1tyBC1tyBC1tyBC1tyBC1tyBC1tyBC1tyBC1tyBC1tyBC1tyBC1tyBC1tyBC1tyBC1tyBC1tyBC1t\""}
+{"id": "sample_245", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f(\\'abcdefghijklmnopqrstuvwxyz\\', \"uppercased # % ^ @ ! vz.\")\\n# returns [\\'A\\', \\'U\\', \\'P\\', \\'P\\', \\'E\\', \\'R\\', \\'C\\', \\'A\\', \\'S\\', \\'E'"}
+{"id": "sample_246", "official_pass": false, "official_status": "fail", "detail": "[value] answer='0'"}
+{"id": "sample_247", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_248", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_249", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_250", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'wlace A'\\n# 'wlace A' + 'wlace A'[0] = 'wlace Aw'\\n# 'wlace Aw' + 'wlace Aw'[1] = 'wlace Awl'\\n# 'wlace Awl' + 'wlace Aw\""}
+{"id": "sample_251", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# The function takes a list of lists of strings as input.\\n# It appends the string \"+353\" to each inner list, joins the e'"}
+{"id": "sample_252", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# '\\\\\\\\foo'\\n# '\\\\\\\\'\\n# 'foo'\""}
+{"id": "sample_253", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'w'\\n```\""}
+{"id": "sample_254", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'upper case'\""}
+{"id": "sample_255", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'no asw'\""}
+{"id": "sample_256", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"a = 0\\nb = len('dorfunctions') - 1 = 10\\n\\nc = (0 + 10) // 2 = 5\\ntext.rfind('2') = -1 (since '2' is not in the string)\\na = \""}
+{"id": "sample_257", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_258", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 2, 3, 7, 9]'"}
+{"id": "sample_259", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'g' is inserted at index 3, 'b' is inserted at index 4, 'R' is inserted at index 5, 'x' is inserted at index 6\\n'S-t-r-\""}
+{"id": "sample_260", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 2, 3, 5, 4, 6]'"}
+{"id": "sample_261", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='([], [12, 516, 5, 2, 3, 214, 51])  # True\\n```'"}
+{"id": "sample_262", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_263", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f([\"gloss\", \"banana\", \"barn\", \"lawn\"], [])\\n[\"gloss\", \"banana\", \"barn\", \"lawn\"]\\n\\nThe function returns the original list'"}
+{"id": "sample_264", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"pApErA\"'"}
+{"id": "sample_265", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_266", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[2, 3, 4, 6, -2, 4, 6, -2]'"}
+{"id": "sample_267", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_268", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'h grateful k'\\n# separator = ' '\\n# i = 1\\n# s[i] = ' '\\n# new_s = ['h', ' ', 'grateful', ' ', 'k']\\n# new_s[i] = '/'\\n# ne\""}
+{"id": "sample_269", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['0', '0', '0', '0', '0', '0']\""}
+{"id": "sample_270", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f({}) returns {}\\n\\nThe function iterates over the keys of the dictionary, and for each key, it removes the last item (k'"}
+{"id": "sample_271", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'uufhl' without the 'l'\\n'uufh'\""}
+{"id": "sample_272", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f([9, 7, 5, 3, 1], [2, 4, 6, 8, 0]) returns:\\n[9, 7, 5, 3, 1, 2, 4, 6, 8, 0, 2, 4, 6, 8, 0]\\n\\nExplanation:\\nThe function '"}
+{"id": "sample_273", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'.TTE'\""}
+{"id": "sample_274", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f([1, 2, 3], 4) returns 2\\n# The function iterates through the list [1, 2, 3] and checks for pairs that sum to 4.\\n# The'"}
+{"id": "sample_275", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_276", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_277", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_278", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f([0, 132], [5, 991, 32, 997]) returns:\\n{0: [5, 32], 132: [991, 997]}\\n\\nExplanation:\\n\\n1. `dict.fromkeys([0, 132])` crea'"}
+{"id": "sample_279", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_280", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='# The function returns the string \"00000000 00000000 01101100 01100101 01101110\" with the characters \\'1\\' replaced by \\'i\\''"}
+{"id": "sample_281", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f({1: 2, 3: 4, 5: 6, 'message': 'qrTHo'}, 8, 2)\\n# returns {1: 2, 3: 4, 5: 6, 'message': 'qrTHo'}\\n# because value 2 is \""}
+{"id": "sample_282", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_283", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# The function deletes the key 'Iron Man' from the dictionary, leaving {'Captain America': 3, 'Black Panther': 0, 'Thor'\""}
+{"id": "sample_284", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'estest'\\n```\""}
+{"id": "sample_285", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f(\"This be Pirate\\'s Speak for \\'help\\'!\", \\' \\') returns 5\\n5'"}
+{"id": "sample_286", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 2, 3, 11, 5, 6, 7, 8, 9, 10]'"}
+{"id": "sample_287", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# 'Pinneaple' is already all lowercase, so it will be converted to uppercase:\\n>>> f('Pinneaple')\\n'PINNEAPLE'\""}
+{"id": "sample_288", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f({55: 4, 4: 555, 1: 3, 99: 21, 499: 4, 71: 7, 12: 6})\\n# returns [(1, 3), (4, 555), (12, 6), (499, 4), (55, 4), (71, 7'"}
+{"id": "sample_289", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# '148'\\n'148': b'148'\""}
+{"id": "sample_290", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'IXAAAILY'\""}
+{"id": "sample_291", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='arr[1]` is `True` because `len([2])'"}
+{"id": "sample_292", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'5*83*23*saa'\""}
+{"id": "sample_293", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_294", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f(\"x\", \"$\", \"2xz&5H3*1a@#a*1hris\")\\n# returns: \"$z&5H3*1a@#a*1hris\"\\n\\nThe function takes three arguments: n, m, and text'"}
+{"id": "sample_295", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f(['apple', 'apple', 'pear', 'banana', 'pear', 'orange', 'orange'])\\n# returns ['pear', 'orange']\\n\\nThe function removes\""}
+{"id": "sample_296", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"ekapusta.com/image/url\"'"}
+{"id": "sample_297", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'Half Life'\""}
+{"id": "sample_298", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'DST VAVF N DMV DFVM GAMCU DGCVB.'\""}
+{"id": "sample_299", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'kstaovk'\""}
+{"id": "sample_300", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='# [1, 2, 3]\\n# [1, 2, 3]\\n# [1, 2, 3]\\n# [1, 2, 3]\\n# [1, 2, 3]\\n# [1, 2, 3]\\n# [1, 2, 3]\\n# [1, 2, 3]\\n# [1, 2, 3]\\n# [1, 2, 3]\\n'"}
+{"id": "sample_301", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[0, 6, 2, -1, -2, 0, 0, 6, 6, 2, 2, -1, -1, -2, -2]'"}
+{"id": "sample_302", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'wdeejjjzsjsjjsxjjneddaddddddefsfd' -> 'wdeejjjzsjsjjsxjjhaystacksddddddefsfd'\\n'wdeejjjzsjsjjsxjjhaystacksddddddefsfd'\""}
+{"id": "sample_303", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'mJkLbn'\\n# 'mJkLbn'\\n# 'mJkLbn'\\n# 'mJkLbn'\\n# 'mJkLbn'\\n# 'mJkLbn'\\n# 'mJkLbn'\\n# 'mJkLbn'\\n# 'mJkLbn'\\n# 'mJkLbn'\\n# 'mJkLbn'\""}
+{"id": "sample_304", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f({2: 3, 17: 3, 16: 6, 18: 6, 87: 7}) returns {18: 6, 87: 7}\\n\\nExplanation:\\n\\n1. `d.items()` returns a list of key-value'"}
+{"id": "sample_305", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'o hseto'\""}
+{"id": "sample_306", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_307", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'p|x|c|z|n|y|f'\""}
+{"id": "sample_308", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_309", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'f':\\n#     'faqo osax f'[:-1] = 'faqo osax '\\n#     'faqo osax '[-len('f'):] = ''\\n#     return 'faqo osax '\\n\\n'faqo osax '\""}
+{"id": "sample_310", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f(['__', '1', '.', '0', 'r0', '__', 'a_j', '6', '__', '6'])\\n# returns: '__1.0r0__a_j6__6'\\n\\nThe function takes a list o\""}
+{"id": "sample_311", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'A' is replaced by '1' and '5' respectively, making it numeric.\\n'yes'\""}
+{"id": "sample_312", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_313", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_314", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'105, 244 -90 0'\""}
+{"id": "sample_315", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_316", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='# | i am your father |\\n```'"}
+{"id": "sample_317", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# ' vup a zwwo oihee amuwuuw! '\\n# replace 'a' with 'u'\\n# replace 'u' with 'a'\\n# final string: ' vup u zwwo oihee amuwuuw\""}
+{"id": "sample_318", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'e' or c\""}
+{"id": "sample_319", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"count = 0\\nneedle = 'a'\\nhaystack = 'xxxaaxaaxx'\\n\\nwhile 'a' in haystack:\\n    haystack = haystack.replace('a', '', 1)\\n    c\""}
+{"id": "sample_320", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'USaR'\\nindex = 1\\nwhile index < 4:\\n    if 'U' != 'S':\\n        index += 1\\n    else:\\n        text1 = 'US'\\n        text2 =\""}
+{"id": "sample_321", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_322", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f(['lsi', 's', 't', 't', 'd'], 0) returns ['lsi', 's', 't', 't', 'd']\\n# The function does not modify the list if num i\""}
+{"id": "sample_323", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_324", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_325", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f(\"\") returns False\\nFalse'"}
+{"id": "sample_326", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"number = 0\\nfor t in 'Thisisastring':\\n    if t.isnumeric():\\n        number += 1\\nreturn number\""}
+{"id": "sample_327", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[-1, 7, 1, -3]'"}
+{"id": "sample_328", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 2, 3, 1, 2, 3, 1, 2, 3]'"}
+{"id": "sample_329", "official_pass": false, "official_status": "fail", "detail": "[value] answer='False'"}
+{"id": "sample_330", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'm4n2o' -> '   '\\n'm4n2o'.join(ans) -> '   '\\n'm4n2o' is a string of digits, so the else clause appends spaces to ans.\\nT\""}
+{"id": "sample_331", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_332", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='0` is False.\\n3. `del nums[:count//2:]` deletes the first 3 elements: [-6, -2, 1].\\n4. `nums` is now [-3, 0, 1].\\n5. The fu'"}
+{"id": "sample_333", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='1`: False, since len(places) is 5\\n4. `for i, place in enumerate(places):`:\\n    - `i` starts at 0, `place` is 375\\n    - `'"}
+{"id": "sample_334", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'00nU 9 rCSAzw lpA5BOsizLi7rlVr'\""}
+{"id": "sample_335", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'sjbrlfqmw' with 'l' removed and '?' inserted at its position, then '?' removed\\n'sjbrfqmw'\""}
+{"id": "sample_336", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# '234dsfssdfs333324314s'\\n```\""}
+{"id": "sample_337", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_338", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_339", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_340", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'E G H I j k x'\""}
+{"id": "sample_341", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f({}) returns {}\\n\\nThe function `f` takes a dictionary `cart` as an argument. It repeatedly removes the last item from '"}
+{"id": "sample_342", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f(\"---123-4\") returns False\\nFalse'"}
+{"id": "sample_343", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[[1, 2, 3], [1, 2], 1, [[1, 2, 3], 3, [2, 1]]]'"}
+{"id": "sample_344", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f([6, 4, 2, 8, 15], (lambda x: x.reverse()))\\n# returns [6, 4, 2, 8, 15]\\n\\nThe function `f` takes two arguments: a list '"}
+{"id": "sample_345", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"('ml', 'mv')\""}
+{"id": "sample_346", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"filename = 'docs.doc'\\nsuffix = filename.split('.')[-1]  # suffix = 'doc'\\nf2 = filename + suffix[::-1]      # f2 = 'docs.\""}
+{"id": "sample_347", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'hzcwhzcwhzcwhzcwhzcwhzcwhzcwhzcwhzcwhzcwhzcwhzcwhzcwhzcwhzcwhzcwhzcwhzcwhzcwhzcwhzcwhzcwhzcwhzcwhzcwhzcwhzcwhzcwhzcwh\""}
+{"id": "sample_348", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='# The function returns a copy of the dictionary.\\n# The original dictionary is not modified.\\n# The output is a new dictio'"}
+{"id": "sample_349", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='# The function modifies the dictionary in place.\\n# It sets key 1049 to value 55, then pops the last (key, value) pair,\\n#'"}
+{"id": "sample_350", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_351", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'a_A_b_B3 ' -> 'a_A_b_B3 ' (no change)\\n'a_A_b_B3 '\""}
+{"id": "sample_352", "official_pass": false, "official_status": "fail", "detail": "[value] answer='0'"}
+{"id": "sample_353", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f([1, 0, 2, 2, 0, 0, 0, 1]) returns 3\\n\\nThe function iterates over the list and builds a dictionary where each unique e'"}
+{"id": "sample_354", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_355", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'John z'\""}
+{"id": "sample_356", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 2, 1, 2, 1, 2]'"}
+{"id": "sample_357", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'wrec'\""}
+{"id": "sample_358", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"0\\n# return 'btrburger'[indexes[0]+1:indexes[-1]]\\n# return 'trbur'\\n'trbur'\""}
+{"id": "sample_359", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f([\\'dZwbSR\\', \\'wijHeq\\', \\'qluVok\\', \\'dxjxbF\\'])\\n# returns:\\n[\"  dZwbSR  \", \"  wijHeq  \", \"  qluVok  \", \"  dxjxbF  \"]\\n\\nExpla'"}
+{"id": "sample_360", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'ggggggggggggggggg'\""}
+{"id": "sample_361", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_362", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'wrazugizoernmgzu'\\n# Returns '' because the string is all lowercase and the loop never finds an uppercase letter.\""}
+{"id": "sample_363", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_364", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[[1, True], [3, True]]'"}
+{"id": "sample_365", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'mRcwVqXsRDRb'\\n# 'mRcwVqXsRDRb'\\n# 'mRcwVqXsRDRb'\\n# 'mRcwVqXsRDRb'\\n# 'mRcwVqXsRDRb'\\n# 'mRcwVqXsRDRb'\\n# 'mRcwVqXsRDRb'\\n#\""}
+{"id": "sample_366", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('[ Hello ]+ Hello, World!!_ Hi') returns ''\\n\\nExplanation:\\n\\n1. `string = '[ Hello ]+ Hello, World!!_ Hi'`\\n2. `tmp = s\""}
+{"id": "sample_367", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[6, 2, 1, 4, 1]'"}
+{"id": "sample_368", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'4327 43274327 432743274327 4327432743274327 43274327432743274327 4327'\""}
+{"id": "sample_369", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_370", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# The function returns False if the string contains any non-whitespace characters.\\nFalse\\n\\n# The string '     i' contains\""}
+{"id": "sample_371", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f([11, 21, 0, 11]) returns 21\\n# Explanation:\\n# The function iterates over the list [11, 21, 0, 11] and removes all odd'"}
+{"id": "sample_372", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f(['v'], 1) returns ['1,'].\\n# The function iterates over the list ['v'], assigning each element to 'i'.\\n# Since 'v' is\""}
+{"id": "sample_373", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='# [1, 2, 3]\\n# [1, 2, 3, 100]\\n# [1, 2, 3]\\n# [1, 2, 3, 100]\\n# [1, 2, 3]\\n# [1, 2, 3, 100]\\n# [1, 2, 3]\\n# [1, 2, 3, 100]\\n# [1'"}
+{"id": "sample_374", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_375", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('sierizam', 'iz') returns 'sierizam'\\n\\nExplanation:\\n\\n* The function checks if the second argument 'iz' is in the firs\""}
+{"id": "sample_376", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# The function iterates over the length of the input string, and for each index i, checks if the substring from index 0 '"}
+{"id": "sample_377", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='# The input string is \"BYE\\\\nNO\\\\nWAY\".\\n# The function splits the string on newline characters, resulting in [\\'BYE\\', \\'NO\\','"}
+{"id": "sample_378", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"0`, the function returns `'No such key!'`.\\n\\nThe function modifies the dictionary in-place by repeatedly popping items fr\""}
+{"id": "sample_379", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='0, so nums.clear() is called, making nums = []\\n# The loop then exits because len(nums)'"}
+{"id": "sample_380", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'xxjarczx' is partitioned into ['', 'xx', 'jarczx']\\n# text[0] + text[-1] = 'xxjarczx'\\n'xxjarczx'\""}
+{"id": "sample_381", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_382", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"12 Rwrepny 15 Qltuf\"'"}
+{"id": "sample_383", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'hello'\""}
+{"id": "sample_384", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 's' is not in 'Ta', so the loop will iterate once and new_text will be ['a', 's', 'f', 'd', 'e', 'l', 'l', 'o', 's'].\\n\""}
+{"id": "sample_385", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[0, 2, 6]'"}
+{"id": "sample_386", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f(\\'mid\\', {\\'0\\':\\'q\\',\\'1\\':\\'f\\',\\'2\\':\\'w\\',\\'3\\':\\'i\\'}) returns \"Done!\"\\n# The function iterates over the keys of the dictionary (w'"}
+{"id": "sample_387", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_388", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"28in\"'"}
+{"id": "sample_389", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# [1, 2, 3]\\n# 'nammo'\\n# ['n', 'a', 'm', 'm', 'o']\\n```\""}
+{"id": "sample_390", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='>>> f(\" \\\\t \")\\n0'"}
+{"id": "sample_391", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['9', '+', 'r', '+']\""}
+{"id": "sample_392", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'Hello Is It MyClass'\\n'Hello Is It MyClass'  # returns the original string as it contains lowercase letters.\""}
+{"id": "sample_393", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'scala' reversed is 'alac'\\n# 'alac' sliced every 3 chars starting from len-3 (5) to 0 (-3) is ['al', 'lac']\\n# Joined w\""}
+{"id": "sample_394", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='0:\\n        return i\\n    i+=1\\nreturn -1'"}
+{"id": "sample_395", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_396", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f({}) returns {}\\n\\nThe function iterates over the dictionary using popitem(), which removes the last (key, value) pair '"}
+{"id": "sample_397", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_398", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'2': 2, '0': 1, '1': 2, 2: ['2'], 1: ['1', '2']}\""}
+{"id": "sample_399", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'-' * 2\""}
+{"id": "sample_400", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'I am hungry! eat food.'\\n# 'I am hungry! eat food.'\\n# 'I am hungry! eat food.'\\n# 'I am hungry! eat food.'\\n# 'I am hung\""}
+{"id": "sample_401", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_402", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_403", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_404", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_405", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_406", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\">>> f('Josh')\\nFalse\""}
+{"id": "sample_407", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f([6, 1, 2, 3]) returns 1\\n\\nExplanation:\\n\\n1. The function starts with the list [6, 1, 2, 3] (let's call it `s`).\\n2. `le\""}
+{"id": "sample_408", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_409", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'querist' after removing 'u'\\ntext = 'querist'\\ntext = text.removeprefix('u')\\n# text = 'querist'\\n\\n# text after removing \""}
+{"id": "sample_410", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 1, 3, -1, -1, 1, -2, 6, 6]'"}
+{"id": "sample_411", "official_pass": false, "official_status": "fail", "detail": "[value] answer='True'"}
+{"id": "sample_412", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='steps = list(range(3, 11, 1))\\nif 1 in steps:\\n    steps[-1] = 11\\nreturn len(steps)'"}
+{"id": "sample_413", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'ucwcwc'\""}
+{"id": "sample_414", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_415", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f(((8, 5), (8, 2), (5, 3))) returns None\\n\\nThe function iterates over the key-value pairs of the dictionary created fro'"}
+{"id": "sample_416", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# '1srhfm ojwesf xgwwdyr dlrul ymba bpq'\\n```\""}
+{"id": "sample_417", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[8, 2, 7]'"}
+{"id": "sample_418", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"qqq#\"'"}
+{"id": "sample_419", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"''\""}
+{"id": "sample_420", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='>>> f(\"x\")\\nTrue'"}
+{"id": "sample_421", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f(\"try.\", 5) returns \"try.\"\\n\\nThe function checks if the length of the input string is less than the given integer `n`.'"}
+{"id": "sample_422", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_423", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='# [4, 2, 5, 1, 3, 2, 6]\\n# After the first iteration, selfie = [4, 2, 5, 1, 3, 6]\\n# selfie[i] = 6, selfie[0] = 4, so self'"}
+{"id": "sample_424", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# The function removes the first quote and then iterates over the characters starting from the first non-quote character'"}
+{"id": "sample_425", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['', 'CL44', '']\""}
+{"id": "sample_426", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 2, 8, 3]'"}
+{"id": "sample_427", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('s a a b s d s a a s a a') returns 'a a s a a'\\n\\nExplanation:\\n\\n1. `len('s a a b s d s a a s a a') - 1 = 15 - 1 = 14`\\n\""}
+{"id": "sample_428", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f([]) returns [].\\n# The for loop iterates 0 times, so no appends occur.\\n# The function returns the original empty list'"}
+{"id": "sample_429", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[('abc', 2), ('defghi', 2), (87.29, 3), (5, 1)]\""}
+{"id": "sample_430", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_431", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(n, m):\\n    arr = list(range(1, n+1))\\n    for i in range(m):\\n        arr.clear()\\n    return arr\\n\\nprint(f(1, 3)) # ['"}
+{"id": "sample_432", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'m.EMc7e,b6fG5oG'\""}
+{"id": "sample_433", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f(\"Dmreh,Sspp,T,G ,.tB,Vxk,Cct\")\\n# returns: \\'T,Dmreh,Sspp,G,,.tB,Vxk,Cct\\'\\n\\n# Explanation:\\n# The function takes a strin'"}
+{"id": "sample_434", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'eeuseeeoehasa' is a string, so it has the 'rfind' method.\\n# The 'rfind' method returns the index of the last occurren\""}
+{"id": "sample_435", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f([], 0, 1) returns '1'\\n\\nExplanation:\\n\\n* `len(numbers)` is 0, so the first while loop does not execute.\\n* `num` is 0, \""}
+{"id": "sample_436", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['s', 's', 's', 's', 's']\""}
+{"id": "sample_437", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'john': None, 'doe': None, 'the': None}\""}
+{"id": "sample_438", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# '1  \\\\t\\\\t\\\\t3'\\n'1  \\\\t\\\\t\\\\t3'  # returns the original string with no expansion\\n```\""}
+{"id": "sample_439", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'coscifysu'.partition(' ') returns:\\n# ('co', ' ', 'scifysu')\\n# parts = ('co', 'scifysu')\\n# ''.join(parts) returns: 'co\""}
+{"id": "sample_440", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_441", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# The function modifies the dictionary passed as the first argument and returns it.\\n# The original dictionary is {37: 'f\""}
+{"id": "sample_442", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='# [1, 2, 3, 4]\\n# [1, 2, 3, 4]\\n```'"}
+{"id": "sample_443", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_444", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f([-5, 3, -2, -3, -1, 3, 5]) returns [-5, 3, -2, -3, -1, 3, 5]\\n# The function does not modify the input list.\\n# The re'"}
+{"id": "sample_445", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"Carrot, Banana and Strawberry\"'"}
+{"id": "sample_446", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f([]) returns []\\n\\nThe function takes an array as input. If the length of the array is even, it clears the array (sets '"}
+{"id": "sample_447", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"|||a\"'"}
+{"id": "sample_448", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('uMeGndkGh', 'kG') returns False\\nFalse\""}
+{"id": "sample_449", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_450", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'K zBK' -> 'K zBK'\\n# 'K' -> 'K' (no change)\\n# 'zBK' -> 'KzB' (reversed)\\n# 'KzB' -> 'KzB' (no change)\\n'K zBK'\""}
+{"id": "sample_451", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_452", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_453", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_454", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'a': 2, 'b': [], 'c': {}}\""}
+{"id": "sample_455", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# '?XyZ'\\n'?XYZ'  # text.upper() is executed because uppers >= 10 (10 > 0)\""}
+{"id": "sample_456", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_457", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f([3, 1, 7, 5, 6]) returns [3, 1, 7, 5]\\n# The function pops the last element of nums and count repeatedly until nums i'"}
+{"id": "sample_458", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'm' -> ','\\n# 'm' -> 'p'\\n# '3' -> 'o'\\n# 'm' -> ','\\n# 'm' -> 'p'\\n# '3' -> 'o'\\n# 'm' -> ','\\n# 'm' -> 'p'\\n# '3' -> 'o'\\n# '\""}
+{"id": "sample_459", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'vzjmc': 'b', 'ae': 'f', '0': 'ae'}\""}
+{"id": "sample_460", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# '| GENERAL NAGOOR |'\""}
+{"id": "sample_461", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('123', '123eenhas0') returns False\\nFalse\""}
+{"id": "sample_462", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'o' is not in the list of letters, so the first letter of the string ('l') is used.\\n'l' * 9\""}
+{"id": "sample_463", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f({-1: -1, 5: 5, 3: 6, -4: -4}) returns {}\\n\\nThe function iterates over the key-value pairs of the input dictionary, an'"}
+{"id": "sample_464", "official_pass": false, "official_status": "fail", "detail": "[value] answer='0'"}
+{"id": "sample_465", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# The input value is an empty string.\\n# The function updates the roles dictionary with the key.strip() for each key in t'"}
+{"id": "sample_466", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'th\\\\n-----'\""}
+{"id": "sample_467", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f({}) returns {}\\n\\nThe function takes a dictionary as input, makes a copy of it using the `copy()` method, then iterate'"}
+{"id": "sample_468", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('unrndqafi', 'c', 2) returns 'unrndqafi'\\n\\nExplanation:\\n\\n1. `a = 'unrndqafi'`\\n2. `b = 'c'`\\n3. `n = 2`\\n4. `result = m \""}
+{"id": "sample_469", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'sduyai'\\n# position = 1, value = 'y'\\n\\nlength = 7\\nindex = 1 % 7 = 1\\nnew_text = ['s', 'd', 'u', 'y', 'a', 'i']\\nnew_text.\""}
+{"id": "sample_470", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_471", "official_pass": false, "official_status": "fail", "detail": "[value] answer='1'"}
+{"id": "sample_472", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f(\"x--y-z-5-C\") returns [5, 3, 2, 1]\\n\\nExplanation:\\n\\n1. The input string is processed by removing all hyphens (\\'-\\') and'"}
+{"id": "sample_473", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'scedvtvotkwqfoqn' without 'o'\\n'scedvtvtvotkwqfqn'\\n\\nExplanation:\\nThe function iterates through the string and appends \""}
+{"id": "sample_474", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('#[)[]>[^e>\\\\n 8', -5)\\n# returns:\\n# '     #'\\n# '   (]'\\n# ' >[^e'\\n# '> 8  '\\n# '     '\\n# '     '\\n# '     '\\n# '     '\\n# \""}
+{"id": "sample_475", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_476", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"booty boot-boot bootclass\", \\'k\\')'"}
+{"id": "sample_477", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# The input is '|xduaisf'.\\n# The rpartition splits the string into '|xd', 'u', 'aisf'.\\n# The problem is set to 'u', whic\""}
+{"id": "sample_478", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'meow': 2}\""}
+{"id": "sample_479", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f([1, 5, 2, 3, 6], 2, 4) returns [1, 5, 6]\\n# Explanation:\\n# The function pops the element at index 1 (5) and index 2 ('"}
+{"id": "sample_480", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('', 'mi', 'siast') returns ''\\n\\nThe function splits the input string into a list of substrings using the first argume\""}
+{"id": "sample_481", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='item2` is False, so the first if statement is skipped.\\n2. `values[-1]'"}
+{"id": "sample_482", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_483", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'a'\""}
+{"id": "sample_484", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[18, '6', 'r', '5r', 'reg', '', 'f', 'fq1', '-4']\""}
+{"id": "sample_485", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'avdropj gsd'\""}
+{"id": "sample_486", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_487", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_488", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'t651h'\""}
+{"id": "sample_489", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# The function returns the text with the prefix removed.\\n# The prefix is 'cos' and the text is 'coscifysu'.\\n# After remo\""}
+{"id": "sample_490", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# The function returns a string containing all whitespace characters from the input string.\\n# The input string contains '"}
+{"id": "sample_491", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f([4, 8, 8, 5]) returns [4, 8, 8, 5, 4, 8, 8, 5, 4, 8, 8, 5, 4, 8, 8, 5, 4, 8, 8, 5, 4, 8, 8, 5, 4, 8, 8, 5, 4, 8, 8, '"}
+{"id": "sample_492", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('abbkebaniuwurzvr', 'm') returns ''\\n\\nExplanation:\\n\\n1. `ls = list('abbkebaniuwurzvr')` is ['a', 'b', 'b', 'k', 'e', '\""}
+{"id": "sample_493", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f({'-4':'4','1':'2','-':'-3'}) returns:\\n['-4 => 4', '1 => 2', '- => -3']\""}
+{"id": "sample_494", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_495", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'a1234\u00e5r'\\n# 'a1234' is ASCII, '\u00e5r' is not\\nreturn 'a1234', '\u00e5r'\\n\\n# 'a1234\u00e5r'\\n# 'a1234' is ASCII, '\u00e5r' is not\\nreturn 'a1\""}
+{"id": "sample_496", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('eftw{\u044c\u0422\u0441k_1', '\\\\\\\\')\\n# returns 0\\n\\nThe function checks if the second argument is a string, and if so, it counts the n\""}
+{"id": "sample_497", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['4', '4', '+', '+']\""}
+{"id": "sample_498", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='# [2, 2, 2, 3, 3]\\n# 2:2\\n# 3\\n# [2, 2, 2, 3, 3]\\n# [2, 2, 2, 3, 3]\\n# [2, 2, 2, 3, 3]\\n# [2, 2, 2, 3, 3]\\n# [2, 2, 2, 3, 3]\\n# '"}
+{"id": "sample_499", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'magazine............'\""}
+{"id": "sample_500", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'wi w'\""}
+{"id": "sample_501", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'qpfi jzm'\\n# 'j'\\n# 'j' is at index 4\\n# result = ['q', 'p', 'f', 'i', 'j', 'j', 'z', 'm']\\n# 'j' is at index 5\\n# result \""}
+{"id": "sample_502", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'F*S*m*i*t*h'\""}
+{"id": "sample_503", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='b)\\n        a, b = b, (b+1) % len(result)\\n    return result\\n\\nf({})\\n# [None, None]'"}
+{"id": "sample_504", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='# [1, 1, 1, 1]\\n[1, 1, 1, 1]'"}
+{"id": "sample_505", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('--4/0-209') returns ''\\n\\nThe function iterates over the characters in the string, removing the last character each i\""}
+{"id": "sample_506", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'ts'\""}
+{"id": "sample_507", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='# The output is 0.\\n0'"}
+{"id": "sample_508", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('ertubwi', 'p', 5) returns 'wirubte'\\n\\nExplanation:\\n\\n1. `text.rsplit('p', 5)` splits the string into ['ert', 'ubwi']\\n\""}
+{"id": "sample_509", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_510", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f({7: 'ii5p', 1: 'o3Jwus', 3: 'lot9L', 2: '04g', 9: 'Wjf', 8: '5b', 0: 'te6', 5: 'flLO', 6: 'jq', 4: 'vfa0tW'}, 4, 'Wy\""}
+{"id": "sample_511", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_512", "official_pass": false, "official_status": "fail", "detail": "[value] answer='True'"}
+{"id": "sample_513", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[2]'"}
+{"id": "sample_514", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'stew corn and beans in soup'\""}
+{"id": "sample_515", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_516", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# f(['condor', 'eyes', 'gay', 'isa'], 'd') returns ['isa']\\n# The function filters the list of strings to only include th\""}
+{"id": "sample_517", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('SzHjifnzog') returns 'SzHjifnzog'\\n\\nThe function iterates over the characters of the input string in reverse order. \""}
+{"id": "sample_518", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# The output of `f('the speed is -36 miles per hour')` is `True`.\\n# The `isdecimal()` method returns `True` if all chara\""}
+{"id": "sample_519", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# The function modifies the dictionary argument, then clears it and returns a new dictionary.\\n# The original input dicti'"}
+{"id": "sample_520", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[6]'"}
+{"id": "sample_521", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[9, 77, 5, 2, 0, 4, 77, 0, 43]'"}
+{"id": "sample_522", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1.0]'"}
+{"id": "sample_523", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text):\\n    text = list(text)\\n    for i in range(len(text)-1, -1, -1):\\n        if text[i].isspace():\\n            te'"}
+{"id": "sample_524", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{2: 0, 4: 1, 3: 2, 1: 3, 5: 4}'"}
+{"id": "sample_525", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f({'TEXT': 7, 'CODE': 3}, 7, 3) returns (7, 3)\\n# The function creates a dictionary d from the keys and values of c.\\n# \""}
+{"id": "sample_526", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'ekwierpg'\""}
+{"id": "sample_527", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# The output of f(\"!?\", \"\") is \"!?\".\\n# The function returns the input text with the length of the value string padded wi'"}
+{"id": "sample_528", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('papeluchis') returns 0\\n\\nThe function iterates over each character in the input string, appending each character to \""}
+{"id": "sample_529", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='# [1, 2, 3]\\n# [1, 2, 3]\\n# [1, 2, 3]\\n# [1, 2, 3]\\n# [1, 2, 3]\\n# [1, 2, 3]\\n# [1, 2, 3]\\n# [1, 2, 3]\\n# [1, 2, 3]\\n# [1, 2, 3]\\n'"}
+{"id": "sample_530", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'@@ff'\""}
+{"id": "sample_531", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f(\"Ibaskdjgblw asdl \", \"djgblw\") returns \"asdl \"\\n\\nExplanation:\\n\\nThe function recursively removes the prefix \"djgblw\" f'"}
+{"id": "sample_532", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[[1, 2, 3], [1, 2, 3, 1, 2, 3], [1, 2, 3, 1, 2, 3, 1, 2, 3]]'"}
+{"id": "sample_533", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_534", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'+':\\n        result += value\\n    else:\\n        result += sequence[i + j]\\nreturn result\""}
+{"id": "sample_535", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f(1341240312) returns False\\nFalse'"}
+{"id": "sample_536", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"digits = 0\\nfor char in 'C24Bxxx982ab':\\n    if char.isdigit():\\n        digits += 1\\nprint(digits)  # 3\""}
+{"id": "sample_537", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'abv' is a string, 'a' is a string.\\n# new_text = list('abv') = ['a', 'b', 'v']\\n# new_text.append('a') = ['a', 'b', 'v'\""}
+{"id": "sample_538", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'zz0574zz'\""}
+{"id": "sample_539", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f([]) returns ['']\\n\\nExplanation:\\n\\n1. `array` is passed as an empty list `[]`.\\n2. `c = array` creates a shallow copy of\""}
+{"id": "sample_540", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[5, 5, 5, 5, 6, 4, 9, 5]'"}
+{"id": "sample_541", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# ' \\\\t  \\\\u3000' is a string with spaces, tabs, and a Unicode space character.\\n# The function returns True if all charact\""}
+{"id": "sample_542", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('ab cd', 'x', 2) returns ['ab cd']\\n# The function tries to split the string 'ab cd' with separator 'x' and maxsplit \""}
+{"id": "sample_543", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# '.,,,,,. \u0645\u0646\u0628\u062a'\\n# -> '.,,,,,. \u0645\u0646\u0628\u062a'\\n# -> '.,,,,,. \u0645\u0646\u0628\u062a'\\n# -> '.,,,,,. \u0645\u0646\u0628\u062a'\\n# -> '.,,,,,. \u0645\u0646\u0628\u062a'\\n# -> '.,,,,,. \u0645\u0646\u0628\u062a'\\n# -\""}
+{"id": "sample_544", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='tab tab tabulates'"}
+{"id": "sample_545", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_546", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_547", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"h...e...l...l...o...w...o...r...l...d...\"'"}
+{"id": "sample_548", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_549", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f([[1, 1, 1, 1]]) returns [[1, 1, 1, 1]]\\n\\nExplanation:\\n\\n1. `matrix.reverse()` reverses the order of the elements in th'"}
+{"id": "sample_550", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 4, 16, 256, 1024]'"}
+{"id": "sample_551", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_552", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f({2: 0.76, 5: [3, 6, 9, 12]}) returns {3: 0.76, 6: 0.76, 9: 0.76, 12: 0.76}\\n\\nThe function iterates over the key-value'"}
+{"id": "sample_553", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'07269439m'\""}
+{"id": "sample_554", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[3, -5, 9999, 1, 0, 2]'"}
+{"id": "sample_555", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='\"odes_____code_____well\"\\n    .replace(\\'\\\\n\\', \\'_____\\') -> \"odes_____code_____well\"\\n    .replace(\\'\\\\t\\', 2 * \\' \\') -> \"odes  c'"}
+{"id": "sample_556", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'\\\\n\\\\n\\\\t\\\\tz\\\\td\\\\ng\\\\n\\\\t\\\\t\\\\te'\""}
+{"id": "sample_557", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'xxx ar m mar x'\""}
+{"id": "sample_558", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f([3, 1, 2, 1, 4, 1], [1]) returns False\\n# Explanation:\\n# The function first removes all occurrences of 1 from the lis'"}
+{"id": "sample_559", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='# The function takes a string and returns a modified string.\\n# The input is \"first-second-third\", so n = \"first-second-t'"}
+{"id": "sample_560", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f(\"591237865\") returns 0\\n# The function iterates over the characters of the string \"591237865\", which are all digits.\\n'"}
+{"id": "sample_561", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('7Ljnw4Lj', '7') returns 49\\n# 7 * 4 = 28, then 28 * 2 = 56, then 56 * 2 = 112, then 112 * 2 = 224, then 224 * 2 = 44\""}
+{"id": "sample_562", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# The function returns True if the input text is all uppercase, False otherwise.\\n# The input 'VTBAEPJSLGAHINS' is all up\""}
+{"id": "sample_563", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"nums = []\\nfor i in range(len('sx')):\\n    nums.append('jivespdcxc'.count('sx')[i])\\nreturn sum(nums)\""}
+{"id": "sample_564", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f([[395, 666, 7, 4], [], [4223, 111]])\\n# returns [395, 666, 7, 4]\\n\\nThe function modifies the list in place:\\n\\n1. `lists'"}
+{"id": "sample_565", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"qsqgijwmmhbchoj\")'"}
+{"id": "sample_566", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_567", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('one two three four five', 3) returns ['one', 'two', 'three', 'four_five']\""}
+{"id": "sample_568", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('bwmm7h') returns 'bwmm7h'\\n\\nExplanation:\\n\\n1. The function starts by setting `letter = 1`.\\n2. The string '1234567890'\""}
+{"id": "sample_569", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"coincidences = {'1': 3, ' ': 1}\\nsum(coincidences.values()) = 4\""}
+{"id": "sample_570", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='# [2, 3]\\n```'"}
+{"id": "sample_571", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'a    b'\""}
+{"id": "sample_572", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f({1: 9, 2: 10, 3: 1}, 1) returns:\\n[((2, 10), None), ((3, 1), None), ((1, 9), None)]'"}
+{"id": "sample_573", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"ra\"'"}
+{"id": "sample_574", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'George'\""}
+{"id": "sample_575", "official_pass": false, "official_status": "fail", "detail": "[value] answer='30'"}
+{"id": "sample_576", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['x', -2, -1, -6, -1]\""}
+{"id": "sample_577", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f([(1, 'pos')]) returns [{(1, 'pos')}]\\n# The function iterates over the items in the list, which is a single tuple (1,\""}
+{"id": "sample_578", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'R': 0, 'T': -3, 'F': 6, 'K': 0}\""}
+{"id": "sample_579", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# The output of f(\\'\\') is an empty string.\\n\"\"'"}
+{"id": "sample_580", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[0, 2]'"}
+{"id": "sample_581", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'akoonsXo'\""}
+{"id": "sample_582", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_583", "official_pass": false, "official_status": "fail", "detail": "[value] answer='T\\nZA\\nA'"}
+{"id": "sample_584", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_585", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f(';,,,?') returns ''\\n\\nExplanation:\\n\\n1. `text[0]` is ';'.\\n2. `text.count(';')` returns 1.\\n3. `ls = list(';,,,?')` is `\""}
+{"id": "sample_586", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# The output of f(\"breakfast\", \"e\") is 4.\\n4'"}
+{"id": "sample_587", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f([0, 1, 1, 2], 'abcca')\""}
+{"id": "sample_588", "official_pass": false, "official_status": "fail", "detail": "[value] answer='-1'"}
+{"id": "sample_589", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_590", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='# \"25000   $\"\\n# After first iteration: \"5000   $\"\\n# After second iteration: \"000   $\"\\n# After third iteration: \"   $\"\\n# '"}
+{"id": "sample_591", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f([6, 3, 0, 7, 4, 8]) returns ([0, 0, 0, 0, 0, 0, 0, 0, 0], [1, 2, 3, 4, 5, 6, 7, 8])\\n# counts is a list of 9 zeros, a'"}
+{"id": "sample_592", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_593", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0]'"}
+{"id": "sample_594", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='# The function returns the index of the first newline character in the string.\\n# The string contains the newline charact'"}
+{"id": "sample_595", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('qdhstudentamxupuihbuztn', 'jdm') returns 'Studentamxupuihbuztn'\\n\\nExplanation:\\n\\n1. The function checks if the input \""}
+{"id": "sample_596", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_597", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"JAAFODSDFA SODOFJ AOAFJIS  JAFAIDFSAS1\"'"}
+{"id": "sample_598", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'abc'\""}
+{"id": "sample_599", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[\"a\", \"b\", \"c\", \"a b\", \"b c\", \"c\"]'"}
+{"id": "sample_600", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_601", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'CSHARP'\\n'CcCcCcCcCcCcCcCcCcCcCcCcCcCcCcCcCcCcCcCcCcCcCcCcCcCcCcCcCcCcCcCcCcCcCcCcCcCcCcCcCcCcCcCcCcCcCcCcCcCcCcCcCcCc\""}
+{"id": "sample_602", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f([1, 1], 1) returns 2\\n2'"}
+{"id": "sample_603", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_604", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_605", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_606", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_607", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('. C.') returns True\\nTrue\""}
+{"id": "sample_608", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_609", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f({}, 1) returns {}\\n\\nExplanation:\\n\\n1. `array` is an empty dictionary `{}`.\\n2. `elem` is `1`.\\n3. `result = array.copy()'"}
+{"id": "sample_610", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f([1, 2, 1, 1], 3) returns {1: 3, 2: 3}\\n\\nExplanation:\\n\\n1. `dict.fromkeys([1, 2, 1, 1], 3)` creates a dictionary with k'"}
+{"id": "sample_611", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[-6, -2, 1, -3, 0, 1]'"}
+{"id": "sample_612", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_613", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'eat!' -> 'tea!'\\n'tea!'\""}
+{"id": "sample_614", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='-1:\\n        break\\n    elif n'"}
+{"id": "sample_615", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f([-1, 12, -6, -2], -1) returns 1\\n# The function appends -1 to the list, then returns the index of the maximum value i'"}
+{"id": "sample_616", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('\\\\n\\\\ny\\\\n')\""}
+{"id": "sample_617", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'non ascii'\""}
+{"id": "sample_618", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'889'\""}
+{"id": "sample_619", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'rock paper scissors'\\n```\""}
+{"id": "sample_620", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"3hiqmxond lert\"'"}
+{"id": "sample_621", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_622", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('galgu')\""}
+{"id": "sample_623", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'hi~!' -> 'HI'\\n# 'hi~!' -> 'HI'\\n# 'HI' -> 'HI'\\n# 'HI' -> 'HI'\\n# 'HI' -> 'HI'\\n# 'HI' -> 'HI'\\n# 'HI' -> 'HI'\\n# 'HI' -> '\""}
+{"id": "sample_624", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'llomnrpc'\\n# 'x'\\n# 'lxomnrpc'\\n```\""}
+{"id": "sample_625", "official_pass": false, "official_status": "fail", "detail": "[value] answer='7'"}
+{"id": "sample_626", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'abab' -> 'baab'\\n'baab'\""}
+{"id": "sample_627", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 7, -5]'"}
+{"id": "sample_628", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_629", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'catNG' with 'NG'\\n# 'NG' is not in 'catNG'\\n# return 'catNG'\\n'catNG'\""}
+{"id": "sample_630", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{2: -9, 3: -7}'"}
+{"id": "sample_631", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'a'\""}
+{"id": "sample_632", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f([63, 0, 1, 5, 9, 87, 0, 7, 25, 4]) returns [0, 0, 1, 4, 5, 7, 9, 25, 63, 87]\\n\\nThe function performs a bubble sort on'"}
+{"id": "sample_633", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f([5, -3, 3, 2], 2) returns 2\\n\\nExplanation:\\n\\n1. The array is reversed to [2, 3, -3, 5].\\n2. The `index` method is calle'"}
+{"id": "sample_634", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'bicc'\""}
+{"id": "sample_635", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f(\"9.twCpTf.H7 HPeaQ^ C7I6U,C:YtW\") returns False\\n\\nExplanation:\\nThe function iterates over each character in the input'"}
+{"id": "sample_636", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f({ 3: 'A3', 1: 'A1', 2: 'A2' }) returns {3: 'A3', 1: 'A1', 2: 'A2'}\\n\\nThe function iterates over the dictionary `d` an\""}
+{"id": "sample_637", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='# no'"}
+{"id": "sample_638", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'ababa' ends with 'ab', so the loop runs once and s becomes 'a'. Then the loop condition fails and s is returned.\\n\\n'a'\""}
+{"id": "sample_639", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f(\"xabxfiwoexahxaxbxs\", \"xbabcabccb\")\\n# returns: \"yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes '"}
+{"id": "sample_640", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"a = 0\\nif '3' in 'eeeeeeoopppppppw14film3oee3':\\n    a += 1\\nfor i in range(0, len('eeeeeeoopppppppw14film3oee3') - 1):\\n   \""}
+{"id": "sample_641", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# The input 'dummy33;d' is not a decimal string, so the function returns False.\\nFalse\\n\\n# The input '33' is a decimal str\""}
+{"id": "sample_642", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_643", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'damdrodm' ends with 'm', so the last character is swapped with its case:\\n# 'd' -> 'D'\\n# 'amdrodm' -> 'amdrodD'\\n>>> 'd\""}
+{"id": "sample_644", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 6]'"}
+{"id": "sample_645", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_646", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'YzS, cBa'\""}
+{"id": "sample_647", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['/alcm@ an)t//eprw)/e!/d\\\\nujv']\""}
+{"id": "sample_648", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f([0, 4, 5, 6], [13, 23, -5, 0]) returns 6\\n# The function iterates through list1, removes elements that are in list2, '"}
+{"id": "sample_649", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f(\"\\\\tf9\\\\n\\\\tldf9\\\\n\\\\tadf9!\\\\n\\\\tf9?\", 1)\\n# returns:\\n# \\'\\\\tf9\\\\n\\\\tldf9\\\\n\\\\tadf9!\\\\n\\\\tf9?\\'\\n\\n# The function takes a string and a '"}
+{"id": "sample_650", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# The function removes all occurrences of the substring from the start of the string.\\n# When the string is empty, there '"}
+{"id": "sample_651", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'E Wrestled Evil Until Upperfeat'\""}
+{"id": "sample_652", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_653", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='t = \"c, c, c ,c, c\"\\nfor alph in \"c, c, c ,c, c\":\\n    t = t.replace(alph, \"\")\\nreturn len(t.split(\"c\"))'"}
+{"id": "sample_654", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'aphid' with 'i' replaced by '?'\\n'ap?d'\""}
+{"id": "sample_655", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'pp'\""}
+{"id": "sample_656", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='# no'"}
+{"id": "sample_657", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# no\\n\\nThe function iterates over the punctuation characters '!.?,:;' and checks if the input string contains more than o\""}
+{"id": "sample_658", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[None, None, None, None, None]'"}
+{"id": "sample_659", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='The function iterates over the list of strings, checks if each string is all uppercase (using the `isupper()` method), a'"}
+{"id": "sample_660", "official_pass": false, "official_status": "fail", "detail": "[value] answer='7'"}
+{"id": "sample_661", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'ee'\""}
+{"id": "sample_662", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_663", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f([], 2) returns []\\n\\nThe function takes two arguments: `container` and `cron`. If `cron` is not in `container`, the fu'"}
+{"id": "sample_664", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_665", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"AaBbCc\"'"}
+{"id": "sample_666", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='# f({0: [], 1: []}, {0: [0, 0, 0, 0], 2: [2, 2, 2]}) returns 4.\\n\\nExplanation:\\n\\n* `d1` is `{0: [], 1: []}`.\\n* `d2` is `{0'"}
+{"id": "sample_667", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('C7') returns:\\n['< C level=0 >', '< 7 level=1 >']\""}
+{"id": "sample_668", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'hellomyfriendear' -> 'earhellomyfriend'\\n'hellomyfriendear'[-1] = 'r'\\n'hellomyfriendear'[:-1] = 'hellomyfriend'\\n'r' + \""}
+{"id": "sample_669", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_670", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f(['12','ab'], [2,2]) returns [2, 2]\\n\\nExplanation:\\n\\n1. `d = dict(zip(a, b))` creates a dictionary where the keys are t\""}
+{"id": "sample_671", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='# \"ewriyat emf rwto segya\"\\n# \"tey\" -> \"dgo\"\\n# \"e\" -> \"d\", \"w\" -> \"g\", \"r\" -> \"o\", \"t\" -> \"a\", \"y\" -> \"m\"\\n\\n\"dmgam fdmo rw'"}
+{"id": "sample_672", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"mzd\"'"}
+{"id": "sample_673", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='\"cA\".isupper() -> False\\n\"cA\".islower() -> True\\nreturn \"cA\".upper() -> \"CA\"'"}
+{"id": "sample_674", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'q'\""}
+{"id": "sample_675", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_676", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'a' is replaced with 100 spaces.\\n'a'\\n\\n# 'a' is replaced with 100 spaces.\\n'a'\\n\\n# 'a' is replaced with 100 spaces.\\n'a'\\n\\n\""}
+{"id": "sample_677", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'I got'\""}
+{"id": "sample_678", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='freq = dict()\\nfor c in \"HI\".lower():\\n    if c in freq:\\n        freq[c] += 1\\n    else:\\n        freq[c] = 1\\nprint(freq)'"}
+{"id": "sample_679", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('meet') returns False\\nFalse\""}
+{"id": "sample_680", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"werg\"'"}
+{"id": "sample_681", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='The function inserts the element `7` at index `2 + 1 = 3` in the list. Since the index is valid, the function uses the t'"}
+{"id": "sample_682", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'hy_pernimovichyp'\""}
+{"id": "sample_683", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_684", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f(\"Transform quotations\\\\\"\\\\nnot into numbers.\")\\n\"Transform 9833not into numbers.\"\\n\\nExplanation:\\nThe `str.maketrans()` m'"}
+{"id": "sample_685", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f([1, 1, 1], -2) returns 0\\n\\nThe function `f` takes two arguments: `array` and `elem`. It returns the result of `array.'"}
+{"id": "sample_686", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='# f({\"lorem ipsum\": 12, \"dolor\": 23}, [\"lorem ipsum\", \"dolor\"])\\n# returns {\"lorem ipsum\": 12, \"dolor\": 23}\\n\\n{\\n    \"lorem'"}
+{"id": "sample_687", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'Rjug nzufE' -> ['R', 'j', 'u', 'g', 'n', 'z', 'u', 'f', 'E']\\n# Pop the middle element: 'u'\\n# Append lowercase of the \""}
+{"id": "sample_688", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_689", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[-15, -30, 10, 35]'"}
+{"id": "sample_690", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'802.5'\""}
+{"id": "sample_691", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# 'rpyttc' ends with 'c', so the function recurses with 'rpyttc' -> 'rpytt' and 'cyt' -> 'yt'.\\n# 'rpytt' ends with 't', \""}
+{"id": "sample_692", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_693", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f(\"sa832d83r xd 8g 26a81xdf\") returns \\'x0\\'*3 = \\'x0x0x0\\''"}
+{"id": "sample_694", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"('d', {'e': 1, 'c': 3})\""}
+{"id": "sample_695", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f({}) returns {}\\n\\nThe function iterates over an empty dictionary, so it doesn't do anything. The return value is an em\""}
+{"id": "sample_696", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('wdj') returns 10\\n# Explanation:\\n# The function iterates over the characters of the input string, starting from the \""}
+{"id": "sample_697", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f(\"not it\", \"\")\\n(\\'not\\', \\'\\', \\'it\\')'"}
+{"id": "sample_698", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# The function removes all ')' characters from the input string.\\n# The input string is a tuple containing a single strin\""}
+{"id": "sample_699", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_700", "official_pass": false, "official_status": "fail", "detail": "[value] answer='22'"}
+{"id": "sample_701", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# '31849 let it!31849 pass!'\\n# ('3','1','8',' ','1','9','2','d')\\n\\n# rstrip removes trailing characters from the right.\\n#\""}
+{"id": "sample_702", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_703", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'vzzv2sg'[2:]\\n'v2sg'\""}
+{"id": "sample_704", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('.', 0, '99') returns '999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999\""}
+{"id": "sample_705", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# The function returns a list of strings where each city name is prefixed with 'Somewhere '.\\n# The output is: ['Somewher\""}
+{"id": "sample_706", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f(\"ab\", \"xy\") returns [\"xy\", \"ab\"]'"}
+{"id": "sample_707", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'undbs l'\\n# position = 1\\n# length = 7\\n# index = 1 % (7 + 1) = 1\\n# new_text = ['u', 'n', 'd', 'b', 's', ' ', 'l']\\n# new\""}
+{"id": "sample_708", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'jcmfxv'\""}
+{"id": "sample_709", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'a loved' is split into ['a', 'loved']\\n# ['a', 'loved'] is sorted in reverse order: ['loved', 'a']\\n# ' '.join(['loved'\""}
+{"id": "sample_710", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# The function returns the updated playlist dictionary.\\n# The input playlist is {'aki': ['1', '5']}.\\n# The liker_name is\""}
+{"id": "sample_711", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='# The function replaces newlines with tabs.\\n# The input has multiple newlines and tabs, but they are all replaced with t'"}
+{"id": "sample_712", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('A(hiccup)A') returns:\\n[['A'], ['h'], ['i'], ['c'], ['c'], ['u'], ['p'], ['A']]\\n\\nExplanation:\\n\\n1. `text.splitlines()\""}
+{"id": "sample_713", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='# The function splits the input string by the given character, removes whitespace from each split part, and returns True'"}
+{"id": "sample_714", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['x', 'x', 'x']\""}
+{"id": "sample_715", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('abababac', 'a') returns True\\nTrue\""}
+{"id": "sample_716", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f([2, 1, 2, 3, 1, 6, 3, 8]) returns []\\n\\nThe function iterates over the list and clears it repeatedly until the length '"}
+{"id": "sample_717", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"timetable\"'"}
+{"id": "sample_718", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('ThisIsSoAtrocious') returns '0ThisIsSoAtrocious'\\n\\nExplanation:\\n\\nThe function iterates over each character in the in\""}
+{"id": "sample_719", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='if (x) {y = 1;} else {z = 1;}'"}
+{"id": "sample_720", "official_pass": false, "official_status": "fail", "detail": "[value] answer='5'"}
+{"id": "sample_721", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_722", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'WpZpPpDl/'\""}
+{"id": "sample_723", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('dga nqdk\\\\rull qcha kl', 1)\\n['dga nqdk', 'ull qcha kl']\""}
+{"id": "sample_724", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='cites = [6, 4, 2]'"}
+{"id": "sample_725", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_726", "official_pass": false, "official_status": "fail", "detail": "[value] answer='(10, 28)'"}
+{"id": "sample_727", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f(['ix', 'dxh', 'snegi', 'wiubvu'], '')\\n['dxh', 'ix', 'snegi', 'wiubvu']\\n\\nExplanation:\\nThe function takes two argument\""}
+{"id": "sample_728", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='ch.lower()`).\\n* If `ch` is not a lowercase letter, it checks if the index of the last occurrence of a lowercase letter i'"}
+{"id": "sample_729", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[9, 6]'"}
+{"id": "sample_730", "official_pass": false, "official_status": "fail", "detail": "[value] answer='4'"}
+{"id": "sample_731", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'Chris requires ride to the airport on Friday.'\""}
+{"id": "sample_732", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_733", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'n' is an odd-length string, so len('n') // 2 = 0.\\n# left_half = 'n'[:0] = ''\\n# right_half = 'n'[0:] = 'n' (reversed) \""}
+{"id": "sample_734", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='# [5, 3, 3, 7]\\n# After the first iteration of the loop, the list is [5, 7]\\n# The second iteration does not run because l'"}
+{"id": "sample_735", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# The output of f('(A (b B))') is 'AbB'.\\n# The input is replaced by removing parentheses, then capitalized, and spaces a\""}
+{"id": "sample_736", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='pichi chi'"}
+{"id": "sample_737", "official_pass": false, "official_status": "fail", "detail": "[value] answer='2'"}
+{"id": "sample_738", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='The function iterates over the characters in the second argument, \"x.r\", and removes each character from the first argum'"}
+{"id": "sample_739", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('qwbnjrxs', ['jr', 'b', 'r', 'qw']) returns False\\n# The function iterates through the pattern list, checking if each\""}
+{"id": "sample_740", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# [1, 2, 3, 4]\\n# 3\\n# [1, 2, 4]\\n\\nThe function takes two arguments: `plot` and `delin`. It checks if `delin` is in `plot` '"}
+{"id": "sample_741", "official_pass": false, "official_status": "fail", "detail": "[value] answer='8'"}
+{"id": "sample_742", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='b = True\\nfor x in \"-1-3\":\\n    if x.isdigit():\\n        b = True\\n    else:\\n        b = False\\n        break\\nreturn b'"}
+{"id": "sample_743", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='# dog,cat\\n# -5\\n```'"}
+{"id": "sample_744", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'jro' + 'wdlp' = 'jrowd'\\n'jrowd'\""}
+{"id": "sample_745", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'minimc@minimc.io'\\n# suffix_start = 8 (index of '@') + 1 = 9\\n# address[9:] = 'minimc.io'\\n# address[9:].count('.') = 1\\n\""}
+{"id": "sample_746", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f({}) returns {}\\n\\nThe function takes a dictionary as an argument, but since the input is an empty dictionary, the for '"}
+{"id": "sample_747", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f(\"123E-10\") returns False\\nFalse'"}
+{"id": "sample_748", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"('a', 123)\""}
+{"id": "sample_749", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# 'll' centered in a 2-character wide line:\\n>>> f('l\\\\nl', 2)\\n' l\\\\nl '\\n\\nThe input string is split into two lines: 'l' and\""}
+{"id": "sample_750", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_751", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"WWWWHHHHTTTTpp\"'"}
+{"id": "sample_752", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'abc' repeated 3 times with 5 'z's appended\\n'abcabcabczzz'\""}
+{"id": "sample_753", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_754", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f(['1', '2', '2', '44', '0', '7', '20257']) returns:\\n['0000001', '0000002', '0000002', '0000044', '0000000', '0000007'\""}
+{"id": "sample_755", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='# The function replaces the first occurrence of \\'.\\' with \\'###\\' in the string \"ph>t#A#BiEcDefW#ON#iiNCU\".\\n# The first occ'"}
+{"id": "sample_756", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_757", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_758", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='[0, 3, 6, 2]\\n=> False'"}
+{"id": "sample_759", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[2, 5]'"}
+{"id": "sample_760", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_761", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_762", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'This And cPanel' -> 'This And Cpanel'\\n't' + 'his And Cpanel'[1:] = 'this And Cpanel'\""}
+{"id": "sample_763", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'yCxpg2C2Pny2'.rstrip('2Pn') -> 'yCxpg'\\n# 'yCxpg'.rstrip('') -> 'yCxpg'\\n# 'yCxpg'\\n\\n'yCxpg'\""}
+{"id": "sample_764", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_765", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_766", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'0': 117, '3': 117, '03': 347}\""}
+{"id": "sample_767", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f(\"d khqw whi fwi bbn 41\") returns \\'-\\'\\n\\nThe function iterates over the list of words (split by spaces) and checks if e'"}
+{"id": "sample_768", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'abba'\""}
+{"id": "sample_769", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'AKaRIU'\""}
+{"id": "sample_770", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('$78'.upper(), '$') returns '$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$\""}
+{"id": "sample_771", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 3, 5, 7]'"}
+{"id": "sample_772", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'DFdbcA'\""}
+{"id": "sample_773", "official_pass": false, "official_status": "fail", "detail": "[value] answer='0'"}
+{"id": "sample_774", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_775", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 3, 6, 2, 1]'"}
+{"id": "sample_776", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f({}) returns {}\\n\\nThe function iterates over the keys of the dictionary, but since it is empty, the loop body is never'"}
+{"id": "sample_777", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_778", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'mjqwmjsqjwisojqwiso'\""}
+{"id": "sample_779", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'pythony, rubyx, c r, javascriptp'\""}
+{"id": "sample_780", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"2 3 5 89\"'"}
+{"id": "sample_781", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('shivajimonto6', '6') returns '6'\\n\\nExplanation:\\n\\n1. The function takes two arguments: `s` and `ch`.\\n2. The first lin\""}
+{"id": "sample_782", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f(\"a j c n x X k\") returns False\\nFalse'"}
+{"id": "sample_783", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f(\"managed\", \"\") returns 0\\n\\nThe function iterates over the characters of the empty string `comparison` and compares th'"}
+{"id": "sample_784", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f('read', 'Is') returns ('read', 'Is')\\n('read', 'Is')\""}
+{"id": "sample_785", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"''\""}
+{"id": "sample_786", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# '19kefp7'\\n# '9'\\n# 'kefp719'\""}
+{"id": "sample_787", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_788", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'hello.txt' + '/'[1:] = 'hello.txt/'\\n'hello.txt'\""}
+{"id": "sample_789", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'bR'\\n# -1\\n# 'bR'\""}
+{"id": "sample_790", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='` operator checks if two objects have the same value.\\n\\nIn this case, `d` is a dictionary, and `d.copy()` creates a new d'"}
+{"id": "sample_791", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'89998999'\""}
+{"id": "sample_792", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"# f(['a', 'b'], ['car', 'dog']) returns {}\\n\\nThe function checks if the lengths of the two lists are equal. Since ['a', '\""}
+{"id": "sample_793", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='# f([1, 2, 4, 3, 2, 1], 0, 3) returns 6\\n# Explanation:\\n# The function iterates over the range(0, 3) = [0, 1, 2] and for '"}
+{"id": "sample_794", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_795", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'Fu,ux Zfujijabji Pfu.'\""}
+{"id": "sample_796", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"# 'yh'\\n```\""}
+{"id": "sample_797", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_798", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'@hihu@!'\""}
+{"id": "sample_799", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'e'\\n# 'eqe-;ew22'.rjust(10, 's')\""}

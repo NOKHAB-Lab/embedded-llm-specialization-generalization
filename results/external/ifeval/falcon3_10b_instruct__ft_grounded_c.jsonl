@@ -1,0 +1,541 @@
+{"id": "1000", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=110 loose=110 unmet_strict=length_constraints:number_words"}
+{"id": "1001", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1005", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1012", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=01 loose=01 unmet_strict=combination:repeat_prompt"}
+{"id": "1019", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "102", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1021", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "1040", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=011 loose=011 unmet_strict=change_case:capital_word_frequency"}
+{"id": "1051", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1069", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=001 loose=001 unmet_strict=keywords:existence,length_constraints:number_words"}
+{"id": "1072", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=length_constraints:number_words"}
+{"id": "1075", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1082", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1087", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=change_case:english_lowercase"}
+{"id": "1092", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1094", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1098", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=combination:two_responses"}
+{"id": "1107", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "1108", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1122", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "1127", "official_pass": false, "official_status": "strict_fail_loose_pass", "detail": "strict=10 loose=11 unmet_strict=startend:end_checker"}
+{"id": "1128", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1129", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "1130", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=keywords:letter_frequency"}
+{"id": "1131", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1132", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=10 loose=10 unmet_strict=keywords:forbidden_words"}
+{"id": "1137", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "1139", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "1147", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1148", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1153", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "1154", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1162", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1174", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=001 loose=001 unmet_strict=keywords:letter_frequency,length_constraints:number_sentences"}
+{"id": "1180", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "1187", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1203", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "1216", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=00 loose=00 unmet_strict=startend:quotation,length_constraints:number_words"}
+{"id": "1217", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1219", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=010 loose=110 unmet_strict=change_case:english_capital,keywords:frequency"}
+{"id": "122", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1220", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1233", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=10 loose=10 unmet_strict=keywords:frequency"}
+{"id": "1236", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1237", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "1242", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "1246", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1248", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1251", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=length_constraints:number_words"}
+{"id": "1258", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=length_constraints:number_words"}
+{"id": "1259", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1262", "official_pass": false, "official_status": "strict_fail_loose_pass", "detail": "strict=10 loose=11 unmet_strict=length_constraints:number_sentences"}
+{"id": "1265", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=10 loose=10 unmet_strict=length_constraints:number_sentences"}
+{"id": "1268", "official_pass": false, "official_status": "strict_fail_loose_pass", "detail": "strict=0 loose=1 unmet_strict=length_constraints:number_sentences"}
+{"id": "127", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "1281", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=01 loose=01 unmet_strict=combination:repeat_prompt"}
+{"id": "1286", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1287", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "13", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1300", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=100 loose=100 unmet_strict=keywords:letter_frequency,length_constraints:number_words"}
+{"id": "1305", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=01 loose=01 unmet_strict=detectable_content:postscript"}
+{"id": "1307", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=detectable_format:number_highlighted_sections"}
+{"id": "1314", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=10 loose=10 unmet_strict=change_case:capital_word_frequency"}
+{"id": "1322", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1325", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "1332", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1342", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=110 loose=110 unmet_strict=length_constraints:number_paragraphs"}
+{"id": "1348", "official_pass": true, "official_status": "strict_pass", "detail": "strict=111 loose=111"}
+{"id": "136", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "1361", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1367", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=detectable_content:postscript"}
+{"id": "1372", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=detectable_content:number_placeholders"}
+{"id": "1375", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "1377", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1379", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=011 loose=011 unmet_strict=detectable_format:number_highlighted_sections"}
+{"id": "1381", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1389", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "1392", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=100 loose=110 unmet_strict=length_constraints:number_sentences,length_constraints:number_words"}
+{"id": "1393", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1402", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "1418", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=110 loose=110 unmet_strict=length_constraints:number_sentences"}
+{"id": "142", "official_pass": true, "official_status": "strict_pass", "detail": "strict=111 loose=111"}
+{"id": "143", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "1436", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=10 loose=10 unmet_strict=keywords:forbidden_words"}
+{"id": "1446", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1466", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=10 loose=10 unmet_strict=keywords:forbidden_words"}
+{"id": "1476", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=10 loose=10 unmet_strict=length_constraints:number_sentences"}
+{"id": "1477", "official_pass": false, "official_status": "strict_fail_loose_pass", "detail": "strict=0 loose=1 unmet_strict=language:response_language"}
+{"id": "1480", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1481", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=10 loose=10 unmet_strict=detectable_format:number_bullet_lists"}
+{"id": "1498", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1508", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "1512", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "1516", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "1518", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "152", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=10 loose=10 unmet_strict=length_constraints:number_words"}
+{"id": "1531", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1535", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=10 loose=10 unmet_strict=length_constraints:number_sentences"}
+{"id": "1537", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1546", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "1548", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1551", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1561", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "1566", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1571", "official_pass": true, "official_status": "strict_pass", "detail": "strict=111 loose=111"}
+{"id": "1580", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=keywords:forbidden_words"}
+{"id": "1582", "official_pass": true, "official_status": "strict_pass", "detail": "strict=111 loose=111"}
+{"id": "1591", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1592", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1593", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "16", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=10 loose=10 unmet_strict=combination:repeat_prompt"}
+{"id": "1601", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "1609", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "1619", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "1620", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1627", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=011 loose=011 unmet_strict=combination:repeat_prompt"}
+{"id": "1629", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "163", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "1634", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "164", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1643", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=00 loose=10 unmet_strict=punctuation:no_comma,length_constraints:number_words"}
+{"id": "1644", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1645", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1646", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1653", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=10 loose=10 unmet_strict=length_constraints:number_sentences"}
+{"id": "1656", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=combination:repeat_prompt"}
+{"id": "1658", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "1659", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1667", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "167", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1670", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=101 loose=101 unmet_strict=length_constraints:number_paragraphs"}
+{"id": "1675", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=keywords:forbidden_words"}
+{"id": "168", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1686", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1691", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=10 loose=10 unmet_strict=keywords:forbidden_words"}
+{"id": "1705", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "1713", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=01 loose=01 unmet_strict=keywords:frequency"}
+{"id": "1730", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "1733", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1738", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1739", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "1746", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1759", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1773", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1776", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1779", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "1781", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=01 loose=01 unmet_strict=length_constraints:number_words"}
+{"id": "179", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=length_constraints:number_sentences"}
+{"id": "1793", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=01 loose=01 unmet_strict=combination:two_responses"}
+{"id": "1800", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1802", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "181", "official_pass": false, "official_status": "strict_fail_loose_pass", "detail": "strict=0 loose=1 unmet_strict=length_constraints:nth_paragraph_first_word"}
+{"id": "1813", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "1823", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=10 loose=10 unmet_strict=length_constraints:number_sentences"}
+{"id": "1825", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=110 loose=110 unmet_strict=keywords:existence"}
+{"id": "1834", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=10 loose=10 unmet_strict=change_case:capital_word_frequency"}
+{"id": "1837", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=01 loose=01 unmet_strict=length_constraints:number_sentences"}
+{"id": "1843", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=01 loose=01 unmet_strict=change_case:english_lowercase"}
+{"id": "1845", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "1857", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1858", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1879", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=00 loose=00 unmet_strict=length_constraints:number_sentences,length_constraints:number_words"}
+{"id": "1880", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=01 loose=01 unmet_strict=keywords:letter_frequency"}
+{"id": "1883", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=01 loose=01 unmet_strict=keywords:letter_frequency"}
+{"id": "1886", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1893", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1897", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "19", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "1902", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1906", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1908", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=010 loose=010 unmet_strict=length_constraints:number_sentences,detectable_content:number_placeholders"}
+{"id": "1922", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1927", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1928", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=101 loose=101 unmet_strict=punctuation:no_comma"}
+{"id": "1934", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1936", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "1939", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1943", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "1944", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "1954", "official_pass": false, "official_status": "strict_fail_loose_pass", "detail": "strict=0 loose=1 unmet_strict=length_constraints:nth_paragraph_first_word"}
+{"id": "1964", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=00 loose=00 unmet_strict=keywords:letter_frequency,length_constraints:number_words"}
+{"id": "1967", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "1980", "official_pass": true, "official_status": "strict_pass", "detail": "strict=111 loose=111"}
+{"id": "1996", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "1999", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "201", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=keywords:letter_frequency"}
+{"id": "2010", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2015", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "202", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2023", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2028", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2034", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=keywords:forbidden_words"}
+{"id": "2035", "official_pass": true, "official_status": "strict_pass", "detail": "strict=111 loose=111"}
+{"id": "2041", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=01 loose=01 unmet_strict=length_constraints:number_sentences"}
+{"id": "2063", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=01 loose=01 unmet_strict=combination:repeat_prompt"}
+{"id": "2069", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=01 loose=01 unmet_strict=length_constraints:number_words"}
+{"id": "2070", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2071", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2078", "official_pass": false, "official_status": "strict_fail_loose_pass", "detail": "strict=0 loose=1 unmet_strict=detectable_format:number_bullet_lists"}
+{"id": "2084", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "209", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2097", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2100", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "2107", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2118", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=00 loose=00 unmet_strict=length_constraints:number_paragraphs,detectable_format:number_bullet_lists"}
+{"id": "2136", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2139", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "2142", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=keywords:frequency"}
+{"id": "2143", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=10 loose=10 unmet_strict=length_constraints:number_sentences"}
+{"id": "2162", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=10 loose=10 unmet_strict=detectable_content:number_placeholders"}
+{"id": "2164", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2169", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "218", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "2180", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "219", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2192", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=combination:repeat_prompt"}
+{"id": "2195", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2207", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2209", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2215", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2216", "official_pass": true, "official_status": "strict_pass", "detail": "strict=111 loose=111"}
+{"id": "2225", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2229", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2230", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=10 loose=10 unmet_strict=detectable_format:number_highlighted_sections"}
+{"id": "2239", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2243", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2245", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2246", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=000 loose=000 unmet_strict=length_constraints:number_words,keywords:frequency,detectable_content:number_placeholders"}
+{"id": "2247", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2250", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=length_constraints:nth_paragraph_first_word"}
+{"id": "2253", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2265", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2266", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=length_constraints:number_sentences"}
+{"id": "2268", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "227", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2273", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=detectable_content:postscript"}
+{"id": "2275", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=011 loose=011 unmet_strict=change_case:capital_word_frequency"}
+{"id": "2284", "official_pass": true, "official_status": "strict_pass", "detail": "strict=111 loose=111"}
+{"id": "2292", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=keywords:frequency"}
+{"id": "2299", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2303", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "2304", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2305", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=00 loose=00 unmet_strict=combination:repeat_prompt,detectable_format:title"}
+{"id": "2309", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2311", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2314", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2323", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=length_constraints:number_words"}
+{"id": "2324", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2328", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2337", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=01 loose=01 unmet_strict=combination:repeat_prompt"}
+{"id": "2341", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2350", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=keywords:letter_frequency"}
+{"id": "2355", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2357", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2359", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2362", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2372", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "2374", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2380", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "2381", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2383", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2386", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=10 loose=10 unmet_strict=keywords:frequency"}
+{"id": "2391", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "2392", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2395", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "2396", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2398", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=startend:end_checker"}
+{"id": "24", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "240", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2404", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2416", "official_pass": true, "official_status": "strict_pass", "detail": "strict=111 loose=111"}
+{"id": "2417", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2422", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "2432", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2436", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "2439", "official_pass": true, "official_status": "strict_pass", "detail": "strict=111 loose=111"}
+{"id": "2441", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2447", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=keywords:letter_frequency"}
+{"id": "2449", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "2457", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2464", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2465", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2467", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=length_constraints:number_paragraphs"}
+{"id": "247", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=combination:two_responses"}
+{"id": "2471", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=01 loose=01 unmet_strict=keywords:forbidden_words"}
+{"id": "2475", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2482", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=combination:repeat_prompt"}
+{"id": "2485", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2497", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "2505", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "251", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=keywords:letter_frequency"}
+{"id": "2515", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2517", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2531", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2532", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2534", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2549", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=001 loose=101 unmet_strict=length_constraints:nth_paragraph_first_word,keywords:existence"}
+{"id": "2563", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2567", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2571", "official_pass": true, "official_status": "strict_pass", "detail": "strict=111 loose=111"}
+{"id": "2577", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "2583", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "2585", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=combination:repeat_prompt"}
+{"id": "2589", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=length_constraints:number_sentences"}
+{"id": "2590", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2591", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "2596", "official_pass": false, "official_status": "strict_fail_loose_pass", "detail": "strict=110 loose=111 unmet_strict=punctuation:no_comma"}
+{"id": "260", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "2602", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2605", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "2616", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "2617", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=length_constraints:number_sentences"}
+{"id": "2622", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2628", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2637", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "2649", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "2653", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=10 loose=10 unmet_strict=detectable_format:number_bullet_lists"}
+{"id": "2662", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=keywords:existence"}
+{"id": "2667", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2674", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2677", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2683", "official_pass": false, "official_status": "strict_fail_loose_pass", "detail": "strict=011 loose=111 unmet_strict=combination:two_responses"}
+{"id": "2685", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2691", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2704", "official_pass": true, "official_status": "strict_pass", "detail": "strict=111 loose=111"}
+{"id": "2713", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "2716", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=keywords:frequency"}
+{"id": "2724", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "2728", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2736", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "2739", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "2749", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2751", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=01 loose=01 unmet_strict=length_constraints:number_words"}
+{"id": "2752", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2759", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2765", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "2768", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2779", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2780", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2785", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=10 loose=10 unmet_strict=detectable_content:number_placeholders"}
+{"id": "2787", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "279", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=101 loose=101 unmet_strict=keywords:letter_frequency"}
+{"id": "2790", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=detectable_format:number_highlighted_sections"}
+{"id": "2798", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2801", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2807", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "281", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2811", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=keywords:forbidden_words"}
+{"id": "2817", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2820", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2825", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2828", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2829", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2832", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=detectable_format:number_bullet_lists"}
+{"id": "2844", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=10 loose=10 unmet_strict=length_constraints:number_words"}
+{"id": "2849", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2853", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "2857", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2859", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "286", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "2870", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2871", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=keywords:frequency"}
+{"id": "288", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2880", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=length_constraints:nth_paragraph_first_word"}
+{"id": "2887", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "2889", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "2904", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2905", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2908", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "2909", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "2912", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "2918", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "292", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2921", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2925", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2929", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2941", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=length_constraints:number_paragraphs"}
+{"id": "2943", "official_pass": true, "official_status": "strict_pass", "detail": "strict=111 loose=111"}
+{"id": "295", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2957", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "296", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=110 loose=110 unmet_strict=length_constraints:number_words"}
+{"id": "2969", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2977", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2985", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "2997", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=keywords:frequency"}
+{"id": "30", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=101 loose=101 unmet_strict=length_constraints:number_words"}
+{"id": "3001", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "301", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3025", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3035", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "3041", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=00 loose=10 unmet_strict=length_constraints:number_sentences,detectable_format:number_bullet_lists"}
+{"id": "3048", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=startend:end_checker"}
+{"id": "3057", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3063", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=01 loose=01 unmet_strict=length_constraints:number_paragraphs"}
+{"id": "3069", "official_pass": true, "official_status": "strict_pass", "detail": "strict=111 loose=111"}
+{"id": "3071", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=detectable_format:number_highlighted_sections"}
+{"id": "3073", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=length_constraints:nth_paragraph_first_word"}
+{"id": "3079", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3081", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=keywords:forbidden_words"}
+{"id": "3084", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=10 loose=10 unmet_strict=startend:end_checker"}
+{"id": "3089", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=101 loose=101 unmet_strict=length_constraints:number_sentences"}
+{"id": "3091", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3098", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=010 loose=010 unmet_strict=detectable_format:number_bullet_lists,change_case:capital_word_frequency"}
+{"id": "3109", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3112", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3114", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=011 loose=011 unmet_strict=length_constraints:number_words"}
+{"id": "3126", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3130", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3131", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "3150", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3156", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=keywords:existence"}
+{"id": "3166", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3186", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3188", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=011 loose=011 unmet_strict=change_case:capital_word_frequency"}
+{"id": "3191", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3195", "official_pass": true, "official_status": "strict_pass", "detail": "strict=111 loose=111"}
+{"id": "3198", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=startend:end_checker"}
+{"id": "32", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3203", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3204", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "321", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "322", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3221", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3223", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3224", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3241", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3243", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=10 loose=10 unmet_strict=length_constraints:number_words"}
+{"id": "3245", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "3256", "official_pass": true, "official_status": "strict_pass", "detail": "strict=111 loose=111"}
+{"id": "3263", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=combination:two_responses"}
+{"id": "3272", "official_pass": true, "official_status": "strict_pass", "detail": "strict=111 loose=111"}
+{"id": "3276", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=101 loose=101 unmet_strict=length_constraints:number_sentences"}
+{"id": "3280", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3281", "official_pass": false, "official_status": "strict_fail_loose_pass", "detail": "strict=01 loose=11 unmet_strict=combination:two_responses"}
+{"id": "3287", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=00 loose=00 unmet_strict=combination:two_responses,length_constraints:number_words"}
+{"id": "3294", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=01 loose=01 unmet_strict=length_constraints:number_paragraphs"}
+{"id": "3305", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=100 loose=100 unmet_strict=combination:repeat_prompt,keywords:existence"}
+{"id": "331", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "3311", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=110 loose=110 unmet_strict=keywords:existence"}
+{"id": "3315", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "332", "official_pass": false, "official_status": "strict_fail_loose_pass", "detail": "strict=10 loose=11 unmet_strict=length_constraints:number_words"}
+{"id": "3323", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3324", "official_pass": false, "official_status": "strict_fail_loose_pass", "detail": "strict=01 loose=11 unmet_strict=combination:two_responses"}
+{"id": "3326", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=10 loose=10 unmet_strict=keywords:forbidden_words"}
+{"id": "3327", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=101 loose=101 unmet_strict=keywords:frequency"}
+{"id": "3329", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3335", "official_pass": true, "official_status": "strict_pass", "detail": "strict=111 loose=111"}
+{"id": "334", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "3345", "official_pass": true, "official_status": "strict_pass", "detail": "strict=111 loose=111"}
+{"id": "3350", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "3351", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "3362", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "3367", "official_pass": false, "official_status": "strict_fail_loose_pass", "detail": "strict=01 loose=11 unmet_strict=startend:quotation"}
+{"id": "3369", "official_pass": false, "official_status": "strict_fail_loose_pass", "detail": "strict=10 loose=11 unmet_strict=keywords:frequency"}
+{"id": "337", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=01 loose=01 unmet_strict=length_constraints:number_words"}
+{"id": "3371", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=010 loose=010 unmet_strict=combination:repeat_prompt,keywords:forbidden_words"}
+{"id": "3376", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "3380", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "3386", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "340", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "3401", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3407", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=10 loose=10 unmet_strict=change_case:capital_word_frequency"}
+{"id": "3409", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "3414", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=10 loose=10 unmet_strict=change_case:capital_word_frequency"}
+{"id": "3415", "official_pass": true, "official_status": "strict_pass", "detail": "strict=111 loose=111"}
+{"id": "3424", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3425", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=length_constraints:number_words"}
+{"id": "3428", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=keywords:letter_frequency"}
+{"id": "3429", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=00 loose=00 unmet_strict=detectable_format:multiple_sections,length_constraints:number_sentences"}
+{"id": "343", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3434", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "3439", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3442", "official_pass": false, "official_status": "strict_fail_loose_pass", "detail": "strict=01 loose=11 unmet_strict=length_constraints:number_words"}
+{"id": "3445", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3453", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3455", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=change_case:capital_word_frequency"}
+{"id": "3456", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=10 loose=10 unmet_strict=change_case:english_capital"}
+{"id": "3478", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=keywords:letter_frequency"}
+{"id": "3479", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=01 loose=01 unmet_strict=keywords:forbidden_words"}
+{"id": "3484", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "349", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "3494", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "3502", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "3505", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "3506", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "3513", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3518", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=10 loose=10 unmet_strict=keywords:existence"}
+{"id": "3534", "official_pass": true, "official_status": "strict_pass", "detail": "strict=111 loose=111"}
+{"id": "3536", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=startend:quotation"}
+{"id": "3538", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=10 loose=10 unmet_strict=length_constraints:number_words"}
+{"id": "3540", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3549", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3557", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3563", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3565", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "3567", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3569", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "357", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3572", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3595", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3606", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3608", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=01 loose=01 unmet_strict=keywords:letter_frequency"}
+{"id": "3615", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3617", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3619", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "3623", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "3624", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3629", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3631", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3633", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=01 loose=01 unmet_strict=combination:repeat_prompt"}
+{"id": "3644", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3653", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3669", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "3672", "official_pass": true, "official_status": "strict_pass", "detail": "strict=111 loose=111"}
+{"id": "3680", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=00 loose=00 unmet_strict=keywords:frequency,detectable_format:number_highlighted_sections"}
+{"id": "3682", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3690", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3691", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=01 loose=01 unmet_strict=length_constraints:number_sentences"}
+{"id": "3697", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3703", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3709", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "371", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "3710", "official_pass": true, "official_status": "strict_pass", "detail": "strict=111 loose=111"}
+{"id": "3718", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=101 loose=101 unmet_strict=combination:repeat_prompt"}
+{"id": "3719", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3724", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=011 loose=011 unmet_strict=detectable_format:number_highlighted_sections"}
+{"id": "3732", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3739", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "374", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=00 loose=01 unmet_strict=combination:repeat_prompt,keywords:forbidden_words"}
+{"id": "3743", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3744", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=01 loose=01 unmet_strict=detectable_content:number_placeholders"}
+{"id": "3748", "official_pass": true, "official_status": "strict_pass", "detail": "strict=11 loose=11"}
+{"id": "3749", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3750", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3751", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3752", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3753", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3754", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3755", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}
+{"id": "3756", "official_pass": false, "official_status": "strict_fail_loose_fail", "detail": "strict=0 loose=0 unmet_strict=detectable_format:constrained_response"}
+{"id": "3757", "official_pass": true, "official_status": "strict_pass", "detail": "strict=1 loose=1"}

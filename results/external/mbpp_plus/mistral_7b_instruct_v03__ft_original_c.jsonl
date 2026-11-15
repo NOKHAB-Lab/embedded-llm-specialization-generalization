@@ -1,0 +1,378 @@
+{"id": "2", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "3", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "4", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "6", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[13, 9]]"}
+{"id": "7", "official_pass": false, "official_status": "base:pass/plus:fail", "detail": "plus failing input: [['This is a very long string with no words that are at least 4 characters long.']]"}
+{"id": "8", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "9", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [['aaaa']]"}
+{"id": "11", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [['hello', 'l']]"}
+{"id": "12", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "14", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[10, 8, 6]]"}
+{"id": "16", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [['aab_Abbbc']]"}
+{"id": "17", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "18", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "19", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "20", "official_pass": false, "official_status": "base:pass/plus:fail", "detail": "plus failing input: [[True]]"}
+{"id": "56", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[70]]"}
+{"id": "57", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[1, 2, 3]]]"}
+{"id": "58", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "59", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[5]]"}
+{"id": "61", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: []"}
+{"id": "62", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "63", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[[3, 5], [1, 7], [10, 3], [1, 2]]]]"}
+{"id": "64", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: []"}
+{"id": "65", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[1, 2, [3, 4], [5, 6]]]]"}
+{"id": "66", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "67", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[2]]"}
+{"id": "68", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: []"}
+{"id": "69", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[2, 4, 3, 5, 7], [4, 3]]]"}
+{"id": "70", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "71", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "72", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[10]]"}
+{"id": "74", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[['red', 'green', 'green'], ['a', 'b', 'b']]]"}
+{"id": "75", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "77", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: []"}
+{"id": "79", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "80", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[5]]"}
+{"id": "82", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "84", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[10]]"}
+{"id": "85", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "86", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[10]]"}
+{"id": "87", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "88", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "89", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[11]]"}
+{"id": "90", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "91", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "92", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[1991]]"}
+{"id": "93", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "94", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: []"}
+{"id": "95", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "96", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "97", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "98", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[8, 2, 3, -1, 7]]]"}
+{"id": "99", "official_pass": false, "official_status": "base:pass/plus:fail", "detail": "plus failing input: [[-5]]"}
+{"id": "100", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[99]]"}
+{"id": "101", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "102", "official_pass": false, "official_status": "base:pass/plus:fail", "detail": "plus failing input: [['___python_program']]"}
+{"id": "103", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[3, 1]]"}
+{"id": "104", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "105", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "106", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[5, 6, 7], [9, 10]]]"}
+{"id": "108", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "109", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "111", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "113", "official_pass": false, "official_status": "base:pass/plus:fail", "detail": "plus failing input: [['']]"}
+{"id": "116", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[1, 2, 3]]]"}
+{"id": "118", "official_pass": false, "official_status": "base:pass/plus:fail", "detail": "plus failing input: [['']]"}
+{"id": "119", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[1, 1, 2, 2, 3]]]"}
+{"id": "120", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[[2, 7], [2, 6], [1, 8], [4, 9]]]]"}
+{"id": "123", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[999]]"}
+{"id": "124", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [['0.0', '1j']]"}
+{"id": "125", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [['11000010001']]"}
+{"id": "126", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: []"}
+{"id": "127", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "128", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "129", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[[7, 12, 1, 14], [2, 13, 8, 11], [16, 3, 10, 5], [9, 6, 15, 4]]]]"}
+{"id": "130", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "131", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [['Python']]"}
+{"id": "132", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "133", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "135", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[10]]"}
+{"id": "137", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[0, 1, 2, -1, -5, 6, 0, -3, -2, 3, 4, 6, 8]]]"}
+{"id": "138", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[10]]"}
+{"id": "139", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "140", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "141", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[15, 79, 25, 38, 69]]]"}
+{"id": "142", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "145", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[2, 1, 5, 3]]]"}
+{"id": "160", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[2, 3, 7]]"}
+{"id": "161", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "162", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "165", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "166", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "167", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[5]]"}
+{"id": "168", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "170", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[2, 1, 5, 6, 8, 3, 4, 9, 10, 11, 8, 12], 8, 10]]"}
+{"id": "171", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "172", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "222", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "223", "official_pass": false, "official_status": "base:pass/plus:fail", "detail": "plus failing input: [[[], 1, 0]]"}
+{"id": "224", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "226", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "227", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "230", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "232", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "233", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "234", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "235", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[10]]"}
+{"id": "237", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[[3, 1], [1, 3], [2, 5], [5, 2], [6, 3]]]]"}
+{"id": "238", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [['abc']]"}
+{"id": "239", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[10, 4]]"}
+{"id": "240", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "242", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "244", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[35]]"}
+{"id": "245", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[1, 15, 51, 45, 33, 100, 12, 18, 9]]]"}
+{"id": "247", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [['TENS FOR TENS']]"}
+{"id": "250", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "251", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[['Red', 'Green', 'Black'], 'c']]"}
+{"id": "252", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [['(1+0j)']]"}
+{"id": "253", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "255", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[['Red', 'Green', 'Blue'], 1]]"}
+{"id": "256", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[5]]"}
+{"id": "257", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "259", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[[1, 3], [4, 5], [2, 9], [1, 10]], [[6, 7], [3, 9], [1, 1], [7, 3]]]]"}
+{"id": "260", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[3]]"}
+{"id": "261", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "262", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "264", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[12]]"}
+{"id": "265", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n'], 3]]"}
+{"id": "266", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[5]]"}
+{"id": "267", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[2]]"}
+{"id": "268", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[3]]"}
+{"id": "269", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "270", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "271", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[2]]"}
+{"id": "272", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: []"}
+{"id": "273", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "274", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[4]]"}
+{"id": "276", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "277", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "278", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[1, 5, 7, [4, 6], 10]]]"}
+{"id": "279", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[3]]"}
+{"id": "280", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "281", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "282", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "283", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "284", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "285", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "286", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[10, 20, -30, -1], 4, 3]]"}
+{"id": "287", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[2]]"}
+{"id": "290", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[[0], [1, 3], [5, 7], [9, 11], [13, 15, 17]]]]"}
+{"id": "292", "official_pass": false, "official_status": "base:pass/plus:fail", "detail": "plus failing input: [[-1, 2]]"}
+{"id": "293", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "294", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[['Python', 3, 2, 4, 5, 'version']]]"}
+{"id": "296", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "297", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "299", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[['Juan Whelan', 90], ['Sabah Colley', 88], ['Peter Nichols', 7], ['Juan Whelan', 122], ['Sabah Colley', 84]]]]"}
+{"id": "300", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[2]]"}
+{"id": "301", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[{'a': 1, 'b': {'c': {'d': {}}}}]]"}
+{"id": "305", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[['Python PHP', 'Java JavaScript', 'c c++']]]"}
+{"id": "306", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[1, 101, 2, 3, 100, 4, 5], 7, 4, 6]]"}
+{"id": "308", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "309", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "310", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [['python 3.0']]"}
+{"id": "311", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[10]]"}
+{"id": "312", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "388", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[10]]"}
+{"id": "389", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "390", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: []"}
+{"id": "391", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[['S001', 'S002', 'S003', 'S004'], ['Adina Park', 'Leyton Marsh', 'Duncan Boyle', 'Saim Richards'], [85, 98, 89, 92]]]"}
+{"id": "392", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[60]]"}
+{"id": "394", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "395", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "397", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "398", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[[10, 20, 4, 5, 'b', 70, 'a']]]]"}
+{"id": "404", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "405", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "406", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "409", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "410", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[['Python', 3, 2, 4, 5, 'version']]]"}
+{"id": "412", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "413", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "414", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "415", "official_pass": false, "official_status": "base:pass/plus:fail", "detail": "plus failing input: [[[1000000, 2000000, 3000000, 4000000, 4000000]]]"}
+{"id": "418", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "419", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[22.4, 4.0, -16.22, -9.1, 11.0, -12.22, 14.2, -5.2, 17.5]]]"}
+{"id": "420", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[2]]"}
+{"id": "421", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "422", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "424", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "425", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "426", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "427", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [['2026-01-02']]"}
+{"id": "428", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[12, 23, 4, 5, 3, 2, 12, 81, 56, 95]]]"}
+{"id": "429", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[10, 4, 6, 9], [5, 2, 3, 3]]]"}
+{"id": "430", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[5, 3, 2]]"}
+{"id": "432", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[15, 25, 35]]"}
+{"id": "433", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[2, 3, 4, 5, 6], 8]]"}
+{"id": "435", "official_pass": false, "official_status": "base:pass/plus:fail", "detail": "plus failing input: [[-987]]"}
+{"id": "436", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "437", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [['python']]"}
+{"id": "439", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "440", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: []"}
+{"id": "441", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "445", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[[1, 3], [4, 5], [2, 9], [1, 10]], [[6, 7], [3, 9], [1, 1], [7, 3]]]]"}
+{"id": "446", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "447", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "448", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[9]]"}
+{"id": "450", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[['Python', 'list', 'exercises', 'practice', 'solution'], 8]]"}
+{"id": "451", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "453", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "454", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "455", "official_pass": false, "official_status": "base:pass/plus:fail", "detail": "plus failing input: [[1]]"}
+{"id": "456", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "457", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[[1], [1, 2], [1, 2, 3]]]]"}
+{"id": "458", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "459", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "460", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: []"}
+{"id": "462", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[['orange', 'red', 'green', 'blue']]]"}
+{"id": "463", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[1, -2, -3, 0, 7, -8, -2]]]"}
+{"id": "465", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "468", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[3, 100, 4, 5, 150, 6]]]"}
+{"id": "470", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[1, 5, 7, 8, 10]]]"}
+{"id": "471", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[100, 10, 5, 25, 35, 14], 11]]"}
+{"id": "472", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: []"}
+{"id": "473", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[[3, 4], [5, 6], [9, 10], [4, 5]], [[5, 4], [3, 4], [6, 5], [9, 11]]]]"}
+{"id": "474", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "475", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "476", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "477", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "478", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "479", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "554", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: []"}
+{"id": "555", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "556", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "557", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "558", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[23, 56]]"}
+{"id": "559", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[-2, -3, 4, -1, -2, 1, 5, -3], 8]]"}
+{"id": "560", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[3, 4, 5, 6], [5, 7, 4, 10]]]"}
+{"id": "562", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "563", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [['\"python\",\"program\",\"language\"']]"}
+{"id": "564", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "565", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "566", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "567", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "568", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "569", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "572", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[1, 2, 3, 2, 3, 4, 5]]]"}
+{"id": "573", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "576", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[1, 2, 1], [1, 2, 1]]]"}
+{"id": "577", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[4]]"}
+{"id": "578", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[1, 2, 3, 4, 5, 6, 7], [10, 20, 30, 40, 50, 60, 70], [100, 200, 300, 400, 500, 600, 700]]]"}
+{"id": "579", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "580", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[4, 5, [7, 6, [2, 4]], 6, 8]]]"}
+{"id": "581", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[3, 4]]"}
+{"id": "583", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "585", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "586", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: []"}
+{"id": "587", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "588", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "589", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[1, 30]]"}
+{"id": "590", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[3, 4]]"}
+{"id": "591", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[12, 35, 9, 56, 24]]]"}
+{"id": "592", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[3]]"}
+{"id": "593", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [['216.08.094.196']]"}
+{"id": "594", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[1, 3, 5, 7, 4, 1, 6, 8]]]"}
+{"id": "596", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[['A', 1, 'B', 2, 'C', 3]]]"}
+{"id": "597", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[2, 3, 6, 7, 9], [1, 4, 8, 10], 5]]"}
+{"id": "598", "official_pass": false, "official_status": "base:pass/plus:fail", "detail": "plus failing input: [[3]]"}
+{"id": "599", "official_pass": false, "official_status": "base:pass/plus:fail", "detail": "plus failing input: [[100000000]]"}
+{"id": "600", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "602", "official_pass": false, "official_status": "base:pass/plus:fail", "detail": "plus failing input: [['abcdefgxhinjklmnopqrstuvwxyz']]"}
+{"id": "603", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: []"}
+{"id": "604", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [['python program']]"}
+{"id": "605", "official_pass": false, "official_status": "base:pass/plus:fail", "detail": "plus failing input: [[999999999989]]"}
+{"id": "606", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[90]]"}
+{"id": "607", "official_pass": false, "official_status": "base:pass/plus:fail", "detail": "plus failing input: [['', 'rfvPtELLC']]"}
+{"id": "608", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[2]]"}
+{"id": "610", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[1, 1, 2, 3, 4, 4, 5, 1], 3]]"}
+{"id": "611", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "612", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[['x', 'y'], ['a', 'b'], ['m', 'n']]]]"}
+{"id": "614", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "615", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[[10, 10, 10, 12], [30, 45, 56, 45], [81, 80, 39, 32], [1, 2, 3, 4]]]]"}
+{"id": "616", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "618", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "619", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [['I1love143you55three3000thousand']]"}
+{"id": "620", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[1, 3, 6, 13, 17, 18]]]"}
+{"id": "622", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[1, 12, 15, 26, 38], [2, 13, 17, 30, 45], 5]]"}
+{"id": "623", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "624", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "626", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[2]]"}
+{"id": "628", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "629", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: []"}
+{"id": "630", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[3, 4]]]"}
+{"id": "631", "official_pass": false, "official_status": "base:fail/plus:pass", "detail": "base failing input: [['The_Avengers']]"}
+{"id": "632", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "633", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[5, 9, 7, 6], 4]]"}
+{"id": "635", "official_pass": false, "official_status": "base:fail/plus:pass", "detail": "base failing input: [[[1, 3, 5, 7, 9, 2, 4, 6, 8, 0]]]"}
+{"id": "637", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "638", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[120, 35]]"}
+{"id": "639", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: []"}
+{"id": "641", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: []"}
+{"id": "643", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "644", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "720", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "721", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[[1, 2, 3], [6, 5, 4], [7, 3, 9]]]]"}
+{"id": "722", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "723", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "724", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "725", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [['Cortex \"A53\" Based \"multi\" tasking \"Processor\"']]"}
+{"id": "726", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "728", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "730", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: []"}
+{"id": "731", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[5, 12]]"}
+{"id": "732", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "733", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[2, 5, 5, 5, 6, 6, 8, 9, 9, 9], 5]]"}
+{"id": "734", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[1, 2, 3]]]"}
+{"id": "735", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[9]]"}
+{"id": "736", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "737", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "739", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[2]]"}
+{"id": "740", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "741", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "742", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[3]]"}
+{"id": "743", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[1, 2, 3, 4, 5, 6, 7, 8, 9, 10], 3]]"}
+{"id": "744", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[7, 8, 9, 11, 14]]]"}
+{"id": "745", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[1, 22]]"}
+{"id": "748", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [['PythonProgrammingExamples']]"}
+{"id": "749", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[['4', '12', '45', '7', '0', '100', '200', '-12', '-500']]]"}
+{"id": "750", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[5, 6, 7], [9, 10]]]"}
+{"id": "751", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: []"}
+{"id": "752", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[5]]"}
+{"id": "753", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "754", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: []"}
+{"id": "755", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[1, 1, -0.5, 0, 2, -2, -2]]]"}
+{"id": "757", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[['julia', 'best', 'tseb', 'for', 'ailuj']]]"}
+{"id": "758", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[[1, 3], [5, 7], [1, 3], [13, 15, 17], [5, 7], [9, 11]]]]"}
+{"id": "759", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [['3.124587']]"}
+{"id": "760", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "762", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "763", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[1, 5, 3, 19, 18, 25], 6]]"}
+{"id": "764", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: []"}
+{"id": "765", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: []"}
+{"id": "766", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "767", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[1, 1, 1, 1], 2]]"}
+{"id": "769", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[1, 2, 3, 4, 5], [6, 7, 1]]]"}
+{"id": "770", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[2]]"}
+{"id": "771", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: []"}
+{"id": "772", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [['The person is most value tet', 3]]"}
+{"id": "773", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: []"}
+{"id": "775", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[2, 1, 4, 3, 6, 7, 6, 3]]]"}
+{"id": "777", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[1, 2, 3, 1, 1, 4, 5, 6]]]"}
+{"id": "778", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[0, 0, 1, 2, 3, 4, 4, 5, 6, 6, 6, 7, 8, 9, 4, 4]]]"}
+{"id": "780", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[[1, 2, 3], [3, 4, 5]]]]"}
+{"id": "781", "official_pass": false, "official_status": "base:pass/plus:fail", "detail": "plus failing input: [[987654321]]"}
+{"id": "782", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[1, 2, 4]]]"}
+{"id": "784", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[1, 3, 5, 7, 4, 1, 6, 8]]]"}
+{"id": "785", "official_pass": false, "official_status": "base:pass/plus:fail", "detail": "plus failing input: [['((7, 8, 9)']]"}
+{"id": "786", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[1, 2, 4, 5], 6]]"}
+{"id": "787", "official_pass": false, "official_status": "base:fail/plus:pass", "detail": "base failing input: [['abbbba']]"}
+{"id": "788", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[['WEB', 'is'], 'best']]"}
+{"id": "790", "official_pass": false, "official_status": "base:pass/plus:fail", "detail": "plus failing input: [[[2, 1, 4, 2, 6, 1, 8, 2, 10, 1, 12]]]"}
+{"id": "791", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[1, 5, 7, [4, 6], 10]]]"}
+{"id": "792", "official_pass": false, "official_status": "base:pass/plus:fail", "detail": "plus failing input: [[[2, 3, [4, [5, [6, [7, [8, 9]]]]]]]]"}
+{"id": "793", "official_pass": false, "official_status": "base:fail/plus:pass", "detail": "base failing input: [[[1, 2, 3], 1]]"}
+{"id": "794", "official_pass": false, "official_status": "base:pass/plus:fail", "detail": "plus failing input: [['xaabbyz1323ababb']]"}
+{"id": "796", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "797", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "798", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "799", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "800", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "801", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[1, 2, 2]]"}
+{"id": "803", "official_pass": false, "official_status": "base:pass/plus:fail", "detail": "plus failing input: [[False]]"}
+{"id": "804", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[1, 2, 3]]]"}
+{"id": "805", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "806", "official_pass": false, "official_status": "base:pass/plus:fail", "detail": "plus failing input: [['Aaa']]"}
+{"id": "807", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "808", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[10, 4, 5, 6, 8], 6]]"}
+{"id": "809", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[1, 2, 3], [2, 3, 4]]]"}

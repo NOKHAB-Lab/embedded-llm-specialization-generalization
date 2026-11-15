@@ -1,0 +1,342 @@
+{"id": "3487", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/44 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3502", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3562", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3566", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3587", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3588", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3591", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3593", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/43 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3594", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/43 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3603", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3604", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/43 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3605", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/33 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3607", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/43 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3608", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/43 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3610", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/33 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3612", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/33 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3613", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/43 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3616", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/33 Wrong Answer"}
+{"id": "3617", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/34 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3620", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3621", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/34 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3622", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3625", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/33 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3626", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/33 Error during testing: expected ':' (<string>, line 309)"}
+{"id": "3627", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/43 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3629", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3631", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3632", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/33 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3634", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3636", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/33 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3637", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3638", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/43 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3639", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3644", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/34 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3646", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3647", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/43 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3648", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3649", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3651", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/33 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3653", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/43 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3654", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3655", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/43 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3656", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/34 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3657", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/43 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3658", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/43 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3659", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/43 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3674", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3675", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3676", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/34 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3677", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3680", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3681", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/43 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3682", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/43 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3683", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3684", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/34 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3685", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/33 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3686", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3687", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3688", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3690", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/43 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3692", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/44 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3696", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/43 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3697", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3699", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3700", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3701", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: invalid syntax (<string>, line 223)"}
+{"id": "3702", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/34 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3704", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/34 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3705", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/34 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3708", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/34 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3709", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/33 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3714", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/43 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3715", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3716", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/43 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3717", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3720", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/44 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3721", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/43 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3722", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3723", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/33 Wrong Answer"}
+{"id": "3725", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3731", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/33 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3733", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/44 Error during testing: '[' was never closed (<string>, line 169)"}
+{"id": "3736", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=34/34"}
+{"id": "3737", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3739", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3743", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/43 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3744", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3747", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/33 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3748", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/43 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3750", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3751", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3753", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/33 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3754", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3759", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3760", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/43 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3762", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/42 Error during testing: '[' was never closed (<string>, line 143)"}
+{"id": "3763", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3764", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3765", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3768", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/33 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3770", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/43 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3771", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3773", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/33 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3776", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3777", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/43 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3778", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/33 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3779", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3781", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/43 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3783", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/43 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3784", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3785", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/43 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3786", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3788", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/34 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3789", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/42 Error during testing: expected an indented block after 'else' statement on line 217 (<string>, line 218)"}
+{"id": "3791", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3793", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/44 Error during testing: expected ':' (<string>, line 263)"}
+{"id": "3794", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/43 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3795", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/44 Wrong Answer"}
+{"id": "3799", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/35 Wrong Answer"}
+{"id": "3801", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3805", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/44 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3809", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/43 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3811", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/33 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3817", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/33 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3832", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/33 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "abc374_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=19/19"}
+{"id": "abc374_b", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=25/25"}
+{"id": "abc374_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/30 Wrong answer at output_line_idx=0: 27 != 17"}
+{"id": "abc374_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/44 Wrong answer at output_line_idx=0: 10.47213595499958 != 6.44317475868633722080"}
+{"id": "abc374_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/44 Wrong answer at output_line_idx=0: 10 != 4"}
+{"id": "abc374_f", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 0 != 2"}
+{"id": "abc374_g", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0:  != 3"}
+{"id": "abc375_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=23/23"}
+{"id": "abc375_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/14 Wrong answer at output_line_idx=0: 6.06449510224598 != 6.06449510224597979401"}
+{"id": "abc375_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/36 Wrong answer at output_line_idx=1: .#....#. != #######."}
+{"id": "abc375_d", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/34 Error during testing: expected an indented block after 'if' statement on line 12 (<string>, line 128)"}
+{"id": "abc375_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/52 Wrong answer at output_line_idx=0: -1 != 2"}
+{"id": "abc375_f", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/29 Wrong answer at output_line_idx=1: 10 != 11"}
+{"id": "abc375_g", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/45 Wrong answer: mismatched output length"}
+{"id": "abc376_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/17 Wrong answer at output_line_idx=0: 0 != 3"}
+{"id": "abc376_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/24 Wrong answer at output_line_idx=0: 9 != 8"}
+{"id": "abc376_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/30 Wrong answer at output_line_idx=0: -1 != 3"}
+{"id": "abc376_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/39 Wrong answer at output_line_idx=0: 1 != 3"}
+{"id": "abc376_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/38 Wrong answer at output_line_idx=1: 108 != 60"}
+{"id": "abc376_f", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/37 Wrong answer at output_line_idx=0: 9 != 6"}
+{"id": "abc376_g", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/39 Runtime Error IndexError('list index out of range')"}
+{"id": "abc377_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=3/18 Wrong answer at output_line_idx=0: Yes != No"}
+{"id": "abc377_b", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=17/17"}
+{"id": "abc377_c", "official_pass": false, "official_status": "Time Limit Exceeded", "detail": "[ran] tests=1/35 Time Limit Exceeded"}
+{"id": "abc377_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/32 Wrong answer at output_line_idx=0: 4 != 5"}
+{"id": "abc377_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=2/50 Wrong answer at output_line_idx=0: 4 25 20 14 1 7 23 26 27 2 3 16 13 21 15 9 17 24 29 8 18 22 28 5 6 19 11 10 12 != 18 23 16 24 21 10 2 27 19 7 12 8 13 5 15 26 17 4 3 9 1 22 25 14 28 11 29 6 20"}
+{"id": "abc377_f", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: -50 != 2"}
+{"id": "abc377_g", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/40 Wrong answer at output_line_idx=0: 0 != 5"}
+{"id": "abc378_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=2/43 Wrong answer at output_line_idx=0: 1 != 0"}
+{"id": "abc378_b", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/41 Runtime Error ValueError(\"invalid literal for int() with base 10: '7 3'\")"}
+{"id": "abc378_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: -1 -1 0 2 -1 != -1 -1 1 3 -1"}
+{"id": "abc378_d", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error TypeError(\"unhashable type: 'set'\")"}
+{"id": "abc378_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 8 != 10"}
+{"id": "abc378_f", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 0 != 1"}
+{"id": "abc378_g", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 50 != 10"}
+{"id": "abc379_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=42/42"}
+{"id": "abc379_b", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=43/43"}
+{"id": "abc379_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 0 != 4"}
+{"id": "abc379_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer: mismatched output length"}
+{"id": "abc379_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 64 != 514"}
+{"id": "abc379_f", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error IndexError('list index out of range')"}
+{"id": "abc379_g", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: expected ':' (<string>, line 133)"}
+{"id": "abc380_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=44/44"}
+{"id": "abc380_b", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error ValueError(\"invalid literal for int() with base 10: '---'\")"}
+{"id": "abc380_c", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error TypeError(\"sequence index must be integer, not 'slice'\")"}
+{"id": "abc380_d", "official_pass": false, "official_status": "Time Limit Exceeded", "detail": "[ran] tests=0/43 Time Limit Exceeded"}
+{"id": "abc380_e", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/41 Runtime Error IndexError('list index out of range')"}
+{"id": "abc380_f", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: Draw != Aoki"}
+{"id": "abc380_g", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 2 != 166374061"}
+{"id": "abc381_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/44 Wrong answer at output_line_idx=0: No != Yes"}
+{"id": "abc381_b", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=43/43"}
+{"id": "abc381_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=1/43 Wrong answer at output_line_idx=0: 0 != 1"}
+{"id": "abc381_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 0 != 4"}
+{"id": "abc381_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/41 Wrong answer at output_line_idx=0: 0 != 5"}
+{"id": "abc382_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 2 != 4"}
+{"id": "abc382_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: .@@ != .@..."}
+{"id": "abc382_c", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=43/43"}
+{"id": "abc382_d", "official_pass": false, "official_status": "Time Limit Exceeded", "detail": "[ran] tests=5/41 Time Limit Exceeded"}
+{"id": "abc382_f", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error ValueError('list.remove(x): x not in list')"}
+{"id": "abc382_g", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/2 Wrong answer: mismatched output length"}
+{"id": "abc383_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: -7 != 3"}
+{"id": "abc383_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 2 != 3"}
+{"id": "abc383_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 4 != 5"}
+{"id": "abc383_d", "official_pass": false, "official_status": "Time Limit Exceeded", "detail": "[ran] tests=1/42 Time Limit Exceeded"}
+{"id": "abc383_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 17 != 8"}
+{"id": "abc384_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=44/44"}
+{"id": "abc384_b", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=43/43"}
+{"id": "abc384_c", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error UnboundLocalError(\"cannot access local variable 'subseq' where it is not associated with a value\")"}
+{"id": "abc384_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/44 Wrong answer at output_line_idx=0: No != Yes"}
+{"id": "abc384_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 13 != 28"}
+{"id": "abc384_f", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 158 != 5"}
+{"id": "abc384_g", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/32 Wrong answer: mismatched output length"}
+{"id": "abc385_a", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: '(' was never closed (<string>, line 128)"}
+{"id": "abc385_b", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=43/43"}
+{"id": "abc385_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 5 != 3"}
+{"id": "abc385_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 2 3 5 != 2 3 2"}
+{"id": "abc385_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: -1 != 1"}
+{"id": "abc385_f", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/44 Wrong answer at output_line_idx=0: 0.0 != 1.500000000000000000"}
+{"id": "abc386_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=2/45 Wrong answer at output_line_idx=0: No != Yes"}
+{"id": "abc386_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 3 != 6"}
+{"id": "abc386_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=2/46 Wrong answer at output_line_idx=0: No != Yes"}
+{"id": "abc386_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/44 Wrong answer at output_line_idx=0: No != Yes"}
+{"id": "abc386_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 2 != 7"}
+{"id": "abc386_f", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: expected an indented block after 'if' statement on line 251 (<string>, line 251)"}
+{"id": "abc387_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=44/44"}
+{"id": "abc387_b", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=43/43"}
+{"id": "abc387_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 0 != 6"}
+{"id": "abc387_f", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 1 != 6"}
+{"id": "abc388_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=42/42"}
+{"id": "abc388_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 20 != 12"}
+{"id": "abc388_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 5 != 8"}
+{"id": "abc388_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 8 3 12 6 != 2 0 10 5"}
+{"id": "abc388_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 1 != 3"}
+{"id": "abc388_f", "official_pass": false, "official_status": "Time Limit Exceeded", "detail": "[ran] tests=3/43 Time Limit Exceeded"}
+{"id": "abc388_g", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 1 != 2"}
+{"id": "abc389_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=42/42"}
+{"id": "abc389_b", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=42/42"}
+{"id": "abc389_d", "official_pass": false, "official_status": "Time Limit Exceeded", "detail": "[ran] tests=4/43 Time Limit Exceeded"}
+{"id": "abc389_e", "official_pass": false, "official_status": "Error during testing", "detail": "[ran] tests=0/42 Error during testing: expected an indented block after function definition on line 548 (<string>, line 548)"}
+{"id": "abc389_f", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error IndexError('list index out of range')"}
+{"id": "abc389_g", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 0 0 0 0 != 12 9 3 0"}
+{"id": "abc390_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=44/44"}
+{"id": "abc390_b", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=43/43"}
+{"id": "abc390_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=1/43 Wrong answer at output_line_idx=0: Yes != No"}
+{"id": "abc390_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 1 != 3"}
+{"id": "abc390_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 2 != 3"}
+{"id": "abc390_f", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 11 != 16"}
+{"id": "abc390_g", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 3996 != 1332"}
+{"id": "abc391_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=42/42"}
+{"id": "abc391_b", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error IndexError('list index out of range')"}
+{"id": "abc391_d", "official_pass": false, "official_status": "Time Limit Exceeded", "detail": "[ran] tests=0/42 Time Limit Exceeded"}
+{"id": "abc391_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=1/42 Wrong answer at output_line_idx=0: 1 != 2"}
+{"id": "abc391_f", "official_pass": false, "official_status": "Time Limit Exceeded", "detail": "[ran] tests=3/43 Time Limit Exceeded"}
+{"id": "abc391_g", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 2 998244351 0 != 576 99 1"}
+{"id": "abc392_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: No != Yes"}
+{"id": "abc392_b", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=43/43"}
+{"id": "abc392_c", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error TypeError(\"'int' object is not iterable\")"}
+{"id": "abc392_d", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error ValueError(\"invalid literal for int() with base 10: '3 1 2 3'\")"}
+{"id": "abc392_f", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=16/42 Wrong answer at output_line_idx=0: 1 3 2 5 4 6 != 0 3 0 5 2 1"}
+{"id": "abc392_g", "official_pass": false, "official_status": "Time Limit Exceeded", "detail": "[ran] tests=3/43 Time Limit Exceeded"}
+{"id": "abc393_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 1 != 2"}
+{"id": "abc393_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 1 != 2"}
+{"id": "abc393_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 0 != 3"}
+{"id": "abc393_e", "official_pass": false, "official_status": "Time Limit Exceeded", "detail": "[ran] tests=6/43 Time Limit Exceeded"}
+{"id": "abc393_f", "official_pass": false, "official_status": "Time Limit Exceeded", "detail": "[ran] tests=5/42 Time Limit Exceeded"}
+{"id": "abc394_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=43/43"}
+{"id": "abc394_b", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=42/42"}
+{"id": "abc394_c", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=43/43"}
+{"id": "abc394_d", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=43/43"}
+{"id": "abc394_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 0 -1 -1 -1 != 0 1 2 4"}
+{"id": "abc394_f", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: -1 != 8"}
+{"id": "abc394_g", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/41 Wrong answer at output_line_idx=0: 2 != 10"}
+{"id": "abc395_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=43/43"}
+{"id": "abc395_b", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=44/44"}
+{"id": "abc395_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: -1 != 4"}
+{"id": "abc395_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/44 Wrong answer at output_line_idx=0: 6 != 4"}
+{"id": "abc395_f", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/44 Wrong answer at output_line_idx=0: Invalid input: The number of upper and lower teeth must be equal to N. != 15"}
+{"id": "abc396_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=45/45"}
+{"id": "abc396_b", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=42/42"}
+{"id": "abc396_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 12 != 19"}
+{"id": "abc396_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 6 != 3"}
+{"id": "abc396_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: -1 != 0 3 4"}
+{"id": "abc396_f", "official_pass": false, "official_status": "Time Limit Exceeded", "detail": "[ran] tests=4/43 Time Limit Exceeded"}
+{"id": "abc396_g", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/36 Wrong answer at output_line_idx=0: 4 != 2"}
+{"id": "abc397_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=43/43"}
+{"id": "abc397_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=1/43 Wrong answer at output_line_idx=0: 0 != 2"}
+{"id": "abc397_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 4 != 5"}
+{"id": "abc397_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: -1 != 12 11"}
+{"id": "abc397_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: No != Yes"}
+{"id": "abc397_f", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 6 != 5"}
+{"id": "abc397_g", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=2/43 Wrong answer at output_line_idx=0: 1 != 0"}
+{"id": "abc398_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: --=-- != -==-"}
+{"id": "abc398_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/44 Wrong answer at output_line_idx=0: No != Yes"}
+{"id": "abc398_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: -1 != 9"}
+{"id": "abc398_d", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error TypeError('cannot unpack non-iterable int object')"}
+{"id": "abc398_f", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=43/43"}
+{"id": "abc398_g", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=4/43 Wrong answer at output_line_idx=0: Aoki != Takahashi"}
+{"id": "abc399_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=44/44"}
+{"id": "abc399_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/44 Wrong answer at output_line_idx=0: 0 != 4"}
+{"id": "abc399_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=1/43 Wrong answer at output_line_idx=0: 5 != 0"}
+{"id": "abc399_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/2 Wrong answer at output_line_idx=1: 3 != 0"}
+{"id": "abc399_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/44 Wrong answer at output_line_idx=0: -1 != 4"}
+{"id": "abc399_f", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 14 != 75"}
+{"id": "abc400_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=43/43"}
+{"id": "abc400_b", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=44/44"}
+{"id": "abc400_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 3 != 5"}
+{"id": "abc400_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/44 Wrong answer at output_line_idx=0:  != 1"}
+{"id": "abc400_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/5 Wrong answer at output_line_idx=0: 1 != 400"}
+{"id": "abc400_g", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=1/6 Wrong answer at output_line_idx=0: 203 != 209"}
+{"id": "arc184_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 1267650600228229401496703205372 != 3"}
+{"id": "arc184_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=2/42 Wrong answer at output_line_idx=0: 1 != 5"}
+{"id": "arc184_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 20 != 8"}
+{"id": "arc185_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/2 Wrong answer at output_line_idx=0: No != Yes"}
+{"id": "arc185_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 0 2 3 != 1 3 4"}
+{"id": "arc185_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 1 != 20"}
+{"id": "arc185_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 4 != 0"}
+{"id": "arc186_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: No != Yes"}
+{"id": "arc186_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0:  != 3"}
+{"id": "arc186_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/2 Wrong answer: mismatched output length"}
+{"id": "arc186_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/44 Wrong answer at output_line_idx=0: 0 != 2"}
+{"id": "arc186_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/44 Wrong answer at output_line_idx=0: 9 != 4"}
+{"id": "arc187_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=1/43 Wrong answer at output_line_idx=0: 55 != 329785"}
+{"id": "arc188_a", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error IndexError('list index out of range')"}
+{"id": "arc188_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/2 Wrong answer at output_line_idx=0: No != Yes"}
+{"id": "arc188_c", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error IndexError('list index out of range')"}
+{"id": "arc188_d", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error IndexError('list index out of range')"}
+{"id": "arc189_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0:  != 3"}
+{"id": "arc189_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 23 != 21"}
+{"id": "arc189_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/44 Wrong answer at output_line_idx=0: 6 != 4"}
+{"id": "arc189_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 4 13 15 3 5 6 != 4 30 2 13 2 13"}
+{"id": "arc190_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/44 Wrong answer: mismatched output length"}
+{"id": "arc190_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer: mismatched output length"}
+{"id": "arc190_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer: mismatched output length"}
+{"id": "arc191_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 592 != 593"}
+{"id": "arc191_c", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/2 Runtime Error IndexError('list index out of range')"}
+{"id": "arc191_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 2 != 3"}
+{"id": "arc192_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: No != Yes"}
+{"id": "arc192_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=3/43 Wrong answer at output_line_idx=0: Snuke != Fennec"}
+{"id": "arc192_d", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error IndexError('list index out of range')"}
+{"id": "arc192_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0:  != 192"}
+{"id": "arc193_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: -1 != 11"}
+{"id": "arc193_b", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error IndexError('list index out of range')"}
+{"id": "arc193_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/2 Wrong answer: mismatched output length"}
+{"id": "arc194_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: -4 != 8"}
+{"id": "arc194_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 2 != 4"}
+{"id": "arc194_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 19 != 16"}
+{"id": "arc194_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0:  != 2"}
+{"id": "arc194_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: No != Yes"}
+{"id": "arc195_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=8/43 Wrong answer at output_line_idx=0: No != Yes"}
+{"id": "arc195_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: No != Yes"}
+{"id": "arc195_c", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/5 Runtime Error MemoryError()"}
+{"id": "arc195_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/2 Wrong answer at output_line_idx=0: 5 != 3"}
+{"id": "arc195_e", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: '[' was never closed (<string>, line 216)"}
+{"id": "arc196_a", "official_pass": false, "official_status": "Error during testing", "detail": "[ran] tests=0/43 Error during testing: expected an indented block after function definition on line 548 (<string>, line 548)"}
+{"id": "arc196_b", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/2 Runtime Error AttributeError(\"'str' object has no attribute 'decode'\")"}
+{"id": "arc196_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 5 != 1"}
+{"id": "arc196_d", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error IndexError('list index out of range')"}

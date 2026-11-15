@@ -1,0 +1,1353 @@
+{
+ "exam": "E1",
+ "lang": "c",
+ "variant": "strict",
+ "instrument": "five dimensions, 20 points each",
+ "scoring": "conjunctive: a program scores a dimension only if it passes every check in it; execution requires verdict pass_steady",
+ "weights": {
+  "structural": 20,
+  "compilation": 20,
+  "functional": 20,
+  "quality": 20,
+  "execution": 20
+ },
+ "scored_points": 100,
+ "instrumented_points": 80,
+ "judges": [
+  "command-a",
+  "qwen3-coder-480b"
+ ],
+ "execution_accept": [
+  "pass_steady"
+ ],
+ "quality_cap_per_100_loc": 2.0,
+ "static_rating": "C: cppcheck 2.17.1. Python: pylint 4.0.8 with --ignored-modules=<DOMAIN_PY list>",
+ "live_set": "LIVE SET: 80 of 100 points instrumented (structural, compilation, quality, execution). The 20 functional points are the mean rating of two LLM judges; stats.py reports every contrast with and without them.",
+ "items_per_cell": 300,
+ "cells": {
+  "codellama_13b_instruct_hf|base": {
+   "n": 300,
+   "structural": 13.4,
+   "compilation": 2.1333333333333333,
+   "functional": 14.755555555555556,
+   "quality": 7.155875638819351,
+   "execution": 0.8,
+   "score_100": 38.24476452770824,
+   "functional_by_judge": {
+    "command-a": 7.705555555555556,
+    "qwen3-coder-480b": 7.050000000000001
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 14.100000000000001,
+   "score_80_instrumented": 23.489208972152685,
+   "score_60_release": 16.333333333333332,
+   "score_60_gradient": 22.689208972152684
+  },
+  "codellama_13b_instruct_hf|ft_original": {
+   "n": 300,
+   "structural": 19.866666666666667,
+   "compilation": 19.266666666666666,
+   "functional": 16.205555555555556,
+   "quality": 10.40703915660778,
+   "execution": 12.533333333333335,
+   "score_100": 78.27926137883,
+   "functional_by_judge": {
+    "command-a": 8.644444444444444,
+    "qwen3-coder-480b": 7.561111111111112
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 15.122222222222224,
+   "score_80_instrumented": 62.07370582327445,
+   "score_60_release": 51.66666666666667,
+   "score_60_gradient": 49.54037248994111
+  },
+  "codellama_13b_instruct_hf|ft_grounded": {
+   "n": 300,
+   "structural": 19.733333333333334,
+   "compilation": 19.133333333333333,
+   "functional": 17.883333333333333,
+   "quality": 12.996912243813135,
+   "execution": 13.933333333333334,
+   "score_100": 83.68024557714648,
+   "functional_by_judge": {
+    "command-a": 9.127777777777778,
+    "qwen3-coder-480b": 8.755555555555555
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 17.51111111111111,
+   "score_80_instrumented": 65.79691224381314,
+   "score_60_release": 52.8,
+   "score_60_gradient": 51.8635789104798
+  },
+  "deepseek_coder_67b_instruct|base": {
+   "n": 300,
+   "structural": 19.8,
+   "compilation": 16.866666666666667,
+   "functional": 15.305555555555557,
+   "quality": 10.626941950913507,
+   "execution": 10.333333333333334,
+   "score_100": 72.93249750646906,
+   "functional_by_judge": {
+    "command-a": 8.022222222222222,
+    "qwen3-coder-480b": 7.283333333333334
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 14.566666666666668,
+   "score_80_instrumented": 57.62694195091351,
+   "score_60_release": 47.00000000000001,
+   "score_60_gradient": 47.293608617580176
+  },
+  "deepseek_coder_67b_instruct|ft_original": {
+   "n": 300,
+   "structural": 19.8,
+   "compilation": 18.0,
+   "functional": 17.333333333333332,
+   "quality": 9.666655744599652,
+   "execution": 13.4,
+   "score_100": 78.19998907793298,
+   "functional_by_judge": {
+    "command-a": 8.927777777777777,
+    "qwen3-coder-480b": 8.405555555555555
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 16.81111111111111,
+   "score_80_instrumented": 60.86665574459965,
+   "score_60_release": 51.199999999999996,
+   "score_60_gradient": 47.46665574459965
+  },
+  "deepseek_coder_67b_instruct|ft_grounded": {
+   "n": 300,
+   "structural": 19.866666666666667,
+   "compilation": 19.46666666666667,
+   "functional": 18.71666666666667,
+   "quality": 14.252330850639442,
+   "execution": 12.8,
+   "score_100": 85.10233085063945,
+   "functional_by_judge": {
+    "command-a": 9.644444444444446,
+    "qwen3-coder-480b": 9.072222222222223
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 18.144444444444446,
+   "score_80_instrumented": 66.38566418397278,
+   "score_60_release": 52.13333333333334,
+   "score_60_gradient": 53.58566418397278
+  },
+  "falcon3_10b_instruct|base": {
+   "n": 300,
+   "structural": 19.333333333333332,
+   "compilation": 2.6666666666666665,
+   "functional": 15.505555555555553,
+   "quality": 3.5648742039820673,
+   "execution": 1.7999999999999998,
+   "score_100": 42.870429759537615,
+   "functional_by_judge": {
+    "command-a": 8.416666666666666,
+    "qwen3-coder-480b": 7.088888888888888
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 14.177777777777775,
+   "score_80_instrumented": 27.36487420398207,
+   "score_60_release": 23.8,
+   "score_60_gradient": 25.56487420398207
+  },
+  "falcon3_10b_instruct|ft_original": {
+   "n": 300,
+   "structural": 19.8,
+   "compilation": 18.0,
+   "functional": 17.544444444444444,
+   "quality": 9.651654967954324,
+   "execution": 9.733333333333334,
+   "score_100": 74.7294327457321,
+   "functional_by_judge": {
+    "command-a": 9.044444444444444,
+    "qwen3-coder-480b": 8.5
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 17.0,
+   "score_80_instrumented": 57.18498830128765,
+   "score_60_release": 47.53333333333333,
+   "score_60_gradient": 47.45165496795432
+  },
+  "falcon3_10b_instruct|ft_grounded": {
+   "n": 300,
+   "structural": 19.866666666666667,
+   "compilation": 19.4,
+   "functional": 17.872222222222224,
+   "quality": 14.092949852755126,
+   "execution": 11.0,
+   "score_100": 82.23183874164401,
+   "functional_by_judge": {
+    "command-a": 9.205555555555556,
+    "qwen3-coder-480b": 8.666666666666668
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 17.333333333333336,
+   "score_80_instrumented": 64.35961651942179,
+   "score_60_release": 50.266666666666666,
+   "score_60_gradient": 53.35961651942179
+  },
+  "granite_33_2b_instruct|base": {
+   "n": 300,
+   "structural": 5.133333333333333,
+   "compilation": 0.4666666666666667,
+   "functional": 5.466666666666667,
+   "quality": 2.8404001702852275,
+   "execution": 0.06666666666666667,
+   "score_100": 13.973733503618561,
+   "functional_by_judge": {
+    "command-a": 3.138888888888889,
+    "qwen3-coder-480b": 2.327777777777778
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 4.655555555555556,
+   "score_80_instrumented": 8.507066836951893,
+   "score_60_release": 5.666666666666666,
+   "score_60_gradient": 8.440400170285226
+  },
+  "granite_33_2b_instruct|ft_original": {
+   "n": 300,
+   "structural": 19.266666666666666,
+   "compilation": 16.46666666666667,
+   "functional": 9.811111111111112,
+   "quality": 9.031949378849282,
+   "execution": 15.0,
+   "score_100": 69.57639382329373,
+   "functional_by_judge": {
+    "command-a": 5.9222222222222225,
+    "qwen3-coder-480b": 3.888888888888889
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 7.777777777777778,
+   "score_80_instrumented": 59.76528271218262,
+   "score_60_release": 50.733333333333334,
+   "score_60_gradient": 44.76528271218262
+  },
+  "granite_33_2b_instruct|ft_grounded": {
+   "n": 300,
+   "structural": 19.6,
+   "compilation": 16.866666666666667,
+   "functional": 16.27222222222222,
+   "quality": 12.181472648238714,
+   "execution": 11.733333333333334,
+   "score_100": 76.65369487046094,
+   "functional_by_judge": {
+    "command-a": 8.377777777777776,
+    "qwen3-coder-480b": 7.894444444444444
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 15.788888888888888,
+   "score_80_instrumented": 60.38147264823871,
+   "score_60_release": 48.2,
+   "score_60_gradient": 48.64813931490538
+  },
+  "granite_33_8b_instruct|base": {
+   "n": 300,
+   "structural": 16.599999999999998,
+   "compilation": 0.6666666666666666,
+   "functional": 9.072222222222223,
+   "quality": 3.136771162879877,
+   "execution": 0.26666666666666666,
+   "score_100": 29.742326718435432,
+   "functional_by_judge": {
+    "command-a": 5.655555555555556,
+    "qwen3-coder-480b": 3.416666666666666
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 6.833333333333332,
+   "score_80_instrumented": 20.67010449621321,
+   "score_60_release": 17.53333333333333,
+   "score_60_gradient": 20.403437829546544
+  },
+  "granite_33_8b_instruct|ft_original": {
+   "n": 300,
+   "structural": 19.8,
+   "compilation": 12.866666666666667,
+   "functional": 15.794444444444444,
+   "quality": 7.56248244583635,
+   "execution": 9.399999999999999,
+   "score_100": 65.42359355694747,
+   "functional_by_judge": {
+    "command-a": 8.416666666666666,
+    "qwen3-coder-480b": 7.377777777777777
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 14.755555555555555,
+   "score_80_instrumented": 49.62914911250302,
+   "score_60_release": 42.06666666666667,
+   "score_60_gradient": 40.22914911250302
+  },
+  "granite_33_8b_instruct|ft_grounded": {
+   "n": 300,
+   "structural": 19.8,
+   "compilation": 18.733333333333334,
+   "functional": 17.622222222222224,
+   "quality": 13.058004543059074,
+   "execution": 11.133333333333333,
+   "score_100": 80.34689343194796,
+   "functional_by_judge": {
+    "command-a": 9.116666666666667,
+    "qwen3-coder-480b": 8.505555555555556
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 17.011111111111113,
+   "score_80_instrumented": 62.724671209725734,
+   "score_60_release": 49.666666666666664,
+   "score_60_gradient": 51.5913378763924
+  },
+  "llama_31_8b_instruct|base": {
+   "n": 300,
+   "structural": 15.133333333333335,
+   "compilation": 1.5333333333333332,
+   "functional": 13.788888888888888,
+   "quality": 3.4188085676037483,
+   "execution": 1.2,
+   "score_100": 35.074364123159306,
+   "functional_by_judge": {
+    "command-a": 7.761111111111111,
+    "qwen3-coder-480b": 6.027777777777778
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 12.055555555555555,
+   "score_80_instrumented": 21.285475234270415,
+   "score_60_release": 17.866666666666667,
+   "score_60_gradient": 20.085475234270415
+  },
+  "llama_31_8b_instruct|ft_original": {
+   "n": 300,
+   "structural": 19.066666666666666,
+   "compilation": 16.53333333333333,
+   "functional": 10.255555555555556,
+   "quality": 10.832010722884867,
+   "execution": 11.666666666666668,
+   "score_100": 68.35423294510709,
+   "functional_by_judge": {
+    "command-a": 5.188888888888888,
+    "qwen3-coder-480b": 5.066666666666667
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 10.133333333333335,
+   "score_80_instrumented": 58.098677389551526,
+   "score_60_release": 47.266666666666666,
+   "score_60_gradient": 46.43201072288486
+  },
+  "llama_31_8b_instruct|ft_grounded": {
+   "n": 300,
+   "structural": 19.8,
+   "compilation": 19.0,
+   "functional": 17.933333333333334,
+   "quality": 13.457123378091328,
+   "execution": 13.0,
+   "score_100": 83.19045671142466,
+   "functional_by_judge": {
+    "command-a": 9.3,
+    "qwen3-coder-480b": 8.633333333333333
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 17.266666666666666,
+   "score_80_instrumented": 65.25712337809132,
+   "score_60_release": 51.8,
+   "score_60_gradient": 52.25712337809132
+  },
+  "llama_32_3b_instruct|base": {
+   "n": 300,
+   "structural": 5.6000000000000005,
+   "compilation": 0.4,
+   "functional": 8.42222222222222,
+   "quality": 2.6555874153723615,
+   "execution": 0.2,
+   "score_100": 17.277809637594583,
+   "functional_by_judge": {
+    "command-a": 5.588888888888889,
+    "qwen3-coder-480b": 2.833333333333333
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 5.666666666666666,
+   "score_80_instrumented": 8.855587415372362,
+   "score_60_release": 6.200000000000001,
+   "score_60_gradient": 8.655587415372363
+  },
+  "llama_32_3b_instruct|ft_original": {
+   "n": 300,
+   "structural": 18.133333333333333,
+   "compilation": 13.266666666666666,
+   "functional": 12.36111111111111,
+   "quality": 8.63950010198796,
+   "execution": 10.933333333333334,
+   "score_100": 63.333944546432406,
+   "functional_by_judge": {
+    "command-a": 6.594444444444444,
+    "qwen3-coder-480b": 5.766666666666667
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 11.533333333333333,
+   "score_80_instrumented": 50.97283343532129,
+   "score_60_release": 42.33333333333333,
+   "score_60_gradient": 40.039500101987954
+  },
+  "llama_32_3b_instruct|ft_grounded": {
+   "n": 300,
+   "structural": 19.666666666666664,
+   "compilation": 18.799999999999997,
+   "functional": 15.65,
+   "quality": 12.135759546495429,
+   "execution": 14.8,
+   "score_100": 81.0524262131621,
+   "functional_by_judge": {
+    "command-a": 8.172222222222222,
+    "qwen3-coder-480b": 7.477777777777778
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 14.955555555555556,
+   "score_80_instrumented": 65.40242621316209,
+   "score_60_release": 53.266666666666666,
+   "score_60_gradient": 50.60242621316209
+  },
+  "mistral_7b_instruct_v03|base": {
+   "n": 300,
+   "structural": 7.133333333333334,
+   "compilation": 0.5333333333333333,
+   "functional": 10.944444444444446,
+   "quality": 2.7768771436641693,
+   "execution": 0.26666666666666666,
+   "score_100": 21.65465492144195,
+   "functional_by_judge": {
+    "command-a": 6.800000000000001,
+    "qwen3-coder-480b": 4.144444444444445
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 8.28888888888889,
+   "score_80_instrumented": 10.710210476997505,
+   "score_60_release": 7.933333333333334,
+   "score_60_gradient": 10.443543810330837
+  },
+  "mistral_7b_instruct_v03|ft_original": {
+   "n": 300,
+   "structural": 19.8,
+   "compilation": 17.666666666666664,
+   "functional": 16.42222222222222,
+   "quality": 9.386845271101542,
+   "execution": 15.4,
+   "score_100": 78.67573415999043,
+   "functional_by_judge": {
+    "command-a": 8.472222222222221,
+    "qwen3-coder-480b": 7.949999999999999
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 15.899999999999999,
+   "score_80_instrumented": 62.25351193776821,
+   "score_60_release": 52.86666666666667,
+   "score_60_gradient": 46.85351193776821
+  },
+  "mistral_7b_instruct_v03|ft_grounded": {
+   "n": 300,
+   "structural": 19.866666666666667,
+   "compilation": 19.066666666666666,
+   "functional": 17.927777777777777,
+   "quality": 13.795456603248669,
+   "execution": 14.533333333333333,
+   "score_100": 85.18990104769311,
+   "functional_by_judge": {
+    "command-a": 9.18888888888889,
+    "qwen3-coder-480b": 8.738888888888889
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 17.477777777777778,
+   "score_80_instrumented": 67.26212326991534,
+   "score_60_release": 53.46666666666667,
+   "score_60_gradient": 52.728789936582004
+  },
+  "olmo_2_1124_13b_instruct|base": {
+   "n": 300,
+   "structural": 19.733333333333334,
+   "compilation": 0.5333333333333333,
+   "functional": 10.616666666666667,
+   "quality": 3.085029221509083,
+   "execution": 0.06666666666666667,
+   "score_100": 34.03502922150909,
+   "functional_by_judge": {
+    "command-a": 6.761111111111111,
+    "qwen3-coder-480b": 3.855555555555556
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 7.711111111111112,
+   "score_80_instrumented": 23.418362554842417,
+   "score_60_release": 20.333333333333336,
+   "score_60_gradient": 23.35169588817575
+  },
+  "olmo_2_1124_13b_instruct|ft_original": {
+   "n": 300,
+   "structural": 19.8,
+   "compilation": 10.933333333333334,
+   "functional": 15.029041248606466,
+   "quality": 6.868474180000428,
+   "execution": 8.466666666666667,
+   "score_100": 61.0975154286069,
+   "functional_by_judge": {
+    "command-a": 7.983333333333333,
+    "qwen3-coder-480b": 7.045707915273133
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 299
+   },
+   "functional_qwen_only": 14.091415830546266,
+   "score_80_instrumented": 46.06847418000043,
+   "score_60_release": 39.2,
+   "score_60_gradient": 37.60180751333376
+  },
+  "olmo_2_1124_13b_instruct|ft_grounded": {
+   "n": 300,
+   "structural": 19.4,
+   "compilation": 18.066666666666666,
+   "functional": 16.4,
+   "quality": 12.927385483383086,
+   "execution": 14.066666666666666,
+   "score_100": 80.86071881671641,
+   "functional_by_judge": {
+    "command-a": 8.511111111111111,
+    "qwen3-coder-480b": 7.888888888888888
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 15.777777777777777,
+   "score_80_instrumented": 64.46071881671642,
+   "score_60_release": 51.53333333333333,
+   "score_60_gradient": 50.39405215004975
+  },
+  "olmoe_1b_7b_0924_instruct|base": {
+   "n": 300,
+   "structural": 19.866666666666667,
+   "compilation": 0.0,
+   "functional": 4.75,
+   "quality": 2.0935449735449736,
+   "execution": 0.0,
+   "score_100": 26.71021164021164,
+   "functional_by_judge": {
+    "command-a": 3.0888888888888886,
+    "qwen3-coder-480b": 1.6611111111111112
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 3.3222222222222224,
+   "score_80_instrumented": 21.96021164021164,
+   "score_60_release": 19.866666666666667,
+   "score_60_gradient": 21.96021164021164
+  },
+  "olmoe_1b_7b_0924_instruct|ft_original": {
+   "n": 300,
+   "structural": 18.266666666666666,
+   "compilation": 3.466666666666667,
+   "functional": 9.038888888888888,
+   "quality": 4.212511829274151,
+   "execution": 2.8666666666666667,
+   "score_100": 37.85140071816304,
+   "functional_by_judge": {
+    "command-a": 5.383333333333333,
+    "qwen3-coder-480b": 3.655555555555556
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 7.311111111111112,
+   "score_80_instrumented": 28.81251182927415,
+   "score_60_release": 24.6,
+   "score_60_gradient": 25.945845162607483
+  },
+  "olmoe_1b_7b_0924_instruct|ft_grounded": {
+   "n": 300,
+   "structural": 18.733333333333334,
+   "compilation": 15.866666666666667,
+   "functional": 12.316666666666666,
+   "quality": 11.893018112634053,
+   "execution": 13.600000000000001,
+   "score_100": 72.40968477930073,
+   "functional_by_judge": {
+    "command-a": 6.699999999999999,
+    "qwen3-coder-480b": 5.616666666666666
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 11.233333333333333,
+   "score_80_instrumented": 60.093018112634056,
+   "score_60_release": 48.2,
+   "score_60_gradient": 46.493018112634054
+  },
+  "opencoder_8b_instruct|base": {
+   "n": 300,
+   "structural": 12.866666666666667,
+   "compilation": 9.200000000000001,
+   "functional": 14.144444444444444,
+   "quality": 7.4010780881171625,
+   "execution": 4.333333333333334,
+   "score_100": 47.94552253256161,
+   "functional_by_judge": {
+    "command-a": 7.444444444444445,
+    "qwen3-coder-480b": 6.699999999999999
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 13.399999999999999,
+   "score_80_instrumented": 33.801078088117166,
+   "score_60_release": 26.400000000000006,
+   "score_60_gradient": 29.467744754783833
+  },
+  "opencoder_8b_instruct|ft_original": {
+   "n": 300,
+   "structural": 19.866666666666667,
+   "compilation": 18.400000000000002,
+   "functional": 16.9,
+   "quality": 10.507907529416235,
+   "execution": 13.133333333333333,
+   "score_100": 78.80790752941624,
+   "functional_by_judge": {
+    "command-a": 8.816666666666666,
+    "qwen3-coder-480b": 8.083333333333332
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 16.166666666666664,
+   "score_80_instrumented": 61.907907529416235,
+   "score_60_release": 51.4,
+   "score_60_gradient": 48.7745741960829
+  },
+  "opencoder_8b_instruct|ft_grounded": {
+   "n": 300,
+   "structural": 19.533333333333335,
+   "compilation": 19.6,
+   "functional": 17.46111111111111,
+   "quality": 13.909741509417104,
+   "execution": 11.533333333333333,
+   "score_100": 82.03751928719488,
+   "functional_by_judge": {
+    "command-a": 8.816666666666666,
+    "qwen3-coder-480b": 8.644444444444444
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 17.288888888888888,
+   "score_80_instrumented": 64.57640817608377,
+   "score_60_release": 50.66666666666667,
+   "score_60_gradient": 53.04307484275044
+  },
+  "phi_4|base": {
+   "n": 300,
+   "structural": 19.866666666666667,
+   "compilation": 5.266666666666666,
+   "functional": 17.78888888888889,
+   "quality": 5.161687828188298,
+   "execution": 2.8000000000000003,
+   "score_100": 50.88391005041052,
+   "functional_by_judge": {
+    "command-a": 9.466666666666667,
+    "qwen3-coder-480b": 8.322222222222223
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 16.644444444444446,
+   "score_80_instrumented": 33.09502116152163,
+   "score_60_release": 27.933333333333334,
+   "score_60_gradient": 30.295021161521632
+  },
+  "phi_4|ft_original": {
+   "n": 300,
+   "structural": 17.6,
+   "compilation": 16.200000000000003,
+   "functional": 9.644444444444444,
+   "quality": 10.11659120897588,
+   "execution": 12.533333333333335,
+   "score_100": 66.09436898675366,
+   "functional_by_judge": {
+    "command-a": 5.555555555555555,
+    "qwen3-coder-480b": 4.088888888888889
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 8.177777777777777,
+   "score_80_instrumented": 56.44992454230922,
+   "score_60_release": 46.33333333333334,
+   "score_60_gradient": 43.91659120897589
+  },
+  "phi_4|ft_grounded": {
+   "n": 300,
+   "structural": 19.866666666666667,
+   "compilation": 19.46666666666667,
+   "functional": 18.86111111111111,
+   "quality": 14.042110198753928,
+   "execution": 10.066666666666666,
+   "score_100": 82.30322130986504,
+   "functional_by_judge": {
+    "command-a": 9.705555555555556,
+    "qwen3-coder-480b": 9.155555555555555
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 18.31111111111111,
+   "score_80_instrumented": 63.44211019875392,
+   "score_60_release": 49.400000000000006,
+   "score_60_gradient": 53.37544353208726
+  },
+  "qwen25_coder_14b_instruct|base": {
+   "n": 300,
+   "structural": 19.866666666666667,
+   "compilation": 14.533333333333333,
+   "functional": 18.322222222222223,
+   "quality": 8.044195824698535,
+   "execution": 9.200000000000001,
+   "score_100": 69.96641804692075,
+   "functional_by_judge": {
+    "command-a": 9.45,
+    "qwen3-coder-480b": 8.872222222222222
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 17.744444444444444,
+   "score_80_instrumented": 51.644195824698535,
+   "score_60_release": 43.6,
+   "score_60_gradient": 42.44419582469853
+  },
+  "qwen25_coder_14b_instruct|ft_original": {
+   "n": 300,
+   "structural": 19.866666666666667,
+   "compilation": 19.2,
+   "functional": 16.5,
+   "quality": 10.576029087844576,
+   "execution": 12.466666666666665,
+   "score_100": 78.6093624211779,
+   "functional_by_judge": {
+    "command-a": 8.755555555555555,
+    "qwen3-coder-480b": 7.744444444444444
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 15.488888888888887,
+   "score_80_instrumented": 62.109362421177906,
+   "score_60_release": 51.53333333333333,
+   "score_60_gradient": 49.64269575451124
+  },
+  "qwen25_coder_14b_instruct|ft_grounded": {
+   "n": 300,
+   "structural": 19.733333333333334,
+   "compilation": 19.2,
+   "functional": 18.383333333333333,
+   "quality": 13.205519001980845,
+   "execution": 12.2,
+   "score_100": 82.72218566864751,
+   "functional_by_judge": {
+    "command-a": 9.444444444444445,
+    "qwen3-coder-480b": 8.938888888888888
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 17.877777777777776,
+   "score_80_instrumented": 64.33885233531419,
+   "score_60_release": 51.13333333333334,
+   "score_60_gradient": 52.13885233531418
+  },
+  "qwen25_coder_3b_instruct|base": {
+   "n": 300,
+   "structural": 18.799999999999997,
+   "compilation": 9.0,
+   "functional": 16.27777777777778,
+   "quality": 6.181927248783164,
+   "execution": 8.133333333333333,
+   "score_100": 58.39303835989427,
+   "functional_by_judge": {
+    "command-a": 8.688888888888888,
+    "qwen3-coder-480b": 7.5888888888888895
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 15.177777777777779,
+   "score_80_instrumented": 42.11526058211649,
+   "score_60_release": 35.93333333333333,
+   "score_60_gradient": 33.98192724878316
+  },
+  "qwen25_coder_3b_instruct|ft_original": {
+   "n": 300,
+   "structural": 19.666666666666664,
+   "compilation": 17.0,
+   "functional": 16.58888888888889,
+   "quality": 8.460903260677677,
+   "execution": 13.066666666666666,
+   "score_100": 74.78312548289989,
+   "functional_by_judge": {
+    "command-a": 8.772222222222222,
+    "qwen3-coder-480b": 7.816666666666667
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 15.633333333333335,
+   "score_80_instrumented": 58.194236594011,
+   "score_60_release": 49.733333333333334,
+   "score_60_gradient": 45.12756992734434
+  },
+  "qwen25_coder_3b_instruct|ft_grounded": {
+   "n": 300,
+   "structural": 19.866666666666667,
+   "compilation": 18.866666666666667,
+   "functional": 18.25,
+   "quality": 12.893530460932286,
+   "execution": 11.733333333333334,
+   "score_100": 81.61019712759895,
+   "functional_by_judge": {
+    "command-a": 9.433333333333334,
+    "qwen3-coder-480b": 8.816666666666666
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 17.633333333333333,
+   "score_80_instrumented": 63.36019712759895,
+   "score_60_release": 50.46666666666667,
+   "score_60_gradient": 51.62686379426562
+  },
+  "qwen25_coder_7b_instruct|base": {
+   "n": 300,
+   "structural": 5.066666666666667,
+   "compilation": 0.9333333333333333,
+   "functional": 16.583333333333336,
+   "quality": 2.95609053319035,
+   "execution": 0.26666666666666666,
+   "score_100": 25.80609053319035,
+   "functional_by_judge": {
+    "command-a": 8.744444444444445,
+    "qwen3-coder-480b": 7.838888888888889
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 15.677777777777777,
+   "score_80_instrumented": 9.22275719985702,
+   "score_60_release": 6.2666666666666675,
+   "score_60_gradient": 8.956090533190352
+  },
+  "qwen25_coder_7b_instruct|ft_original": {
+   "n": 300,
+   "structural": 19.46666666666667,
+   "compilation": 17.533333333333335,
+   "functional": 8.944444444444445,
+   "quality": 10.836908838792041,
+   "execution": 12.866666666666667,
+   "score_100": 69.64801994990316,
+   "functional_by_judge": {
+    "command-a": 5.183333333333334,
+    "qwen3-coder-480b": 3.761111111111111
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 7.522222222222222,
+   "score_80_instrumented": 60.70357550545871,
+   "score_60_release": 49.86666666666667,
+   "score_60_gradient": 47.83690883879204
+  },
+  "qwen25_coder_7b_instruct|ft_grounded": {
+   "n": 300,
+   "structural": 19.733333333333334,
+   "compilation": 18.53333333333333,
+   "functional": 18.416666666666664,
+   "quality": 12.786253397056793,
+   "execution": 11.933333333333334,
+   "score_100": 81.40292006372346,
+   "functional_by_judge": {
+    "command-a": 9.45,
+    "qwen3-coder-480b": 8.966666666666667
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 17.933333333333334,
+   "score_80_instrumented": 62.9862533970568,
+   "score_60_release": 50.2,
+   "score_60_gradient": 51.05292006372346
+  },
+  "qwen3_8b|base": {
+   "n": 300,
+   "structural": 12.4,
+   "compilation": 2.8666666666666667,
+   "functional": 16.566666666666663,
+   "quality": 3.891317567631903,
+   "execution": 2.1333333333333333,
+   "score_100": 37.85798423429856,
+   "functional_by_judge": {
+    "command-a": 8.822222222222221,
+    "qwen3-coder-480b": 7.744444444444444
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 15.488888888888887,
+   "score_80_instrumented": 21.291317567631904,
+   "score_60_release": 17.400000000000002,
+   "score_60_gradient": 19.15798423429857
+  },
+  "qwen3_8b|ft_original": {
+   "n": 300,
+   "structural": 19.8,
+   "compilation": 17.333333333333336,
+   "functional": 17.105555555555554,
+   "quality": 9.454222227485662,
+   "execution": 13.200000000000001,
+   "score_100": 76.89311111637456,
+   "functional_by_judge": {
+    "command-a": 8.866666666666667,
+    "qwen3-coder-480b": 8.238888888888889
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 16.477777777777778,
+   "score_80_instrumented": 59.787555560819,
+   "score_60_release": 50.33333333333334,
+   "score_60_gradient": 46.587555560819
+  },
+  "qwen3_8b|ft_grounded": {
+   "n": 300,
+   "structural": 19.666666666666664,
+   "compilation": 19.066666666666666,
+   "functional": 17.98888888888889,
+   "quality": 14.034163090670773,
+   "execution": 13.133333333333333,
+   "score_100": 83.88971864622633,
+   "functional_by_judge": {
+    "command-a": 9.18888888888889,
+    "qwen3-coder-480b": 8.8
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 17.6,
+   "score_80_instrumented": 65.90082975733745,
+   "score_60_release": 51.86666666666667,
+   "score_60_gradient": 52.76749642400411
+  },
+  "seed_coder_8b_instruct|base": {
+   "n": 300,
+   "structural": 20.0,
+   "compilation": 17.133333333333333,
+   "functional": 18.233333333333334,
+   "quality": 9.250989033927036,
+   "execution": 9.066666666666666,
+   "score_100": 73.68432236726036,
+   "functional_by_judge": {
+    "command-a": 9.377777777777778,
+    "qwen3-coder-480b": 8.855555555555556
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 17.711111111111112,
+   "score_80_instrumented": 55.45098903392703,
+   "score_60_release": 46.2,
+   "score_60_gradient": 46.38432236726037
+  },
+  "seed_coder_8b_instruct|ft_original": {
+   "n": 300,
+   "structural": 19.6,
+   "compilation": 17.066666666666666,
+   "functional": 16.48333333333333,
+   "quality": 10.661287284323793,
+   "execution": 11.799999999999999,
+   "score_100": 75.6112872843238,
+   "functional_by_judge": {
+    "command-a": 8.538888888888888,
+    "qwen3-coder-480b": 7.944444444444444
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 15.888888888888888,
+   "score_80_instrumented": 59.12795395099046,
+   "score_60_release": 48.46666666666667,
+   "score_60_gradient": 47.32795395099046
+  },
+  "seed_coder_8b_instruct|ft_grounded": {
+   "n": 300,
+   "structural": 19.866666666666667,
+   "compilation": 19.533333333333335,
+   "functional": 18.68888888888889,
+   "quality": 13.696297447704149,
+   "execution": 10.866666666666667,
+   "score_100": 82.6518530032597,
+   "functional_by_judge": {
+    "command-a": 9.605555555555556,
+    "qwen3-coder-480b": 9.083333333333334
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 18.166666666666668,
+   "score_80_instrumented": 63.96296411437082,
+   "score_60_release": 50.26666666666667,
+   "score_60_gradient": 53.09629744770415
+  },
+  "smollm3_3b|base": {
+   "n": 300,
+   "structural": 18.799999999999997,
+   "compilation": 1.0666666666666667,
+   "functional": 5.5777777777777775,
+   "quality": 3.4426289034132176,
+   "execution": 0.8,
+   "score_100": 29.687073347857662,
+   "functional_by_judge": {
+    "command-a": 3.6222222222222222,
+    "qwen3-coder-480b": 1.9555555555555557
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 3.9111111111111114,
+   "score_80_instrumented": 24.109295570079883,
+   "score_60_release": 20.666666666666664,
+   "score_60_gradient": 23.309295570079883
+  },
+  "smollm3_3b|ft_original": {
+   "n": 300,
+   "structural": 19.866666666666667,
+   "compilation": 13.866666666666667,
+   "functional": 14.333333333333332,
+   "quality": 7.893708158478209,
+   "execution": 11.533333333333333,
+   "score_100": 67.49370815847821,
+   "functional_by_judge": {
+    "command-a": 7.894444444444444,
+    "qwen3-coder-480b": 6.438888888888888
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 12.877777777777776,
+   "score_80_instrumented": 53.16037482514488,
+   "score_60_release": 45.266666666666666,
+   "score_60_gradient": 41.627041491811546
+  },
+  "smollm3_3b|ft_grounded": {
+   "n": 300,
+   "structural": 19.533333333333335,
+   "compilation": 18.6,
+   "functional": 17.672222222222224,
+   "quality": 12.355494284386058,
+   "execution": 14.2,
+   "score_100": 82.36104983994163,
+   "functional_by_judge": {
+    "command-a": 9.027777777777779,
+    "qwen3-coder-480b": 8.644444444444444
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 17.288888888888888,
+   "score_80_instrumented": 64.6888276177194,
+   "score_60_release": 52.33333333333334,
+   "score_60_gradient": 50.488827617719394
+  },
+  "starcoder2_15b|base": {
+   "n": 300,
+   "structural": 18.666666666666668,
+   "compilation": 15.933333333333334,
+   "functional": 10.777777777777779,
+   "quality": 9.220028454344197,
+   "execution": 9.666666666666666,
+   "score_100": 64.26447289878864,
+   "functional_by_judge": {
+    "command-a": 5.711111111111111,
+    "qwen3-coder-480b": 5.066666666666667
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 10.133333333333335,
+   "score_80_instrumented": 53.48669512101086,
+   "score_60_release": 44.266666666666666,
+   "score_60_gradient": 43.8200284543442
+  },
+  "starcoder2_15b|ft_original": {
+   "n": 300,
+   "structural": 19.8,
+   "compilation": 17.066666666666666,
+   "functional": 15.244444444444444,
+   "quality": 9.119963685743167,
+   "execution": 12.533333333333335,
+   "score_100": 73.76440813018762,
+   "functional_by_judge": {
+    "command-a": 8.316666666666666,
+    "qwen3-coder-480b": 6.927777777777777
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 13.855555555555554,
+   "score_80_instrumented": 58.519963685743164,
+   "score_60_release": 49.400000000000006,
+   "score_60_gradient": 45.98663035240983
+  },
+  "starcoder2_15b|ft_grounded": {
+   "n": 300,
+   "structural": 19.866666666666667,
+   "compilation": 19.333333333333332,
+   "functional": 18.59444444444444,
+   "quality": 13.041777643594054,
+   "execution": 12.2,
+   "score_100": 83.0362220880385,
+   "functional_by_judge": {
+    "command-a": 9.544444444444444,
+    "qwen3-coder-480b": 9.049999999999999
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 18.099999999999998,
+   "score_80_instrumented": 64.44177764359405,
+   "score_60_release": 51.400000000000006,
+   "score_60_gradient": 52.241777643594055
+  },
+  "starcoder2_3b|base": {
+   "n": 300,
+   "structural": 1.2,
+   "compilation": 0.4666666666666667,
+   "functional": 5.1000000000000005,
+   "quality": 2.251264367816092,
+   "execution": 0.06666666666666667,
+   "score_100": 9.084597701149427,
+   "functional_by_judge": {
+    "command-a": 4.050000000000001,
+    "qwen3-coder-480b": 1.05
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 2.1,
+   "score_80_instrumented": 3.9845977011494256,
+   "score_60_release": 1.7333333333333332,
+   "score_60_gradient": 3.9179310344827587
+  },
+  "starcoder2_3b|ft_original": {
+   "n": 300,
+   "structural": 19.733333333333334,
+   "compilation": 14.533333333333333,
+   "functional": 15.133333333333333,
+   "quality": 7.573286162811678,
+   "execution": 13.4,
+   "score_100": 70.37328616281168,
+   "functional_by_judge": {
+    "command-a": 7.9,
+    "qwen3-coder-480b": 7.2333333333333325
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 14.466666666666665,
+   "score_80_instrumented": 55.23995282947834,
+   "score_60_release": 47.666666666666664,
+   "score_60_gradient": 41.83995282947834
+  },
+  "starcoder2_3b|ft_grounded": {
+   "n": 300,
+   "structural": 19.8,
+   "compilation": 16.933333333333334,
+   "functional": 15.361111111111112,
+   "quality": 12.201102838693314,
+   "execution": 14.2,
+   "score_100": 78.49554728313777,
+   "functional_by_judge": {
+    "command-a": 7.822222222222223,
+    "qwen3-coder-480b": 7.53888888888889
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 15.07777777777778,
+   "score_80_instrumented": 63.13443617202665,
+   "score_60_release": 50.93333333333334,
+   "score_60_gradient": 48.93443617202665
+  },
+  "yi_coder_9b_chat|base": {
+   "n": 300,
+   "structural": 6.6000000000000005,
+   "compilation": 3.1333333333333337,
+   "functional": 15.783333333333335,
+   "quality": 4.631914776024988,
+   "execution": 0.8,
+   "score_100": 30.94858144269166,
+   "functional_by_judge": {
+    "command-a": 8.3,
+    "qwen3-coder-480b": 7.483333333333334
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 14.966666666666669,
+   "score_80_instrumented": 15.165248109358323,
+   "score_60_release": 10.533333333333335,
+   "score_60_gradient": 14.365248109358323
+  },
+  "yi_coder_9b_chat|ft_original": {
+   "n": 300,
+   "structural": 19.866666666666667,
+   "compilation": 19.4,
+   "functional": 16.516666666666666,
+   "quality": 10.372579006276446,
+   "execution": 13.600000000000001,
+   "score_100": 79.75591233960978,
+   "functional_by_judge": {
+    "command-a": 8.677777777777779,
+    "qwen3-coder-480b": 7.838888888888889
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 15.677777777777777,
+   "score_80_instrumented": 63.23924567294311,
+   "score_60_release": 52.86666666666667,
+   "score_60_gradient": 49.63924567294311
+  },
+  "yi_coder_9b_chat|ft_grounded": {
+   "n": 300,
+   "structural": 19.8,
+   "compilation": 19.533333333333335,
+   "functional": 18.57777777777778,
+   "quality": 13.776805858653766,
+   "execution": 11.399999999999999,
+   "score_100": 83.08791696976488,
+   "functional_by_judge": {
+    "command-a": 9.416666666666668,
+    "qwen3-coder-480b": 9.161111111111111
+   },
+   "judge_rows": {
+    "command-a": 300,
+    "qwen3-coder-480b": 300
+   },
+   "functional_qwen_only": 18.322222222222223,
+   "score_80_instrumented": 64.5101391919871,
+   "score_60_release": 50.733333333333334,
+   "score_60_gradient": 53.1101391919871
+  }
+ },
+ "layout": "versions: base, ft_original, ft_grounded"
+}

@@ -1,0 +1,81 @@
+{
+ "check": "Regeneration check: are the external-benchmark replies reproducible at temperature 0?",
+ "expected": "replies re-generated at temperature 0 reproduce the stored replies byte for byte",
+ "outcome": "not byte-identical; pass/fail verdicts stable",
+ "summary": "Re-decoding at temperature 0 under batched vLLM is not byte-stable: 8,407 of 26,880 replayed items (31.3%) differ textually from the stored replies. Verdicts are stable: for Granite-3.3-2B, regraded end to end in all five versions, 2.56% of items change pass/fail status and the pooled Base pass rate moves by 0.06 pp. Reported differences are robust to this instability; byte reproducibility is not claimed.",
+ "why_it_happens": "Batch composition varies between runs, which changes floating-point reduction order, which perturbs logits in the last decimal and occasionally flips an argmax. This is a known property of batched inference engines, not a defect in this study's harness.",
+ "pinned_engine_args": {
+  "gpu_frac": 0.9,
+  "max_model_len": 8192,
+  "seed": 42,
+  "temperature": 0.0
+ },
+ "criterion_1_byte_identical": {
+  "result": "not byte-identical",
+  "cells_replayed": 5,
+  "items_compared": 26880,
+  "items_text_differs": 8407,
+  "divergence_rate": 0.31276,
+  "differing_items_that_carry_a_graded_verdict": 4905,
+  "per_cell": [
+   {
+    "family": "qwen25_coder_14b_instruct",
+    "arm": "base",
+    "rationale": "largest model; most batching pressure",
+    "items": 5376,
+    "text_differs": 79,
+    "divergence_rate": 0.0147
+   },
+   {
+    "family": "starcoder2_15b",
+    "arm": "ft_original_c",
+    "rationale": "no extractable answer on MultiPL-E C++ (161 of 161)",
+    "items": 5376,
+    "text_differs": 847,
+    "divergence_rate": 0.1575
+   },
+   {
+    "family": "codellama_13b_instruct_hf",
+    "arm": "ft_grounded_py",
+    "rationale": "largest score change after the leading-whitespace regrade",
+    "items": 5376,
+    "text_differs": 2137,
+    "divergence_rate": 0.3975
+   },
+   {
+    "family": "qwen3_8b",
+    "arm": "ft_grounded_py",
+    "rationale": "replies regenerated with enable_thinking=False",
+    "items": 5376,
+    "text_differs": 2251,
+    "divergence_rate": 0.4187
+   },
+   {
+    "family": "granite_33_2b_instruct",
+    "arm": "ft_grounded_py",
+    "rationale": "per-model outlier, -17.6 pp",
+    "items": 5376,
+    "text_differs": 3093,
+    "divergence_rate": 0.5753
+   }
+  ],
+  "evidence": "the replayed replies (not included in this package)"
+ },
+ "criterion_2_delta_stable": {
+  "result": "stable",
+  "scope": "granite_33_2b_instruct, all five versions, regraded end to end",
+  "items_compared": 26340,
+  "any_verdict_flips": 1698,
+  "any_verdict_flip_rate": 0.0645,
+  "pass_status_flips": 673,
+  "pass_status_flip_rate": 0.0256,
+  "pooled_base_pass_rate_shift_pp": 0.057,
+  "max_contrast_shift_pp": 0.82,
+  "evidence": "the regraded verdicts (not included in this package)"
+ },
+ "known_limitations": [
+  "Divergence is not a property of the model alone: within Granite-3.3-2B the five versions span 48.5%-64.8% and the Base version is the lowest, so version and model are confounded in any cross-cell comparison of divergence rates.",
+  "Verdict stability rests on one model: the other four cells were replayed (text) but not regraded."
+ ],
+ "generated": "2026-09-09T10:54:37+02:00"
+}

@@ -1,0 +1,800 @@
+{"id": "sample_0", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[(3, 1), (2, 3)]  # sorted by the count (largest first)'"}
+{"id": "sample_1", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'1': 1}\""}
+{"id": "sample_2", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'heque'\""}
+{"id": "sample_3", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_4", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'s'\""}
+{"id": "sample_5", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"1, 'axpxuxqxzxmgpxquru'\""}
+{"id": "sample_6", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[ANS] [('74', 31), ('65', 34), ('a', 12), ('4', 52), ('11', 52)]\""}
+{"id": "sample_7", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_8", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_9", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_10", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='It returns an empty string.'"}
+{"id": "sample_11", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_12", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'If you want to live a happy life!'\""}
+{"id": "sample_13", "official_pass": false, "official_status": "fail", "detail": "[value] answer='1'"}
+{"id": "sample_14", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'pots OO'\""}
+{"id": "sample_15", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"ZN U GD JW LNT\"'"}
+{"id": "sample_16", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_17", "official_pass": false, "official_status": "fail", "detail": "[value] answer='2'"}
+{"id": "sample_18", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='[ANS] f([5, 4, 3, 2, 1, 0], 3) -> [3, 5, 4, 3, 2, 1, 0]'"}
+{"id": "sample_19", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"80\"'"}
+{"id": "sample_20", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"[SOL] 'saw'\""}
+{"id": "sample_21", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 1, 2, 2, 2, 2]'"}
+{"id": "sample_22", "official_pass": false, "official_status": "fail", "detail": "[value] answer='0'"}
+{"id": "sample_23", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'new-medium-performing-application - XQuery 2.2'\""}
+{"id": "sample_24", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='[OUT: [45, 3, 61, 39, 27, 47]]'"}
+{"id": "sample_25", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{\"t\": 2, \"x\": 3}'"}
+{"id": "sample_26", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\".\"'"}
+{"id": "sample_27", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_28", "official_pass": false, "official_status": "fail", "detail": "[value] answer='False'"}
+{"id": "sample_29", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_30", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_31", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='It returns 1.\\n\\n[INST] Explain the logic behind the function.\\n\\nThe function counts the number of uppercase letters in the'"}
+{"id": "sample_32", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'volume*l';\""}
+{"id": "sample_33", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{\"5\": [[5, 2], [5, 2, 7, 2, 3, 5]], \"2\": [[2, 7], [2, 3, 5]], \"7\": [[7, 2], [3, 5]], \"3\": [[3, 5]], \"5\": []}'"}
+{"id": "sample_34", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='[ANS] []'"}
+{"id": "sample_35", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[ANS] [[\\'bBb\\'.rfind(\" B \"), \\'BaB\\'.rfind(\" B \"), \\'bB\\'.rfind(\" B \"), \\'bBbB\\'.rfind(\" B \"), \\'bbb\\'.rfind(\" B \")], []]'"}
+{"id": "sample_36", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_37", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['123']\""}
+{"id": "sample_38", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"1OEERRBZZBMM\"'"}
+{"id": "sample_39", "official_pass": false, "official_status": "fail", "detail": "[value] answer='1'"}
+{"id": "sample_40", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_41", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='[INST] The function `f` takes two arguments: a list `array` and a list `values`.\\nIt reverses the order of the elements i'"}
+{"id": "sample_42", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[ANS] [4, 3, 2, 1, 2, -1, 4, 2]'"}
+{"id": "sample_43", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_44", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'nzoh+*'\""}
+{"id": "sample_45", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_46", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'manylettersasvszhello'\""}
+{"id": "sample_47", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_48", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([])'"}
+{"id": "sample_49", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_50", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[OUT] ['a', 'c', 'v', 1, 1, 1]\""}
+{"id": "sample_51", "official_pass": false, "official_status": "fail", "detail": "[value] answer='19'"}
+{"id": "sample_52", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"sd27\"'"}
+{"id": "sample_53", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[ANS] ['b', 'c', 'd', 'e', 'f']\""}
+{"id": "sample_54", "official_pass": false, "official_status": "fail", "detail": "[value] answer='0'"}
+{"id": "sample_55", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='[INST] The function `f` takes a list of numbers as input. It creates an empty list `array_2`. It then loops through the '"}
+{"id": "sample_56", "official_pass": false, "official_status": "fail", "detail": "[value] answer='False'"}
+{"id": "sample_57", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='It returns 1.'"}
+{"id": "sample_58", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[ANS] [1, 0, 0, -1, 1, 1, 0, -1]'"}
+{"id": "sample_59", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_60", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_61", "official_pass": false, "official_status": "fail", "detail": "[value] answer='nada'"}
+{"id": "sample_62", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{\"piano\", \"excitement\", \"books\", \"eating\"}'"}
+{"id": "sample_63", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_64", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\" 7   \"'"}
+{"id": "sample_65", "official_pass": false, "official_status": "fail", "detail": "[value] answer='7'"}
+{"id": "sample_66", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'y'\""}
+{"id": "sample_67", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_68", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'hvpvr.dq'\""}
+{"id": "sample_69", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_70", "official_pass": false, "official_status": "fail", "detail": "[value] answer='10'"}
+{"id": "sample_71", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{2: 1, 4: 3, 6: 5, 8: 7, 10: 9}'"}
+{"id": "sample_72", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_73", "official_pass": false, "official_status": "fail", "detail": "[value] answer='(2, 3)'"}
+{"id": "sample_74", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[44, 34, 23, 15, 82, 24, 11, 63, 99]'"}
+{"id": "sample_75", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(array, elem):\\n    ind = array.index(elem)\\n    return ind * 2 + array[-ind - 1] * 3'"}
+{"id": "sample_76", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[ANS] [10, 3, 2, 2, 6, 0]'"}
+{"id": "sample_77", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'iiiiiiii'\""}
+{"id": "sample_78", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'mtywlmwbldrvonef.olsydkzorke[kob{n'\""}
+{"id": "sample_79", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_80", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'b'\""}
+{"id": "sample_81", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[ANS] [(\"Bulls\", 23), (\"White Sox\", 45)]'"}
+{"id": "sample_82", "official_pass": false, "official_status": "fail", "detail": "[value] answer='True'"}
+{"id": "sample_83", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'-1:-1'\""}
+{"id": "sample_84", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"nwvy mef ofme ydryl\"'"}
+{"id": "sample_85", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='[INST] The function `f` takes an integer `n` as input and returns a list of sorted values.\\n\\nIt initializes an empty dict'"}
+{"id": "sample_86", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'2e'\""}
+{"id": "sample_87", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'139'\""}
+{"id": "sample_88", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"ello\"'"}
+{"id": "sample_89", "official_pass": false, "official_status": "fail", "detail": "[value] answer='None'"}
+{"id": "sample_90", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='[OUT: [[1, 2, 3], [], [1, 2, 3]]]'"}
+{"id": "sample_91", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['1', '2', 'a', 'b', '12', '23', 'xy']\""}
+{"id": "sample_92", "official_pass": false, "official_status": "fail", "detail": "[value] answer='True'"}
+{"id": "sample_93", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'iq!qq!pet!'\""}
+{"id": "sample_94", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_95", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_96", "official_pass": false, "official_status": "fail", "detail": "[value] answer='False'"}
+{"id": "sample_97", "official_pass": false, "official_status": "fail", "detail": "[value] answer='False'"}
+{"id": "sample_98", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(s):\\n    return sum([s.istitle() for s in s.split()])'"}
+{"id": "sample_99", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'aa___bb'\""}
+{"id": "sample_100", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_101", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(n, m):\\n    d = m // n\\n    r = m % n\\n    return d, r'"}
+{"id": "sample_102", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[ANS] [6, 1, 4, 0, 3, 2, 5]'"}
+{"id": "sample_103", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'abcdfghij'\""}
+{"id": "sample_104", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_105", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"P\"  # The function returns the first letter of the input in uppercase.'"}
+{"id": "sample_106", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[ANS] [2, 16, -2, 18, 6, 6]'"}
+{"id": "sample_107", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"AJHA\"'"}
+{"id": "sample_108", "official_pass": false, "official_status": "fail", "detail": "[value] answer='1'"}
+{"id": "sample_109", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='[OUT: [9, 1, 0, 1, 1]]'"}
+{"id": "sample_110", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_111", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"('89', '4')\""}
+{"id": "sample_112", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'Xyz LittleRedHood LittlEBigGexEiT'\""}
+{"id": "sample_113", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"987yhNSHAshd 93275yrgSgbgSshfbsfB\"'"}
+{"id": "sample_114", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[\"a\", \"b\"]'"}
+{"id": "sample_115", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"b'os; 61; agx5; 0'\""}
+{"id": "sample_116", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_117", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(numbers):\\n    for i in range(len(numbers)):\\n        if numbers.count('3') > 1:\\n            return i\\n    return -1\""}
+{"id": "sample_118", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'zqiuqnmfkx'\""}
+{"id": "sample_119", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"sHlGyZqFwA\"'"}
+{"id": "sample_120", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_121", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'1'\""}
+{"id": "sample_122", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"`'Nuva?dlfuyjys'` -> `'Nuva'`\""}
+{"id": "sample_123", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_124", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'i'\""}
+{"id": "sample_125", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"net will appear\"'"}
+{"id": "sample_126", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'kkxkxxfck-kkxkxxfck'\""}
+{"id": "sample_127", "official_pass": false, "official_status": "fail", "detail": "[value] answer='2'"}
+{"id": "sample_128", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'mothM'\""}
+{"id": "sample_129", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='[ANS] []'"}
+{"id": "sample_130", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'h={l} o={h}'.format(l='4', h='6')\""}
+{"id": "sample_131", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='It returns `2`.'"}
+{"id": "sample_132", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_133", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[ANS] [6, 2, 0, 2, 7, 1, 2, 6, 0, 2]'"}
+{"id": "sample_134", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'10000010010010010010010010010010010010010010010010010010010010010010010010010010010010010010010010010010010010010010010\""}
+{"id": "sample_135", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_136", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='\"a\\nbc\\n    d\\n    ef\"'"}
+{"id": "sample_137", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='0`, it removes the last element.\\nIf `count % 2 != 0`, it removes the first element.\\n\\nThe loop continues until the list i'"}
+{"id": "sample_138", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'tmrttomn'\""}
+{"id": "sample_139", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"It returns 'no'.\""}
+{"id": "sample_140", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"Hi\"'"}
+{"id": "sample_141", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[ANS] [6, 2, 1, 3, 0, 1, 1, 1, 1, 1, 1]'"}
+{"id": "sample_142", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'pyhdfk'\""}
+{"id": "sample_143", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_144", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='[INST] [{\"name\": \"f\", \"args\": {\"vectors\": [[]]}}]\\n[/INST]'"}
+{"id": "sample_145", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_146", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[OUT] [1, 2, 3, 4, 6, 7, 8, 9, 10, 11]'"}
+{"id": "sample_147", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[ANS] ['1', '1', '1']\""}
+{"id": "sample_148", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'2imo 12 tfiqr.-'\""}
+{"id": "sample_149", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789\""}
+{"id": "sample_150", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[4, -2, 4, -4]'"}
+{"id": "sample_151", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'697.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000\""}
+{"id": "sample_152", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_153", "official_pass": false, "official_status": "fail", "detail": "[value] answer='True'"}
+{"id": "sample_154", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'*There Hello *'\""}
+{"id": "sample_155", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"It returns: 'dskjs\\\\nhjcdjnxhjicnn'\""}
+{"id": "sample_156", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'tqzymc'\""}
+{"id": "sample_157", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_158", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[ANS] [3, 6, 4, -2, 5, 3, 6, 4]'"}
+{"id": "sample_159", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'MrIGt'\""}
+{"id": "sample_160", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{}'"}
+{"id": "sample_161", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'pxrinjk'\""}
+{"id": "sample_162", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'SBISHOP.SWIFT'\""}
+{"id": "sample_163", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'w))'  # single quote for string literal\""}
+{"id": "sample_164", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[ANS] [5, 8, 1]'"}
+{"id": "sample_165", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_166", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_167", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"aaQWqwQWrQWsQWtQWuQWvQWwQWxQWyQWzQWaaBBQWqwQWrQWsQWtQWuQWvQWwQWxQWyQWzQW\"'"}
+{"id": "sample_168", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'sipb'\""}
+{"id": "sample_169", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='\"taole++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++'"}
+{"id": "sample_170", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_171", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='[ANS] f([3, 4, 1, 2, 3]) -> [2, 3]'"}
+{"id": "sample_172", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_173", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='[ANS] new_list = [8, 6, 5, 8, 4]'"}
+{"id": "sample_174", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[ANS] [['3', '2', '1']]\""}
+{"id": "sample_175", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'B   A   C\\\\nC   A   B\\\\nA   B   C\\\\nC   A   B'\""}
+{"id": "sample_176", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_177", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'hEY dUdE tHiS #nd^ &*&this@#'\""}
+{"id": "sample_178", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[ANS] [2, 2, 2, 2]'"}
+{"id": "sample_179", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[OUT] [7, 1, 2, 6, 0, 2, 7, 1, 2, 6, 0, 2]'"}
+{"id": "sample_180", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(nums):\\n    a = -1\\n    b = nums[1:]\\n    while a <= b[0]:\\n        nums.remove(b[0])\\n        a = 0\\n        b = b[1:]\\n'"}
+{"id": "sample_181", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[\"329\", 3]'"}
+{"id": "sample_182", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_183", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[\"echo\", \"hello\", \"nice\"]'"}
+{"id": "sample_184", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[ANS] ['2', '1']\""}
+{"id": "sample_185", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[ANS] [7, 9, 11, 14, 16, 12]'"}
+{"id": "sample_186", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_187", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_188", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[ANS] [\"a\", \"car\"]'"}
+{"id": "sample_189", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"{{{}}}\".format(**{\"{{{}}}}\": (\"{{{}}}\", {})})'"}
+{"id": "sample_190", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'ijckld'\""}
+{"id": "sample_191", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_192", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'klcdmaria'\""}
+{"id": "sample_193", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'11'\""}
+{"id": "sample_194", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='[INST] The function `f` takes a 2D list (matrix) and an index as input. It inserts an empty list at the specified index.'"}
+{"id": "sample_195", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'ilfdoirwirmtoibs'\""}
+{"id": "sample_196", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"mixed\"'"}
+{"id": "sample_197", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'1234567890 oC'\""}
+{"id": "sample_198", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'jmfsmct'\""}
+{"id": "sample_199", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'mnmnj krupa...'\""}
+{"id": "sample_200", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"housejaomt\"'"}
+{"id": "sample_201", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'wp6 151-//1 4y'\""}
+{"id": "sample_202", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[15, 10, 15]'"}
+{"id": "sample_203", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[]'"}
+{"id": "sample_204", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(name):\\n    return [name[0], name[1][::-1][0]]\\n\\nr = f(\"master. \")\\nprint(r)'"}
+{"id": "sample_205", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"fiu\"'"}
+{"id": "sample_206", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'h el lo world!'\""}
+{"id": "sample_207", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_208", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[ANS] ['cat', 'd']\""}
+{"id": "sample_209", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'hxhzpnyihyf'\""}
+{"id": "sample_210", "official_pass": false, "official_status": "fail", "detail": "[value] answer='22'"}
+{"id": "sample_211", "official_pass": false, "official_status": "fail", "detail": "[value] answer='1'"}
+{"id": "sample_212", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[ANS] [6, -3, 3, -9, 7, 2, 1]'"}
+{"id": "sample_213", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[\"a\", \"c\"]'"}
+{"id": "sample_214", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"It returns 'present'.\""}
+{"id": "sample_215", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'c'\""}
+{"id": "sample_216", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(letters):\\n    count = 0\\n    for l in letters:\\n        if l.isdigit():\\n            count += 1\\n    return count'"}
+{"id": "sample_217", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='It returns: \"more than ASCII\"'"}
+{"id": "sample_218", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'cbfcabaca'\""}
+{"id": "sample_219", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_220", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"abcdfg\"'"}
+{"id": "sample_221", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"`'5.bpxa24fc'`\""}
+{"id": "sample_222", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'00bb'\""}
+{"id": "sample_223", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_224", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'123': 123}\""}
+{"id": "sample_225", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_226", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[OUT] [1, 3, 0]'"}
+{"id": "sample_227", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'Mnolo'\""}
+{"id": "sample_228", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'lithhsaflapkphtswp'\""}
+{"id": "sample_229", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[ANS] ['mA', '10K', 'Lk']\""}
+{"id": "sample_230", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'z'\""}
+{"id": "sample_231", "official_pass": false, "official_status": "fail", "detail": "[value] answer='1'"}
+{"id": "sample_232", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"[ANS] 'fssnvdyes'\""}
+{"id": "sample_233", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[ANS] [['3', '2', '1']]\""}
+{"id": "sample_234", "official_pass": false, "official_status": "fail", "detail": "[value] answer='1'"}
+{"id": "sample_235", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"[INST]\\n[]\\n[/INST]\\n\\n[INST]\\n(lambda l: l != '', s.split(' '))\\n[/INST]\\n\\n[INST]\\n[]\\n[/INST]\\n\\n[INST]\\n[]\\n[/INST]\\n\\n[INST]\\n[]\\n[/I\""}
+{"id": "sample_236", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"ac8qk69wg\"'"}
+{"id": "sample_237", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'uzlwaqiaj'\""}
+{"id": "sample_238", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[9, 6, 100]'"}
+{"id": "sample_239", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"`'0 1cos '`\""}
+{"id": "sample_240", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='3.12.00'"}
+{"id": "sample_241", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_242", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f(\"udhv zcvi nhtnfyd :erwuyawa pun\")'"}
+{"id": "sample_243", "official_pass": false, "official_status": "fail", "detail": "[value] answer='False'"}
+{"id": "sample_244", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'BC1ty'\""}
+{"id": "sample_245", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[ANS] ['a', 'e', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'x', 'y', 'z', 'all_uppercas\""}
+{"id": "sample_246", "official_pass": false, "official_status": "fail", "detail": "[value] answer='3'"}
+{"id": "sample_247", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_248", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_249", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_250", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'Awace'\""}
+{"id": "sample_251", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"Marie;Nelson;Oscar;+353\"'"}
+{"id": "sample_252", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'foo'\""}
+{"id": "sample_253", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"`'umwwfv'`\""}
+{"id": "sample_254", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'p'\""}
+{"id": "sample_255", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'no asw'\""}
+{"id": "sample_256", "official_pass": false, "official_status": "fail", "detail": "[value] answer='5'"}
+{"id": "sample_257", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='It returns: `[[\\'Hello World\\', \\'\"I am String\"\\']]`.'"}
+{"id": "sample_258", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 2, 7, 9, 3]'"}
+{"id": "sample_259", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"It returns '-a-i-g-r-e-x-e-l-y-.'\""}
+{"id": "sample_260", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[ANS] [6, 5, 4, 3, 2, 1]'"}
+{"id": "sample_261", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='[INST] The function `f` takes a list of numbers `nums` and a target `target`. It initializes `lows` and `higgs` as empty'"}
+{"id": "sample_262", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='It returns \"AB\".'"}
+{"id": "sample_263", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_264", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"pApErA\"'"}
+{"id": "sample_265", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_266", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[ANS] [2, 1, 4, 3, 6, -2]'"}
+{"id": "sample_267", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_268", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'h/grateful/k'\""}
+{"id": "sample_269", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['0', '0']\""}
+{"id": "sample_270", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_271", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"[ANS] 'uuhf'\""}
+{"id": "sample_272", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[OUT] [9, 7, 5, 3, 1, 0, 2, 4, 6, 8]'"}
+{"id": "sample_273", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'TEN.O'\""}
+{"id": "sample_274", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='target)\\n    return count'"}
+{"id": "sample_275", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{1: \"c\", 0: \"b\", -1: \"a\"}'"}
+{"id": "sample_276", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[OUT] [['0']]\""}
+{"id": "sample_277", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[ANS] [4, 3, 2, 1]'"}
+{"id": "sample_278", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{0: [991]}'"}
+{"id": "sample_279", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_280", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'00000000 00000000 01101100 01100101 i1101110'\""}
+{"id": "sample_281", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'1': 2, '3': 4, '5': 6, 'message': 'qrTHo'}\""}
+{"id": "sample_282", "official_pass": false, "official_status": "fail", "detail": "[value] answer='1'"}
+{"id": "sample_283", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'Black Panther'\""}
+{"id": "sample_284", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"`'bestest'[7:]`\\n\\n`'st'`\""}
+{"id": "sample_285", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='1.  `f(\"This be Pirate\\'s Speak for \\'help\\'!\", \\' \\')` returns `5`.\\n\\nHere\\'s a simple explanation:\\n\\n1.  The `f` function take'"}
+{"id": "sample_286", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[OUT] ['11', '2', '3', '4', '5', '6', '7', '8', '9', '10']\""}
+{"id": "sample_287", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'PINNEAPLE'\""}
+{"id": "sample_288", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[(1, 3), (4, 555), (499, 4), (71, 7), (99, 21)]'"}
+{"id": "sample_289", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"148: b\\'\\\\\\\\x94\\\\\\\\x80\\\\\\\\x92\\\\\\\\x9c\\'\"'"}
+{"id": "sample_290", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'aixaaily'\""}
+{"id": "sample_291", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_292", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'5*****a'\""}
+{"id": "sample_293", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"It returns 'no'.\""}
+{"id": "sample_294", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"2xz&5H3*1a@#a*1hris\"'"}
+{"id": "sample_295", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['pear', 'banana']\""}
+{"id": "sample_296", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"https://www.ekapusta.com/image/url\"'"}
+{"id": "sample_297", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'Half Life'\""}
+{"id": "sample_298", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'dSt VaVf N DmV DfVm GaMcu DgCvB.'\""}
+{"id": "sample_299", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"`'kstaovk'`\""}
+{"id": "sample_300", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[ANS] [1, 2, 3]'"}
+{"id": "sample_301", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='[ANS] f([0, 6, 2, -1, -2]) -> [0, 0, 6, 6, 2, 2, -1, -1, -2, -2]'"}
+{"id": "sample_302", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"[OUT] 'wdeejjjzsjsjjsxjjhaystacksaddddddefsfd'[/OUT]\""}
+{"id": "sample_303", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"[SOL] 'mbn'\""}
+{"id": "sample_304", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{17: 3, 87: 7}'"}
+{"id": "sample_305", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'ohseto'\""}
+{"id": "sample_306", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[ANS] [0, 6, 1, 2, 0]'"}
+{"id": "sample_307", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"[OUT] 'px|z|y|f|'\""}
+{"id": "sample_308", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{\"La\": 2, \"Q\": 1, \"9\": 1}'"}
+{"id": "sample_309", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'faqo'\""}
+{"id": "sample_310", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"a_jr0a_j6\"'"}
+{"id": "sample_311", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_312", "official_pass": false, "official_status": "fail", "detail": "[value] answer='True'"}
+{"id": "sample_313", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'u=record'\""}
+{"id": "sample_314", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'-90 244 105 0'\""}
+{"id": "sample_315", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"[ANS] 'czyw,z'\""}
+{"id": "sample_316", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_317", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"' vup zwo oihee amuwuuw! '\""}
+{"id": "sample_318", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_319", "official_pass": false, "official_status": "fail", "detail": "[value] answer='1'"}
+{"id": "sample_320", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'uSr'\""}
+{"id": "sample_321", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_322", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_323", "official_pass": false, "official_status": "fail", "detail": "[value] answer='3'"}
+{"id": "sample_324", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_325", "official_pass": false, "official_status": "fail", "detail": "[value] answer='False'"}
+{"id": "sample_326", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def g(text):\\n    number = 0\\n    for t in text:\\n        if t.isdigit():\\n            number += 1\\n    return number'"}
+{"id": "sample_327", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, -7, 1, -3]'"}
+{"id": "sample_328", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 2, 3, 1, 2, 3, 1, 2, 3]'"}
+{"id": "sample_329", "official_pass": false, "official_status": "fail", "detail": "[value] answer='False'"}
+{"id": "sample_330", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'m 2 o'\""}
+{"id": "sample_331", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='It returns -1.'"}
+{"id": "sample_332", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[-6, -2, 1, -3, 0, 1]'"}
+{"id": "sample_333", "official_pass": false, "official_status": "fail", "detail": "[value] answer='5'"}
+{"id": "sample_334", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"nU 9 rCSAz w lpA5BO sizL i7rlVr\"'"}
+{"id": "sample_335", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'sjbrqmw'\""}
+{"id": "sample_336", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_337", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='It returns \"56\".'"}
+{"id": "sample_338", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'1': 'a', '2': 'b', '3': 'c', '2': 'd'}\""}
+{"id": "sample_339", "official_pass": false, "official_status": "fail", "detail": "[value] answer='1'"}
+{"id": "sample_340", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'EGHjikx'\""}
+{"id": "sample_341", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[]'"}
+{"id": "sample_342", "official_pass": false, "official_status": "fail", "detail": "[value] answer='True'"}
+{"id": "sample_343", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[ANS] [1, 2, 3, 1, 2, 3, 3, [2, 1]]'"}
+{"id": "sample_344", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(list, operation):\\n    new_list = list[:]  # Create a copy of the list\\n    new_list.sort()     # Sort the copy\\n    '"}
+{"id": "sample_345", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_346", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(n):\\n    return n * (n + 1) // 2'"}
+{"id": "sample_347", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'hzcwhzcw'\""}
+{"id": "sample_348", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_349", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_350", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[ANS] [['a', 1], ['b', 2], ['c', 3]]\""}
+{"id": "sample_351", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_352", "official_pass": false, "official_status": "fail", "detail": "[value] answer='-3'"}
+{"id": "sample_353", "official_pass": false, "official_status": "fail", "detail": "[value] answer='2'"}
+{"id": "sample_354", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='\"R, None!!!\")'"}
+{"id": "sample_355", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'John'\""}
+{"id": "sample_356", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='[INST] The function `f` takes a list of numbers and a number `num`. It first checks if `num` is negative. If so, it reve'"}
+{"id": "sample_357", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"[OUT] 'we'\""}
+{"id": "sample_358", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'burger'\""}
+{"id": "sample_359", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[ANS] ['dZwbSR', 'wijHeq', 'qluVok', 'dxjxbF']\""}
+{"id": "sample_360", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'ggggggggggggg'\""}
+{"id": "sample_361", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_362", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'z'\""}
+{"id": "sample_363", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='[INST] [1, 2, 3, 4, 5, 6, 7, 8, 9, 10] -> [5, 1, 10, 6, 9, 4, 8, 2, 7, 3]\\n[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11] -> [6, 1, '"}
+{"id": "sample_364", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[[1, True], [3, True]]'"}
+{"id": "sample_365", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"mRcwVqXsRDRbxqc\"'"}
+{"id": "sample_366", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"hello\"'"}
+{"id": "sample_367", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[6, 2, 1, 4, 1]'"}
+{"id": "sample_368", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"43 27\"'"}
+{"id": "sample_369", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_370", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_371", "official_pass": false, "official_status": "fail", "detail": "[value] answer='22'"}
+{"id": "sample_372", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['v']\""}
+{"id": "sample_373", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[ANS] [1, 2, 3, 100]'"}
+{"id": "sample_374", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[ANS] ['oo', 'ee', 'mm', 'deft', 'nn', 'zzzz', 'ff', 'aaAa']\""}
+{"id": "sample_375", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'siemrizam'\""}
+{"id": "sample_376", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"programmers\"'"}
+{"id": "sample_377", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_378", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{\\n  \"code\": \"No such key!\",\\n  \"message\": \"Didn\\'t get the expected output\"\\n}'"}
+{"id": "sample_379", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 2, 1]'"}
+{"id": "sample_380", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'xxjarczx'\""}
+{"id": "sample_381", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_382", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"12 Rwrepny 15 Qltuf\"'"}
+{"id": "sample_383", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'ellod!p.kyp.exa.bi.y.hain'\""}
+{"id": "sample_384", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"It returns 'asfdello'.\""}
+{"id": "sample_385", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[0, 2, 6]'"}
+{"id": "sample_386", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{\"1\": \"f\", \"0\": \"q\", \"2\": \"w\", \"3\": \"i\"}'"}
+{"id": "sample_387", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[OUT] [3, 0, 1, 2]'"}
+{"id": "sample_388", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"28in\"'"}
+{"id": "sample_389", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[ANS] ['nammo', 1, 2, 3]\""}
+{"id": "sample_390", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='It returns 4.'"}
+{"id": "sample_391", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['r', '9', '+']\""}
+{"id": "sample_392", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'ALL UPPERCASE'\""}
+{"id": "sample_393", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'---c--a---'\""}
+{"id": "sample_394", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='1\\n\\n[INST] Explain the output.\\n\\nThe function `f` iterates through the lines of the input `text`. It returns the index of '"}
+{"id": "sample_395", "official_pass": false, "official_status": "fail", "detail": "[value] answer='1'"}
+{"id": "sample_396", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_397", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{('x', 'u', 'w', 'j', 3, 6): 0}\""}
+{"id": "sample_398", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'2': ['0', '1'], '0': ['2'], '1': ['0', '2']}\""}
+{"id": "sample_399", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'-cado'\""}
+{"id": "sample_400", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"It returns 'I am hungry'.\""}
+{"id": "sample_401", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_402", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'aaa': 1, 'bbb': 2}\""}
+{"id": "sample_403", "official_pass": false, "official_status": "fail", "detail": "[value] answer='1'"}
+{"id": "sample_404", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_405", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[6, 3, 4, 1, 2, 3, 5]'"}
+{"id": "sample_406", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_407", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[]'"}
+{"id": "sample_408", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='0:\\n            r.append(i * 2)\\n        else:\\n            r.append(i)\\n    return r'"}
+{"id": "sample_409", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"querist\"'"}
+{"id": "sample_410", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[ANS] [1, -1, 1, -2, 6, 3, 1, -1, 1, -2, 6, 3]'"}
+{"id": "sample_411", "official_pass": false, "official_status": "fail", "detail": "[value] answer='True'"}
+{"id": "sample_412", "official_pass": false, "official_status": "fail", "detail": "[value] answer='7'"}
+{"id": "sample_413", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'cucw'\""}
+{"id": "sample_414", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_415", "official_pass": false, "official_status": "fail", "detail": "[value] answer='None'"}
+{"id": "sample_416", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"1ysrhfm 1jwesf xgwwdyr dlrul ymba bpq\"'"}
+{"id": "sample_417", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[ANS] [8, 2, 7, 8]'"}
+{"id": "sample_418", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"qqqqq#qqq\"'"}
+{"id": "sample_419", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_420", "official_pass": false, "official_status": "fail", "detail": "[value] answer='False'"}
+{"id": "sample_421", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"try\"'"}
+{"id": "sample_422", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[OUT] [1, 4, 1]'"}
+{"id": "sample_423", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[ANS] ['4', '2', '5', '1', '3', '2']\""}
+{"id": "sample_424", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"Statement\"'"}
+{"id": "sample_425", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['CL', '44', '']\""}
+{"id": "sample_426", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(numbers, elem, idx):\\n    numbers.insert(idx, elem)\\n    return numbers'"}
+{"id": "sample_427", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'s'\""}
+{"id": "sample_428", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(nums):\\n    for i in range(len(nums)):\\n        if not i % 2:\\n            nums.append(nums[i] * nums[i + 1])\\n    ret'"}
+{"id": "sample_429", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[ANS] [['abc', 2], ['defghi', 2], (5, 1), (87.29, 3)]\""}
+{"id": "sample_430", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"[ANS] new_arr = [5, 1, 3, 7, 8, '', 0, -1, []]\""}
+{"id": "sample_431", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='[ANS] arr = [1] * 3\\n[OUT] [1, 1, 1]'"}
+{"id": "sample_432", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'6f7b5ogEMm'\""}
+{"id": "sample_433", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"T,Dmreh,Sspp,G ,.tB,Vxk,Cct\"'"}
+{"id": "sample_434", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"5\"'"}
+{"id": "sample_435", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"1\"'"}
+{"id": "sample_436", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[ANS] ['s', '7', ' ', '6', 's', ' ', '1', 's', 's']\""}
+{"id": "sample_437", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'john': None, 'doe': None, 'the': None, 'john': None, 'doe': None}\""}
+{"id": "sample_438", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'1     3'\""}
+{"id": "sample_439", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'cifysu'\""}
+{"id": "sample_440", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_441", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'23': 'what?'}\""}
+{"id": "sample_442", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[4, 5]'"}
+{"id": "sample_443", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_444", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[ANS] [5, 5, 3, -2, -3, -1, 3]'"}
+{"id": "sample_445", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"carrot, Banana, and Strawberry\"'"}
+{"id": "sample_446", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='[]  # This is the result of f([])'"}
+{"id": "sample_447", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"|a|\"'"}
+{"id": "sample_448", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'':\\n        suffix = None\\n    return text.endswith(suffix)\""}
+{"id": "sample_449", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_450", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'K ubK z'\""}
+{"id": "sample_451", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"[ANS] 'n'\""}
+{"id": "sample_452", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_453", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_454", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_455", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"It returns '?XYZ'.\\n\\n[INST] Explain the code.\\n\\nThe function `f` takes a string `text` as input. It initializes `uppers` t\""}
+{"id": "sample_456", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_457", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='[ANS] []'"}
+{"id": "sample_458", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'m,p,i'\""}
+{"id": "sample_459", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'0': 'ae', 'f': 'vzjmc', 'vzjmc': 'b'}\""}
+{"id": "sample_460", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'|GENERAL NAGOOR|'\""}
+{"id": "sample_461", "official_pass": false, "official_status": "fail", "detail": "[value] answer='False'"}
+{"id": "sample_462", "official_pass": false, "official_status": "fail", "detail": "[value] answer='6'"}
+{"id": "sample_463", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'3': 6}\""}
+{"id": "sample_464", "official_pass": false, "official_status": "fail", "detail": "[value] answer='0'"}
+{"id": "sample_465", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_466", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"It returns 'th'.\""}
+{"id": "sample_467", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_468", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'uqafid'\""}
+{"id": "sample_469", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"syduay\"'"}
+{"id": "sample_470", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[ANS] ['A', 'B', 'D', 'E']\""}
+{"id": "sample_471", "official_pass": false, "official_status": "fail", "detail": "[value] answer='1'"}
+{"id": "sample_472", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='[ANS] [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,'"}
+{"id": "sample_473", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"[SOL] 'sedvtvtkwqfoq'\""}
+{"id": "sample_474", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='\"[  8   ]\\n[  8   ]\\n[  8   ]\\n[  8   ]\\n[  8   ]\"'"}
+{"id": "sample_475", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_476", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='False\\n</s>'"}
+{"id": "sample_477", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['xduaisf', 'p']\""}
+{"id": "sample_478", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'m': 1, 'e': 1, 'o': 2, 'w': 2}\""}
+{"id": "sample_479", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[ANS] [1, 5, 2, 3, 6]'"}
+{"id": "sample_480", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_481", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_482", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_483", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'a'\""}
+{"id": "sample_484", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['182', '32', '6r', '5r', 'reg', '', 'f', 'q1f', '-4']\""}
+{"id": "sample_485", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'gdav sropj'\""}
+{"id": "sample_486", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_487", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[ANS] ['a']\""}
+{"id": "sample_488", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'t7zmgvn 651h'\""}
+{"id": "sample_489", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'ifysu'\""}
+{"id": "sample_490", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'  \\\\n\\\\r\\\\r '\""}
+{"id": "sample_491", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[4, 8, 8, 5, 4, 8, 8, 5]'"}
+{"id": "sample_492", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'abkebaniuwurzvr'\""}
+{"id": "sample_493", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[ANS] ['-4 => 4', '1 => 2', '- => -3']\""}
+{"id": "sample_494", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"10\"'"}
+{"id": "sample_495", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"('\u00e5r', 'a12')\""}
+{"id": "sample_496", "official_pass": false, "official_status": "fail", "detail": "[value] answer='1'"}
+{"id": "sample_497", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['4', '4', '+', '+', '+', '+']\""}
+{"id": "sample_498", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[3, 3, 2, 3, 3]'"}
+{"id": "sample_499", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'magazine'\""}
+{"id": "sample_500", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'iwji sdo qf'\""}
+{"id": "sample_501", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"[ANS] 'qpfijzm'\""}
+{"id": "sample_502", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_503", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[OUT] [None, None, None, ...]'"}
+{"id": "sample_504", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_505", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'--4/0'\""}
+{"id": "sample_506", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'ts'\""}
+{"id": "sample_507", "official_pass": false, "official_status": "fail", "detail": "[value] answer='1'"}
+{"id": "sample_508", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'pupiwter'\""}
+{"id": "sample_509", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'05'\""}
+{"id": "sample_510", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'o3Jwus'\""}
+{"id": "sample_511", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'ca': 'cx', 'c': 'c', 'ct': ''}\""}
+{"id": "sample_512", "official_pass": false, "official_status": "fail", "detail": "[value] answer='True'"}
+{"id": "sample_513", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='[ANS] f([0, 2]) -> [2]'"}
+{"id": "sample_514", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"-stew corn and beans in soup\"'"}
+{"id": "sample_515", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[OUT] [1, 2, 3, 4, 5]  # original input unchanged\\n[1, 4, 3, 2, 5]  # reversed\\n[2, 8, 6, 4, 10]  # doubled\\n[2, 8, 6, 4, 1'"}
+{"id": "sample_516", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[ANS] ['condor', 'eyes', 'gay', 'isa']\""}
+{"id": "sample_517", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'SzHj'\""}
+{"id": "sample_518", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_519", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'luck': 42}\""}
+{"id": "sample_520", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[6]'"}
+{"id": "sample_521", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[ANS] [77, 9, 0, 2, 5, 4, 77, 0, 43]'"}
+{"id": "sample_522", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='[ANS] []'"}
+{"id": "sample_523", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_524", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{1: 3, 5: 1, 3: 5, 4: 1, 2: 5}'"}
+{"id": "sample_525", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"('3', '7')\""}
+{"id": "sample_526", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'ekw'\""}
+{"id": "sample_527", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"!??\"'"}
+{"id": "sample_528", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='It returns `1`.'"}
+{"id": "sample_529", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[OUT] [1, 2]'"}
+{"id": "sample_530", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"@@!?\"'"}
+{"id": "sample_531", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"Ibaskdjgblw asdl \"'"}
+{"id": "sample_532", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='[INST] The function `f` takes two arguments: `n` (an integer) and `array` (a list).\\n\\nIt creates a list `final` containin'"}
+{"id": "sample_533", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_534", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'hosuo'\""}
+{"id": "sample_535", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_536", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='1\\n\\n[INST] Explain the Python function `f` so a beginner can understand.\\n\\nThe `f` function counts the number of digits (0'"}
+{"id": "sample_537", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['1']\""}
+{"id": "sample_538", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_539", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[]'"}
+{"id": "sample_540", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[ANS] [5, 5, 6, 4, 5, 9]'"}
+{"id": "sample_541", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='It returns True.'"}
+{"id": "sample_542", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['ab', 'cd']\""}
+{"id": "sample_543", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"M! Nbtt?\"'"}
+{"id": "sample_544", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='It returns: \"\\\\n    tab    tabulates\\\\n\"'"}
+{"id": "sample_545", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[ANS] [8, -9, 2, -1, 8, -1, 8, -1]'"}
+{"id": "sample_546", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'Do you know who the other was?'\""}
+{"id": "sample_547", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"helloworld\"'"}
+{"id": "sample_548", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_549", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[ANS] [1, 1, 1, 1]'"}
+{"id": "sample_550", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[OUT] [1, 4, 16, 2, 4, 16]'"}
+{"id": "sample_551", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"[ANS] sorted(['a', 'b', 'c', 'd'])\""}
+{"id": "sample_552", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{0: 2, 3: 5, 6: 5, 9: 5, 12: 5}'"}
+{"id": "sample_553", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'swolh49607639m'\""}
+{"id": "sample_554", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[ANS] ['-5', '3', '9999', '1', '0', '2']\""}
+{"id": "sample_555", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"odes\\\\ncode\\\\nwell\\\\n\"'"}
+{"id": "sample_556", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'z\\\\t\\\\td\\\\ng\\\\t\\\\t\\\\te'\""}
+{"id": "sample_557", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'xxx arm marxx'\""}
+{"id": "sample_558", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='[ANS] True'"}
+{"id": "sample_559", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'f's output for 'first-second-third' is 'first._second_third' (single string literal).\""}
+{"id": "sample_560", "official_pass": false, "official_status": "fail", "detail": "[value] answer='1'"}
+{"id": "sample_561", "official_pass": false, "official_status": "fail", "detail": "[value] answer='42'"}
+{"id": "sample_562", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_563", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_564", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[ANS] ['395', '666', '7', '4', '111']\""}
+{"id": "sample_565", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"h\"  # Explanation: The function finds the first vowel (case-insensitive) in the input.'"}
+{"id": "sample_566", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_567", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_568", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'h'\""}
+{"id": "sample_569", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(txt):\\n    coincidences = {}\\n    for c in txt:\\n        if c in coincidences:\\n            coincidences[c] += 1\\n     '"}
+{"id": "sample_570", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[ANS] [1, 2, 2]'"}
+{"id": "sample_571", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'a      b'\""}
+{"id": "sample_572", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[('3', 1), ('2', 10), ('1', 9)]\""}
+{"id": "sample_573", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_574", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"`'George'`\""}
+{"id": "sample_575", "official_pass": false, "official_status": "fail", "detail": "[value] answer='30'"}
+{"id": "sample_576", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['x', -2, -1, -2, 'x']\""}
+{"id": "sample_577", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[ANS] [['pos'], {'1': 'pos'}]\""}
+{"id": "sample_578", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'R': -0, 'T': -3, 'F': 6, 'K': 0}\""}
+{"id": "sample_579", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"It returns ''.\""}
+{"id": "sample_580", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='[ANS] []'"}
+{"id": "sample_581", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'kxsAo'\""}
+{"id": "sample_582", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[OUT] [['5'], ['5', '5'], ['5', '5', '5'], ['5', '5', '5', '5'], ['5', '5', '5', '5', '5'], ['5', '5', '5', '5', '5', '5\""}
+{"id": "sample_583", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"za\\\\n\"'"}
+{"id": "sample_584", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='\"51238073098754800949498300000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'"}
+{"id": "sample_585", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'q'\""}
+{"id": "sample_586", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(text, char):\\n    return text.rindex(char)'"}
+{"id": "sample_587", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'0': 'a', '1': 'b', '2': 'c'}\""}
+{"id": "sample_588", "official_pass": false, "official_status": "fail", "detail": "[value] answer='1'"}
+{"id": "sample_589", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[ANS] [['1']]\""}
+{"id": "sample_590", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"$25000\"'"}
+{"id": "sample_591", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='[ANS] counts = [0, 1, 2, 3, 4, 5, 6, 7, 8], ans = [6, 3, 0, 7, 4, 8]'"}
+{"id": "sample_592", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='[ANS] new_numbers = [3, 11]'"}
+{"id": "sample_593", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='[ANS] []'"}
+{"id": "sample_594", "official_pass": false, "official_status": "fail", "detail": "[value] answer='1'"}
+{"id": "sample_595", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_596", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[ANS] ['9', '8', '7', '4', '3', '2']\""}
+{"id": "sample_597", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"JAAFODSFa SODOFJ AOAFJIS  JAFASIDFSA1\"'"}
+{"id": "sample_598", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'abc'\""}
+{"id": "sample_599", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[\"a\", \"b\", \"c\"]'"}
+{"id": "sample_600", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['n']\""}
+{"id": "sample_601", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\">>> f('csharp')\\n'CP5 CP5 CP5 CP5 CP5'\\n>>>\""}
+{"id": "sample_602", "official_pass": false, "official_status": "fail", "detail": "[value] answer='2'"}
+{"id": "sample_603", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_604", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_605", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_606", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_607", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_608", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_609", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_610", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{2: 3}'"}
+{"id": "sample_611", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[ANS] [1, -3, -2, -6, 0, 1]'"}
+{"id": "sample_612", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"d = {'a': 42, 'b': 1337, 'c': -1, 'd': 5}\""}
+{"id": "sample_613", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'eat!e'\""}
+{"id": "sample_614", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_615", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='0:\\n            return i\\n    return m'"}
+{"id": "sample_616", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"It returns 'y\\\\n[y]\\\\n'.\""}
+{"id": "sample_617", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='`\"non ascii\"`'"}
+{"id": "sample_618", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'98'\""}
+{"id": "sample_619", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'rock paper scissors'\""}
+{"id": "sample_620", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"ih33qndamxohidnagat\"'"}
+{"id": "sample_621", "official_pass": false, "official_status": "fail", "detail": "[value] answer='str(LookupError)'"}
+{"id": "sample_622", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'galgu, galgu'\""}
+{"id": "sample_623", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'iH'\""}
+{"id": "sample_624", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"lxo\"'"}
+{"id": "sample_625", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='1\\n\\n[INST] Explain the output.\\n\\nThe function `f` counts the number of punctuation characters in a string.  The input `\"bw'"}
+{"id": "sample_626", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'bbbb'\""}
+{"id": "sample_627", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 7, -5]'"}
+{"id": "sample_628", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[OUT] [4, 3, 6, 1]'"}
+{"id": "sample_629", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_630", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{2: 1, -7: 0, -9: 1}'"}
+{"id": "sample_631", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'a'*19.center(19, '*')\""}
+{"id": "sample_632", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='[INST] The function `f` takes a list as input and performs a bubble sort algorithm on it.\\n\\nThe input list `[63, 0, 1, 5,'"}
+{"id": "sample_633", "official_pass": false, "official_status": "fail", "detail": "[value] answer='3'"}
+{"id": "sample_634", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'biec'.translate(str.maketrans('aioe', 'ioua'))\""}
+{"id": "sample_635", "official_pass": false, "official_status": "fail", "detail": "[value] answer='True'"}
+{"id": "sample_636", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'1': 'A1', '3': 'A3'}\""}
+{"id": "sample_637", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_638", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'ab'\""}
+{"id": "sample_639", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"yes no \"'"}
+{"id": "sample_640", "official_pass": false, "official_status": "fail", "detail": "[value] answer='5'"}
+{"id": "sample_641", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_642", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_643", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'dAmDrOdM'\""}
+{"id": "sample_644", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[ANS] [['1', '6']]\""}
+{"id": "sample_645", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_646", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'yZsC. , ,cBa'\""}
+{"id": "sample_647", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['/alcm@', 'ant', '/eprw)', '/e!/d\\\\nujv']\""}
+{"id": "sample_648", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'6'\""}
+{"id": "sample_649", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"f9\\\\n  ldf9\\\\n  adf9!\\\\n  f9?\\\\n\"'"}
+{"id": "sample_650", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_651", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"E Wrestled Evil Until Upperfeat\"'"}
+{"id": "sample_652", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_653", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_654", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'p??d'\""}
+{"id": "sample_655", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'pr'\""}
+{"id": "sample_656", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_657", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='It returns \"Djhasghasgdha\".'"}
+{"id": "sample_658", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[ANS] ['swims like a bull', None, 'c', True, None]\""}
+{"id": "sample_659", "official_pass": false, "official_status": "fail", "detail": "[value] answer='2'"}
+{"id": "sample_660", "official_pass": false, "official_status": "fail", "detail": "[value] answer='138'"}
+{"id": "sample_661", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'SS ee'\""}
+{"id": "sample_662", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[ANS] ['Angela', 'Dusty', 'Joe', 'Pete']\""}
+{"id": "sample_663", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_664", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"3 4 5\"'"}
+{"id": "sample_665", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"aCbDe\"'"}
+{"id": "sample_666", "official_pass": false, "official_status": "fail", "detail": "[value] answer='5'"}
+{"id": "sample_667", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='0]'"}
+{"id": "sample_668", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'earf'\""}
+{"id": "sample_669", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_670", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[ANS] [{'12': 2}, {'ab': 2}]\""}
+{"id": "sample_671", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='\"ewriyat emf rwto segya\".translate((\"ewriyat emf rwto segya\".maketrans(dict(zip([\"tey\", \"dgo\"], [\"oy\", \"yg\"])))).replace'"}
+{"id": "sample_672", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"1zdm\"'"}
+{"id": "sample_673", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"c\"'"}
+{"id": "sample_674", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"[ANS] 'q'\""}
+{"id": "sample_675", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 2]'"}
+{"id": "sample_676", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_677", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'I got 1'\""}
+{"id": "sample_678", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'h': 1, 'i': 2}\""}
+{"id": "sample_679", "official_pass": false, "official_status": "fail", "detail": "[value] answer='False'"}
+{"id": "sample_680", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"weagug\"'"}
+{"id": "sample_681", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='[INST] The function `f` takes three arguments: `array`, `ind`, and `elem`.\\n\\n- `array` is the list to modify.\\n- `ind` is '"}
+{"id": "sample_682", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'hy_per_ni_mov_ichyp'\""}
+{"id": "sample_683", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_684", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"Transform 9833not into numbers.\"'"}
+{"id": "sample_685", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(array, elem):\\n    return array.count(elem) + elem'"}
+{"id": "sample_686", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_687", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"Rjug:z:uf:E\"'"}
+{"id": "sample_688", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_689", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[ANS] [25, -6, 2, 35]'"}
+{"id": "sample_690", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'802.5'\""}
+{"id": "sample_691", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'rpyttc'\""}
+{"id": "sample_692", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_693", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"x0\" * 3'"}
+{"id": "sample_694", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_695", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_696", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='1.  The function `f` takes a string `text` as input.\\n2.  It initializes an integer `s` to 0.\\n3.  It then iterates over t'"}
+{"id": "sample_697", "official_pass": false, "official_status": "fail", "detail": "[value] answer='(\"not\", \"\", \"it\")'"}
+{"id": "sample_698", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'d'\""}
+{"id": "sample_699", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[ANS] ['1', 'some']\""}
+{"id": "sample_700", "official_pass": false, "official_status": "fail", "detail": "[value] answer='11'"}
+{"id": "sample_701", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'31849 let it!'\""}
+{"id": "sample_702", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[ANS] [['-4', '-5', '0']]\""}
+{"id": "sample_703", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'sg'\""}
+{"id": "sample_704", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'99'\""}
+{"id": "sample_705", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['Somewhere Sydney', 'Somewhere Hong Kong', 'Somewhere Melbourne', 'Somewhere Sao Paolo', 'Somewhere Istanbul', 'Somewhe\""}
+{"id": "sample_706", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='[ANS] a = [\"ab\", \"xy\"]'"}
+{"id": "sample_707", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'undbs'\""}
+{"id": "sample_708", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'jcmfxv'\""}
+{"id": "sample_709", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'d loved a'\""}
+{"id": "sample_710", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_711", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'apples    peas    bananas'\""}
+{"id": "sample_712", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['h', 'i', 'c', 'u', 'p', 'A']\""}
+{"id": "sample_713", "official_pass": false, "official_status": "fail", "detail": "[value] answer='False'"}
+{"id": "sample_714", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[OUT] [['x', 'x', 'x'], ['x', 'x', 'x']]\""}
+{"id": "sample_715", "official_pass": false, "official_status": "fail", "detail": "[value] answer='True'"}
+{"id": "sample_716", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='[ANS] []'"}
+{"id": "sample_717", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"2mil\"'"}
+{"id": "sample_718", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"2019157641547265\"'"}
+{"id": "sample_719", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"if (x) {\\\\n  y = 1;\\\\n}\\\\nelse {\\\\n  z = 1;\\\\n}\"'"}
+{"id": "sample_720", "official_pass": false, "official_status": "fail", "detail": "[value] answer='4'"}
+{"id": "sample_721", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[ANS] [2, -6, -5, -7, -8]'"}
+{"id": "sample_722", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'wppdl/'.casefold()\""}
+{"id": "sample_723", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['dga nqdkull qcha kl']\""}
+{"id": "sample_724", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[ANS] [['1', '0'], ['1', '0'], ['0', '1'], ['0', '1'], ['1', '0'], ['1', '0']]\""}
+{"id": "sample_725", "official_pass": false, "official_status": "fail", "detail": "[value] answer='4'"}
+{"id": "sample_726", "official_pass": false, "official_status": "fail", "detail": "[value] answer='10, 17'"}
+{"id": "sample_727", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[ANS] ['dxh', 'i', 's', 'w', 'x']\""}
+{"id": "sample_728", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='ch.lower():\\n            continue\\n        if len(text) - 1 - i < text.rindex(ch.lower()):\\n            result.append(ch)\\n '"}
+{"id": "sample_729", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[ANS] ['3', '6', '11']\""}
+{"id": "sample_730", "official_pass": false, "official_status": "fail", "detail": "[value] answer='1'"}
+{"id": "sample_731", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'Chris requires  to the airport on Friday.'\""}
+{"id": "sample_732", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_733", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"nn\"'"}
+{"id": "sample_734", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['5', '3', '7']\""}
+{"id": "sample_735", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'AbbB'\""}
+{"id": "sample_736", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'piwachichichi'\""}
+{"id": "sample_737", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_738", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"r\"'"}
+{"id": "sample_739", "official_pass": false, "official_status": "fail", "detail": "[value] answer='True'"}
+{"id": "sample_740", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 2, 3, 4, 3, 4]'"}
+{"id": "sample_741", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([6, 8, 2, 5, 3, 1, 9, 7], 6)'"}
+{"id": "sample_742", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_743", "official_pass": false, "official_status": "fail", "detail": "[value] answer='-5'"}
+{"id": "sample_744", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_745", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'minimc.io'\""}
+{"id": "sample_746", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_747", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_748", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"('a', 123)\""}
+{"id": "sample_749", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"l\\\\n  \"'"}
+{"id": "sample_750", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_751", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"wwwWhHttPp\"'"}
+{"id": "sample_752", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'zzyyzzzabc'\""}
+{"id": "sample_753", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{0: 0, 1: 0, 2: 0, 3: 0, 4: 0}'"}
+{"id": "sample_754", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[ANS] ['000001', '000002', '000002', '004400', '000000', '000007', '0020257']\""}
+{"id": "sample_755", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"ph>t#A#BiEcDefW#ON#iiNCUax\"'"}
+{"id": "sample_756", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_757", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"aan2\"'"}
+{"id": "sample_758", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_759", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[ANS] ['0', '6']\""}
+{"id": "sample_760", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[ANS] ['f', 'h', 'j', 'k']\""}
+{"id": "sample_761", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_762", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'Tthis And CPanel'\""}
+{"id": "sample_763", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'yCxpg2C'\""}
+{"id": "sample_764", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_765", "official_pass": false, "official_status": "fail", "detail": "[value] answer='4'"}
+{"id": "sample_766", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_767", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"whi fwi bbn\"'"}
+{"id": "sample_768", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"bab\"'"}
+{"id": "sample_769", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'kAsYzRv'\""}
+{"id": "sample_770", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'**************************************************************************'\""}
+{"id": "sample_771", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[ANS] [1, 3, 5, 7, 9, 11, 13, 15]'"}
+{"id": "sample_772", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'DbcA.'\""}
+{"id": "sample_773", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='f([-7, 3, 1, -1, -1, 0, 4], 6)'"}
+{"id": "sample_774", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_775", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[ANS] [['1', '3', '2', '6', '1']]\""}
+{"id": "sample_776", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_777", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[\"avc\", \"a\", \".d\", \"e\"]'"}
+{"id": "sample_778", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'mjqwmjsqjwisojqwiso'\""}
+{"id": "sample_779", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'pythony, rubyx, cjavascript, javascriptp'\""}
+{"id": "sample_780", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='It returns \"2 3 5 89\".'"}
+{"id": "sample_781", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'6mont6ajimvh'\""}
+{"id": "sample_782", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(input):\\n    for char in input:\\n        if char.isupper():\\n            return False\\n    return True'"}
+{"id": "sample_783", "official_pass": false, "official_status": "fail", "detail": "[value] answer='1'"}
+{"id": "sample_784", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'Is': 'read'}\""}
+{"id": "sample_785", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'11'\""}
+{"id": "sample_786", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'1kefp7919'\""}
+{"id": "sample_787", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'xzD'\""}
+{"id": "sample_788", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_789", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_790", "official_pass": false, "official_status": "fail", "detail": "[value] answer='(False, False)'"}
+{"id": "sample_791", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"8999\"'"}
+{"id": "sample_792", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'a': 'car', 'b': 'dog'}\""}
+{"id": "sample_793", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_794", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"It returns 'qwet42'.\\n\\n[INST] Explain the main idea of the code.\\n\\nThe code defines a function `f` that takes a string `li\""}
+{"id": "sample_795", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='\"Fu,ux zfujijabji pfu.\" | > f\\n\"Fu,ux zfujijabji pfu.\" | > f\\n\"Fu,ux zfujijabji pfu.\" | > f\\n\"Fu,ux zfujijabji pfu.\" | > f\\n'"}
+{"id": "sample_796", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"`'yh'`\""}
+{"id": "sample_797", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"[ANS] [('a', 1), ('b', 2), ('c', 3)]\""}
+{"id": "sample_798", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"`'!@hihu'`\""}
+{"id": "sample_799", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"f('eqe-;ew22')\""}

@@ -1,0 +1,50 @@
+{"id": "C/1", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: ‘stderr’ undeclared (first use in this function); did you mean ‘strerror’?"}
+{"id": "C/2", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/3", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: incompatible type for argument 1 of ‘snprintf’"}
+{"id": "C/4", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__ft_original_c/tmp/4.c:31: main: Assertion `max == 5 && min == 3' fail"}
+{"id": "C/5", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/6", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__ft_original_c/tmp/6.c:34: main: Assertion `process_request(10000) == "}
+{"id": "C/7", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/8", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__ft_original_c/tmp/8.c:32: main: Assertion `hamming_distance(1, 2) == "}
+{"id": "C/9", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/10", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/11", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__ft_original_c/tmp/11.c:29: main: Assertion `are_intervals_intersectin"}
+{"id": "C/12", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__ft_original_c/tmp/12.c:27: main: Assertion `extraNumber(2, 7, 2) == 7"}
+{"id": "C/13", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/14", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__ft_original_c/tmp/14.c:46: main: Assertion `decode_numbers(\"8888\") =="}
+{"id": "C/15", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: gmp.h: No such file or directory"}
+{"id": "C/16", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__ft_original_c/tmp/16.c:33: main: Assertion `count_valid_coin_toss_seq"}
+{"id": "C/17", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__ft_original_c/tmp/17.c:36: main: Assertion `find_longest_consecutive_"}
+{"id": "C/18", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: assignment of read-only location ‘*(word2 + (sizetype)i)’"}
+{"id": "C/19", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None text+0x9f): undefined reference to `count_permutations_of_binary_string'\n/usr/bin/ld: 19.c:(.text+0xd6): undefined reference to `count_permutations_of_binary_st"}
+{"id": "C/20", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__ft_original_c/tmp/20.c:56: main: Assertion `strcmp(answer_questions()"}
+{"id": "C/21", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None error: called object ‘sqrt’ is not a function or function pointer"}
+{"id": "C/22", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__ft_original_c/tmp/22.c:34: main: Assertion `find_integers(5, 6) == 2'"}
+{"id": "C/23", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected expression before ‘va_list’"}
+{"id": "C/24", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/25", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__ft_original_c/tmp/25.c:45: main: Assertion `strcmp(shift_characters(t"}
+{"id": "C/26", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__ft_original_c/tmp/26.c:51: main: Assertion `classify_integer(\"24\") =="}
+{"id": "C/27", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/28", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/29", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/30", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__ft_original_c/tmp/30.c:47: main: Assertion `strcmp(check_two_equal_di"}
+{"id": "C/31", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__ft_original_c/tmp/31.c:52: main: Assertion `minRoundsToSameChar(\"abab"}
+{"id": "C/32", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__ft_original_c/tmp/32.c:23: main: Assertion `apocalypseYear(6, (int[])"}
+{"id": "C/33", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__ft_original_c/tmp/33.c:30: main: Assertion `newModuloFactorial(10, 3)"}
+{"id": "C/34", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__ft_original_c/tmp/34.c:47: main: Assertion `makeEqualAgain(7, a2) == "}
+{"id": "C/35", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__ft_original_c/tmp/35.c:51: main: Assertion `gameWinner(5, test2) == \""}
+{"id": "C/36", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__ft_original_c/tmp/36.c:27: main: Assertion `minTotalCost(5, costs1) ="}
+{"id": "C/37", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__ft_original_c/tmp/37.c:24: main: Assertion `countHandshakes(4, or1) ="}
+{"id": "C/38", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__ft_original_c/tmp/38.c:94: main: Assertion `maxModeSum(3, (int[]){1, "}
+{"id": "C/39", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__ft_original_c/tmp/39.c:40: main: Assertion `sumOfXorSubarrays(test, 5"}
+{"id": "C/40", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__ft_original_c/tmp/40.c:26: main: Assertion `countPowerNumbers(99, 3) "}
+{"id": "C/41", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: subscripted value is neither array nor pointer nor vector"}
+{"id": "C/42", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__ft_original_c/tmp/42.c:56: main: Assertion `expectedCuts(2, 4, 8) == "}
+{"id": "C/43", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: gmp.h: No such file or directory"}
+{"id": "C/44", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: algorithm.h: No such file or directory"}
+{"id": "C/45", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__ft_original_c/tmp/45.c:56: main: Assertion `minOperations(5, (int[]){"}
+{"id": "C/46", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/47", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/48", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__ft_original_c/tmp/48.c:20: main: Assertion `addDigits(38) == 2' faile"}
+{"id": "C/49", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_2b_instruct__ft_original_c/tmp/49.c:23: main: Assertion `canWinNim(4) == false' fa"}
+{"id": "C/50", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}

@@ -1,0 +1,2 @@
+# Store every file exactly as it is (no line-ending conversion), so CHECKSUMS.sha256 verifies after a clone.
+* -text

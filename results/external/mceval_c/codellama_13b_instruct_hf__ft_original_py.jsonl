@@ -1,0 +1,50 @@
+{"id": "C/1", "official_pass": false, "official_status": "run_failed", "detail": "path=whole_text exit=-6 work: <evaluator>/mceval_c/native/codellama_13b_instruct_hf__ft_original_py/tmp/1.c:10: main: Assertion `strcmp(hello_mmcodeeva"}
+{"id": "C/2", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/3", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/4", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/5", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/6", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/7", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/8", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/9", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/10", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/11", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: unknown type name ‘bool’; did you mean ‘_Bool’?"}
+{"id": "C/12", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/13", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/14", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/codellama_13b_instruct_hf__ft_original_py/tmp/14.c:67: main: Assertion `decode_numbers(\"0000\""}
+{"id": "C/15", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None eference to `count_coloring_methods'\n/usr/bin/ld: 15.c:(.text+0x199): undefined reference to `count_coloring_methods'\n/usr/bin/ld: 15.c:(.text+0x1d1): undefined"}
+{"id": "C/16", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/codellama_13b_instruct_hf__ft_original_py/tmp/16.c:34: main: Assertion `count_valid_coin_toss"}
+{"id": "C/17", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: unterminated comment"}
+{"id": "C/18", "official_pass": false, "official_status": "run_failed", "detail": "path=whole_text exit=-6 work: <evaluator>/mceval_c/native/codellama_13b_instruct_hf__ft_original_py/tmp/18.c:36: main: Assertion `strcmp(id, \"ftiasch\")"}
+{"id": "C/19", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/codellama_13b_instruct_hf__ft_original_py/tmp/19.c:32: main: Assertion `count_permutations_of"}
+{"id": "C/20", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/codellama_13b_instruct_hf__ft_original_py/tmp/20.c:53: main: Assertion `strcmp(answer_questio"}
+{"id": "C/21", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/22", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None efined reference to `find_integers'\n/usr/bin/ld: 22.c:(.text+0x263): undefined reference to `find_integers'\n/usr/bin/ld: 22.c:(.text+0x29b): undefined reference"}
+{"id": "C/23", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/codellama_13b_instruct_hf__ft_original_py/tmp/23.c:79: main: Assertion `count_acute_triangles"}
+{"id": "C/24", "official_pass": false, "official_status": "run_failed", "detail": "path=whole_text exit=-6 free(): invalid pointer"}
+{"id": "C/25", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/codellama_13b_instruct_hf__ft_original_py/tmp/25.c:35: main: Assertion `strcmp(shift_characte"}
+{"id": "C/26", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-11 "}
+{"id": "C/27", "official_pass": true, "official_status": "pass", "detail": "path=whole_text exit=0"}
+{"id": "C/28", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: unterminated comment"}
+{"id": "C/29", "official_pass": false, "official_status": "run_failed", "detail": "path=whole_text exit=-6 work: <evaluator>/mceval_c/native/codellama_13b_instruct_hf__ft_original_py/tmp/29.c:27: main: Assertion `evaluate_integer_grad"}
+{"id": "C/30", "official_pass": false, "official_status": "run_failed", "detail": "path=whole_text exit=-6 work: <evaluator>/mceval_c/native/codellama_13b_instruct_hf__ft_original_py/tmp/30.c:22: main: Assertion `strcmp(check_two_equa"}
+{"id": "C/31", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None ference to `minRoundsToSameChar'\n/usr/bin/ld: 31.c:(.text+0x255): undefined reference to `minRoundsToSameChar'\n/usr/bin/ld: 31.c:(.text+0x289): undefined refere"}
+{"id": "C/32", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: unknown type name ‘int32_t’; did you mean ‘__int32_t’?"}
+{"id": "C/33", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/codellama_13b_instruct_hf__ft_original_py/tmp/33.c:23: main: Assertion `newModuloFactorial(3,"}
+{"id": "C/34", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: ‘INT_MAX’ undeclared (first use in this function); did you mean ‘TMP_MAX’?"}
+{"id": "C/35", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: unknown type name ‘bool’; did you mean ‘_Bool’?"}
+{"id": "C/36", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: ‘LLONG_MAX’ undeclared (first use in this function); did you mean ‘__LONG_MAX__’?"}
+{"id": "C/37", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None ndshakes'\n/usr/bin/ld: 37.c:(.text+0x18e): undefined reference to `countHandshakes'\n/usr/bin/ld: 37.c:(.text+0x1f3): undefined reference to `countHandshakes'\n/u"}
+{"id": "C/38", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/codellama_13b_instruct_hf__ft_original_py/tmp/38.c:77: main: Assertion `maxModeSum(3, (int[])"}
+{"id": "C/39", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None e to `sumOfXorSubarrays'\n/usr/bin/ld: 39.c:(.text+0x1c5): undefined reference to `sumOfXorSubarrays'\n/usr/bin/ld: 39.c:(.text+0x22a): undefined reference to `su"}
+{"id": "C/40", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None  `countPowerNumbers'\n/usr/bin/ld: 40.c:(.text+0x149): undefined reference to `countPowerNumbers'\n/usr/bin/ld: 40.c:(.text+0x181): undefined reference to `countP"}
+{"id": "C/41", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected identifier or ‘(’ before ‘&’ token"}
+{"id": "C/42", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None sr/bin/ld: 42.c:(.text+0x191): undefined reference to `expectedCuts'\n/usr/bin/ld: 42.c:(.text+0x1d0): undefined reference to `expectedCuts'\n/usr/bin/ld: 42.c:(."}
+{"id": "C/43", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None error: conflicting types for ‘power_mod’"}
+{"id": "C/44", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None error: expected expression before ‘int’"}
+{"id": "C/45", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/codellama_13b_instruct_hf__ft_original_py/tmp/45.c:31: main: Assertion `minOperations(5, (int"}
+{"id": "C/46", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None es'\n/usr/bin/ld: 46.c:(.text+0x16e): undefined reference to `sumOfMultiples'\n/usr/bin/ld: 46.c:(.text+0x1a1): undefined reference to `sumOfMultiples'\n/usr/bin/l"}
+{"id": "C/47", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/codellama_13b_instruct_hf__ft_original_py/tmp/47.c:28: main: Assertion `isPalindrome(\"A man a"}
+{"id": "C/48", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/codellama_13b_instruct_hf__ft_original_py/tmp/48.c:25: main: Assertion `addDigits(38) == 2' f"}
+{"id": "C/49", "official_pass": true, "official_status": "pass", "detail": "path=whole_text exit=0"}
+{"id": "C/50", "official_pass": true, "official_status": "pass", "detail": "path=whole_text exit=0"}

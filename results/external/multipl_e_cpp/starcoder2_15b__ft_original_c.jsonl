@@ -1,0 +1,161 @@
+{"id": "HumanEval_0_has_close_elements", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_1_separate_paren_groups", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_2_truncate_number", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_3_below_zero", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_4_mean_absolute_deviation", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_5_intersperse", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_6_parse_nested_parens", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_7_filter_by_substring", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_8_sum_product", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_9_rolling_max", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_10_make_palindrome", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpdn66fli7: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_11_string_xor", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_12_longest", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_13_greatest_common_divisor", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_14_all_prefixes", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_15_string_sequence", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_16_count_distinct_characters", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_17_parse_music", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpexqzgpt3: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_18_how_many_times", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpa6m4ul90: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_19_sort_numbers", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpn_p_12ee: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_20_find_closest_elements", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_21_rescale_to_unit", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_22_filter_integers", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpznwgbi5a: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_23_strlen", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_24_largest_divisor", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_25_factorize", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_26_remove_duplicates", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_27_flip_case", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_28_concatenate", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_29_filter_by_prefix", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_30_get_positive", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_31_is_prime", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_33_sort_third", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp0o1xnc9o: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_34_unique", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_35_max_element", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_36_fizz_buzz", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp22ygjcfu: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_37_sort_even", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp2f9aggc0: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_39_prime_fib", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: expected primary-expression before \u2018}\u2019 token"}
+{"id": "HumanEval_40_triples_sum_to_zero", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_41_car_race_collision", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmps7oakvbn: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_42_incr_list", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_43_pairs_sum_to_zero", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_44_change_base", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_45_triangle_area", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_46_fib4", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_47_median", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_48_is_palindrome", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_49_modp", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_51_remove_vowels", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_52_below_threshold", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_53_add", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_54_same_chars", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp_eg0z_e3: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_55_fib", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_56_correct_bracketing", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_57_monotonic", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_58_common", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_59_largest_prime_factor", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp4i93sj43: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_60_sum_to_n", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_61_correct_bracketing", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_62_derivative", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_63_fibfib", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_64_vowels_count", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpk6zpm2ch: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_65_circular_shift", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpv756n55i: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_66_digitSum", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_67_fruit_distribution", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp_vdvq24t: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_68_pluck", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_69_search", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_70_strange_sort_list", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_71_triangle_area", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp5v31jfz3: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_72_will_it_fly", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_73_smallest_change", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmptgl8zqsm: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_74_total_match", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpu9_pnovj: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_75_is_multiply_prime", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp8_bny71m: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_76_is_simple_power", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_77_iscube", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_78_hex_key", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_79_decimal_to_binary", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpr4z1l7tz: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_80_is_happy", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpwfhu8231: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_81_numerical_letter_grade", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpjcqqiom8: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_82_prime_length", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_83_starts_one_ends", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpxy61xy0e: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_84_solve", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpvzx65g4j: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_85_add", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_86_anti_shuffle", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmphgr8yr0a: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_87_get_row", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_88_sort_array", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_89_encrypt", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpiwzohv8p: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_90_next_smallest", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_91_is_bored", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmphtax22qg: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_92_any_int", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp3tx8nkft: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_93_encode", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpuc_6dnzr: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_94_skjkasdkd", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpryllu7ke: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_95_check_dict_case", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpuz02ases: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_96_count_up_to", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpvx1ub0d4: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_97_multiply", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpvzsxw6ns: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_98_count_upper", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpio63ueuj: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_99_closest_integer", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_100_make_a_pile", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6   what():  std::bad_alloc"}
+{"id": "HumanEval_101_words_string", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpblicy4iq: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_102_choose_num", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpphfgaat_: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_103_rounded_avg", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=-1 error: no match for \u2018operator==\u2019 (operand types are \u2018std::__cxx11::basic_string<char>\u2019 and \u2018int\u2019)"}
+{"id": "HumanEval_104_unique_digits", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_105_by_length", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_106_f", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpo8ysvofi: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_107_even_odd_palindrome", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_108_count_nums", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmplv1rpfxk: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_109_move_one_ball", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpd1211g6f: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_110_exchange", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp6uxuj5zw: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_111_histogram", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmplia82vnw: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_112_reverse_delete", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_113_odd_count", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_114_minSubArraySum", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_115_max_fill", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpfx5gqjn5: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_116_sort_array", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpixugmw0g: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_117_select_words", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp6fnx1dm5: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_118_get_closest_vowel", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018is_vowel\u2019 is not captured"}
+{"id": "HumanEval_119_match_parens", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpc_893vcn: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_120_maximum", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpp_87njh9: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_121_solution", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_122_add_elements", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpcrgarjy2: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_123_get_odd_collatz", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp31g6dm1e: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_124_valid_date", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpny66qbk3: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_125_split_words", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_126_is_sorted", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpex_ekhg8: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_127_intersection", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpmsplyvc_: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_128_prod_signs", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_129_minPath", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpwyqtqxhy: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_130_tri", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp955k0inj: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_131_digits", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpd_7qq7gg: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_132_is_nested", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpfawlq5g8: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_133_sum_squares", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_134_check_if_last_char_is_a_letter", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpqqdco2iy: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_135_can_arrange", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpwhtqnbge: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_136_largest_smallest_integers", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_137_compare_one", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: \u2018nullopt\u2019 in namespace \u2018std\u2019 does not name a type"}
+{"id": "HumanEval_138_is_equal_to_sum_even", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpbmed0248: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_139_special_factorial", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpmjfwe275: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_140_fix_spaces", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpjtpd1czy: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_141_file_name_check", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_142_sum_squares", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpcfek16ia: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_143_words_in_sentence", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_144_simplify", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_145_order_by_points", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpn7ot8dh1: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_146_specialFilter", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpsbc2eqki: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_147_get_max_triples", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_148_bf", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpllor8l24: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_149_sorted_list_sum", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_150_x_or_y", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpqiamixoj: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_151_double_the_difference", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: invalid operands of types \u2018float\u2019 and \u2018int\u2019 to binary \u2018operator%\u2019"}
+{"id": "HumanEval_152_compare", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_153_Strongest_Extension", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpcj3vh9t9: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_154_cycpattern_check", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpjwpl25q0: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_155_even_odd_count", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpzb0rifao: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_156_int_to_mini_roman", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_157_right_angle_triangle", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpbriy4s3b: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_158_find_max", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_159_eat", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp_ux9j6rj: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_160_do_algebra", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp29vi7mjo: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}
+{"id": "HumanEval_161_solve", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_162_string_to_md5", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: ld returned 1 exit status"}
+{"id": "HumanEval_163_generate_integers", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpibjlvjwo: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_c/tmp/"}

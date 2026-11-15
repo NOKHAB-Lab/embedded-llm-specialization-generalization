@@ -1,0 +1,50 @@
+{"id": "C/1", "official_pass": false, "official_status": "run_failed", "detail": "path=whole_text exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_grounded_py/tmp/1.c:11: main: Assertion `strcmp(hello_mmcodeeval"}
+{"id": "C/2", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/3", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None ounded_py/tmp/3.c:32:16: warning: return makes pointer from integer without a cast [-Wint-conversion]\n         return round_to_5_decimals(pow(cos(x + 7.5), 2));"}
+{"id": "C/4", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_grounded_py/tmp/4.c:41: main: Assertion `max == 5 && min == 3' f"}
+{"id": "C/5", "official_pass": true, "official_status": "pass", "detail": "path=whole_text exit=0"}
+{"id": "C/6", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_grounded_py/tmp/6.c:36: main: Assertion `process_request(10000) "}
+{"id": "C/7", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None error: too many arguments to function ‘roundf’"}
+{"id": "C/8", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/9", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/10", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/11", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_grounded_py/tmp/11.c:28: main: Assertion `are_intervals_intersec"}
+{"id": "C/12", "official_pass": false, "official_status": "run_failed", "detail": "path=whole_text exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_grounded_py/tmp/12.c:22: main: Assertion `extraNumber(3, 2, 2) ="}
+{"id": "C/13", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/14", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_grounded_py/tmp/14.c:40: main: Assertion `decode_numbers(\"0000\")"}
+{"id": "C/15", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected expression before ‘{’ token"}
+{"id": "C/16", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_grounded_py/tmp/16.c:34: main: Assertion `count_valid_coin_toss_"}
+{"id": "C/17", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_grounded_py/tmp/17.c:33: main: Assertion `find_longest_consecuti"}
+{"id": "C/18", "official_pass": false, "official_status": "run_failed", "detail": "path=whole_text exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_grounded_py/tmp/18.c:45: main: Assertion `strcmp(id, \"ftiasch\") "}
+{"id": "C/19", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_grounded_py/tmp/19.c:41: main: Assertion `count_permutations_of_"}
+{"id": "C/20", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_grounded_py/tmp/20.c:7:0:\n/usr/include/string.h:156:12: note: expected ‘"}
+{"id": "C/21", "official_pass": false, "official_status": "run_failed", "detail": "path=whole_text exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_grounded_py/tmp/21.c:22: main: Assertion `Is_Square(1, (int[]){9"}
+{"id": "C/22", "official_pass": false, "official_status": "timeout", "detail": "path=entry_regex exit=None official time_limit(15)"}
+{"id": "C/23", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_grounded_py/tmp/23.c:59: main: Assertion `count_acute_triangles("}
+{"id": "C/24", "official_pass": false, "official_status": "run_failed", "detail": "path=whole_text exit=-11 "}
+{"id": "C/25", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_grounded_py/tmp/25.c:25:13: warning: implicit declaration of function ‘isalpha’ [-Wimplicit-function-de"}
+{"id": "C/26", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_grounded_py/tmp/26.c:33: main: Assertion `classify_integer(\"39\")"}
+{"id": "C/27", "official_pass": true, "official_status": "pass", "detail": "path=whole_text exit=0"}
+{"id": "C/28", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/29", "official_pass": true, "official_status": "pass", "detail": "path=whole_text exit=0"}
+{"id": "C/30", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/31", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_grounded_py/tmp/31.c:28: main: Assertion `minRoundsToSameChar(\"a"}
+{"id": "C/32", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_grounded_py/tmp/32.c:17: main: Assertion `apocalypseYear(6, (int"}
+{"id": "C/33", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_grounded_py/tmp/33.c:37: main: Assertion `newModuloFactorial(45,"}
+{"id": "C/34", "official_pass": false, "official_status": "run_failed", "detail": "path=whole_text exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_grounded_py/tmp/34.c:49: main: Assertion `makeEqualAgain(6, a1) "}
+{"id": "C/35", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_grounded_py/tmp/35.c:53: main: Assertion `gameWinner(5, test2) ="}
+{"id": "C/36", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_grounded_py/tmp/36.c:34: main: Assertion `minTotalCost(5, costs1"}
+{"id": "C/37", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_grounded_py/tmp/37.c:29: main: Assertion `countHandshakes(4, or1"}
+{"id": "C/38", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None gument 1 of ‘findMode’ discards ‘const’ qualifier from pointer target type [-Wdiscarded-qualifiers]\n         int new_mode = findMode(&counts[i + 1], n - i - 1);"}
+{"id": "C/39", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_grounded_py/tmp/39.c:35: main: Assertion `sumOfXorSubarrays(test"}
+{"id": "C/40", "official_pass": false, "official_status": "timeout", "detail": "path=entry_regex exit=None official time_limit(15)"}
+{"id": "C/41", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: ‘s’ undeclared (first use in this function)"}
+{"id": "C/42", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: invalid operands to binary % (have ‘long long int’ and ‘double’)"}
+{"id": "C/43", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: ‘modulus’ undeclared (first use in this function)"}
+{"id": "C/44", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None                       fmin\n/usr/bin/ld: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_grounded_py/tmp/ccjNPtwJ.o: in"}
+{"id": "C/45", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: ‘INT_MAX’ undeclared (first use in this function); did you mean ‘TMP_MAX’?"}
+{"id": "C/46", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/47", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: ld returned 1 exit status"}
+{"id": "C/48", "official_pass": false, "official_status": "timeout", "detail": "path=entry_regex exit=None official time_limit(15)"}
+{"id": "C/49", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_grounded_py/tmp/49.c:29: main: Assertion `canWinNim(3) == true' "}
+{"id": "C/50", "official_pass": true, "official_status": "pass", "detail": "path=whole_text exit=0"}

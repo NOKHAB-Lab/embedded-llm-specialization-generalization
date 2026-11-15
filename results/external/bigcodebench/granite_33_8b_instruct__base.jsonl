@@ -1,0 +1,1140 @@
+{"id": "BigCodeBench/0", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": true}
+{"id": "BigCodeBench/1", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/2", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/3", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/4", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/5", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/6", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_2: AssertionError: None != '/mock_dir/access.log.1'", "excluded_by_us": false}
+{"id": "BigCodeBench/7", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/8", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: TypeError: int() argument must be a string, a bytes-like object or a real number, not 'tuple'", "excluded_by_us": false}
+{"id": "BigCodeBench/9", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/10", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: TypeError: int() argument must be a string, a bytes-like object or a real number, not 'tuple'", "excluded_by_us": false}
+{"id": "BigCodeBench/11", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/12", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_custom_values_successful_script: FileNotFoundError: The script file 'custom_backup.sh' does not exist.", "excluded_by_us": false}
+{"id": "BigCodeBench/13", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_2: + Failed to connect to FTP server invalid_server: Failed to connect to FTP server", "excluded_by_us": false}
+{"id": "BigCodeBench/14", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_archive_content: Exception: Failed to create ZIP archive: __enter__", "excluded_by_us": false}
+{"id": "BigCodeBench/15", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_command_failure_with_specific_exit_code: AssertionError: 0 != 1", "excluded_by_us": false}
+{"id": "BigCodeBench/16", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_backup_creation_and_log_file_deletion: subprocess.CalledProcessError: Command '['tar', '-czf', '/tmp/tmp_17kntz7/logs_backup.tar.gz', '-C', '/tmp/tmpy5nbnlnz', '*.log']' returned non-zero exit status 2.", "excluded_by_us": false}
+{"id": "BigCodeBench/17", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_process_found_restarts_process: Actual: Popen(['<command_to_start_process>'])", "excluded_by_us": false}
+{"id": "BigCodeBench/18", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_large_csv: AssertionError: False is not true : No files were split.", "excluded_by_us": false}
+{"id": "BigCodeBench/19", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/20", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/21", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/22", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_empty_first_list: AssertionError: False is not true", "excluded_by_us": false}
+{"id": "BigCodeBench/23", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/24", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: False is not true", "excluded_by_us": false}
+{"id": "BigCodeBench/25", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/26", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: Fernet key must be 32 url-safe base64-encoded bytes.", "excluded_by_us": false}
+{"id": "BigCodeBench/27", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/28", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/29", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_output_is_string_and_valid_base64: AssertionError: Decoding base64 failed with error: 'ascii' codec can't decode byte 0xf0 in position 6: ordinal not in range(128)", "excluded_by_us": false}
+{"id": "BigCodeBench/30", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/31", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: None is not an instance of <class 'matplotlib.axes._axes.Axes'> : Return type should be a plot (Axes).", "excluded_by_us": false}
+{"id": "BigCodeBench/32", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_invalid_url_handling: AssertionError: RequestException not raised", "excluded_by_us": false}
+{"id": "BigCodeBench/33", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/34", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/35", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: TypeError: 'Axes' object is not iterable", "excluded_by_us": false}
+{"id": "BigCodeBench/36", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_2: ValueError: Data must not be constant.", "excluded_by_us": false}
+{"id": "BigCodeBench/37", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/38", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/39", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: + r", "excluded_by_us": false}
+{"id": "BigCodeBench/40", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: NameError: name 'plt' is not defined", "excluded_by_us": false}
+{"id": "BigCodeBench/41", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AttributeError: 'numpy.ndarray' object has no attribute 'apply'", "excluded_by_us": false}
+{"id": "BigCodeBench/42", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/43", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AttributeError: 'str' object has no attribute 'name'", "excluded_by_us": false}
+{"id": "BigCodeBench/44", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1:       dtype=object) is not an instance of <class 'matplotlib.axes._axes.Axes'>", "excluded_by_us": false}
+{"id": "BigCodeBench/45", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: False is not true", "excluded_by_us": false}
+{"id": "BigCodeBench/46", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AttributeError: 'str' object has no attribute 'name'", "excluded_by_us": false}
+{"id": "BigCodeBench/47", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/48", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/49", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: TypeError: 'Axes' object is not subscriptable", "excluded_by_us": true}
+{"id": "BigCodeBench/50", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AttributeError: 'DataFrame' object has no attribute 'append'. Did you mean: '_append'?", "excluded_by_us": false}
+{"id": "BigCodeBench/51", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: Found array with 0 sample(s) (shape=(0, 2)) while a minimum of 1 is required by KMeans.", "excluded_by_us": false}
+{"id": "BigCodeBench/52", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/53", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: 4 columns passed, passed data had 5 columns", "excluded_by_us": false}
+{"id": "BigCodeBench/54", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/55", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_4: [right]: 1, Index(['Sentence 1'], dtype='object')", "excluded_by_us": false}
+{"id": "BigCodeBench/56", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_5: + Machine Learning", "excluded_by_us": false}
+{"id": "BigCodeBench/57", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/58", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/59", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_6: requests.exceptions.ConnectionError: HTTPConnectionPool(host='en.wikipedia.org', port=80): Max retries exceeded with url: /w/api.php?list=search&srprop=&srlimit=1&limit=1&srsearch=Invalid+Page+Title&srinfo=suggestion&", "excluded_by_us": false}
+{"id": "BigCodeBench/60", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/61", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: The datetime in annotation (Annotation(0.05, 0.95, 'Generated: 2026-10-06 15:11:44')) does not have the right format (%Y-%m-%d %H:%M:%S).", "excluded_by_us": false}
+{"id": "BigCodeBench/62", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/63", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: TypeError: no numeric data to plot", "excluded_by_us": false}
+{"id": "BigCodeBench/64", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: [right]: (2, 2)", "excluded_by_us": false}
+{"id": "BigCodeBench/65", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: Grouper and axis must be same length", "excluded_by_us": false}
+{"id": "BigCodeBench/66", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: At positional index 2, first diff: counts != col3", "excluded_by_us": false}
+{"id": "BigCodeBench/67", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: 0 != 3", "excluded_by_us": false}
+{"id": "BigCodeBench/68", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/69", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/70", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AttributeError: 'list' object has no attribute 'items'", "excluded_by_us": false}
+{"id": "BigCodeBench/71", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AttributeError: 'Axes' object has no attribute 'xlabel'. Did you mean: '_label'?", "excluded_by_us": false}
+{"id": "BigCodeBench/72", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_4: UnboundLocalError: local variable 'df_longest_file' referenced before assignment", "excluded_by_us": false}
+{"id": "BigCodeBench/73", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ?     ^", "excluded_by_us": false}
+{"id": "BigCodeBench/74", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_connection_error: ValueError: Invalid hostname: invalidhost.com. Error:", "excluded_by_us": false}
+{"id": "BigCodeBench/75", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_custom_days_range: ValueError: The input DataFrame 'df' cannot be empty.", "excluded_by_us": false}
+{"id": "BigCodeBench/76", "official_pass": false, "official_status": "timeout", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "BigCodeBench/77", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_successful_login: AssertionError: 400 != 200", "excluded_by_us": false}
+{"id": "BigCodeBench/78", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_attachment_filename: TypeError: a bytes-like object is required, not 'MagicMock'", "excluded_by_us": false}
+{"id": "BigCodeBench/79", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_attachment_filename: FileNotFoundError: [Errno 2] No such file or directory: 'file1.gz'", "excluded_by_us": false}
+{"id": "BigCodeBench/80", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/81", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_api_endpoint_configuration: AssertionError: False is not true", "excluded_by_us": false}
+{"id": "BigCodeBench/82", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_login_page_accessibility: AssertionError: 500 != 200 : The login page should be accessible.", "excluded_by_us": false}
+{"id": "BigCodeBench/83", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_send_mail_functionality: AssertionError: 404 != 200", "excluded_by_us": false}
+{"id": "BigCodeBench/84", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_custom_parameters: ValueError: All arrays must be of the same length", "excluded_by_us": false}
+{"id": "BigCodeBench/85", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_plot_attributes: AttributeError: 'numpy.ndarray' object has no attribute 'get_lines'", "excluded_by_us": false}
+{"id": "BigCodeBench/86", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_plot_labels: + Score", "excluded_by_us": false}
+{"id": "BigCodeBench/87", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/88", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_dataframe_structure: TypeError: strptime() argument 1 must be str, not datetime.datetime", "excluded_by_us": false}
+{"id": "BigCodeBench/89", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_data_without_outliers: AttributeError: 'numpy.ndarray' object has no attribute 'columns'", "excluded_by_us": false}
+{"id": "BigCodeBench/90", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_correct_neighbors: TypeError: unsupported operand type(s) for -: 'str' and 'int'", "excluded_by_us": false}
+{"id": "BigCodeBench/91", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_plot_axes: AssertionError: 1 != 2", "excluded_by_us": false}
+{"id": "BigCodeBench/92", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_cluster_centers: AssertionError: False is not true : Centroids should be marked in the plot.", "excluded_by_us": false}
+{"id": "BigCodeBench/93", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_values: AssertionError: -0.4539883065512378 != 0.36270132751314693 within 7 places (0.8166896340643848 difference) : DataFrame contents should match the expected output", "excluded_by_us": false}
+{"id": "BigCodeBench/94", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_histogram_bins: AttributeError: 'numpy.ndarray' object has no attribute 'axes'", "excluded_by_us": false}
+{"id": "BigCodeBench/95", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_dataframe_structure: ValueError: Categories must be a non-empty list.", "excluded_by_us": false}
+{"id": "BigCodeBench/96", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/97", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/98", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/99", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": true}
+{"id": "BigCodeBench/100", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_data_range: ValueError: An error occurred while generating the plot: module 'matplotlib.pyplot' has no attribute 'DateFormatter'", "excluded_by_us": false}
+{"id": "BigCodeBench/101", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_basic_functionality: ValueError: An error occurred: <urlopen error [Errno -3] Temporary failure in name resolution>", "excluded_by_us": true}
+{"id": "BigCodeBench/102", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_dataframe_col_equal: AssertionError: False is not true", "excluded_by_us": true}
+{"id": "BigCodeBench/103", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_basic_functionality: ValueError: DataFrame must contain 'Date' and 'Temperature' columns.", "excluded_by_us": false}
+{"id": "BigCodeBench/104", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_custom_groups: ValueError: DataFrame must contain columns: Date, Value, Group", "excluded_by_us": false}
+{"id": "BigCodeBench/105", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_plot_titles: ValueError: Missing required columns: value1, value2", "excluded_by_us": false}
+{"id": "BigCodeBench/106", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_plot_labels: AttributeError: 'DatetimeProperties' object has no attribute 'toordinal'", "excluded_by_us": false}
+{"id": "BigCodeBench/107", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_basic_functionality: AttributeError: 'DatetimeProperties' object has no attribute 'toordinal'", "excluded_by_us": false}
+{"id": "BigCodeBench/108", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_additive_model: ValueError: Error during decomposition: '<' not supported between instances of 'int' and 'str'", "excluded_by_us": false}
+{"id": "BigCodeBench/109", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_plot_title_and_labels: + Item Distribution by Location", "excluded_by_us": false}
+{"id": "BigCodeBench/110", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_plot_title_and_labels: + Daily Turnover", "excluded_by_us": false}
+{"id": "BigCodeBench/111", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_date_conversion: TypeError: Could not convert 2021-01-01 to numeric", "excluded_by_us": true}
+{"id": "BigCodeBench/112", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/113", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/114", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_inplace_modification: Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.", "excluded_by_us": false}
+{"id": "BigCodeBench/115", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_dictionary_keys: ValueError: not enough values to unpack (expected 2, got 1)", "excluded_by_us": true}
+{"id": "BigCodeBench/116", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_mock_random_normal: Actual: normal(loc=0, scale=1, size=1000)", "excluded_by_us": false}
+{"id": "BigCodeBench/117", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_reproducibility_with_seed: At positional index 0, first diff: 15 != 17", "excluded_by_us": false}
+{"id": "BigCodeBench/118", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/119", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/120", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_reproducibility_with_seed: Diff is 6275 characters long. Set self.maxDiff to None to see it. : DataFrame contents should match the expected output", "excluded_by_us": false}
+{"id": "BigCodeBench/121", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_output_types: +  'Sports,663'] : DataFrame contents should match the expected output", "excluded_by_us": false}
+{"id": "BigCodeBench/122", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/123", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_correct_file_count: FileNotFoundError: No .csv files found in directory: ./test_data_files/", "excluded_by_us": false}
+{"id": "BigCodeBench/124", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_output_types: Diff is 892 characters long. Set self.maxDiff to None to see it. : DataFrame contents should match the expected output", "excluded_by_us": false}
+{"id": "BigCodeBench/125", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_return_type: + letter_combinations_42.json", "excluded_by_us": false}
+{"id": "BigCodeBench/126", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_default_animals: AssertionError: 10 != 5", "excluded_by_us": false}
+{"id": "BigCodeBench/127", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/128", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_plot_shown: AssertionError: Expected 'show' to have been called once. Called 0 times.", "excluded_by_us": false}
+{"id": "BigCodeBench/129", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_http_error: ConnectionError: Error connecting to http://example.com/error:", "excluded_by_us": false}
+{"id": "BigCodeBench/130", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_salt_and_hash_length: AssertionError: 44 != 64", "excluded_by_us": false}
+{"id": "BigCodeBench/131", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_salt_and_hash_length: AssertionError: 44 != 64", "excluded_by_us": false}
+{"id": "BigCodeBench/132", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_alternative_format: ValueError: Invalid hex string", "excluded_by_us": false}
+{"id": "BigCodeBench/133", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/134", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/135", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_plot_title_and_labels: + Boxplot of Last Column", "excluded_by_us": false}
+{"id": "BigCodeBench/136", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/137", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/138", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/139", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_correctness_of_histogram_lines: KeyError: 'Distribution of A'", "excluded_by_us": false}
+{"id": "BigCodeBench/140", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/141", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/142", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/143", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_line_plot: + y=2x+1", "excluded_by_us": false}
+{"id": "BigCodeBench/144", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_active_server: + ['192.168.1.0', '192.168.1.1', '192.168.1.2', '192.168.1.3'] : The function should identify and include all active servers in the range.", "excluded_by_us": false}
+{"id": "BigCodeBench/145", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_csv_content: ValueError: An error occurred: 'IPv4Network' object has no attribute 'is_ipv4'", "excluded_by_us": false}
+{"id": "BigCodeBench/146", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_dict_key_value_types: TypeError: a bytes-like object is required, not 'str'", "excluded_by_us": false}
+{"id": "BigCodeBench/147", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_all_ips_checked: ValueError: too many values to unpack (expected 2)", "excluded_by_us": false}
+{"id": "BigCodeBench/148", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/149", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_5: At positional index 0, first diff: 1 != 0", "excluded_by_us": false}
+{"id": "BigCodeBench/150", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: TypeError: list indices must be integers or slices, not str", "excluded_by_us": false}
+{"id": "BigCodeBench/151", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/152", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_all_students_included: KeyError: 'Name'", "excluded_by_us": false}
+{"id": "BigCodeBench/153", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: Input data must be a pandas DataFrame.", "excluded_by_us": false}
+{"id": "BigCodeBench/154", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_dictionary_content: re.error: nothing to repeat at position 0", "excluded_by_us": false}
+{"id": "BigCodeBench/155", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: +", "excluded_by_us": false}
+{"id": "BigCodeBench/156", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: 0 != 1", "excluded_by_us": false}
+{"id": "BigCodeBench/157", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_correlation_calculation:        nan, nan, nan, nan, nan, nan, -1., nan, nan, nan,  1., -1.,  1.,...", "excluded_by_us": true}
+{"id": "BigCodeBench/158", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_gzip_file_opened_with_correct_path: TypeError: the JSON object must be str, bytes or bytearray, not MagicMock", "excluded_by_us": false}
+{"id": "BigCodeBench/159", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_compression_efficiency: AssertionError: 800 not less than 800", "excluded_by_us": false}
+{"id": "BigCodeBench/160", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_basic_functionality: ValueError: Input must be a DataFrame with exactly 8 columns.", "excluded_by_us": false}
+{"id": "BigCodeBench/161", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_log_to_csv_content: ValueError: No valid log entries found in the file.", "excluded_by_us": false}
+{"id": "BigCodeBench/162", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/163", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_2: ValueError: Shape of passed values is (7, 3), indices imply (7, 5)", "excluded_by_us": false}
+{"id": "BigCodeBench/164", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_combined_parameters: AssertionError: Expected 'plot' to have been called once. Called 0 times.", "excluded_by_us": false}
+{"id": "BigCodeBench/165", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/166", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/167", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: 50 != 25", "excluded_by_us": false}
+{"id": "BigCodeBench/168", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_data_values: AssertionError: False is not true : All data should be within the range [0.0, 1.0].", "excluded_by_us": false}
+{"id": "BigCodeBench/169", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/170", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/171", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: 'Carrot' not found in RangeIndex(start=0, stop=0, step=1)", "excluded_by_us": false}
+{"id": "BigCodeBench/172", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_empty_json: ValueError: Invalid isoformat string: ''", "excluded_by_us": false}
+{"id": "BigCodeBench/173", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: + ['USA', 'UK', 'China']", "excluded_by_us": false}
+{"id": "BigCodeBench/174", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_non_dataframe_input: TypeError: Input data must be a pandas DataFrame.", "excluded_by_us": false}
+{"id": "BigCodeBench/175", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_3: AttributeError: Can only use .str accessor with string values!. Did you mean: 'std'?", "excluded_by_us": false}
+{"id": "BigCodeBench/176", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: + {'8.8.4.4': 'dns.google', '8.8.8.8': 'dns.google'}", "excluded_by_us": false}
+{"id": "BigCodeBench/177", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_sensitive_handling: -  'these': 1} : Case sensitivity handling is faulty.", "excluded_by_us": true}
+{"id": "BigCodeBench/178", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/179", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: TypeError: Axis.set_ticks() missing 1 required positional argument: 'ticks'", "excluded_by_us": false}
+{"id": "BigCodeBench/180", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/181", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: TypeError: HttpResponseBase.__init__() got an unexpected keyword argument 'response'", "excluded_by_us": false}
+{"id": "BigCodeBench/182", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_empty_dataframe: KeyError: 'title'", "excluded_by_us": false}
+{"id": "BigCodeBench/183", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: + {\"key\": \"value\"}", "excluded_by_us": false}
+{"id": "BigCodeBench/184", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/185", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_coordinate_ranges: ValueError: 3 columns passed, passed data had 2 columns", "excluded_by_us": false}
+{"id": "BigCodeBench/186", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_distance_dict_structure: ValueError: too many values to unpack (expected 2)", "excluded_by_us": false}
+{"id": "BigCodeBench/187", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/188", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_different_locations: ValueError: Unsupported format for location Loc1: {'Lat': 0, 'Lon': 0}", "excluded_by_us": false}
+{"id": "BigCodeBench/189", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: TypeError: '<=' not supported between instances of 'int' and 'NoneType'", "excluded_by_us": false}
+{"id": "BigCodeBench/190", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: KeyError: 'Age'", "excluded_by_us": false}
+{"id": "BigCodeBench/191", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_empty_animal_list: IndexError: list index out of range", "excluded_by_us": false}
+{"id": "BigCodeBench/192", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_f225: -  '14098']", "excluded_by_us": false}
+{"id": "BigCodeBench/193", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_column_names: ValueError: Length mismatch: Expected axis has 10 elements, new values have 3 elements", "excluded_by_us": false}
+{"id": "BigCodeBench/194", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/195", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: IndexError: list index out of range", "excluded_by_us": false}
+{"id": "BigCodeBench/196", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/197", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: IndexError: list index out of range", "excluded_by_us": false}
+{"id": "BigCodeBench/198", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/199", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_missing_timezone_for_custom_city: KeyError: 'Paris'", "excluded_by_us": false}
+{"id": "BigCodeBench/200", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_count_greater_than_or_equal_value: AssertionError: 3 != 2", "excluded_by_us": false}
+{"id": "BigCodeBench/201", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/202", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: + {}", "excluded_by_us": false}
+{"id": "BigCodeBench/203", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_f225: AssertionError: Expected 'SMTP' to be called once. Called 0 times.", "excluded_by_us": false}
+{"id": "BigCodeBench/204", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: TypeError: tuple indices must be integers or slices, not str", "excluded_by_us": false}
+{"id": "BigCodeBench/205", "official_pass": false, "official_status": "timeout", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "BigCodeBench/206", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/207", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/208", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: 3.9280529527998986 != 3.94784 within 5 places (0.01978704720010116 difference)", "excluded_by_us": false}
+{"id": "BigCodeBench/209", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/210", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: shape mismatch: objects cannot be broadcast to a single shape", "excluded_by_us": false}
+{"id": "BigCodeBench/211", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_2: PermissionError: [Errno 13] Permission denied: '/path'", "excluded_by_us": false}
+{"id": "BigCodeBench/212", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/213", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/214", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_image_size_and_type: Diff is 17110 characters long. Set self.maxDiff to None to see it. : DataFrame contents should match the expected output", "excluded_by_us": false}
+{"id": "BigCodeBench/215", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/216", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/217", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_3: AssertionError: 4.979735441239604 != 4.978 within 3 places (0.0017354412396040075 difference)", "excluded_by_us": false}
+{"id": "BigCodeBench/218", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_feature_standardization: ValueError: too many values to unpack (expected 2)", "excluded_by_us": false}
+{"id": "BigCodeBench/219", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: TypeError: 'int' object is not subscriptable", "excluded_by_us": false}
+{"id": "BigCodeBench/220", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/221", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_2: TypeError: Could not convert abaac to numeric", "excluded_by_us": true}
+{"id": "BigCodeBench/222", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: TypeError: 'int' object is not subscriptable", "excluded_by_us": false}
+{"id": "BigCodeBench/223", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/224", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: TypeError: 'numpy.float64' object is not iterable", "excluded_by_us": false}
+{"id": "BigCodeBench/225", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_columns_not_in_dataframe: KeyError: \"None of [Index(['col3', 'col4'], dtype='object')] are in the [columns]\"", "excluded_by_us": false}
+{"id": "BigCodeBench/226", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: StopIteration", "excluded_by_us": false}
+{"id": "BigCodeBench/227", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_docstring_examples: FileNotFoundError: The audio file audio.wav does not exist.", "excluded_by_us": true}
+{"id": "BigCodeBench/228", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: DataFrame is missing required column: column1", "excluded_by_us": false}
+{"id": "BigCodeBench/229", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_3: Diff is 2503 characters long. Set self.maxDiff to None to see it.", "excluded_by_us": false}
+{"id": "BigCodeBench/230", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/231", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: + Fit results: mu = 10.76,  std = 39.42", "excluded_by_us": false}
+{"id": "BigCodeBench/232", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_empty: KeyError: Index(['Customer Name'], dtype='object')", "excluded_by_us": false}
+{"id": "BigCodeBench/233", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/234", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_correct_data_handling: KeyError: Index(['name'], dtype='object')", "excluded_by_us": false}
+{"id": "BigCodeBench/235", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: NameError: name 'pd' is not defined", "excluded_by_us": true}
+{"id": "BigCodeBench/236", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/237", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: Data must be a list of 3D coordinate tuples or numpy arrays.", "excluded_by_us": true}
+{"id": "BigCodeBench/238", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/239", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: -  'standard_deviation': 1.118033988749895}", "excluded_by_us": false}
+{"id": "BigCodeBench/240", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/241", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: could not convert string to float: 'a'", "excluded_by_us": false}
+{"id": "BigCodeBench/242", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_valid_input: ValueError: not enough values to unpack (expected 3, got 2)", "excluded_by_us": false}
+{"id": "BigCodeBench/243", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/244", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: could not convert string to float: 'a'", "excluded_by_us": false}
+{"id": "BigCodeBench/245", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_single_value_range: AssertionError: None != 5.0", "excluded_by_us": true}
+{"id": "BigCodeBench/246", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_2: AssertionError: 1378.762338486662 != 331.2 within 1 places (1047.562338486662 difference)", "excluded_by_us": false}
+{"id": "BigCodeBench/247", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/248", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_2: AssertionError: 3 != 2", "excluded_by_us": false}
+{"id": "BigCodeBench/249", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/250", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: TypeError: cannot perform reduce with flexible type", "excluded_by_us": false}
+{"id": "BigCodeBench/251", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/252", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_4: + black", "excluded_by_us": false}
+{"id": "BigCodeBench/253", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/254", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: {'square_root': 2.0} != '2.0'", "excluded_by_us": false}
+{"id": "BigCodeBench/255", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_invalid_index: ValueError: Function index must be between 0 and 2 (inclusive).", "excluded_by_us": false}
+{"id": "BigCodeBench/256", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: 1 != 64", "excluded_by_us": false}
+{"id": "BigCodeBench/257", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_positive_turns: AssertionError: 22.5 != 135", "excluded_by_us": false}
+{"id": "BigCodeBench/258", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: TypeError: Object of type datetime is not JSON serializable", "excluded_by_us": false}
+{"id": "BigCodeBench/259", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: 0.0 != 1.0 : Radial label position should be set to 1", "excluded_by_us": false}
+{"id": "BigCodeBench/260", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: 2 != 1", "excluded_by_us": false}
+{"id": "BigCodeBench/261", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_non_polar_plot: AttributeError: 'Axes' object has no attribute 'set_rmax'. Did you mean: 'set_snap'?", "excluded_by_us": false}
+{"id": "BigCodeBench/262", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/263", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_different_extensions: AssertionError: False is not true : PDF file not archived", "excluded_by_us": false}
+{"id": "BigCodeBench/264", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: The provided value must be a number.", "excluded_by_us": false}
+{"id": "BigCodeBench/265", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/266", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/267", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ?            ^", "excluded_by_us": false}
+{"id": "BigCodeBench/268", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_basic_functionality: + [1, 2, 3, 4, 5]", "excluded_by_us": false}
+{"id": "BigCodeBench/269", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: UnboundLocalError: local variable 'mode_val' referenced before assignment", "excluded_by_us": false}
+{"id": "BigCodeBench/270", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_sensitivity: + {'Apple': 1, 'apple': 1}", "excluded_by_us": false}
+{"id": "BigCodeBench/271", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: + 8691a011016e0fba3c2b0b8a26e4c9c722975f1defe42f580ab55a9c97dfccf8", "excluded_by_us": false}
+{"id": "BigCodeBench/272", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/273", "official_pass": false, "official_status": "timeout", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "BigCodeBench/274", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_email_sending_exception: AttributeError: 'EmailPostHandler' object has no attribute 'request_version'. Did you mean: 'server_version'?", "excluded_by_us": false}
+{"id": "BigCodeBench/275", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/276", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_4: numpy.linalg.LinAlgError: singular matrix", "excluded_by_us": true}
+{"id": "BigCodeBench/277", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_large_number_of_points: NameError: name 'pair' is not defined. Did you mean: 'pair1'?", "excluded_by_us": false}
+{"id": "BigCodeBench/278", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AttributeError: 'Float' object has no attribute 'real'", "excluded_by_us": false}
+{"id": "BigCodeBench/279", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/280", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/281", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/282", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_onpick_function: ValueError: not enough values to unpack (expected 3, got 1)", "excluded_by_us": false}
+{"id": "BigCodeBench/283", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/284", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/285", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_different_data_inputs: TypeError: expected string or bytes-like object", "excluded_by_us": false}
+{"id": "BigCodeBench/286", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/287", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_empty_files: TypeError: task_func() takes 1 positional argument but 2 were given", "excluded_by_us": false}
+{"id": "BigCodeBench/288", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/289", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": true}
+{"id": "BigCodeBench/290", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_insensitivity: AssertionError: 1 != 4", "excluded_by_us": false}
+{"id": "BigCodeBench/291", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: False is not true : The plot should have data.", "excluded_by_us": false}
+{"id": "BigCodeBench/292", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_histogram_data_integrity: ValueError: DataFrame must contain 'id', 'Age', and 'Income' columns.", "excluded_by_us": false}
+{"id": "BigCodeBench/293", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_3: ValueError: Invalid subset size. It should be a positive integer and not exceed the length of the tuple.", "excluded_by_us": false}
+{"id": "BigCodeBench/294", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_empty_dataframe: AttributeError: 'DataFrameGroupBy' object has no attribute 'drop'", "excluded_by_us": false}
+{"id": "BigCodeBench/295", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/296", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/297", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_2: ValueError: subset_size must be 2 for 2-element subsets", "excluded_by_us": false}
+{"id": "BigCodeBench/298", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_normal_case: IndexError: index 1 is out of bounds for axis 0 with size 1", "excluded_by_us": false}
+{"id": "BigCodeBench/299", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_4: AssertionError: 0 != 1", "excluded_by_us": false}
+{"id": "BigCodeBench/300", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_large_dataset: ValueError: Cannot remove 1 levels from an index with 1 levels: at least one level must be left.", "excluded_by_us": false}
+{"id": "BigCodeBench/301", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: 1.0 != 0.95949 within 5 places (0.040510000000000046 difference)", "excluded_by_us": false}
+{"id": "BigCodeBench/302", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_basic_functionality: ValueError: could not convert string to float: '2021-01-01'", "excluded_by_us": false}
+{"id": "BigCodeBench/303", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AttributeError: 'datetime.datetime' object has no attribute 'dayofyear'", "excluded_by_us": false}
+{"id": "BigCodeBench/304", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_known_input_output: ValueError: DataFrame must contain a 'date' column and at least one list column.", "excluded_by_us": false}
+{"id": "BigCodeBench/305", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/306", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_remove_jquery_files_error: OSError: Permission denied", "excluded_by_us": false}
+{"id": "BigCodeBench/307", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: 10 != 5", "excluded_by_us": false}
+{"id": "BigCodeBench/308", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_additional_fields: AssertionError: False is not true", "excluded_by_us": false}
+{"id": "BigCodeBench/309", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/310", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_average_row_label: FileNotFoundError: [Errno 2] No such file or directory: 'test_average_row_label.csv'", "excluded_by_us": false}
+{"id": "BigCodeBench/311", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_3: AssertionError: False is not true", "excluded_by_us": false}
+{"id": "BigCodeBench/312", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_default_bin_count: NameError: name 'exp' is not defined", "excluded_by_us": false}
+{"id": "BigCodeBench/313", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: FileExistsError: [Errno 17] File exists: '/tmp/tmpahujkxue/test/test_file1.txt'", "excluded_by_us": false}
+{"id": "BigCodeBench/314", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_connection_error_handling: socket.gaierror: [Errno -3] Temporary failure in name resolution", "excluded_by_us": false}
+{"id": "BigCodeBench/315", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_empty_directory: FileNotFoundError: The directory './empty_directory' does not exist.", "excluded_by_us": false}
+{"id": "BigCodeBench/316", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_columns: ValueError: Sample larger than population or is negative", "excluded_by_us": false}
+{"id": "BigCodeBench/317", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: +  'input': 0.5773502691896258}", "excluded_by_us": false}
+{"id": "BigCodeBench/318", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/319", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/320", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_invalid_directory: FileNotFoundError: The directory invalid_dir does not exist.", "excluded_by_us": false}
+{"id": "BigCodeBench/321", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_3: KeyError: 'Mr. X'", "excluded_by_us": false}
+{"id": "BigCodeBench/322", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_backup_of_large_file: AssertionError: -1 != 0", "excluded_by_us": false}
+{"id": "BigCodeBench/323", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: too many values to unpack (expected 2)", "excluded_by_us": true}
+{"id": "BigCodeBench/324", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_multiple_processes_with_different_exit_codes: + [0, 1, None]", "excluded_by_us": false}
+{"id": "BigCodeBench/325", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/326", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_exception_handling: Exception: Mocked exception", "excluded_by_us": false}
+{"id": "BigCodeBench/327", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: +  'ghi': 1} : Expected {'a': 4, ' ': 3, 'b': 2, ' (': 4, 'abc': 2, ') ': 3, 'def': 1, 'ghi': 1, 'c': 1, ')': 1} but got {'a': 4, 'b': 2, '(abc)': 2, '(def)': 1, '(ghi)': 1, 'c': 1}", "excluded_by_us": false}
+{"id": "BigCodeBench/328", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_data_types_in_return: TypeError: bad operand type for unary -: 'str'", "excluded_by_us": false}
+{"id": "BigCodeBench/329", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: Diff is 1496 characters long. Set self.maxDiff to None to see it.", "excluded_by_us": false}
+{"id": "BigCodeBench/330", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_empty_list: ValueError: Invalid list length or k value", "excluded_by_us": false}
+{"id": "BigCodeBench/331", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_insert_at_beginning: + ([12, 23, 34, 45], [4, 12, 23, 34, 45])", "excluded_by_us": false}
+{"id": "BigCodeBench/332", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_2: ?  +++++++++++++++                         ^", "excluded_by_us": false}
+{"id": "BigCodeBench/333", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/334", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AttributeError: 'list' object has no attribute 'lower'", "excluded_by_us": true}
+{"id": "BigCodeBench/335", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/336", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: First has 0, Second has 1:  'sample5.md'", "excluded_by_us": false}
+{"id": "BigCodeBench/337", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/338", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/339", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/340", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_blake3_length: AttributeError: 'blake3.blake3.blake3' object has no attribute 'hex'", "excluded_by_us": false}
+{"id": "BigCodeBench/341", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_categorical_data: AssertionError: False is not true", "excluded_by_us": false}
+{"id": "BigCodeBench/342", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/343", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/344", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: Exception: Error during backup: [Errno 17] File exists: '/tmp/tmpsu59ps_k/tmpdyu0erco_tmpsu59ps_k_tmpsu59ps_k_tmpsu59ps_k_tmpsu59ps_k_tmpsu59ps_k_tmpsu59ps_k_tmpsu59ps_k'", "excluded_by_us": false}
+{"id": "BigCodeBench/345", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_large_dataset: TypeError: Columns must contain numeric data.", "excluded_by_us": false}
+{"id": "BigCodeBench/346", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_4: AssertionError: 35629 is not None", "excluded_by_us": false}
+{"id": "BigCodeBench/347", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_default: AssertionError: Regex didn't match: '([a-fA-F\\\\d]{32})' not found in '0'", "excluded_by_us": false}
+{"id": "BigCodeBench/348", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/349", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/350", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: + All files compressed and moved successfully.", "excluded_by_us": false}
+{"id": "BigCodeBench/351", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_3: AssertionError: Product list and category list must have the same length.", "excluded_by_us": false}
+{"id": "BigCodeBench/352", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: Missing: 'and','I'", "excluded_by_us": true}
+{"id": "BigCodeBench/353", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_6: AssertionError: 136.4359403626998 != 100", "excluded_by_us": false}
+{"id": "BigCodeBench/354", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: TypeError: no numeric data to plot", "excluded_by_us": false}
+{"id": "BigCodeBench/355", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_plot_lines: AssertionError: 1 != 2 : Plot does not contain two lines for real and imaginary parts", "excluded_by_us": false}
+{"id": "BigCodeBench/356", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_empty_arrays: ValueError: zero-size array to reduction operation minimum which has no identity", "excluded_by_us": false}
+{"id": "BigCodeBench/357", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": true}
+{"id": "BigCodeBench/358", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_5: ValueError: r must be a positive integer and not exceed the length of number_list", "excluded_by_us": false}
+{"id": "BigCodeBench/359", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/360", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/361", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_normal_functionality: ValueError: Specified sheet 'TestSheet' not found in the Excel file.", "excluded_by_us": false}
+{"id": "BigCodeBench/362", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/363", "official_pass": false, "official_status": "timeout", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "BigCodeBench/364", "official_pass": false, "official_status": "fail", "detail": "[runtime] ALL: cannot import name 'ValueError' from 'sklearn.exceptions' (<evaluator>/bigcodebench/env/lib/python3.10/site-packages/sklearn/exceptions.py)", "excluded_by_us": false}
+{"id": "BigCodeBench/365", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_2: KeyError: 'honeydew'", "excluded_by_us": false}
+{"id": "BigCodeBench/366", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_4: ValueError: The input list cannot be empty.", "excluded_by_us": false}
+{"id": "BigCodeBench/367", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/368", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/369", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/370", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: ' \"' unexpectedly found in '{\"\\\\\"name\"\\\\\": \"\\\\\"John\"\\\\\", \"\\\\\"age\"\\\\\": 30, \"\\\\\"city\"\\\\\": \"\\\\\"New York\"\\\\\"}'", "excluded_by_us": false}
+{"id": "BigCodeBench/371", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/372", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: - quotes.", "excluded_by_us": false}
+{"id": "BigCodeBench/373", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_4: AssertionError: False is not true", "excluded_by_us": false}
+{"id": "BigCodeBench/374", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: 1 != 3", "excluded_by_us": false}
+{"id": "BigCodeBench/375", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: n_components=2 must be between 0 and min(n_samples, n_features)=1 with svd_solver='full'", "excluded_by_us": false}
+{"id": "BigCodeBench/376", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/377", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/378", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_empty_csv_file: texttable.ArraySizeError: array should contain 4 elements", "excluded_by_us": false}
+{"id": "BigCodeBench/379", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/380", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/381", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/382", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/383", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: Names should be list-like for a MultiIndex", "excluded_by_us": true}
+{"id": "BigCodeBench/384", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ?          ++++++           +++++++                +++++", "excluded_by_us": false}
+{"id": "BigCodeBench/385", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_5: TypeError: the dtypes of parameters x (object) and width (float64) are incompatible", "excluded_by_us": false}
+{"id": "BigCodeBench/386", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: 100 != 1", "excluded_by_us": false}
+{"id": "BigCodeBench/387", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: 'Mumbai'", "excluded_by_us": false}
+{"id": "BigCodeBench/388", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_empty_csv_files: KeyError: 'C'", "excluded_by_us": false}
+{"id": "BigCodeBench/389", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/390", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/391", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/392", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/393", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/394", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": true}
+{"id": "BigCodeBench/395", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/396", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/397", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_api_failure: Exception: An error occurred: API failure", "excluded_by_us": false}
+{"id": "BigCodeBench/398", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_5: FileNotFoundError: The file nonexistent.json does not exist.", "excluded_by_us": false}
+{"id": "BigCodeBench/399", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: False is not true", "excluded_by_us": false}
+{"id": "BigCodeBench/400", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_invalid_json_format: TypeError: dump() missing 1 required positional argument: 'fp'", "excluded_by_us": false}
+{"id": "BigCodeBench/401", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AttributeError: 'bool' object has no attribute 'lower'", "excluded_by_us": false}
+{"id": "BigCodeBench/402", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AttributeError: 'MockResponse' object has no attribute 'status_code'", "excluded_by_us": false}
+{"id": "BigCodeBench/403", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_blur_effectiveness: cv2.error: OpenCV(4.9.0) /io/opencv/modules/highgui/src/window.cpp:1272: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you a", "excluded_by_us": false}
+{"id": "BigCodeBench/404", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/405", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/406", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/407", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_csv_file_creation: openpyxl.utils.exceptions.InvalidFileException: openpyxl does not support  file format, please check you can open it with Excel first. Supported formats are: .xlsx,.xlsm,.xltx,.xltm", "excluded_by_us": false}
+{"id": "BigCodeBench/408", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/409", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_empty_excel_file: OSError: [Errno 39] Directory not empty: './test_data/'", "excluded_by_us": false}
+{"id": "BigCodeBench/410", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/411", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: [{'a': 1, 'b': 3}, {'a': 2, 'b': 4}] != {'a': {'0': 1, '1': 2}, 'b': {'0': 3, '1': 4}}", "excluded_by_us": false}
+{"id": "BigCodeBench/412", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/413", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: TypeError: 'NoneType' object is not callable", "excluded_by_us": false}
+{"id": "BigCodeBench/414", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/415", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/416", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AttributeError: 'dict' object has no attribute 'empty'", "excluded_by_us": true}
+{"id": "BigCodeBench/417", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": true}
+{"id": "BigCodeBench/418", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_plot_axes:  : The plot's x label should be 'False positive rate'.", "excluded_by_us": true}
+{"id": "BigCodeBench/419", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": true}
+{"id": "BigCodeBench/420", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AttributeError: 'dict' object has no attribute 'select_dtypes'", "excluded_by_us": false}
+{"id": "BigCodeBench/421", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/422", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AttributeError: 'dict' object has no attribute 'columns'", "excluded_by_us": false}
+{"id": "BigCodeBench/423", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/424", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_normal_functionality: ?    +++", "excluded_by_us": false}
+{"id": "BigCodeBench/425", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_histogram_labels: NameError: name 'np' is not defined", "excluded_by_us": false}
+{"id": "BigCodeBench/426", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/427", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/428", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_6: AssertionError: 6 != 3", "excluded_by_us": false}
+{"id": "BigCodeBench/429", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: Found input variables with inconsistent numbers of samples: [5, 2]", "excluded_by_us": false}
+{"id": "BigCodeBench/430", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: KeyError: \"['feature2'] not in index\"", "excluded_by_us": false}
+{"id": "BigCodeBench/431", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/432", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: TypeError: cannot unpack non-iterable Axes object", "excluded_by_us": false}
+{"id": "BigCodeBench/433", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/434", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: too many values to unpack (expected 5)", "excluded_by_us": false}
+{"id": "BigCodeBench/435", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_5: AssertionError: ValueError not raised", "excluded_by_us": false}
+{"id": "BigCodeBench/436", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/437", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/438", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/439", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: operands could not be broadcast together with remapped shapes [original->remapped]: (3,3,3)->(3,3,3) (2,3)->(3,2)", "excluded_by_us": false}
+{"id": "BigCodeBench/440", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: Matrix P and Tensor T shapes are not compatible for multiplication.", "excluded_by_us": false}
+{"id": "BigCodeBench/441", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_2: AssertionError: False is not true", "excluded_by_us": false}
+{"id": "BigCodeBench/442", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 9 is different from 3)", "excluded_by_us": false}
+{"id": "BigCodeBench/443", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_2: ValueError: cannot reshape array of size 27 into shape (4,newaxis)", "excluded_by_us": false}
+{"id": "BigCodeBench/444", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/445", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_2: AssertionError: True is not false", "excluded_by_us": false}
+{"id": "BigCodeBench/446", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: NameError: name 'np' is not defined", "excluded_by_us": false}
+{"id": "BigCodeBench/447", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/448", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/449", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_13: AssertionError: KeyError not raised", "excluded_by_us": false}
+{"id": "BigCodeBench/450", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/451", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/452", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/453", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/454", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/455", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/456", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/457", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: 9 != 8", "excluded_by_us": false}
+{"id": "BigCodeBench/458", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_4: ValueError: If using all scalar values, you must pass an index", "excluded_by_us": false}
+{"id": "BigCodeBench/459", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: time data '2026-10-06T15:35:27.091297' does not match format '%Y-%m-%d %H:%M:%S'", "excluded_by_us": false}
+{"id": "BigCodeBench/460", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_7: AssertionError: TypeError not raised", "excluded_by_us": false}
+{"id": "BigCodeBench/461", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_2: AssertionError: 0 is not an instance of <class 'float'>", "excluded_by_us": true}
+{"id": "BigCodeBench/462", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/463", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AttributeError: Rectangle.set() got an unexpected keyword argument 'grid'", "excluded_by_us": false}
+{"id": "BigCodeBench/464", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/465", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_combined_serialization: AssertionError: '2023-01-01T12:00:00+00:00' not found in '{\"time\": \"2023-01-01 12:00:00+00:00\", \"data\": [1, 2, 3], \"price\": \"99.99\"}'", "excluded_by_us": false}
+{"id": "BigCodeBench/466", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/467", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/468", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_3: AssertionError: False is not true", "excluded_by_us": false}
+{"id": "BigCodeBench/469", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: TypeError: no numeric data to plot", "excluded_by_us": false}
+{"id": "BigCodeBench/470", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_6: ValueError: invalid literal for int() with base 10: 'a'", "excluded_by_us": false}
+{"id": "BigCodeBench/471", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: [right]: (3, 1)", "excluded_by_us": false}
+{"id": "BigCodeBench/472", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: Each point must be a tuple of length 2 (x, y).", "excluded_by_us": false}
+{"id": "BigCodeBench/473", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_2: ValueError: Both n_walks and n_steps must be positive integers.", "excluded_by_us": false}
+{"id": "BigCodeBench/474", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_10: AssertionError: Exception not raised", "excluded_by_us": false}
+{"id": "BigCodeBench/475", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_custom_country_codes: ValueError: The DataFrame must contain a 'date' column with datetime objects.", "excluded_by_us": false}
+{"id": "BigCodeBench/476", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/477", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AttributeError: PathCollection.set() got an unexpected keyword argument 'hue'", "excluded_by_us": false}
+{"id": "BigCodeBench/478", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_5: +", "excluded_by_us": false}
+{"id": "BigCodeBench/479", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_11: AssertionError: False is not true : All items in the modified string should have leading and trailing whitespaces removed", "excluded_by_us": false}
+{"id": "BigCodeBench/480", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: 1 != 3", "excluded_by_us": false}
+{"id": "BigCodeBench/481", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ' b'", "excluded_by_us": false}
+{"id": "BigCodeBench/482", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_7: + ['b, c', 'e, f, d'] : With a fixed seed, the modifications should be predictable and reproducible.", "excluded_by_us": false}
+{"id": "BigCodeBench/483", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: At positional index 0, first diff: apple orange !=", "excluded_by_us": false}
+{"id": "BigCodeBench/484", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: Invalid frequency: 100", "excluded_by_us": false}
+{"id": "BigCodeBench/485", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: TypeError: can only concatenate str (not \"datetime.timedelta\") to str", "excluded_by_us": false}
+{"id": "BigCodeBench/486", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: TypeError: strptime() argument 1 must be str, not int", "excluded_by_us": false}
+{"id": "BigCodeBench/487", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/488", "official_pass": false, "official_status": "fail", "detail": "[runtime] 5, period=1000): TypeError: strptime() argument 1 must be str, not int", "excluded_by_us": false}
+{"id": "BigCodeBench/489", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: 1791214569387 != datetime.datetime(2026, 10, 5, 15, 36, 9, 387000)", "excluded_by_us": false}
+{"id": "BigCodeBench/490", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/491", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: Start time must be within the current epoch range.", "excluded_by_us": false}
+{"id": "BigCodeBench/492", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_5: AssertionError: ValueError not raised", "excluded_by_us": false}
+{"id": "BigCodeBench/493", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_2: + Performance", "excluded_by_us": false}
+{"id": "BigCodeBench/494", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: '2009-03-08' != datetime.date(2009, 3, 8)", "excluded_by_us": false}
+{"id": "BigCodeBench/495", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/496", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: + Temperature Trend", "excluded_by_us": false}
+{"id": "BigCodeBench/497", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/498", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/499", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_csv_to_excel_conversion: _csv.Error: new-line character seen in unquoted field - do you need to open the file in universal-newline mode?", "excluded_by_us": false}
+{"id": "BigCodeBench/500", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/501", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_custom_sheet_name: Exception: Unexpected data type <class 'numpy.int64'>", "excluded_by_us": false}
+{"id": "BigCodeBench/502", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: 'Running' not found in ['Yoga', 'Cycling', 'Swimming']", "excluded_by_us": false}
+{"id": "BigCodeBench/503", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: datetime.date(2026, 10, 5) != datetime.date(2026, 10, 6) : Last date should be today's date.", "excluded_by_us": false}
+{"id": "BigCodeBench/504", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/505", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/506", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: KeyError: 'Temperature'", "excluded_by_us": false}
+{"id": "BigCodeBench/507", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: Input data must be a pandas DataFrame.", "excluded_by_us": false}
+{"id": "BigCodeBench/508", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/509", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_difference_report: +  \"4, ,('Bob', '25')\"]", "excluded_by_us": false}
+{"id": "BigCodeBench/510", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_identical_files: +", "excluded_by_us": false}
+{"id": "BigCodeBench/511", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: KeyError: 'Salary'", "excluded_by_us": false}
+{"id": "BigCodeBench/512", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1 (data=[['Product A', 10, 1000], ['Product B', 20, 2000], ['Product C', 30, 3000], ['Product D', 40, 4000]]): TypeError: list indices must be integers or slices, not str", "excluded_by_us": false}
+{"id": "BigCodeBench/513", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: KeyError: 'Invalid column: Steps'", "excluded_by_us": false}
+{"id": "BigCodeBench/514", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/515", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/516", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1 (array=[[-1, -2, -3, -4, -5], [-6, -7, -8, -9, -10]]): ValueError: 4 columns passed, passed data had 5 columns", "excluded_by_us": false}
+{"id": "BigCodeBench/517", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: 2 columns passed, passed data had 5 columns", "excluded_by_us": false}
+{"id": "BigCodeBench/518", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AttributeError: 'numpy.ndarray' object has no attribute 'columns'", "excluded_by_us": false}
+{"id": "BigCodeBench/519", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AttributeError: 'DataFrame' object has no attribute 'append'. Did you mean: '_append'?", "excluded_by_us": false}
+{"id": "BigCodeBench/520", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_3: ValueError: All dictionaries must have the same keys (fruit names).", "excluded_by_us": false}
+{"id": "BigCodeBench/521", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: KeyError: 'index'", "excluded_by_us": false}
+{"id": "BigCodeBench/522", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: 5.75 != 9.25", "excluded_by_us": false}
+{"id": "BigCodeBench/523", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: KeyError: \"None of ['Time'] are in the columns\"", "excluded_by_us": false}
+{"id": "BigCodeBench/524", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: TypeError: tuple indices must be integers or slices, not str", "excluded_by_us": false}
+{"id": "BigCodeBench/525", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_3: TypeError: string indices must be integers", "excluded_by_us": false}
+{"id": "BigCodeBench/526", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_3: + ['a', 'b']", "excluded_by_us": false}
+{"id": "BigCodeBench/527", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: TypeError: unhashable type: 'dict'", "excluded_by_us": false}
+{"id": "BigCodeBench/528", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: TypeError: unhashable type: 'dict'", "excluded_by_us": false}
+{"id": "BigCodeBench/529", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_6:  : Y-axis label is incorrect", "excluded_by_us": false}
+{"id": "BigCodeBench/530", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AttributeError: 'numpy.ndarray' object has no attribute 'empty'", "excluded_by_us": false}
+{"id": "BigCodeBench/531", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: Counter({2: 2}) != Counter({(2, 1): 3})", "excluded_by_us": false}
+{"id": "BigCodeBench/532", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: [(1, 1), (2, 1), (3, 1), (4, 1), (5, 1)] != Counter()", "excluded_by_us": false}
+{"id": "BigCodeBench/533", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_different_salts_different_hashes: AssertionError: '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefgh' == '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefgh'", "excluded_by_us": false}
+{"id": "BigCodeBench/534", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_base_conversion_and_signing: UnicodeDecodeError: 'utf-8' codec can't decode byte 0xa1 in position 0: invalid start byte", "excluded_by_us": false}
+{"id": "BigCodeBench/535", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: NameError: name 'name' is not defined", "excluded_by_us": false}
+{"id": "BigCodeBench/536", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/537", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1:  : The x-axis label should be 'age'.", "excluded_by_us": false}
+{"id": "BigCodeBench/538", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: + age", "excluded_by_us": false}
+{"id": "BigCodeBench/539", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/540", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/541", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_module_path_in_sys_path: AssertionError: False is not true", "excluded_by_us": false}
+{"id": "BigCodeBench/542", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/543", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/544", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/545", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_consistency_of_output: TypeError: encoding with 'utf-8' codec failed (TypeError: utf_8_encode() argument 1 must be str, not float)", "excluded_by_us": false}
+{"id": "BigCodeBench/546", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/547", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/548", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/549", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/550", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/551", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_empty_list: AssertionError: <Axes: title={'center': 'Frequency of Menu Items'}, xlabel='Menu Item', ylabel='Frequency'> is not None", "excluded_by_us": false}
+{"id": "BigCodeBench/552", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_empty_lists: ValueError: not enough values to unpack (expected 2, got 0)", "excluded_by_us": false}
+{"id": "BigCodeBench/553", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_a_list_longer_than_columns: ValueError: All elements in 'b' must be numeric.", "excluded_by_us": false}
+{"id": "BigCodeBench/554", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_is_palindrome: + level racecar banana world rotor rotor dlrow ananab racecar level", "excluded_by_us": false}
+{"id": "BigCodeBench/555", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/556", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/557", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/558", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_empty_lists: ValueError: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required by StandardScaler.", "excluded_by_us": false}
+{"id": "BigCodeBench/559", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: Length of values (3) does not match length of index (2)", "excluded_by_us": false}
+{"id": "BigCodeBench/560", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_basic_functionality: ValueError: Input data must be a pandas DataFrame with 'month' and 'value' columns.", "excluded_by_us": false}
+{"id": "BigCodeBench/561", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_same_timezone_conversion: ValueError: The input date string must include timezone information.", "excluded_by_us": false}
+{"id": "BigCodeBench/562", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_return_type: OSError: Invalid filepath: libc.so.6", "excluded_by_us": false}
+{"id": "BigCodeBench/563", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_dll_file_movement: AssertionError: True is not false : The DLL file should not exist in the source directory after moving.", "excluded_by_us": false}
+{"id": "BigCodeBench/564", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_metadata_printing: OSError: path/to/test.dll: cannot open shared object file: No such file or directory", "excluded_by_us": false}
+{"id": "BigCodeBench/565", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_dll_name_returned: + test.dll", "excluded_by_us": false}
+{"id": "BigCodeBench/566", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_annotations: AttributeError: 'Signature' object has no attribute 'default'", "excluded_by_us": false}
+{"id": "BigCodeBench/567", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: could not convert string to float: '1-2-3-4-5'", "excluded_by_us": false}
+{"id": "BigCodeBench/568", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_function_with_defaults: ValueError: Unsupported function type: <class 'function'>", "excluded_by_us": false}
+{"id": "BigCodeBench/569", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_function_with_multiple_defaults: AttributeError: 'Signature' object has no attribute 'defaults'", "excluded_by_us": false}
+{"id": "BigCodeBench/570", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_function_annotations: TypeError: Object of type type is not JSON serializable", "excluded_by_us": false}
+{"id": "BigCodeBench/571", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_io_error: NameError: name 'types' is not defined. Did you mean: 'type'?", "excluded_by_us": false}
+{"id": "BigCodeBench/572", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: IndexError: list index out of range", "excluded_by_us": false}
+{"id": "BigCodeBench/573", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/574", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: + x", "excluded_by_us": false}
+{"id": "BigCodeBench/575", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_shuffle_and_roll_operation: ValueError: cannot set using a slice indexer with a different length than the value", "excluded_by_us": false}
+{"id": "BigCodeBench/576", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_series_length: AssertionError: 10 != 50 : The series length should match the expected length.", "excluded_by_us": false}
+{"id": "BigCodeBench/577", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/578", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/579", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_normalized_text: TypeError: Axes.bar() missing 2 required positional arguments: 'x' and 'height'", "excluded_by_us": false}
+{"id": "BigCodeBench/580", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_columns_existence: ValueError: All arrays must be of the same length", "excluded_by_us": false}
+{"id": "BigCodeBench/581", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/582", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_histogram_pdf_overlay: AssertionError: 30 != 28 : Number of histogram bins does not match expected", "excluded_by_us": false}
+{"id": "BigCodeBench/583", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_encryption_decryption: ValueError: Incorrect AES key length (18 bytes)", "excluded_by_us": false}
+{"id": "BigCodeBench/584", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_hashing_of_content: TypeError: object supporting the buffer API required", "excluded_by_us": false}
+{"id": "BigCodeBench/585", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/586", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/587", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_aes_key_file_content: AttributeError: module 'cryptography.hazmat.primitives.ciphers.modes' has no attribute 'EAX'", "excluded_by_us": false}
+{"id": "BigCodeBench/588", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/589", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/590", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_dynamic_comparison: urllib.error.URLError: <urlopen error [Errno -3] Temporary failure in name resolution>", "excluded_by_us": true}
+{"id": "BigCodeBench/591", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/592", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_csv_file_creation: AssertionError: False is not true", "excluded_by_us": false}
+{"id": "BigCodeBench/593", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_dataframe_content: AssertionError: Expected 'show' to have been called.", "excluded_by_us": false}
+{"id": "BigCodeBench/594", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_backup_file_creation: Actual: copy('./output/weather_data_1h.csv', './output/backups/weather_data_1h_backup_20261006_153712.csv')", "excluded_by_us": false}
+{"id": "BigCodeBench/595", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/596", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/597", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_insensitivity: TypeError: unsupported operand type(s) for +: 'int' and 'str'", "excluded_by_us": false}
+{"id": "BigCodeBench/598", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/599", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_filter_by_letter: AttributeError: 'list' object has no attribute 'str'", "excluded_by_us": false}
+{"id": "BigCodeBench/600", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AttributeError: 'list' object has no attribute 'str'", "excluded_by_us": false}
+{"id": "BigCodeBench/601", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_boxplot_called: AssertionError: Expected 'boxplot' to have been called once. Called 0 times.", "excluded_by_us": false}
+{"id": "BigCodeBench/602", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: OSError: Cannot save file into a non-existent directory: 'output/output'", "excluded_by_us": false}
+{"id": "BigCodeBench/603", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/604", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_compilation_failure: FileNotFoundError: The file example.cpp does not exist.", "excluded_by_us": false}
+{"id": "BigCodeBench/605", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/606", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_3: At positional index 0, first diff: nan != 0.0", "excluded_by_us": false}
+{"id": "BigCodeBench/607", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_no_row_removal: ValueError: too many values to unpack (expected 2)", "excluded_by_us": false}
+{"id": "BigCodeBench/608", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: KeyError: '[(10, 20, 30, 40, 50), (60, 70, 80, 90, 100)] not found in axis'", "excluded_by_us": false}
+{"id": "BigCodeBench/609", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_3: AssertionError: False is not true", "excluded_by_us": false}
+{"id": "BigCodeBench/610", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_4: AssertionError: False is not true", "excluded_by_us": false}
+{"id": "BigCodeBench/611", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_basic_functionality: ValueError: too many values to unpack (expected 2)", "excluded_by_us": false}
+{"id": "BigCodeBench/612", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_all_teams_penalty: TypeError: unsupported operand type(s) for -: 'str' and 'str'", "excluded_by_us": false}
+{"id": "BigCodeBench/613", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_clipping_negative_scores: TypeError: unsupported operand type(s) for -: 'str' and 'str'", "excluded_by_us": false}
+{"id": "BigCodeBench/614", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_data_integrity: ValueError: Mixing dicts with non-Series may lead to ambiguous ordering.", "excluded_by_us": false}
+{"id": "BigCodeBench/615", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_extremely_high_values: AttributeError: 'float' object has no attribute 'split'", "excluded_by_us": false}
+{"id": "BigCodeBench/616", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_custom_penalty_cost: AssertionError: False is not true", "excluded_by_us": false}
+{"id": "BigCodeBench/617", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_dataframe_structure: ?          ++++++++++++++++", "excluded_by_us": false}
+{"id": "BigCodeBench/618", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ?     ^", "excluded_by_us": false}
+{"id": "BigCodeBench/619", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/620", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: + (6, 30)", "excluded_by_us": false}
+{"id": "BigCodeBench/621", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: IndexError: list index out of range", "excluded_by_us": false}
+{"id": "BigCodeBench/622", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/623", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/624", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/625", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: False is not true", "excluded_by_us": false}
+{"id": "BigCodeBench/626", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: unconverted data remains:  BST+0100", "excluded_by_us": false}
+{"id": "BigCodeBench/627", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: TypeError: 'dict_values' object is not subscriptable", "excluded_by_us": false}
+{"id": "BigCodeBench/628", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: + Time", "excluded_by_us": false}
+{"id": "BigCodeBench/629", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/630", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/631", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_returned_path_format: AssertionError: False is not true", "excluded_by_us": false}
+{"id": "BigCodeBench/632", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/633", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: NameError: name 'stop_words' is not defined. Did you mean: 'stopwords'?", "excluded_by_us": false}
+{"id": "BigCodeBench/634", "official_pass": false, "official_status": "fail", "detail": "[runtime] ALL: module 'scipy.stats' has no attribute 'ModeResult'", "excluded_by_us": true}
+{"id": "BigCodeBench/635", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_duplicate_words: IndexError: list index out of range", "excluded_by_us": false}
+{"id": "BigCodeBench/636", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: 5 != 0", "excluded_by_us": false}
+{"id": "BigCodeBench/637", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ?      ^", "excluded_by_us": false}
+{"id": "BigCodeBench/638", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_3: + ['Team1', 'Team2', 'Team3', 'Team4']", "excluded_by_us": false}
+{"id": "BigCodeBench/639", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/640", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/641", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/642", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/643", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/644", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: Fernet key must be 32 url-safe base64-encoded bytes.", "excluded_by_us": false}
+{"id": "BigCodeBench/645", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_empty_csv: pandas.errors.EmptyDataError: No columns to parse from file", "excluded_by_us": false}
+{"id": "BigCodeBench/646", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/647", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/648", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: datetime.datetime(2022, 10, 22, 0, 0) != datetime.datetime(2022, 10, 24, 0, 0)", "excluded_by_us": false}
+{"id": "BigCodeBench/649", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: [right]: int64", "excluded_by_us": false}
+{"id": "BigCodeBench/650", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_different_timezone: NameError: name 'timedelta' is not defined", "excluded_by_us": false}
+{"id": "BigCodeBench/651", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AttributeError: 'dict' object has no attribute 'empty'", "excluded_by_us": false}
+{"id": "BigCodeBench/652", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_empty_array: AssertionError: 'N/A' != ('N/A', 'N/A', 'N/A', 'N/A') : Should return 'N/A' for all stats if no target value found.", "excluded_by_us": false}
+{"id": "BigCodeBench/653", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/654", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_functionality:  : Should return three coefficients.", "excluded_by_us": false}
+{"id": "BigCodeBench/655", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_all_stopwords: ValueError: empty vocabulary; perhaps the documents only contain stop words", "excluded_by_us": false}
+{"id": "BigCodeBench/656", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/657", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: 'python' not found in {'a': 0, 'e': 1, 'g': 2, 'n': 3, 'i': 4, 'r': 5, 'l': 6, 'o': 7, 'm': 8, 'h': 9, 't': 10, 'y': 11, 'p': 12, 's': 13, 'w': 14, 'u': 15, 'd': 16, 'v': 17, 'f': 18, 'c': 19}", "excluded_by_us": false}
+{"id": "BigCodeBench/658", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/659", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/660", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/661", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ?     ^", "excluded_by_us": false}
+{"id": "BigCodeBench/662", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: all the input array dimensions for the concatenation axis must match exactly, but along dimension 0, the array at index 0 has size 20 and the array at index 1 has size 5", "excluded_by_us": false}
+{"id": "BigCodeBench/663", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_no_data: AssertionError: ValueError not raised : Empty data lists should raise a ValueError.", "excluded_by_us": false}
+{"id": "BigCodeBench/664", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_monthly_ticks: NameError: name 'data' is not defined", "excluded_by_us": false}
+{"id": "BigCodeBench/665", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/666", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/667", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/668", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: + ['a']", "excluded_by_us": false}
+{"id": "BigCodeBench/669", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/670", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/671", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/672", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/673", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/674", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_5: pandas.errors.EmptyDataError: No columns to parse from file", "excluded_by_us": false}
+{"id": "BigCodeBench/675", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/676", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: DataFrame must contain 'Team1', 'Team2', 'Score1', 'Score2' columns.", "excluded_by_us": false}
+{"id": "BigCodeBench/677", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/678", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_empty_directory: ValueError: No objects to concatenate", "excluded_by_us": false}
+{"id": "BigCodeBench/679", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: KeyError: \"['combination'] not found in axis\"", "excluded_by_us": false}
+{"id": "BigCodeBench/680", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_5: ValueError: at least one array or dtype is required", "excluded_by_us": false}
+{"id": "BigCodeBench/681", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: True is not false", "excluded_by_us": false}
+{"id": "BigCodeBench/682", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: +  'ule': -0.27941549819892586}", "excluded_by_us": false}
+{"id": "BigCodeBench/683", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: TypeError: 'int' object is not iterable", "excluded_by_us": false}
+{"id": "BigCodeBench/684", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/685", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/686", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": true}
+{"id": "BigCodeBench/687", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/688", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/689", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/690", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/691", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/692", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/693", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/694", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/695", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/696", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/697", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: TypeError: object of type 'numpy.float64' has no len()", "excluded_by_us": false}
+{"id": "BigCodeBench/698", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/699", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": true}
+{"id": "BigCodeBench/700", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/701", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: nan != 1.0", "excluded_by_us": false}
+{"id": "BigCodeBench/702", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/703", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/704", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/705", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/706", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AttributeError: 'numpy.ndarray' object has no attribute 'columns'", "excluded_by_us": false}
+{"id": "BigCodeBench/707", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: False is not true", "excluded_by_us": false}
+{"id": "BigCodeBench/708", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: KeyError: 0", "excluded_by_us": false}
+{"id": "BigCodeBench/709", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/710", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/711", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: KeyError: 0", "excluded_by_us": false}
+{"id": "BigCodeBench/712", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/713", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_all_keywords: AssertionError: False is not true", "excluded_by_us": false}
+{"id": "BigCodeBench/714", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/715", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_switch_to_default_python_version: NameError: name 'shutil' is not defined", "excluded_by_us": false}
+{"id": "BigCodeBench/716", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_default_json: ValueError: time data '2026-10-06 15:38:31' does not match format '%Y-%m-%d %H:%M:%S.%f'", "excluded_by_us": false}
+{"id": "BigCodeBench/717", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_append_path_and_update_config: KeyError: 'path_to_append'", "excluded_by_us": false}
+{"id": "BigCodeBench/718", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_1: numpy.core._exceptions._UFuncNoLoopError: ufunc 'subtract' did not contain a loop with signature matching types (dtype('<U5'), dtype('<U8')) -> None", "excluded_by_us": false}
+{"id": "BigCodeBench/719", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/720", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_data_appending: AssertionError: 21 != 12", "excluded_by_us": false}
+{"id": "BigCodeBench/721", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/722", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_mixed_case_errors: AssertionError: 3 != 1", "excluded_by_us": false}
+{"id": "BigCodeBench/723", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_correct_scraping: FileNotFoundError: [Errno 2] No such file or directory: ''", "excluded_by_us": false}
+{"id": "BigCodeBench/724", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/725", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_nonexistent_directory: FileNotFoundError: The directory ./nonexistent/ does not exist.", "excluded_by_us": false}
+{"id": "BigCodeBench/726", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_duplicate_words: AssertionError: 2 != 4", "excluded_by_us": false}
+{"id": "BigCodeBench/727", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_empty_string: AssertionError: 8 != 0", "excluded_by_us": false}
+{"id": "BigCodeBench/728", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: TypeError: 'NoneType' object is not iterable", "excluded_by_us": false}
+{"id": "BigCodeBench/729", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_empty_list: ValueError: The 'strings' list cannot be empty.", "excluded_by_us": false}
+{"id": "BigCodeBench/730", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_datetime_saving_and_loading: FileNotFoundError: [Errno 2] No such file or directory: ''", "excluded_by_us": false}
+{"id": "BigCodeBench/731", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/732", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ?         ^", "excluded_by_us": false}
+{"id": "BigCodeBench/733", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/734", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": true}
+{"id": "BigCodeBench/735", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/736", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": true}
+{"id": "BigCodeBench/737", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_median_deep_nesting: TypeError: 'numpy.float64' object is not iterable", "excluded_by_us": false}
+{"id": "BigCodeBench/738", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/739", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_no_seed: AssertionError: False is not true", "excluded_by_us": false}
+{"id": "BigCodeBench/740", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_few_letters: + ['b', 'a']", "excluded_by_us": false}
+{"id": "BigCodeBench/741", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_1: + {'a': 4, 'b': 11}", "excluded_by_us": false}
+{"id": "BigCodeBench/742", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: Values must be numeric tuples.", "excluded_by_us": false}
+{"id": "BigCodeBench/743", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/744", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: + ['$abc', '$efg', '$hij']", "excluded_by_us": false}
+{"id": "BigCodeBench/745", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_full_path_execution: Actual: not called.", "excluded_by_us": false}
+{"id": "BigCodeBench/746", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: target_values must be an array-like object", "excluded_by_us": false}
+{"id": "BigCodeBench/747", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/748", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_standard_usage: [right]: float64", "excluded_by_us": false}
+{"id": "BigCodeBench/749", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/750", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/751", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/752", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_test_size: AssertionError: Exception not raised by task_func", "excluded_by_us": false}
+{"id": "BigCodeBench/753", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/754", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: KeyError: 'current_time'", "excluded_by_us": false}
+{"id": "BigCodeBench/755", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_files_with_multiple_extensions: AttributeError: 'str' object has no attribute 'name'", "excluded_by_us": false}
+{"id": "BigCodeBench/756", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/757", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: Input must be a numpy array of strings.", "excluded_by_us": false}
+{"id": "BigCodeBench/758", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: All arrays must be of the same length", "excluded_by_us": false}
+{"id": "BigCodeBench/759", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_sensitivity: PermissionError: [Errno 13] Permission denied: '/fake'", "excluded_by_us": false}
+{"id": "BigCodeBench/760", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_custom_parameters: AssertionError: False is not true", "excluded_by_us": false}
+{"id": "BigCodeBench/761", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_basic: ?                                       ^", "excluded_by_us": false}
+{"id": "BigCodeBench/762", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_2: AssertionError: False is not true", "excluded_by_us": false}
+{"id": "BigCodeBench/763", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: TypeError: 'int' object is not iterable", "excluded_by_us": false}
+{"id": "BigCodeBench/764", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_4: IndexError: list index out of range", "excluded_by_us": false}
+{"id": "BigCodeBench/765", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_files_with_content: AssertionError: 0 != 2", "excluded_by_us": false}
+{"id": "BigCodeBench/766", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/767", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/768", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/769", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/770", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/771", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_file_creation_and_content: + ['Shan.csv', 'Shannon.csv']", "excluded_by_us": false}
+{"id": "BigCodeBench/772", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: Found array with 0 feature(s) (shape=(1000000, 0)) while a minimum of 1 is required.", "excluded_by_us": false}
+{"id": "BigCodeBench/773", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_incorrect_file_patterns: PermissionError: [Errno 13] Permission denied: '/target'", "excluded_by_us": false}
+{"id": "BigCodeBench/774", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: 2.7327712733081846 != 0.47332912782858 within 7 places (2.2594421454796048 difference)", "excluded_by_us": false}
+{"id": "BigCodeBench/775", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: Input string must be in the format 'prefix-suffix', where suffix is a single lowercase letter.", "excluded_by_us": false}
+{"id": "BigCodeBench/776", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/777", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: 'makedirs' does not contain all of (call('/fake/test_zip_dir/sample', exist_ok=True), call('/fake/test_zip_dir/test_data', exist_ok=True), call('/fake/test_zip_dir/data_test', exist_ok=True)) in its ca", "excluded_by_us": false}
+{"id": "BigCodeBench/778", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: TypeError: 'itertools._grouper' object is not subscriptable", "excluded_by_us": false}
+{"id": "BigCodeBench/779", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_backup_failure: AssertionError: 'Copy failed' not found in ['Failed to copy directory /fake/source to /tmp/backup/source: Copy failed']", "excluded_by_us": false}
+{"id": "BigCodeBench/780", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_conversion_and_grouping: [right]: (3, 4)", "excluded_by_us": false}
+{"id": "BigCodeBench/781", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_empty_file: AssertionError: 0 != '0 bytes'", "excluded_by_us": false}
+{"id": "BigCodeBench/782", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/783", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/784", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/785", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_archive_image_files: TypeError: stat: path should be string, bytes, os.PathLike or integer, not NoneType", "excluded_by_us": false}
+{"id": "BigCodeBench/786", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/787", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_mixed_values: ValueError: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()", "excluded_by_us": false}
+{"id": "BigCodeBench/788", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_N: AssertionError: nan not greater than 0.1", "excluded_by_us": false}
+{"id": "BigCodeBench/789", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_normal_functionality:  : Array shape should be (10, 1)", "excluded_by_us": false}
+{"id": "BigCodeBench/790", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/791", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: MemoryError", "excluded_by_us": false}
+{"id": "BigCodeBench/792", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/793", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_custom_list_input: + ['V', 'X', 'U', 'W', 'Y', 'Z']", "excluded_by_us": false}
+{"id": "BigCodeBench/794", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/795", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/796", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: '/tmp/tmptnsat84g/temp_test_dir/folder1/file(5).jpg' not found in ['/tmp/tmptnsat84g/temp_test_dir/file(2).txt', '/tmp/tmptnsat84g/temp_test_dir/file[3].png', '/tmp/tmptnsat84g/temp_test_dir/file{4}.jp", "excluded_by_us": false}
+{"id": "BigCodeBench/797", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: KeyError: 'Test'", "excluded_by_us": false}
+{"id": "BigCodeBench/798", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_directory_does_not_exist: + /tmp/nonexistent", "excluded_by_us": false}
+{"id": "BigCodeBench/799", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_all_identical_rows: ValueError: 26 columns passed, passed data had 3 columns", "excluded_by_us": false}
+{"id": "BigCodeBench/800", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_2: AssertionError: Counter() != Counter({'goals': 5, 'penalties': 3}) : Test Case 2 Failed", "excluded_by_us": false}
+{"id": "BigCodeBench/801", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_common_values_sorted: TypeError: 'NoneType' object is not iterable", "excluded_by_us": false}
+{"id": "BigCodeBench/802", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_zero_dimension: AssertionError: ValueError not raised", "excluded_by_us": false}
+{"id": "BigCodeBench/803", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/804", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_empty_metrics: AssertionError: 1 != 2", "excluded_by_us": false}
+{"id": "BigCodeBench/805", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: TypeError: can only concatenate str (not \"int\") to str", "excluded_by_us": false}
+{"id": "BigCodeBench/806", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: {'quick brown': 1, 'brown fox': 1, 'fox j[36 chars]': 1} != Counter({('quick', 'brown'): 1, ('brown',[70 chars]: 1})", "excluded_by_us": false}
+{"id": "BigCodeBench/807", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: 1333.2380952380954 != 1142.78 within 0.1 delta (190.45809523809544 difference)", "excluded_by_us": false}
+{"id": "BigCodeBench/808", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: 'Sentiment: 0.13888888888888887' is not an instance of <class 'tuple'> : The function should return a tuple", "excluded_by_us": false}
+{"id": "BigCodeBench/809", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: False is not true", "excluded_by_us": false}
+{"id": "BigCodeBench/810", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_executing_files: FileNotFoundError: [Errno 2] No such file or directory: 'C:\\\\TestDir'", "excluded_by_us": false}
+{"id": "BigCodeBench/811", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AttributeError: 'list' object has no attribute 'keys'", "excluded_by_us": false}
+{"id": "BigCodeBench/812", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_file_permission_issues: PermissionError: [Errno 13] Permission denied: '/tmp/tmpoj5tw5lj/AcroTray.exe'", "excluded_by_us": false}
+{"id": "BigCodeBench/813", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: 1 columns passed, passed data had 3 columns", "excluded_by_us": false}
+{"id": "BigCodeBench/814", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_invalid_files_not_moved: -  'test2.txt'] : Invalid files were moved.", "excluded_by_us": false}
+{"id": "BigCodeBench/815", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/816", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/817", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpvlixuv0n/task_func.log'", "excluded_by_us": false}
+{"id": "BigCodeBench/818", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_empty_string: + ['']", "excluded_by_us": false}
+{"id": "BigCodeBench/819", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/820", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/821", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AttributeError: 'Thread' object has no attribute 'result'", "excluded_by_us": false}
+{"id": "BigCodeBench/822", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_negative_num_digits: AssertionError: ValueError not raised : Should raise ValueError for negative num_digits", "excluded_by_us": false}
+{"id": "BigCodeBench/823", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/824", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/825", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: Diff is 659 characters long. Set self.maxDiff to None to see it.", "excluded_by_us": false}
+{"id": "BigCodeBench/826", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/827", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/828", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_invalid_source_file: OSError: Failed to copy file: [Errno 2] No such file or directory: '/invalid/path/to/file.txt'", "excluded_by_us": false}
+{"id": "BigCodeBench/829", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: TypeError: 'tuple' object is not an iterator", "excluded_by_us": false}
+{"id": "BigCodeBench/830", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/831", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_rng: + (4, 95, 9.539392014169456)", "excluded_by_us": false}
+{"id": "BigCodeBench/832", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_serialization_failure: PermissionError: [Errno 13] Permission denied: '/non'", "excluded_by_us": false}
+{"id": "BigCodeBench/833", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/834", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/835", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: KeyError: '[1, 3] not found in axis'", "excluded_by_us": false}
+{"id": "BigCodeBench/836", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_empty_file: PermissionError: [Errno 13] Permission denied: '/fake'", "excluded_by_us": false}
+{"id": "BigCodeBench/837", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: KeyError: \"None of [Index([0], dtype='int64')] are in the [columns]\"", "excluded_by_us": false}
+{"id": "BigCodeBench/838", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/839", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/840", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/841", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/842", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/843", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/844", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: TypeError: Calling `.seed()` on instances is deprecated. Use the class method `Faker.seed()` instead.", "excluded_by_us": false}
+{"id": "BigCodeBench/845", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_different_strings: ?  ^", "excluded_by_us": true}
+{"id": "BigCodeBench/846", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/847", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/848", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/849", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ?  +++++++++++", "excluded_by_us": false}
+{"id": "BigCodeBench/850", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_average_grade_calculation: TypeError: 'list' object cannot be interpreted as an integer", "excluded_by_us": false}
+{"id": "BigCodeBench/851", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1:   coding!", "excluded_by_us": false}
+{"id": "BigCodeBench/852", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/853", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_basic_functionality: FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpl7mqiwgn/test_dir_1/Invalid/test1.pdf'", "excluded_by_us": false}
+{"id": "BigCodeBench/854", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: IndexError: list index out of range", "excluded_by_us": false}
+{"id": "BigCodeBench/855", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/856", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_5: AssertionError: ValueError not raised", "excluded_by_us": false}
+{"id": "BigCodeBench/857", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_all_extensions: -  'file4.jpg']", "excluded_by_us": false}
+{"id": "BigCodeBench/858", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/859", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/860", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/861", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_2: TypeError: 'list' object cannot be interpreted as an integer", "excluded_by_us": false}
+{"id": "BigCodeBench/862", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/863", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/864", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: KeyError: \"None of ['fruit'] are in the columns\"", "excluded_by_us": false}
+{"id": "BigCodeBench/865", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: False is not true", "excluded_by_us": false}
+{"id": "BigCodeBench/866", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/867", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/868", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/869", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: IndexError: range object index out of range", "excluded_by_us": false}
+{"id": "BigCodeBench/870", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_custom_data: KeyError: 'Position 1'", "excluded_by_us": false}
+{"id": "BigCodeBench/871", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_function_with_incomplete_tuples: IndexError: tuple index out of range", "excluded_by_us": false}
+{"id": "BigCodeBench/872", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_uneven_tuples:  y: array([      nan, 3.       , 4.6666667, 6.       ])", "excluded_by_us": false}
+{"id": "BigCodeBench/873", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_empty_data: ValueError: max() arg is an empty sequence", "excluded_by_us": false}
+{"id": "BigCodeBench/874", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_negative_coordinates: + [1.4142135623730951, 1.4142135623730951, 1.4142135623730951]", "excluded_by_us": false}
+{"id": "BigCodeBench/875", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_random_fill: ValueError: Must specify a fill 'value' or 'method'.", "excluded_by_us": false}
+{"id": "BigCodeBench/876", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_non_existent_source_directory: FileNotFoundError: [Errno 2] No such file or directory: '/path/to/non/existent/directory'", "excluded_by_us": false}
+{"id": "BigCodeBench/877", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/878", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/879", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_edge_case_non_categorical: ValueError: Some categories have less than 5 observations, violating chi-square test assumptions.", "excluded_by_us": false}
+{"id": "BigCodeBench/880", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/881", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/882", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_different_pattern: pandas.errors.DatabaseError: Execution failed on sql 'SELECT * FROM test_table WHERE test_column REGEXP '1ab2x'': no such function: REGEXP", "excluded_by_us": false}
+{"id": "BigCodeBench/883", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_constant_value: ValueError: Invalid input, x is constant", "excluded_by_us": false}
+{"id": "BigCodeBench/884", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_diff_filter: TypeError: Series.reindex() got an unexpected keyword argument 'columns'", "excluded_by_us": false}
+{"id": "BigCodeBench/885", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/886", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_all_same_age: ValueError: The input dictionary must contain 'Name', 'Age', and 'Scores' keys.", "excluded_by_us": false}
+{"id": "BigCodeBench/887", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/888", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_with_nonexistent_file: AssertionError: FileNotFoundError not raised", "excluded_by_us": false}
+{"id": "BigCodeBench/889", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_empty_csv: pandas.errors.EmptyDataError: No columns to parse from file", "excluded_by_us": false}
+{"id": "BigCodeBench/890", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_empty_file: pandas.errors.EmptyDataError: No columns to parse from file", "excluded_by_us": false}
+{"id": "BigCodeBench/891", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_invalid_attribute: ValueError: Attribute 'nonexistent_target' not found in the dataset.", "excluded_by_us": false}
+{"id": "BigCodeBench/892", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: 1 != 10", "excluded_by_us": false}
+{"id": "BigCodeBench/893", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_2: ?                                                              ^", "excluded_by_us": false}
+{"id": "BigCodeBench/894", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: 50.1663 != 49.6135", "excluded_by_us": false}
+{"id": "BigCodeBench/895", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: 50.1663 != 250.7154", "excluded_by_us": false}
+{"id": "BigCodeBench/896", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_specific_distribution: AssertionError: Counter({'a': 4, 'd': 3, 'b': 2, 'c': 1}) != Counter({'b': 3, 'a': 3, 'e': 2, 'c': 1, 'd': 1}) : The letter distribution should match the expected distribution.", "excluded_by_us": false}
+{"id": "BigCodeBench/897", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/898", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: Counter({'da': 1, 'bb': 1, 'dd': 1, 'ea': 1, 'ca': 1}) != Counter({('d', 'a'): 1, ('b', 'b'): 1, ('d', 'd'):[29 chars]: 1})", "excluded_by_us": false}
+{"id": "BigCodeBench/899", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_output_type: + [0, 1, 0, -1, -2, -1]", "excluded_by_us": false}
+{"id": "BigCodeBench/900", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_all_keys_missing: KeyError: 'sum'", "excluded_by_us": false}
+{"id": "BigCodeBench/901", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_3: [right]: (0, 3)", "excluded_by_us": false}
+{"id": "BigCodeBench/902", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_all_keys_present: TypeError: 'int' object is not iterable", "excluded_by_us": false}
+{"id": "BigCodeBench/903", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_single_predictor: KeyError: \"['y'] not in index\"", "excluded_by_us": false}
+{"id": "BigCodeBench/904", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_basic_input: 'z'", "excluded_by_us": false}
+{"id": "BigCodeBench/905", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: 'file1' not found in {}", "excluded_by_us": false}
+{"id": "BigCodeBench/906", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: 'file2_processed.txt' not found in []", "excluded_by_us": false}
+{"id": "BigCodeBench/907", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/908", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_plot_titles: 'sales_data_2021.csv' : Plot titles should match the CSV filenames", "excluded_by_us": false}
+{"id": "BigCodeBench/909", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/910", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/911", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/912", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/913", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_empty_list: KeyError: 'fft'", "excluded_by_us": false}
+{"id": "BigCodeBench/914", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: DataFrame must contain 'Date' and 'Close' columns.", "excluded_by_us": false}
+{"id": "BigCodeBench/915", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_2: KeyError: 'Z_score'", "excluded_by_us": false}
+{"id": "BigCodeBench/916", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: DataFrame must contain a 'Close' column with numerical data.", "excluded_by_us": false}
+{"id": "BigCodeBench/917", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: DataFrame must have a DatetimeIndex and a 'Close' column.", "excluded_by_us": false}
+{"id": "BigCodeBench/918", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_non_string_types: TypeError: expected string or bytes-like object", "excluded_by_us": false}
+{"id": "BigCodeBench/919", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_with_all_categories: AttributeError: 'dict' object has no attribute 'columns'", "excluded_by_us": false}
+{"id": "BigCodeBench/920", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: Input must be a DataFrame with numerical columns.", "excluded_by_us": false}
+{"id": "BigCodeBench/921", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: Input data must be a pandas DataFrame.", "excluded_by_us": false}
+{"id": "BigCodeBench/922", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: At positional index 1, first diff: another example != Another example", "excluded_by_us": false}
+{"id": "BigCodeBench/923", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/924", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_4: KeyError: ''", "excluded_by_us": false}
+{"id": "BigCodeBench/925", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/926", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/927", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/928", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/929", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: -1.4426951601859516e-10 != 1.6094379124341005", "excluded_by_us": false}
+{"id": "BigCodeBench/930", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_empty_string: ValueError: Input contains non-letter characters.", "excluded_by_us": false}
+{"id": "BigCodeBench/931", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/932", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/933", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_basic_word: AssertionError: [('a', 1), ('b', 2), ('c', 3)] != ([('a', 1), ('b', 2), ('c', 3)], ['abc'])", "excluded_by_us": false}
+{"id": "BigCodeBench/934", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: {'bc9af285d87b312e61ab3661e66b741b': {'ab[55 chars]: 1}} != 'bc9af285d87b312e61ab3661e66b741b'", "excluded_by_us": false}
+{"id": "BigCodeBench/935", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_abc: [right]: int64", "excluded_by_us": false}
+{"id": "BigCodeBench/936", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: 1 != 2 : The height of the second bar should be 2.", "excluded_by_us": false}
+{"id": "BigCodeBench/937", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/938", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_clean_text_and_calculate_length: TypeError: expected string or bytes-like object", "excluded_by_us": false}
+{"id": "BigCodeBench/939", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_alphanumeric_names: + ['file1txt', 'file2txt', 'file3txt']", "excluded_by_us": false}
+{"id": "BigCodeBench/940", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ?              ++++++++++++++", "excluded_by_us": true}
+{"id": "BigCodeBench/941", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_basic_forecast: ValueError: ('Shapes must match', (2,), (1,))", "excluded_by_us": false}
+{"id": "BigCodeBench/942", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: False is not true", "excluded_by_us": false}
+{"id": "BigCodeBench/943", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_additive_decomposition_properties: ValueError: x must have 2 complete cycles requires 72 observations. x only has 36 observation(s)", "excluded_by_us": false}
+{"id": "BigCodeBench/944", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_default_parameters:  : Plot title should be 'Stock Prices'", "excluded_by_us": false}
+{"id": "BigCodeBench/945", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_forecasted_values_increasing: UnboundLocalError: local variable 'dates' referenced before assignment", "excluded_by_us": false}
+{"id": "BigCodeBench/946", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: + [49, 53, 33]", "excluded_by_us": false}
+{"id": "BigCodeBench/947", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: TypeError: int() argument must be a string, a bytes-like object or a real number, not 'datetime.timedelta'", "excluded_by_us": false}
+{"id": "BigCodeBench/948", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/949", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/950", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ?     ^", "excluded_by_us": false}
+{"id": "BigCodeBench/951", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: TypeError: 'int' object is not callable", "excluded_by_us": false}
+{"id": "BigCodeBench/952", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: False is not true", "excluded_by_us": false}
+{"id": "BigCodeBench/953", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ?       ^             ^", "excluded_by_us": false}
+{"id": "BigCodeBench/954", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_4: AssertionError: 'apple_banana' not found in 'fig apple cherry cherry grape grape apple banana apple date apple' : Case sensitivity not handled properly", "excluded_by_us": false}
+{"id": "BigCodeBench/955", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_2: + hello_world!", "excluded_by_us": false}
+{"id": "BigCodeBench/956", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: 11 != 13 : Length should match processed input.", "excluded_by_us": false}
+{"id": "BigCodeBench/957", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ?      ^  ^", "excluded_by_us": false}
+{"id": "BigCodeBench/958", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/959", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/960", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/961", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: TypeError: join() got an unexpected keyword argument 'recursive'", "excluded_by_us": false}
+{"id": "BigCodeBench/962", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_8: AssertionError: 'file_0-1.txt' not found in ['file_0.txt', 'file_1.docx', 'file_2.xlsx', 'file_3.csv', 'file_0-n1.txt', 'file_1-n1.docx', 'file_2-n1.xlsx', 'file_3-n1.csv'] : file_0-1.txt was not found in target direc", "excluded_by_us": false}
+{"id": "BigCodeBench/963", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_5: AssertionError: 0 != 2", "excluded_by_us": false}
+{"id": "BigCodeBench/964", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_9: AssertionError: 0 != 1", "excluded_by_us": false}
+{"id": "BigCodeBench/965", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/966", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/967", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: TypeError: only size-1 arrays can be converted to Python scalars", "excluded_by_us": false}
+{"id": "BigCodeBench/968", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/969", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_all_zeros: TypeError: DataFrame contains non-numeric data types.", "excluded_by_us": false}
+{"id": "BigCodeBench/970", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_increasing_array:  y: array([0.17, 0.5 , 1.  ])", "excluded_by_us": false}
+{"id": "BigCodeBench/971", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AttributeError: 'float' object has no attribute 'isoformat'", "excluded_by_us": false}
+{"id": "BigCodeBench/972", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_2: + ['Docs', 'src', 'Scripts', 'temp']", "excluded_by_us": false}
+{"id": "BigCodeBench/973", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_deep_nested_path: FileNotFoundError: [Errno 2] No such file or directory: 'Docs'", "excluded_by_us": false}
+{"id": "BigCodeBench/974", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_2: TypeError: unsupported operand type(s) for /: 'str' and 'str'", "excluded_by_us": false}
+{"id": "BigCodeBench/975", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_7: AssertionError: 9 != 3", "excluded_by_us": false}
+{"id": "BigCodeBench/976", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/977", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_default_features: + ['1', '2', '3', '4', '5']", "excluded_by_us": false}
+{"id": "BigCodeBench/978", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_with_5x1_array: ValueError: Shape of passed values is (5, 1), indices imply (5, 2)", "excluded_by_us": false}
+{"id": "BigCodeBench/979", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_4: +  0.29025793650793646]", "excluded_by_us": false}
+{"id": "BigCodeBench/980", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_7: AssertionError: False is not true", "excluded_by_us": false}
+{"id": "BigCodeBench/981", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/982", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/983", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_covariance_one: TypeError: The DataFrame contains non-numeric data types.", "excluded_by_us": false}
+{"id": "BigCodeBench/984", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_incorrect_column_names: ValueError: Columns X or Y not found in DataFrame", "excluded_by_us": false}
+{"id": "BigCodeBench/985", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: JSON data must be a non-empty list of country-population dictionaries.", "excluded_by_us": false}
+{"id": "BigCodeBench/986", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_correct_data_extraction: ValueError: Data is not a list of numeric values.", "excluded_by_us": false}
+{"id": "BigCodeBench/987", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_complex_json_structure: KeyError: \"'readings.data.deep.deeper.values'\"", "excluded_by_us": false}
+{"id": "BigCodeBench/988", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_deduplicate_predicates: TypeError: 'str' object is not callable", "excluded_by_us": false}
+{"id": "BigCodeBench/989", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_deduplicate_predicates: KeyError: 'Unrecognized predicate: has_uppercase'", "excluded_by_us": false}
+{"id": "BigCodeBench/990", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_hex_string_1: AssertionError: b'\\xff\\xfeh\\x00e\\x00l\\x00l\\x00o\\x00' != 'hello'", "excluded_by_us": false}
+{"id": "BigCodeBench/991", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_correct_length: UnicodeDecodeError: 'ascii' codec can't decode byte 0xd6 in position 0: ordinal not in range(128)", "excluded_by_us": false}
+{"id": "BigCodeBench/992", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_basic_path_insertion: AssertionError: 1 != 'path/to/test/path'", "excluded_by_us": false}
+{"id": "BigCodeBench/993", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_empty_string: ValueError: min() arg is an empty sequence", "excluded_by_us": false}
+{"id": "BigCodeBench/994", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/995", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_empty_file: pandas.errors.EmptyDataError: No columns to parse from file", "excluded_by_us": false}
+{"id": "BigCodeBench/996", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_invalid_url: AssertionError: RequestException not raised", "excluded_by_us": false}
+{"id": "BigCodeBench/997", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_cleanup: FileNotFoundError: [Errno 2] No such file or directory: 'downloaded_files/downloaded_files.zip'", "excluded_by_us": false}
+{"id": "BigCodeBench/998", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_valid_file: AssertionError: True is not false", "excluded_by_us": false}
+{"id": "BigCodeBench/999", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_count_categories_data1: ValueError: unknown url type: 'mock_url'", "excluded_by_us": false}
+{"id": "BigCodeBench/1000", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/1001", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_data_points_length: AttributeError: 'NoneType' object has no attribute 'ljust'", "excluded_by_us": false}
+{"id": "BigCodeBench/1002", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_empty_data: AssertionError: ValueError not raised", "excluded_by_us": false}
+{"id": "BigCodeBench/1003", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_valid_xml: ValueError: XML structure does not match expected format.", "excluded_by_us": false}
+{"id": "BigCodeBench/1004", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_empty_file: TypeError: expected string or bytes-like object", "excluded_by_us": false}
+{"id": "BigCodeBench/1005", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_extraction_path_already_exists: AssertionError: 'URL Error: [Errno -3] Temporary failure in name resolution' != PosixPath('/tmp/tmp7bgutguf/mnt/data/task_func_data/existing_extract_path')", "excluded_by_us": true}
+{"id": "BigCodeBench/1006", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_download_invald_zip_file: + Error: The downloaded file is not a valid ZIP file.", "excluded_by_us": false}
+{"id": "BigCodeBench/1007", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_null_json: ValueError: Invalid JSON format: The JSON data must be a list of dictionaries.", "excluded_by_us": false}
+{"id": "BigCodeBench/1008", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_empty_table: ImportError: Pandas requires version '4.9.3' or newer of 'bs4' (version '4.8.2' currently installed).", "excluded_by_us": false}
+{"id": "BigCodeBench/1009", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_empty_xml: + [[]]", "excluded_by_us": false}
+{"id": "BigCodeBench/1010", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/1011", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/1012", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_invalid_url: AssertionError: 'Download failed' not found in 'Error'", "excluded_by_us": false}
+{"id": "BigCodeBench/1013", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/1014", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_successful_api_call_with_data: KeyError: 'x'", "excluded_by_us": false}
+{"id": "BigCodeBench/1015", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_local_file_url: requests.exceptions.RequestException: Error fetching webpage: No connection adapters were found for 'file:///path/to/file.html'", "excluded_by_us": false}
+{"id": "BigCodeBench/1016", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_histogram_bins: OSError: Error processing image: cannot identify image file <Mock name='get().content' id='140077188519712'>", "excluded_by_us": false}
+{"id": "BigCodeBench/1017", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_default_parameters: TypeError: argument of type 'NoneType' is not iterable", "excluded_by_us": false}
+{"id": "BigCodeBench/1018", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_incorrect_encoding_handling: LookupError: unknown encoding: invalid_encoding", "excluded_by_us": false}
+{"id": "BigCodeBench/1019", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_ocr_and_comment_extraction_fail: ValueError: An error occurred:", "excluded_by_us": false}
+{"id": "BigCodeBench/1020", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_get_data_with_invalid_json: ValueError: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)", "excluded_by_us": true}
+{"id": "BigCodeBench/1021", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_empty_string: AssertionError: ('e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855', None) != 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'", "excluded_by_us": false}
+{"id": "BigCodeBench/1022", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_empty_file: Exception: Error reading CSV file: No columns to parse from file", "excluded_by_us": false}
+{"id": "BigCodeBench/1023", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_high_correlation: ?        ^", "excluded_by_us": false}
+{"id": "BigCodeBench/1024", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_dataframe_creation: NameError: name 'plt' is not defined", "excluded_by_us": false}
+{"id": "BigCodeBench/1025", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_all_none_data: AssertionError: False is not true", "excluded_by_us": false}
+{"id": "BigCodeBench/1026", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_all_nan_values: TypeError: only integer scalar arrays can be converted to a scalar index", "excluded_by_us": false}
+{"id": "BigCodeBench/1027", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_multiple_query_parameters: AssertionError: None != 'JKL'", "excluded_by_us": false}
+{"id": "BigCodeBench/1028", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_io_error_handling: OSError: Mocked error", "excluded_by_us": false}
+{"id": "BigCodeBench/1029", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_dataframe_values: AssertionError: False is not true", "excluded_by_us": false}
+{"id": "BigCodeBench/1030", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_columns:  : Column names are not correct.", "excluded_by_us": false}
+{"id": "BigCodeBench/1031", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_default_parameter: TypeError: Axis.set_ticks() missing 1 required positional argument: 'ticks'", "excluded_by_us": false}
+{"id": "BigCodeBench/1032", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_custom_rows: AttributeError: 'numpy.int64' object has no attribute 'corr'", "excluded_by_us": false}
+{"id": "BigCodeBench/1033", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_dataframe_columns: + ['a', 'b', 'c']", "excluded_by_us": false}
+{"id": "BigCodeBench/1034", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_sales_above_threshold: + Sales Comparison Above Threshold in Categories", "excluded_by_us": false}
+{"id": "BigCodeBench/1035", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/1036", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_empty_series: + Overlap Between Series1 and Series2", "excluded_by_us": false}
+{"id": "BigCodeBench/1037", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/1038", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_response_format: AssertionError: 'time' not found in {'server_time': '2026-10-06 15:44:25', 'greeting': 'Hello from the server!'}", "excluded_by_us": false}
+{"id": "BigCodeBench/1039", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_file_found: Actual: not called.", "excluded_by_us": false}
+{"id": "BigCodeBench/1040", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_large_data_transfer: ConnectionRefusedError: [Errno 111] Connection refused", "excluded_by_us": true}
+{"id": "BigCodeBench/1041", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_bad_request: AttributeError: 'str' object has no attribute 'path'", "excluded_by_us": false}
+{"id": "BigCodeBench/1042", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_email_with_empty_message: OSError", "excluded_by_us": false}
+{"id": "BigCodeBench/1043", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_non_uniform_distribution: AssertionError: 'The distribution of predefined categories is not uniform.' not found in ''", "excluded_by_us": false}
+{"id": "BigCodeBench/1044", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_booking_data_for_nonexistent_room: TypeError: can't compare datetime.datetime to datetime.date", "excluded_by_us": false}
+{"id": "BigCodeBench/1045", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/1046", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/1047", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/1048", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/1049", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/1050", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/1051", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/1052", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_multiple_lines_csv: KeyError: 'text_column'", "excluded_by_us": false}
+{"id": "BigCodeBench/1053", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_invalid_file_path: AssertionError: FileNotFoundError not raised", "excluded_by_us": false}
+{"id": "BigCodeBench/1054", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_csv_with_non_numeric_data: AssertionError: ValueError not raised", "excluded_by_us": false}
+{"id": "BigCodeBench/1055", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_multiple_colors_and_states: ValueError: Shape of passed values is (4, 1), indices imply (4, 2)", "excluded_by_us": false}
+{"id": "BigCodeBench/1056", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_number_of_bars: AttributeError: 'ArtistList' object has no attribute 'patches'", "excluded_by_us": false}
+{"id": "BigCodeBench/1057", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_custom_input: + (3, 4) : The shape of the DataFrame with custom inputs is not as expected.", "excluded_by_us": false}
+{"id": "BigCodeBench/1058", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_basic_functionality: NameError: name 'pd' is not defined", "excluded_by_us": false}
+{"id": "BigCodeBench/1059", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_basic_structure: AssertionError: 72 != 8", "excluded_by_us": false}
+{"id": "BigCodeBench/1060", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_non_uniform_distribution: ?                              ++++", "excluded_by_us": false}
+{"id": "BigCodeBench/1061", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/1062", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/1063", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/1064", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_scenario_1: ?            ++++", "excluded_by_us": false}
+{"id": "BigCodeBench/1065", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_plot_title: ?          ^             ^", "excluded_by_us": false}
+{"id": "BigCodeBench/1066", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_custom_values: ValueError: shape mismatch: objects cannot be broadcast to a single shape", "excluded_by_us": false}
+{"id": "BigCodeBench/1067", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_api_rate_limit_exceeded: AssertionError: Exception not raised", "excluded_by_us": false}
+{"id": "BigCodeBench/1068", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_database_exception: AssertionError: 'Error fetching data from the database' not found in \"local variable 'conn' referenced before assignment\"", "excluded_by_us": false}
+{"id": "BigCodeBench/1069", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_multiple_categories: TypeError: no numeric data to plot", "excluded_by_us": false}
+{"id": "BigCodeBench/1070", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/1071", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_color_cycle: +  (0.0, 0.0, 1.0, 1)] : The colors of the plotted lines should follow the specified cycle.", "excluded_by_us": false}
+{"id": "BigCodeBench/1072", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/1073", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_histogram_title: +", "excluded_by_us": false}
+{"id": "BigCodeBench/1074", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_ist_to_utc: ? +++", "excluded_by_us": false}
+{"id": "BigCodeBench/1075", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_different_time_units: TypeError: int() argument must be a string, a bytes-like object or a real number, not 'datetime.timedelta'", "excluded_by_us": false}
+{"id": "BigCodeBench/1076", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/1077", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_different_timezones: ValueError: Invalid timestamp format: 01/04/21 12:00:00.000", "excluded_by_us": false}
+{"id": "BigCodeBench/1078", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/1079", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_invalid_input: AssertionError: Exception not raised", "excluded_by_us": false}
+{"id": "BigCodeBench/1080", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_correctness: ValueError: invalid literal for int() with base 10: '6,000'", "excluded_by_us": false}
+{"id": "BigCodeBench/1081", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_incorrect_data_type: AssertionError: ValueError not raised", "excluded_by_us": false}
+{"id": "BigCodeBench/1082", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_empty_input: KeyError: 'Score'", "excluded_by_us": false}
+{"id": "BigCodeBench/1083", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/1084", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_empty_file: Index: [] is not None", "excluded_by_us": false}
+{"id": "BigCodeBench/1085", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_empty_text: TypeError: Axes.bar() missing 2 required positional arguments: 'x' and 'height'", "excluded_by_us": false}
+{"id": "BigCodeBench/1086", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/1087", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_custom_mean_std_dev: AssertionError: 3.2382549553524838 != 0 within 1 delta (3.2382549553524838 difference)", "excluded_by_us": false}
+{"id": "BigCodeBench/1088", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_default_dataset: ValueError: Input data must be a list or numpy array.", "excluded_by_us": false}
+{"id": "BigCodeBench/1089", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/1090", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_invalid_json_structure: AssertionError: SyntaxError not raised", "excluded_by_us": false}
+{"id": "BigCodeBench/1091", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_5: ValueError: Invalid dictionary representation in file testdir_task_func/multi_line_directory/1.txt: invalid syntax (<unknown>, line 2)", "excluded_by_us": false}
+{"id": "BigCodeBench/1092", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/1093", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: 0 != 2", "excluded_by_us": false}
+{"id": "BigCodeBench/1094", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: + [('abc', 3), ('hij', 3), ('efg', 1)]", "excluded_by_us": false}
+{"id": "BigCodeBench/1095", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: + ['$abc', '$efg', '$hij', '$abc', '$abc', '$hij', '$hij']", "excluded_by_us": false}
+{"id": "BigCodeBench/1096", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: + [['Word'], ['$abc'], ['$efg'], ['$hij'], ['$abc'], ['$abc'], ['$hij'], ['$hij']]", "excluded_by_us": false}
+{"id": "BigCodeBench/1097", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ? ^", "excluded_by_us": false}
+{"id": "BigCodeBench/1098", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ?    ^        ^", "excluded_by_us": false}
+{"id": "BigCodeBench/1099", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: + [('for', 1), ('more', 1), ('is', 1)]", "excluded_by_us": false}
+{"id": "BigCodeBench/1100", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AttributeError: tolist not found. Did you mean: 'tolil'?", "excluded_by_us": false}
+{"id": "BigCodeBench/1101", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: False is not true", "excluded_by_us": false}
+{"id": "BigCodeBench/1102", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AssertionError: 'Start Time' not found in {'start_time': '2026-10-06T15:45:16.477075', 'end_time': '2026-10-06T15:45:16.477115', 'stdout': b'Script output here...', 'stderr': b'Any errors here...'}", "excluded_by_us": false}
+{"id": "BigCodeBench/1103", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: FileNotFoundError: [Errno 2] No such file or directory: '/path/to/non_existent_script.py'", "excluded_by_us": false}
+{"id": "BigCodeBench/1104", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: FileNotFoundError: No file found at /path/to/short_script.py", "excluded_by_us": true}
+{"id": "BigCodeBench/1105", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: FileNotFoundError: [Errno 2] No such file or directory: 'Rscript'", "excluded_by_us": false}
+{"id": "BigCodeBench/1106", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_5: FileNotFoundError: The file testdir_task_func does not exist.", "excluded_by_us": false}
+{"id": "BigCodeBench/1107", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/1108", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: + {0: 2}", "excluded_by_us": false}
+{"id": "BigCodeBench/1109", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": true}
+{"id": "BigCodeBench/1110", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: +  'y': 1}", "excluded_by_us": false}
+{"id": "BigCodeBench/1111", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: +  'x': 1}", "excluded_by_us": false}
+{"id": "BigCodeBench/1112", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: TypeError: Value after * must be an iterable, not int", "excluded_by_us": false}
+{"id": "BigCodeBench/1113", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: + {'EMP$$001': 5, 'EMP$$002': 3, 'EMP$$003': 1}", "excluded_by_us": false}
+{"id": "BigCodeBench/1114", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: TypeError: unsupported operand type(s) for +: 'dict' and 'int'", "excluded_by_us": false}
+{"id": "BigCodeBench/1115", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: TypeError: 'int' object is not iterable", "excluded_by_us": false}
+{"id": "BigCodeBench/1116", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: TypeError: argument of type 'int' is not iterable", "excluded_by_us": false}
+{"id": "BigCodeBench/1117", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: ValueError: Invalid count for department EMP$$. Count must not exceed 3", "excluded_by_us": false}
+{"id": "BigCodeBench/1118", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/1119", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/1120", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_api_failure_handling: AssertionError: Exception not raised", "excluded_by_us": false}
+{"id": "BigCodeBench/1121", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_api_failure_handling: AssertionError: Exception not raised", "excluded_by_us": false}
+{"id": "BigCodeBench/1122", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_2: + {'www.google.com': '192.0.2.1', 'www.python.org': '192.0.2.2'}", "excluded_by_us": false}
+{"id": "BigCodeBench/1123", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_basic_https_functionality: ValueError: time data '2023-06-15 12:00:00' does not match format '%b %d %H:%M:%S %Y %Z'", "excluded_by_us": false}
+{"id": "BigCodeBench/1124", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_url_with_no_title_tag: + No title tag found in the webpage.", "excluded_by_us": false}
+{"id": "BigCodeBench/1125", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: AttributeError: 'MockResponse' object has no attribute 'raise_for_status'", "excluded_by_us": false}
+{"id": "BigCodeBench/1126", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/1127", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_complex_path_with_no_files: +  ('file2.txt', None)]", "excluded_by_us": false}
+{"id": "BigCodeBench/1128", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_hash_length_for_key_B: AssertionError: 88 != 44", "excluded_by_us": false}
+{"id": "BigCodeBench/1129", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_download_to_default_directory: AttributeError: 'MockResponse' object has no attribute 'raise_for_status'", "excluded_by_us": false}
+{"id": "BigCodeBench/1130", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/1131", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/1132", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_deterministic_output_with_fixed_salt: + aO4uv7LG2VDNU60XGvUJnTfoq/ocFHQgvHq/KBUmAus=", "excluded_by_us": false}
+{"id": "BigCodeBench/1133", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_empty_response_content: + PREFIX_empty.json", "excluded_by_us": false}
+{"id": "BigCodeBench/1134", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/1135", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_case_1: TypeError: 'Mock' object is not iterable", "excluded_by_us": false}
+{"id": "BigCodeBench/1136", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/1137", "official_pass": false, "official_status": "fail", "detail": "[runtime] test_phone_numbers_page_1: requests.exceptions.InvalidSchema: No connection adapters were found for 'file:///tmp/tmpu4vvjew7/test_page_1.html'", "excluded_by_us": false}
+{"id": "BigCodeBench/1138", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}
+{"id": "BigCodeBench/1139", "official_pass": true, "official_status": "pass", "detail": "", "excluded_by_us": false}

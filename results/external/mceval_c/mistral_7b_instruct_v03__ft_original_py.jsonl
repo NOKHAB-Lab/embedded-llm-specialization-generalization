@@ -1,0 +1,50 @@
+{"id": "C/1", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__ft_original_py/tmp/1.c:10: main: Assertion `strcmp(hello_mmcodeeval("}
+{"id": "C/2", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__ft_original_py/tmp/2.c:38: main: Assertion `area == -1' failed."}
+{"id": "C/3", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: incompatible types when returning type ‘char *’ but ‘double’ was expected"}
+{"id": "C/4", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/5", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/6", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=1 "}
+{"id": "C/7", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/8", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__ft_original_py/tmp/8.c:44: main: Assertion `hamming_distance(1, 2) ="}
+{"id": "C/9", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/10", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/11", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/12", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/13", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/14", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__ft_original_py/tmp/14.c:35: main: Assertion `decode_numbers(\"0000\") "}
+{"id": "C/15", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: subscripted value is neither array nor pointer nor vector"}
+{"id": "C/16", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__ft_original_py/tmp/16.c:40: main: Assertion `count_valid_coin_toss_s"}
+{"id": "C/17", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__ft_original_py/tmp/17.c:33: main: Assertion `find_longest_consecutiv"}
+{"id": "C/18", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__ft_original_py/tmp/18.c:39: main: Assertion `strcmp(id, \"ftiasch\") ="}
+{"id": "C/19", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__ft_original_py/tmp/19.c:29: main: Assertion `count_permutations_of_b"}
+{"id": "C/20", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: redefinition of ‘main’"}
+{"id": "C/21", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__ft_original_py/tmp/21.c:23: main: Assertion `Is_Square(1, (int[]){9}"}
+{"id": "C/22", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: optional: No such file or directory"}
+{"id": "C/23", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: request for member ‘x’ in something not a structure or union"}
+{"id": "C/24", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/25", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__ft_original_py/tmp/25.c:39: main: Assertion `strcmp(shift_characters"}
+{"id": "C/26", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None ed ‘char *’ but argument is of type ‘int’\n int classify_integer(char *x) {\n     ^~~~~~~~~~~~~~~~\n<evaluator>/mceval_c/native/mi"}
+{"id": "C/27", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: invalid preprocessing directive #!"}
+{"id": "C/28", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/29", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__ft_original_py/tmp/29.c:31: main: Assertion `evaluate_integer_grade("}
+{"id": "C/30", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__ft_original_py/tmp/30.c:28: main: Assertion `strcmp(check_two_equal_"}
+{"id": "C/31", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None error: redefinition of ‘main’"}
+{"id": "C/32", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__ft_original_py/tmp/32.c:25: main: Assertion `apocalypseYear(6, (int["}
+{"id": "C/33", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__ft_original_py/tmp/33.c:40: main: Assertion `newModuloFactorial(10, "}
+{"id": "C/34", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__ft_original_py/tmp/34.c:40: main: Assertion `makeEqualAgain(6, a1) ="}
+{"id": "C/35", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__ft_original_py/tmp/35.c:73: main: Assertion `gameWinner(5, test2) =="}
+{"id": "C/36", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__ft_original_py/tmp/36.c:26: main: Assertion `minTotalCost(5, costs1)"}
+{"id": "C/37", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None s'\n/usr/bin/ld: 37.c:(.text+0x1d5): undefined reference to `countHandshakes'\n/usr/bin/ld: 37.c:(.text+0x23a): undefined reference to `countHandshakes'\n/usr/bin/"}
+{"id": "C/38", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-11 "}
+{"id": "C/39", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__ft_original_py/tmp/39.c:43: main: Assertion `sumOfXorSubarrays(test,"}
+{"id": "C/40", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__ft_original_py/tmp/40.c:34: main: Assertion `countPowerNumbers(99, 1"}
+{"id": "C/41", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: mod.h: No such file or directory"}
+{"id": "C/42", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__ft_original_py/tmp/42.c:40: main: Assertion `expectedCuts(2, 4, 8) ="}
+{"id": "C/43", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__ft_original_py/tmp/43.c:54: main: Assertion `countPermutations(2, 1,"}
+{"id": "C/44", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__ft_original_py/tmp/44.c:43: main: Assertion `countTriplets(heights1,"}
+{"id": "C/45", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: vector: No such file or directory"}
+{"id": "C/46", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/47", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__ft_original_py/tmp/47.c:25: main: Assertion `isPalindrome(\"A man a p"}
+{"id": "C/48", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/mistral_7b_instruct_v03__ft_original_py/tmp/48.c:20: main: Assertion `addDigits(38) == 2' fai"}
+{"id": "C/49", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/50", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}

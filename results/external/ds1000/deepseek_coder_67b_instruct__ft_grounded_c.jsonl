@@ -1,0 +1,1000 @@
+{"id": "DS-1000/0", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/1", "official_pass": false, "official_status": "failed", "detail": "[runtime] Can only compare identically-labeled Series objects", "excluded_by_us": false}
+{"id": "DS-1000/2", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/3", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/4", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/5", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/6", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/7", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'result'", "excluded_by_us": false}
+{"id": "DS-1000/8", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/9", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'result'", "excluded_by_us": false}
+{"id": "DS-1000/10", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/11", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/12", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/13", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/14", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/15", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/16", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/17", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/18", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/19", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/20", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/21", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/22", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/23", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/24", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/25", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/26", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/27", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/28", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/29", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/30", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/31", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/32", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/33", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/34", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/35", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/36", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/37", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/38", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/39", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'Series' object has no attribute 'stack'", "excluded_by_us": true}
+{"id": "DS-1000/40", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": true}
+{"id": "DS-1000/41", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/42", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/43", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/44", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/45", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/46", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/47", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": true}
+{"id": "DS-1000/48", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": true}
+{"id": "DS-1000/49", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": true}
+{"id": "DS-1000/50", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/51", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'math' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/52", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/53", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/54", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/55", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/56", "official_pass": false, "official_status": "failed", "detail": "[runtime] 2", "excluded_by_us": false}
+{"id": "DS-1000/57", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'result'", "excluded_by_us": false}
+{"id": "DS-1000/58", "official_pass": false, "official_status": "failed", "detail": "[runtime] Too many levels: Index has only 1 level, not 2", "excluded_by_us": false}
+{"id": "DS-1000/59", "official_pass": false, "official_status": "failed", "detail": "[runtime] Cannot convert input [user\na   2016-01-01\nb   2016-01-05\nName: min_date, dtype: datetime64[ns]] of type <class 'pandas.core.series.Series'> to Timestamp", "excluded_by_us": false}
+{"id": "DS-1000/60", "official_pass": false, "official_status": "failed", "detail": "[runtime] Columns must be same length as key", "excluded_by_us": false}
+{"id": "DS-1000/61", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/62", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/63", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/64", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/65", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/66", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/67", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/68", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/69", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/70", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/71", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/72", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/73", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/74", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/75", "official_pass": false, "official_status": "failed", "detail": "[runtime] time data '1/14/9' does not match format '%m/%d/%y' (match)", "excluded_by_us": false}
+{"id": "DS-1000/76", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/77", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/78", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/79", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/80", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'Float64Index' object has no attribute 'apply'", "excluded_by_us": false}
+{"id": "DS-1000/81", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/82", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/83", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/84", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/85", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/86", "official_pass": false, "official_status": "failed", "detail": "[runtime] cannot convert float NaN to integer", "excluded_by_us": false}
+{"id": "DS-1000/87", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/88", "official_pass": false, "official_status": "failed", "detail": "[runtime] cannot convert float NaN to integer", "excluded_by_us": false}
+{"id": "DS-1000/89", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/90", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/91", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/92", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/93", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/94", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/95", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/96", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/97", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/98", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/99", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/100", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/101", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/102", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/103", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/104", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'Title'", "excluded_by_us": false}
+{"id": "DS-1000/105", "official_pass": false, "official_status": "failed", "detail": "[runtime] Must specify a fill 'value' or 'method'.", "excluded_by_us": false}
+{"id": "DS-1000/106", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/107", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/108", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/109", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/110", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/111", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/112", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/113", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/114", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/115", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/116", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/117", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/118", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/119", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/120", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 6 (<string>, line 7)", "excluded_by_us": false}
+{"id": "DS-1000/121", "official_pass": false, "official_status": "failed", "detail": "[runtime] index 3 is out of bounds for axis 0 with size 2", "excluded_by_us": false}
+{"id": "DS-1000/122", "official_pass": false, "official_status": "failed", "detail": "[runtime] cannot reindex on an axis with duplicate labels", "excluded_by_us": false}
+{"id": "DS-1000/123", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/124", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/125", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/126", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/127", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/128", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/129", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'Series' object has no attribute 'set_index'", "excluded_by_us": false}
+{"id": "DS-1000/130", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/131", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/132", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/133", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/134", "official_pass": false, "official_status": "failed", "detail": "[runtime] only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices", "excluded_by_us": false}
+{"id": "DS-1000/135", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/136", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/137", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/138", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/139", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/140", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'result'", "excluded_by_us": false}
+{"id": "DS-1000/141", "official_pass": false, "official_status": "failed", "detail": "[runtime] too many values to unpack (expected 3)", "excluded_by_us": false}
+{"id": "DS-1000/142", "official_pass": false, "official_status": "failed", "detail": "[runtime] Length mismatch: Expected axis has 4 elements, new values have 5 elements", "excluded_by_us": false}
+{"id": "DS-1000/143", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/144", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/145", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/146", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/147", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/148", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/149", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/150", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/151", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/152", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/153", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/154", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/155", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/156", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/157", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/158", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/159", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/160", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/161", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/162", "official_pass": false, "official_status": "failed", "detail": "[runtime] Buffer dtype mismatch, expected 'Python object' but got 'long'", "excluded_by_us": false}
+{"id": "DS-1000/163", "official_pass": false, "official_status": "failed", "detail": "[runtime] Length of names must match number of levels in MultiIndex.", "excluded_by_us": false}
+{"id": "DS-1000/164", "official_pass": false, "official_status": "failed", "detail": "[runtime] Buffer dtype mismatch, expected 'Python object' but got 'long'", "excluded_by_us": false}
+{"id": "DS-1000/165", "official_pass": false, "official_status": "failed", "detail": "[runtime] 2 columns passed, passed data had 3 columns", "excluded_by_us": false}
+{"id": "DS-1000/166", "official_pass": false, "official_status": "failed", "detail": "[runtime] columns overlap but no suffix specified: Index(['a'], dtype='object')", "excluded_by_us": false}
+{"id": "DS-1000/167", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/168", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/169", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/170", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/171", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/172", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/173", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/174", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/175", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/176", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/177", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/178", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/179", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/180", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/181", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/182", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/183", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/184", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/185", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/186", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/187", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/188", "official_pass": false, "official_status": "failed", "detail": "[runtime] cannot insert Date, already exists", "excluded_by_us": false}
+{"id": "DS-1000/189", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/190", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/191", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/192", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/193", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/194", "official_pass": false, "official_status": "failed", "detail": "[runtime] No module named 'dask'", "excluded_by_us": false}
+{"id": "DS-1000/195", "official_pass": false, "official_status": "failed", "detail": "[runtime] No module named 'dask'", "excluded_by_us": true}
+{"id": "DS-1000/196", "official_pass": false, "official_status": "failed", "detail": "[runtime] No module named 'dask'", "excluded_by_us": true}
+{"id": "DS-1000/197", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/198", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/199", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": true}
+{"id": "DS-1000/200", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": true}
+{"id": "DS-1000/201", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": true}
+{"id": "DS-1000/202", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/203", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/204", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/205", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/206", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/207", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/208", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/209", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": true}
+{"id": "DS-1000/210", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": true}
+{"id": "DS-1000/211", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": true}
+{"id": "DS-1000/212", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/213", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/214", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/215", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/216", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'Index' object has no attribute 'mode'", "excluded_by_us": false}
+{"id": "DS-1000/217", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/218", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/219", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/220", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": true}
+{"id": "DS-1000/221", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": true}
+{"id": "DS-1000/222", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": true}
+{"id": "DS-1000/223", "official_pass": false, "official_status": "failed", "detail": "[runtime] unhashable type: 'Series'", "excluded_by_us": false}
+{"id": "DS-1000/224", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/225", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/226", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/227", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/228", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": true}
+{"id": "DS-1000/229", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/230", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/231", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/232", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/233", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/234", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/235", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/236", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/237", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/238", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/239", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/240", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/241", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/242", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/243", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/244", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/245", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/246", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/247", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/248", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/249", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/250", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/251", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/252", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/253", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/254", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/255", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/256", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/257", "official_pass": false, "official_status": "failed", "detail": "[runtime] time-weighted interpolation only works on Series or DataFrames with a DatetimeIndex", "excluded_by_us": false}
+{"id": "DS-1000/258", "official_pass": false, "official_status": "failed", "detail": "[runtime] \"None of ['index'] are in the columns\"", "excluded_by_us": false}
+{"id": "DS-1000/259", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/260", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/261", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/262", "official_pass": false, "official_status": "failed", "detail": "[runtime] Unalignable boolean Series provided as indexer (index of the boolean Series and of the indexed object do not match).", "excluded_by_us": false}
+{"id": "DS-1000/263", "official_pass": false, "official_status": "failed", "detail": "[runtime] Unalignable boolean Series provided as indexer (index of the boolean Series and of the indexed object do not match).", "excluded_by_us": false}
+{"id": "DS-1000/264", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/265", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/266", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/267", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/268", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/269", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/270", "official_pass": false, "official_status": "failed", "detail": "[runtime] \"None of ['index'] are in the columns\"", "excluded_by_us": false}
+{"id": "DS-1000/271", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/272", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/273", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/274", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/275", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/276", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/277", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/278", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'Index' object has no attribute 'apply'", "excluded_by_us": false}
+{"id": "DS-1000/279", "official_pass": false, "official_status": "failed", "detail": "[runtime] cannot insert Date, already exists", "excluded_by_us": false}
+{"id": "DS-1000/280", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/281", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/282", "official_pass": false, "official_status": "failed", "detail": "[runtime] Index does not support mutable operations", "excluded_by_us": true}
+{"id": "DS-1000/283", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": true}
+{"id": "DS-1000/284", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/285", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/286", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'numpy.int64' object is not iterable", "excluded_by_us": false}
+{"id": "DS-1000/287", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/288", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/289", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/290", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/291", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/292", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/293", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/294", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/295", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/296", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/297", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (3, 4), (3, 5) mismatch)\n x: array([[0, 0, 0, 1],\n       [1, 0, 0, 0],\n       [0, 0, 0, 1]])\n y: array([[1., 0., 0., 0., 0.],\n       [0., 1., 0., 0., 0.],\n    ", "excluded_by_us": false}
+{"id": "DS-1000/298", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 6 / 9 (66.7%)\nMax absolute difference: 1.\nMax relative difference: 1.\n x: array([[0., 1., 0.],\n       [0., 0., 1.],\n       [1., 0., 0.]])\n y: arra", "excluded_by_us": false}
+{"id": "DS-1000/299", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 24 / 30 (80%)\nMax absolute difference: 1.\nMax relative difference: 0.\n x: array([[1, 1, 1, 1, 1],\n       [1, 1, 1, 1, 1],\n       [1, 1, 1, 1, 1],.", "excluded_by_us": false}
+{"id": "DS-1000/300", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/301", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/302", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/303", "official_pass": false, "official_status": "failed", "detail": "[runtime] cannot reshape array of size 7 into shape (2)", "excluded_by_us": false}
+{"id": "DS-1000/304", "official_pass": false, "official_status": "failed", "detail": "[runtime] cannot reshape array of size 7 into shape (2)", "excluded_by_us": false}
+{"id": "DS-1000/305", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nx and y nan location mismatch:\n x: array([7., 8., 9., 0., 1., 2., 3., 4., 5., 6.])\n y: array([nan, nan, nan,  0.,  1.,  2.,  3.,  4.,  5.,  6.])", "excluded_by_us": false}
+{"id": "DS-1000/306", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/307", "official_pass": false, "official_status": "failed", "detail": "[runtime] index can't contain negative values", "excluded_by_us": false}
+{"id": "DS-1000/308", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/309", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 2 / 2 (100%)\nMax absolute difference: 3\nMax relative difference: 1.\n x: array([1, 0])\n y: array(3)", "excluded_by_us": false}
+{"id": "DS-1000/310", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 2 / 2 (100%)\nMax absolute difference: 12\nMax relative difference: 1.\n x: array([2, 0])\n y: array(12)", "excluded_by_us": false}
+{"id": "DS-1000/311", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 1 / 2 (50%)\nMax absolute difference: 4\nMax relative difference: 0.8\n x: array([1, 1])\n y: array([5, 1])", "excluded_by_us": false}
+{"id": "DS-1000/312", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 2 / 2 (100%)\nMax absolute difference: 1\nMax relative difference: 1.\n x: array([1, 0])\n y: array([2, 1])", "excluded_by_us": false}
+{"id": "DS-1000/313", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 6)", "excluded_by_us": false}
+{"id": "DS-1000/314", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 2 / 2 (100%)\nMax absolute difference: 4\nMax relative difference: 1.\n x: array([0, 1])\n y: array([4, 2])", "excluded_by_us": false}
+{"id": "DS-1000/315", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/316", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/317", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/318", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 6 / 10 (60%)\nMax absolute difference: 30\nMax relative difference: 0.66666667\n x: array([[10, 50, 20, 40, 30],\n       [ 6, 10,  7,  9,  8]])\n y: ar", "excluded_by_us": false}
+{"id": "DS-1000/319", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 288 / 384 (75%)\nMax absolute difference: 0.96506596\nMax relative difference: 52.21996306\n x: array([[[0.914864, 0.370159, 0.015457, 0.928319, 0.42", "excluded_by_us": false}
+{"id": "DS-1000/320", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/321", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/322", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (2,), (2, 2) mismatch)\n x: array([1, 1])\n y: array([[1, 0],\n       [1, 1]])", "excluded_by_us": false}
+{"id": "DS-1000/323", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/324", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/325", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/326", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/327", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (1024,), (8,) mismatch)\n x: array([1, 2, 3, ..., 0, 0, 0])\n y: array([1, 2, 3, 4, 5, 0, 0, 0])", "excluded_by_us": false}
+{"id": "DS-1000/328", "official_pass": false, "official_status": "failed", "detail": "[runtime] index can't contain negative values", "excluded_by_us": false}
+{"id": "DS-1000/329", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/330", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/331", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/332", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/333", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/334", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/335", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/336", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (4,), (5,) mismatch)\n x: array([ 1,  7, 13, 19])\n y: array([ 4,  8, 12, 16, 20])", "excluded_by_us": false}
+{"id": "DS-1000/337", "official_pass": false, "official_status": "failed", "detail": "[runtime] All dimensions of input must be of equal length", "excluded_by_us": false}
+{"id": "DS-1000/338", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (5,), (2, 5) mismatch)\n x: array([ 0,  6, 12, 18, 24])\n y: array([[ 0,  6, 12, 18, 24],\n       [ 4,  8, 12, 16, 20]])", "excluded_by_us": false}
+{"id": "DS-1000/339", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (5,), (2, 5) mismatch)\n x: array([ 5,  9, 13, 17, 21])\n y: array([[ 0,  6, 12, 18, 24],\n       [ 4,  8, 12, 16, 20]])", "excluded_by_us": false}
+{"id": "DS-1000/340", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/341", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/342", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/343", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 25 / 30 (83.3%)\nMax absolute difference: 6\nMax relative difference: 2.\n x: array([8, 5, 6, 8, 4, 9, 6, 6, 8, 3, 4, 8, 4, 4, 9, 6, 5, 9, 9, 4, 7, 6", "excluded_by_us": false}
+{"id": "DS-1000/344", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/345", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nNot equal to tolerance rtol=1e-07, atol=0\n\nMismatched elements: 8 / 8 (100%)\nMax absolute difference: 5.92607907\nMax relative difference: 0.58423214\n x: array([ 3.806368,  8.310484, 12.6391", "excluded_by_us": false}
+{"id": "DS-1000/346", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nNot equal to tolerance rtol=1e-07, atol=0\n\nMismatched elements: 5 / 5 (100%)\nMax absolute difference: 4.03736431\nMax relative difference: 3.62678899\n x: array([ 0.107039,  5.150571,  9.4792", "excluded_by_us": false}
+{"id": "DS-1000/347", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nNot equal to tolerance rtol=1e-07, atol=0\n\nMismatched elements: 1 / 1 (100%)\nMax absolute difference: 7.09824141e-07\nMax relative difference: 0.80790995\n x: array(1.68769e-07)\n y: array(8.7", "excluded_by_us": false}
+{"id": "DS-1000/348", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/349", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/350", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/351", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/352", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/353", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 2 / 6 (33.3%)\nMax absolute difference: 1\nMax relative difference: 0.5\n x: array([[1, 1, 3],\n       [1, 1, 2]])\n y: array([[1, 1, 2],\n       [1, 1,", "excluded_by_us": false}
+{"id": "DS-1000/354", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 13 / 21 (61.9%)\nMax absolute difference: 3\nMax relative difference: 1.\n x: array([[1, 1, 0],\n       [1, 0, 4],\n       [1, 1, 3],...\n y: array([[1,", "excluded_by_us": false}
+{"id": "DS-1000/355", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (3, 3, 3, 3, 3), (3, 3, 3) mismatch)\n x: array([[[[[ 9, 10, 11],\n          [12, 13, 14],\n          [15, 16, 17]],...\n y: array([[[ 0, 10, 20],\n        [21,  4,", "excluded_by_us": false}
+{"id": "DS-1000/356", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (3, 3, 3, 3, 3), (3, 3, 3) mismatch)\n x: array([[[[[ 9, 10, 11],\n          [12, 13, 14],\n          [15, 16, 17]],...\n y: array([[[ 0, 10, 20],\n        [21,  4,", "excluded_by_us": false}
+{"id": "DS-1000/357", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (3, 3, 3, 3, 3), (3, 3, 3) mismatch)\n x: array([[[[[18, 19, 20],\n          [21, 22, 23],\n          [24, 25, 26]],...\n y: array([[[ 9,  1, 11],\n        [12, 22,", "excluded_by_us": false}
+{"id": "DS-1000/358", "official_pass": false, "official_status": "failed", "detail": "[runtime] cannot reshape array of size 9 into shape (3,3,3)", "excluded_by_us": false}
+{"id": "DS-1000/359", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'arr' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/360", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/361", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'arr' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/362", "official_pass": false, "official_status": "failed", "detail": "[runtime] index 4 is out of bounds for axis 0 with size 4", "excluded_by_us": false}
+{"id": "DS-1000/363", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/364", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/365", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/366", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 4 / 8 (50%)\nMax absolute difference: 3\nMax relative difference: 1.\n x: array([[1, 2],\n       [3, 5],\n       [3, 4],\n       [6, 6]])\n y: array([[1,", "excluded_by_us": false}
+{"id": "DS-1000/367", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/368", "official_pass": false, "official_status": "failed", "detail": "[runtime] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()", "excluded_by_us": false}
+{"id": "DS-1000/369", "official_pass": false, "official_status": "failed", "detail": "[runtime] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()", "excluded_by_us": false}
+{"id": "DS-1000/370", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/371", "official_pass": false, "official_status": "failed", "detail": "[runtime] too many values to unpack (expected 2)", "excluded_by_us": false}
+{"id": "DS-1000/372", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/373", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'result'", "excluded_by_us": false}
+{"id": "DS-1000/374", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/375", "official_pass": false, "official_status": "timed out", "detail": "[runtime] timed out", "excluded_by_us": false}
+{"id": "DS-1000/376", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/377", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/378", "official_pass": false, "official_status": "failed", "detail": "[runtime] The values for attribute 'shape' do not match: torch.Size([5]) != torch.Size([6]).", "excluded_by_us": false}
+{"id": "DS-1000/379", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": true}
+{"id": "DS-1000/380", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": true}
+{"id": "DS-1000/381", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/382", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/383", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/384", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nNot equal to tolerance rtol=1e-07, atol=0\n\nMismatched elements: 16 / 16 (100%)\nMax absolute difference: 16507425\nMax relative difference: 1.\n x: array([[     0,      1,     32,    243],\n   ", "excluded_by_us": false}
+{"id": "DS-1000/385", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (2, 2, 2, 2), (4, 2, 2) mismatch)\n x: array([[[[ 1,  5],\n         [ 2,  6]],\n...\n y: array([[[ 1,  5],\n        [ 2,  6]],\n...", "excluded_by_us": false}
+{"id": "DS-1000/386", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (9, 2, 2), (19701, 2, 2) mismatch)\n x: array([[[ 1,  5],\n        [ 2,  6]],\n...\n y: array([[[0.37454 , 0.950714],\n        [0.642032, 0.08414 ]],\n...", "excluded_by_us": false}
+{"id": "DS-1000/387", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (2, 2, 2, 2), (4, 2, 2) mismatch)\n x: array([[[[ 1,  5],\n         [ 2,  6]],\n...\n y: array([[[ 1,  5],\n        [ 2,  6]],\n...", "excluded_by_us": false}
+{"id": "DS-1000/388", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (2, 2, 2, 2), (4, 2, 2) mismatch)\n x: array([[[[ 1,  5],\n         [ 2,  6]],\n...\n y: array([[[ 1,  5],\n        [ 2,  6]],\n...", "excluded_by_us": false}
+{"id": "DS-1000/389", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 12 / 24 (50%)\nMax absolute difference: 3\nMax relative difference: 1.\n x: array([[ 0,  1,  2,  6,  7,  8],\n       [ 3,  4,  5,  9, 10, 11],\n       ", "excluded_by_us": false}
+{"id": "DS-1000/390", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (2, 2, 2, 2), (4, 2, 2) mismatch)\n x: array([[[[ 1,  5],\n         [ 2,  6]],\n...\n y: array([[[ 1,  5],\n        [ 2,  6]],\n...", "excluded_by_us": false}
+{"id": "DS-1000/391", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/392", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (3, 8), (2, 8) mismatch)\n x: array([[ 0,  1,  2,  3,  5,  6,  7,  8],\n       [ 4,  5,  6,  7,  5,  3,  2,  5],\n       [ 8,  9, 10, 11,  4,  5,  3,  5]])\n y: ar", "excluded_by_us": false}
+{"id": "DS-1000/393", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/394", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (2, 2), (5, 6) mismatch)\n x: array([[0.5544, 0.4456],\n       [0.8811, 0.1189]])\n y: array([[0.37454 , 0.950714, 0.731994, 0.598658, 0.156019, 0.155995],\n      ", "excluded_by_us": false}
+{"id": "DS-1000/395", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/396", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'result'", "excluded_by_us": false}
+{"id": "DS-1000/397", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/398", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/399", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/400", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'result'", "excluded_by_us": false}
+{"id": "DS-1000/401", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/402", "official_pass": false, "official_status": "failed", "detail": "[runtime] clipmode must be one of 'clip', 'raise', or 'wrap' (got 'F')", "excluded_by_us": false}
+{"id": "DS-1000/403", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/404", "official_pass": false, "official_status": "failed", "detail": "[runtime] Attributes of DataFrame.iloc[:, 0] (column name=\"a\") are different\n\nAttribute \"dtype\" are different\n[left]:  object\n[right]: int32", "excluded_by_us": false}
+{"id": "DS-1000/405", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/406", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 3 / 3 (100%)\nMax absolute difference: 7.\nMax relative difference: 0.7\n x: array(3)\n y: array([ 5., 10.,  9.])", "excluded_by_us": false}
+{"id": "DS-1000/407", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'list' argument must have no negative elements", "excluded_by_us": false}
+{"id": "DS-1000/408", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (10,), (3,) mismatch)\n x: array([ 1,  2,  1,  1,  1, 10, 10,  3,  3,  2])\n y: array([1., 2., 6.])", "excluded_by_us": false}
+{"id": "DS-1000/409", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'elementwise_function' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/410", "official_pass": false, "official_status": "failed", "detail": "[runtime] a must be 1-dimensional", "excluded_by_us": false}
+{"id": "DS-1000/411", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (2, 2), (3, 3) mismatch)\n x: array([[1., 1.],\n       [1., 1.]])\n y: array([[0., 0., 0.],\n       [0., 1., 1.],\n       [0., 1., 1.]])", "excluded_by_us": false}
+{"id": "DS-1000/412", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/413", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 2 / 2 (100%)\nMax absolute difference: 3.3\nMax relative difference: 1.44575625\n x: array([-2. +1.j,  2.2+2.j])\n y: array([-1.1+2.j, -1.1+2.j])", "excluded_by_us": false}
+{"id": "DS-1000/414", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nNot equal to tolerance rtol=1e-07, atol=0.01\n\nMismatched elements: 3 / 3 (100%)\nMax absolute difference: 1.\nMax relative difference: 0.25\n x: array([4.25    , 5.333333, 5.      ])\n y: array", "excluded_by_us": false}
+{"id": "DS-1000/415", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nNot equal to tolerance rtol=1e-07, atol=0.01\n\nMismatched elements: 2 / 3 (66.7%)\nMax absolute difference: 2\nMax relative difference: 0.4\n x: array([6, 7, 7])\n y: array([5, 7, 5])", "excluded_by_us": false}
+{"id": "DS-1000/416", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nNot equal to tolerance rtol=1e-07, atol=0.01\n\n(shapes (1, 2), (2, 1) mismatch)\n x: array([[3.666667, 4.      ]])\n y: array([[3.666667],\n       [4.      ]])", "excluded_by_us": false}
+{"id": "DS-1000/417", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nNot equal to tolerance rtol=1e-07, atol=0.01\n\nMismatched elements: 3 / 3 (100%)\nMax absolute difference: 1.41666667\nMax relative difference: 0.32692308\n x: array([4.8     , 4.571429, 5.75  ", "excluded_by_us": false}
+{"id": "DS-1000/418", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nNot equal to tolerance rtol=1e-07, atol=0.01\n\n(shapes (2, 0), (2, 1) mismatch)\n x: array([], shape=(2, 0), dtype=float64)\n y: array([[6.],\n       [5.]])", "excluded_by_us": false}
+{"id": "DS-1000/419", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nNot equal to tolerance rtol=1e-07, atol=0.01\n\n(shapes (3, 2), (2, 1) mismatch)\n x: array([[3.666667, 4.      ],\n       [4.333333, 4.      ],\n       [6.      , 5.      ]])\n y: array([[6.],\n ", "excluded_by_us": false}
+{"id": "DS-1000/420", "official_pass": false, "official_status": "failed", "detail": "[runtime] smoothclamp() missing 2 required positional arguments: 'x_min' and 'x_max'", "excluded_by_us": false}
+{"id": "DS-1000/421", "official_pass": false, "official_status": "failed", "detail": "[runtime] smoothclamp() missing 2 required positional arguments: 'x_min' and 'x_max'", "excluded_by_us": false}
+{"id": "DS-1000/422", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/423", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 278 / 300 (92.7%)\nMax absolute difference: 9\nMax relative difference: 8.\n x: array([[[6, 3, 7, 4, 6],\n        [9, 2, 6, 7, 4],\n        [3, 7, 7, 2", "excluded_by_us": false}
+{"id": "DS-1000/424", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 245 / 300 (81.7%)\nMax absolute difference: 9\nMax relative difference: 8.\n x: array([[[6, 3, 7, 4, 6],\n        [9, 2, 6, 7, 4],\n        [3, 7, 7, 2", "excluded_by_us": false}
+{"id": "DS-1000/425", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/426", "official_pass": false, "official_status": "failed", "detail": "[runtime] setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (20,) + inhomogeneous part.", "excluded_by_us": false}
+{"id": "DS-1000/427", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/428", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/429", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/430", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/431", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/432", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nNot equal to tolerance rtol=1e-07, atol=0\n\nMismatched elements: 1 / 1 (100%)\nMax absolute difference: 5.87948312\nMax relative difference: 20.23800859\n x: array(6.17)\n y: array(0.290517)", "excluded_by_us": false}
+{"id": "DS-1000/433", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/434", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/435", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 3 / 16 (18.8%)\nMax absolute difference: 5\nMax relative difference: 0.\n x: array([[5, 3, 1, 3],\n       [0, 1, 2, 0],\n       [0, 0, 0, 0],\n       [0", "excluded_by_us": false}
+{"id": "DS-1000/436", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/437", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/438", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/439", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/440", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'M' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/441", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/442", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (5,), (7,) mismatch)\n x: array([3, 4, 5, 6, 7])\n y: array([3, 3, 3, 4, 5, 6, 7])", "excluded_by_us": false}
+{"id": "DS-1000/443", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/444", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (5,), (7,) mismatch)\n x: array([1, 1, 4, 8, 8])\n y: array([2, 3, 3, 3, 5, 6, 7])", "excluded_by_us": false}
+{"id": "DS-1000/445", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 8 / 8 (100%)\nMax absolute difference: 1\nMax relative difference: 1.\n x: array([8, 7, 4, 2, 4, 7, 4, 2])\n y: array([7, 6, 3, 1, 3, 6, 3, 1])", "excluded_by_us": false}
+{"id": "DS-1000/446", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 4 / 8 (50%)\nMax absolute difference: 1\nMax relative difference: 0.5\n x: array([7, 6, 3, 1, 3, 6, 3, 1])\n y: array([7, 6, 4, 1, 3, 5, 2, 0])", "excluded_by_us": false}
+{"id": "DS-1000/447", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 5 (<string>, line 6)", "excluded_by_us": false}
+{"id": "DS-1000/448", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/449", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/450", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (5, 2), (5, 2, 2) mismatch)\n x: array([[0.601115, 0.181825],\n       [0.948886, 0.440152],\n       [0.045227, 0.280935],...\n y: array([[[0.601115, 0.708073],\n   ", "excluded_by_us": false}
+{"id": "DS-1000/451", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/452", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/453", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/454", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/455", "official_pass": false, "official_status": "failed", "detail": "[runtime] list of cases must be same length as list of conditions", "excluded_by_us": false}
+{"id": "DS-1000/456", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/457", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/458", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nNot equal to tolerance rtol=1e-07, atol=0\n\nMismatched elements: 28 / 64 (43.8%)\nMax absolute difference: 1.52251378\nMax relative difference: 0.\n x: array([[0.      , 1.147467, 1.148063, 0.9", "excluded_by_us": false}
+{"id": "DS-1000/459", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nNot equal to tolerance rtol=1e-07, atol=0\n\nMismatched elements: 1 / 1 (100%)\nMax absolute difference: 32.7776149\nMax relative difference: 58.28322087\n x: array(33.34)\n y: array(0.562385)", "excluded_by_us": false}
+{"id": "DS-1000/460", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/461", "official_pass": false, "official_status": "failed", "detail": "[runtime] could not convert string to float: 'np.inf'", "excluded_by_us": false}
+{"id": "DS-1000/462", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (6,), (4,) mismatch)\n x: array([0, 1, 2, 0, 1, 3])\n y: array([1, 2, 1, 3])", "excluded_by_us": false}
+{"id": "DS-1000/463", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (6, 1), (4, 1) mismatch)\n x: array([[0],\n       [1],\n       [2],...\n y: array([[1],\n       [2],\n       [1],\n       [3]])", "excluded_by_us": false}
+{"id": "DS-1000/464", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/465", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 5 (<string>, line 6)", "excluded_by_us": false}
+{"id": "DS-1000/466", "official_pass": false, "official_status": "failed", "detail": "[runtime] axis 1 is out of bounds for array of dimension 1", "excluded_by_us": false}
+{"id": "DS-1000/467", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nNot equal to tolerance rtol=1e-07, atol=0\n\n(shapes (2, 2), (3, 3) mismatch)\n x: array([[1, 2],\n       [2, 3]])\n y: array([[1, 2, 3],\n       [2, 3, 4],\n       [3, 4, 5]])", "excluded_by_us": false}
+{"id": "DS-1000/468", "official_pass": false, "official_status": "failed", "detail": "[runtime] could not broadcast input array from shape (2,3) into shape (3,3)", "excluded_by_us": false}
+{"id": "DS-1000/469", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/470", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/471", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nNot equal to tolerance rtol=1e-07, atol=0\n\n(shapes (8, 1, 6, 8), (8, 5, 6, 1) mismatch)\n x: array([[[[0.33903 , 0.34921 , 0.725956, 0.89711 , 0.887086, 0.779876,\n          0.642032, 0.08414", "excluded_by_us": false}
+{"id": "DS-1000/472", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/473", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/474", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/475", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/476", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'df' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/477", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/478", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 5 / 16 (31.2%)\nMax absolute difference: 10\nMax relative difference: 0.\n x: array([[ 1,  0,  2,  3],\n       [ 0,  5,  3,  4],\n       [ 0,  0,  2, 1", "excluded_by_us": false}
+{"id": "DS-1000/479", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/480", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/481", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/482", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/483", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nNot equal to tolerance rtol=1e-07, atol=0\n\nMismatched elements: 4 / 4 (100%)\nMax absolute difference: 233.90353075\nMax relative difference: 21821.79075305\n x: array([ 2.338928e+02,  1.10967", "excluded_by_us": false}
+{"id": "DS-1000/484", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/485", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/486", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/487", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nNot equal to tolerance rtol=1e-07, atol=0\n\nMismatched elements: 7 / 9 (77.8%)\nMax absolute difference: 1.\nMax relative difference: 48.7804878\n x: array([[1.      , 0.      , 0.      ],\n    ", "excluded_by_us": false}
+{"id": "DS-1000/488", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nNot equal to tolerance rtol=1e-07, atol=0\n\nMismatched elements: 12 / 18 (66.7%)\nMax absolute difference: 0.69230769\nMax relative difference: 2.25\n x: array([[[1.      , 0.269231, 0.      ],", "excluded_by_us": false}
+{"id": "DS-1000/489", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/490", "official_pass": false, "official_status": "failed", "detail": "[runtime] list indices must be integers or slices, not tuple", "excluded_by_us": false}
+{"id": "DS-1000/491", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/492", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/493", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/494", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 1 / 1 (100%)\n x: array(False)\n y: array(True)", "excluded_by_us": false}
+{"id": "DS-1000/495", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/496", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/497", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/498", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/499", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 41 / 1209 (3.39%)\nMax absolute difference: 1.\nMax relative difference: 1.\n x: array([[0., 0., 0., ..., 0., 0., 0.],\n       [0., 0., 0., ..., 0., 0", "excluded_by_us": false}
+{"id": "DS-1000/500", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (4, 3), (18, 3) mismatch)\n x: array([[ 0,  1,  2],\n       [ 3,  4,  5],\n       [ 6,  7,  8],\n       [ 9, 10, 11]])\n y: array([[0.950714, 0.731994, 0.598658],\n ", "excluded_by_us": false}
+{"id": "DS-1000/501", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/502", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/503", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (3, 3, 3), (3, 3) mismatch)\n x: array([[[ 0,  3,  6],\n        [ 2,  3,  7],\n        [ 1,  2,  7]],...\n y: array([[ 0,  3,  6],\n       [ 8,  9, 13],\n       [13,", "excluded_by_us": false}
+{"id": "DS-1000/504", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 1 / 1 (100%)\nMax absolute difference: 170\nMax relative difference: 2.\n x: array(255)\n y: array(85)", "excluded_by_us": false}
+{"id": "DS-1000/505", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 1 / 1 (100%)\nMax absolute difference: 170\nMax relative difference: 0.6614786\n x: array(87)\n y: array(257)", "excluded_by_us": false}
+{"id": "DS-1000/506", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (3,), (5,) mismatch)\n x: array([-6,  0, -4])\n y: array([nan, -6.,  0., -4., nan])", "excluded_by_us": false}
+{"id": "DS-1000/507", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (3, 4), (4, 5) mismatch)\n x: array([[0, 1, 1, 1],\n       [1, 1, 0, 1],\n       [0, 0, 1, 1]])\n y: array([[1, 0, 0, 0, 1],\n       [0, 0, 1, 0, 0],\n       [0, 1, ", "excluded_by_us": false}
+{"id": "DS-1000/508", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/509", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (5, 6), (4, 5) mismatch)\n x: array([[1, 1, 1, 1, 1, 5],\n       [1, 0, 0, 1, 2, 0],\n       [2, 1, 0, 0, 1, 0],...\n y: array([[0, 0, 1, 2, 0],\n       [1, 0, 0, 1", "excluded_by_us": false}
+{"id": "DS-1000/510", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (3, 4), (9, 11) mismatch)\n x: array([[0, 5, 1, 2],\n       [1, 8, 0, 1],\n       [0, 0, 7, 1]])\n y: array([[3, 7, 4, 6, 9, 2, 6, 7, 4, 3, 7],\n       [2, 5, 4, 1,", "excluded_by_us": false}
+{"id": "DS-1000/511", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/512", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/513", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/514", "official_pass": false, "official_status": "failed", "detail": "[runtime] y tick1line should not be visible", "excluded_by_us": false}
+{"id": "DS-1000/515", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/516", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/517", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/518", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/519", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/520", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": true}
+{"id": "DS-1000/521", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/522", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/523", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/524", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/525", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/526", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/527", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/528", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/529", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/530", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/531", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/532", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/533", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/534", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/535", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/536", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/537", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/538", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/539", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/540", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/541", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/542", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/543", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/544", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/545", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/546", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/547", "official_pass": false, "official_status": "failed", "detail": "[runtime] invalid literal for int() with base 10: '1e+07'", "excluded_by_us": false}
+{"id": "DS-1000/548", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/549", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/550", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/551", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/552", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/553", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/554", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/555", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/556", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/557", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/558", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/559", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/560", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/561", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/562", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/563", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/564", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/565", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/566", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/567", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/568", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/569", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/570", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/571", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/572", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/573", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/574", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/575", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/576", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/577", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/578", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/579", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/580", "official_pass": false, "official_status": "failed", "detail": "[runtime] Legend.__init__() got an unexpected keyword argument 'title_fontweight'", "excluded_by_us": false}
+{"id": "DS-1000/581", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/582", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'Figure' object has no attribute '_gridspecs'", "excluded_by_us": false}
+{"id": "DS-1000/583", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/584", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/585", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/586", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/587", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/588", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/589", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/590", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/591", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/592", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/593", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/594", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/595", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/596", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/597", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/598", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/599", "official_pass": false, "official_status": "failed", "detail": "[runtime] The number of FixedLocator locations (9), usually from a call to set_ticks, does not match the number of labels (10).", "excluded_by_us": false}
+{"id": "DS-1000/600", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/601", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/602", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/603", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/604", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/605", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/606", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/607", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/608", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/609", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/610", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/611", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/612", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/613", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/614", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/615", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/616", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/617", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/618", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/619", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/620", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/621", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/622", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/623", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/624", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/625", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/626", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/627", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/628", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/629", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/630", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/631", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/632", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/633", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/634", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/635", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/636", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/637", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/638", "official_pass": false, "official_status": "failed", "detail": "[runtime] pairplot() got an unexpected keyword argument 'legend'", "excluded_by_us": false}
+{"id": "DS-1000/639", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/640", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/641", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/642", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/643", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/644", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/645", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/646", "official_pass": false, "official_status": "failed", "detail": "[runtime] ['r', 'r', 'b', 'b'] is not a valid value for color", "excluded_by_us": false}
+{"id": "DS-1000/647", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/648", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/649", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/650", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/651", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/652", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/653", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/654", "official_pass": false, "official_status": "failed", "detail": "[runtime] Invalid `kind`: 'scatter'. Options are 'strip', 'swarm', 'box', 'boxen', 'violin', 'bar', 'count', and 'point'.", "excluded_by_us": false}
+{"id": "DS-1000/655", "official_pass": false, "official_status": "failed", "detail": "[runtime] Invalid `kind`: 'scatter'. Options are 'strip', 'swarm', 'box', 'boxen', 'violin', 'bar', 'count', and 'point'.", "excluded_by_us": false}
+{"id": "DS-1000/656", "official_pass": false, "official_status": "failed", "detail": "[runtime] Invalid `kind`: 'scatter'. Options are 'strip', 'swarm', 'box', 'boxen', 'violin', 'bar', 'count', and 'point'.", "excluded_by_us": false}
+{"id": "DS-1000/657", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/658", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/659", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/660", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/661", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/662", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/663", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/664", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/665", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/666", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": true}
+{"id": "DS-1000/667", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": true}
+{"id": "DS-1000/668", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": true}
+{"id": "DS-1000/669", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": true}
+{"id": "DS-1000/670", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": true}
+{"id": "DS-1000/671", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": true}
+{"id": "DS-1000/672", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": true}
+{"id": "DS-1000/673", "official_pass": false, "official_status": "failed", "detail": "[runtime] Graph execution error:\n\nDetected at node 'IteratorGetNext_1' defined at (most recent call last):\n    File \"<evaluator>/ds1000/run_official.py\", line 102, in ", "excluded_by_us": true}
+{"id": "DS-1000/674", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 5 (<string>, line 6)", "excluded_by_us": true}
+{"id": "DS-1000/675", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": true}
+{"id": "DS-1000/676", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": true}
+{"id": "DS-1000/677", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": true}
+{"id": "DS-1000/678", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": true}
+{"id": "DS-1000/679", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": true}
+{"id": "DS-1000/680", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": true}
+{"id": "DS-1000/681", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": true}
+{"id": "DS-1000/682", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": true}
+{"id": "DS-1000/683", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": true}
+{"id": "DS-1000/684", "official_pass": false, "official_status": "failed", "detail": "[runtime] {{function_node __wrapped__ExpandDims_device_/job:localhost/replica:0/task:0/device:CPU:0}} 'dim' must be a tensor with a single value [Op:ExpandDims]", "excluded_by_us": true}
+{"id": "DS-1000/685", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": true}
+{"id": "DS-1000/686", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": true}
+{"id": "DS-1000/687", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": true}
+{"id": "DS-1000/688", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": true}
+{"id": "DS-1000/689", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": true}
+{"id": "DS-1000/690", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": true}
+{"id": "DS-1000/691", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": true}
+{"id": "DS-1000/692", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": true}
+{"id": "DS-1000/693", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": true}
+{"id": "DS-1000/694", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": true}
+{"id": "DS-1000/695", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": true}
+{"id": "DS-1000/696", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/697", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/698", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": true}
+{"id": "DS-1000/699", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": true}
+{"id": "DS-1000/700", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 6)", "excluded_by_us": true}
+{"id": "DS-1000/701", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 10)", "excluded_by_us": true}
+{"id": "DS-1000/702", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": true}
+{"id": "DS-1000/703", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": true}
+{"id": "DS-1000/704", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": true}
+{"id": "DS-1000/705", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": true}
+{"id": "DS-1000/706", "official_pass": false, "official_status": "failed", "detail": "[runtime] Invalid filepath extension for saving. Please add either a `.keras` extension for the native Keras format (recommended) or a `.h5` extension. Use `model.export(filepath)` if you want to expo", "excluded_by_us": true}
+{"id": "DS-1000/707", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": true}
+{"id": "DS-1000/708", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": true}
+{"id": "DS-1000/709", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": true}
+{"id": "DS-1000/710", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/711", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/712", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/713", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/714", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/715", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 2 / 2 (100%)\nMax absolute difference: 0.26347173\nMax relative difference: inf\n x: array([0.045   , 0.263472])\n y: array(False)", "excluded_by_us": false}
+{"id": "DS-1000/716", "official_pass": false, "official_status": "failed", "detail": "[runtime] too many values to unpack (expected 3)", "excluded_by_us": false}
+{"id": "DS-1000/717", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nNot equal to tolerance rtol=1e-07, atol=0\n\nMismatched elements: 4 / 5 (80%)\nMax absolute difference: 0.9973002\nMax relative difference: 738.79669469\n x: array([0.99865, 0.97725, 0.5    , 0.", "excluded_by_us": false}
+{"id": "DS-1000/718", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nNot equal to tolerance rtol=1e-07, atol=0\n\nMismatched elements: 5 / 5 (100%)\nMax absolute difference: 0.9318429\nMax relative difference: 690.30614081\n x: array([0.933193, 0.89435 , 0.773373", "excluded_by_us": false}
+{"id": "DS-1000/719", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/720", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/721", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/722", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/723", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 5 (<string>, line 6)", "excluded_by_us": false}
+{"id": "DS-1000/724", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/725", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/726", "official_pass": false, "official_status": "failed", "detail": "[runtime] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()", "excluded_by_us": false}
+{"id": "DS-1000/727", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/728", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/729", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 13 (<string>, line 15)", "excluded_by_us": false}
+{"id": "DS-1000/730", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 2 / 2 (100%)\nMax absolute difference: 0.90153587\nMax relative difference: 0.90153587\n x: array([0.098464, 0.258602])\n y: array(True)", "excluded_by_us": false}
+{"id": "DS-1000/731", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/732", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/733", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/734", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/735", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/736", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/737", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/738", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/739", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'example_img' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/740", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nNot equal to tolerance rtol=1e-07, atol=0\n\nMismatched elements: 7 / 7 (100%)\nMax absolute difference: 0.51593684\nMax relative difference: 0.00098252\n x: array([122.564541, 286.511907, 343.9", "excluded_by_us": false}
+{"id": "DS-1000/741", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/742", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/743", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 14 / 1024 (1.37%)\nMax absolute difference: 1.\nMax relative difference: 0.\n x: array([[0., 0., 0., ..., 0., 0., 0.],\n       [0., 0., 0., ..., 0., 0", "excluded_by_us": false}
+{"id": "DS-1000/744", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 14 / 1024 (1.37%)\nMax absolute difference: 238.\nMax relative difference: 0.\n x: array([[0., 0., 0., ..., 0., 0., 0.],\n       [0., 0., 0., ..., 0.,", "excluded_by_us": false}
+{"id": "DS-1000/745", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/746", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/747", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/748", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nNot equal to tolerance rtol=1e-07, atol=0.001\n\n(shapes (16,), (15,) mismatch)\n x: array([ 3.475021e+02, -2.037930e-01, -1.061535e+02, -9.162214e-02,\n        5.428389e+01, -3.246867e-01, -2.", "excluded_by_us": false}
+{"id": "DS-1000/749", "official_pass": false, "official_status": "failed", "detail": "[runtime] operands could not be broadcast together with shapes (8,8) (6,6) ", "excluded_by_us": false}
+{"id": "DS-1000/750", "official_pass": false, "official_status": "failed", "detail": "[runtime] manhattan_distances() got an unexpected keyword argument 'dtype'", "excluded_by_us": false}
+{"id": "DS-1000/751", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 5 (<string>, line 6)", "excluded_by_us": false}
+{"id": "DS-1000/752", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/753", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/754", "official_pass": false, "official_status": "failed", "detail": "[runtime] setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (3,) + inhomogeneous part.", "excluded_by_us": false}
+{"id": "DS-1000/755", "official_pass": false, "official_status": "failed", "detail": "[runtime] All inputs to `kendalltau` must be of the same size, found x-size 3 and y-size 5", "excluded_by_us": false}
+{"id": "DS-1000/756", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/757", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'csr_matrix' object has no attribute 'all'", "excluded_by_us": false}
+{"id": "DS-1000/758", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/759", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/760", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/761", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/762", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/763", "official_pass": false, "official_status": "failed", "detail": "[runtime] x and y should both be 1-D arrays", "excluded_by_us": false}
+{"id": "DS-1000/764", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'example_s' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/765", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'numpy.ndarray' object has no attribute 'items'", "excluded_by_us": false}
+{"id": "DS-1000/766", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after 'for' statement on line 9 (<string>, line 53)", "excluded_by_us": false}
+{"id": "DS-1000/767", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/768", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/769", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/770", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/771", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/772", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'prob' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/773", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 8 (<string>, line 9)", "excluded_by_us": false}
+{"id": "DS-1000/774", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/775", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'result'", "excluded_by_us": false}
+{"id": "DS-1000/776", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/777", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/778", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/779", "official_pass": false, "official_status": "failed", "detail": "[runtime] DataFrame are different\n\nDataFrame shape mismatch\n[left]:  (3, 2)\n[right]: (6, 3)", "excluded_by_us": false}
+{"id": "DS-1000/780", "official_pass": false, "official_status": "failed", "detail": "[runtime] Length mismatch: Expected axis has 6 elements, new values have 2 elements", "excluded_by_us": false}
+{"id": "DS-1000/781", "official_pass": false, "official_status": "failed", "detail": "[runtime] unsupported operand type(s) for -: 'tuple' and 'float'", "excluded_by_us": false}
+{"id": "DS-1000/782", "official_pass": false, "official_status": "failed", "detail": "[runtime] all the input array dimensions except for the concatenation axis must match exactly, but along dimension 0, the array at index 0 has size 6 and the array at index 1 has size 1", "excluded_by_us": false}
+{"id": "DS-1000/783", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 18 / 36 (50%)\nMax absolute difference: 1.\nMax relative difference: 1.\n x: array([[6, 5, 4, 3, 4, 5],\n       [5, 4, 3, 2, 3, 4],\n       [4, 3, 2, 1", "excluded_by_us": false}
+{"id": "DS-1000/784", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 5 (<string>, line 6)", "excluded_by_us": false}
+{"id": "DS-1000/785", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/786", "official_pass": false, "official_status": "failed", "detail": "[runtime] unsupported operand type(s) for ** or pow(): 'OptimizeResult' and 'int'", "excluded_by_us": false}
+{"id": "DS-1000/787", "official_pass": false, "official_status": "failed", "detail": "[runtime] The user-provided objective function must return a scalar value.", "excluded_by_us": false}
+{"id": "DS-1000/788", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/789", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nNot equal to tolerance rtol=1e-07, atol=0\n\n(shapes (1, 316), (1, 318) mismatch)\n x: array([[1.000000e+00, 3.460822e-01, 1.484027e-01, 6.363623e-02,\n        2.635473e-02, 1.092148e-02, 4.508", "excluded_by_us": false}
+{"id": "DS-1000/790", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nNot equal to tolerance rtol=1e-07, atol=0\n\n(shapes (1, 18), (1, 19) mismatch)\n x: array([[ 1.000000e+01,  4.180017e+00,  1.743881e+00,  7.186063e-01,\n         2.929888e-01,  1.161540e-01,  ", "excluded_by_us": false}
+{"id": "DS-1000/791", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/792", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/793", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/794", "official_pass": false, "official_status": "failed", "detail": "[runtime] object of type 'int' has no len()", "excluded_by_us": false}
+{"id": "DS-1000/795", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/796", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": true}
+{"id": "DS-1000/797", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/798", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/799", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/800", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/801", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/802", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 9 / 9 (100%)\nMax absolute difference: 1\nMax relative difference: 1.\n x: array([[1, 1, 0],\n       [1, 1, 1],\n       [0, 1, 1]])\n y: array([[0, 0, 1", "excluded_by_us": false}
+{"id": "DS-1000/803", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/804", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/805", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (5, 5), (5,) mismatch)\n x: array([[0, 1, 2, 1, 1],\n       [0, 0, 0, 2, 0],\n       [1, 1, 0, 2, 1],...\n y: array([32, 64, 25, 76, 50])", "excluded_by_us": false}
+{"id": "DS-1000/806", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nNot equal to tolerance rtol=1e-07, atol=0\n\n(shapes (4, 1), (4,) mismatch)\n x: array([[16.5],\n       [ 2.5],\n       [22. ],\n       [ 5. ]])\n y: array([16.5,  2.5, 22. ,  5. ])", "excluded_by_us": false}
+{"id": "DS-1000/807", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nNot equal to tolerance rtol=1e-07, atol=0\n\nMismatched elements: 4 / 8 (50%)\nMax absolute difference: 9.74165739\nMax relative difference: 2.60356745\n x: array([[3.      , 3.872983],\n       [", "excluded_by_us": false}
+{"id": "DS-1000/808", "official_pass": false, "official_status": "failed", "detail": "[runtime] bekkers_cdf() missing 3 required positional arguments: 'a', 'm', and 'd'", "excluded_by_us": false}
+{"id": "DS-1000/809", "official_pass": false, "official_status": "failed", "detail": "[runtime] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()", "excluded_by_us": false}
+{"id": "DS-1000/810", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'DatetimeIndex' object has no attribute 'total_seconds'", "excluded_by_us": false}
+{"id": "DS-1000/811", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/812", "official_pass": false, "official_status": "failed", "detail": "[runtime] operands could not be broadcast together with shapes (7,) (12,) ", "excluded_by_us": false}
+{"id": "DS-1000/813", "official_pass": false, "official_status": "failed", "detail": "[runtime] Optimization bounds must be finite scalars.", "excluded_by_us": false}
+{"id": "DS-1000/814", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (1,), (4,) mismatch)\n x: array([3])\n y: array([0, 3, 4, 5])", "excluded_by_us": false}
+{"id": "DS-1000/815", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (0,), (6, 2) mismatch)\n x: array([], dtype=float64)\n y: array([[0, 0],\n       [0, 3],\n       [0, 4],...", "excluded_by_us": false}
+{"id": "DS-1000/816", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/817", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/818", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/819", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/820", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 6 (<string>, line 7)", "excluded_by_us": false}
+{"id": "DS-1000/821", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/822", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/823", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/824", "official_pass": false, "official_status": "failed", "detail": "[runtime] Length of 'prefix' (4) did not match the length of the columns being encoded (1).", "excluded_by_us": false}
+{"id": "DS-1000/825", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/826", "official_pass": false, "official_status": "failed", "detail": "[runtime] Unsupported set of arguments: The combination of penalty='l1' and loss='squared_hinge' are not supported when dual=True, Parameters: penalty='l1', loss='squared_hinge', dual=True", "excluded_by_us": false}
+{"id": "DS-1000/827", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/828", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/829", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/830", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 6 (<string>, line 7)", "excluded_by_us": false}
+{"id": "DS-1000/831", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/832", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/833", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/834", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/835", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/836", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/837", "official_pass": false, "official_status": "failed", "detail": "[runtime] GridSearchCV.__init__() got an unexpected keyword argument 'fit_params'", "excluded_by_us": false}
+{"id": "DS-1000/838", "official_pass": false, "official_status": "failed", "detail": "[runtime] GridSearchCV.__init__() got an unexpected keyword argument 'fit_params'", "excluded_by_us": false}
+{"id": "DS-1000/839", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/840", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/841", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/842", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 9 (<string>, line 11)", "excluded_by_us": false}
+{"id": "DS-1000/843", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/844", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/845", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/846", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/847", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/848", "official_pass": false, "official_status": "failed", "detail": "[runtime] This 'Pipeline' has no attribute 'fit_transform'", "excluded_by_us": false}
+{"id": "DS-1000/849", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/850", "official_pass": false, "official_status": "failed", "detail": "[runtime] Expected 2D array, got 1D array instead:\narray=[ 0.93128014  0.08704707 -1.0577109   0.31424734 -0.47917423  0.64768857\n -0.46341768  0.54256004  0.6116763   1.0035329   0.8219025   1.538036", "excluded_by_us": false}
+{"id": "DS-1000/851", "official_pass": false, "official_status": "failed", "detail": "[runtime] Expected 2D array, got 1D array instead:\narray=[ 0.93128014  0.08704707 -1.0577109   0.31424734 -0.47917423  0.64768857\n -0.46341768  0.54256004  0.6116763   1.0035329   0.8219025   1.538036", "excluded_by_us": false}
+{"id": "DS-1000/852", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/853", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/854", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/855", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/856", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/857", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/858", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/859", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/860", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/861", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/862", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/863", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/864", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/865", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 7 (<string>, line 9)", "excluded_by_us": false}
+{"id": "DS-1000/866", "official_pass": false, "official_status": "failed", "detail": "[runtime] Feature names are only supported if all input features have string names, but your input has ['int', 'str'] as feature name / column name types. If you want feature names to be stored and va", "excluded_by_us": false}
+{"id": "DS-1000/867", "official_pass": false, "official_status": "failed", "detail": "[runtime] \"['0'] not found in axis\"", "excluded_by_us": false}
+{"id": "DS-1000/868", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/869", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/870", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/871", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/872", "official_pass": false, "official_status": "failed", "detail": "[runtime] matmul: Input operand 0 does not have enough dimensions (has 0, gufunc core with signature (n?,k),(k,m?)->(n?,m?) requires 1)", "excluded_by_us": false}
+{"id": "DS-1000/873", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'tfidf_matrix' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/874", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/875", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/876", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/877", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/878", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 6 (<string>, line 7)", "excluded_by_us": false}
+{"id": "DS-1000/879", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/880", "official_pass": false, "official_status": "failed", "detail": "[runtime] AgglomerativeClustering.__init__() got an unexpected keyword argument 'affinity'", "excluded_by_us": false}
+{"id": "DS-1000/881", "official_pass": false, "official_status": "failed", "detail": "[runtime] AgglomerativeClustering.__init__() got an unexpected keyword argument 'affinity'", "excluded_by_us": false}
+{"id": "DS-1000/882", "official_pass": false, "official_status": "failed", "detail": "[runtime] AgglomerativeClustering.__init__() got an unexpected keyword argument 'affinity'", "excluded_by_us": false}
+{"id": "DS-1000/883", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/884", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/885", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/886", "official_pass": false, "official_status": "failed", "detail": "[runtime] Expected 2D array, got 1D array instead:\narray=[1. 2. 3. 2. 4. 5.].\nReshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contai", "excluded_by_us": false}
+{"id": "DS-1000/887", "official_pass": false, "official_status": "failed", "detail": "[runtime] Expected 2D array, got 1D array instead:\narray=[1. 2. 3. 2. 4. 5.].\nReshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contai", "excluded_by_us": false}
+{"id": "DS-1000/888", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/889", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/890", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/891", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/892", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/893", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'x_train' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/894", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'df' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/895", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/896", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 5 (<string>, line 6)", "excluded_by_us": false}
+{"id": "DS-1000/897", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/898", "official_pass": false, "official_status": "failed", "detail": "[runtime] [Errno 2] No such file or directory: 'file.csv'", "excluded_by_us": false}
+{"id": "DS-1000/899", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'TfidfVectorizer' object has no attribute 'get_feature_names'", "excluded_by_us": false}
+{"id": "DS-1000/900", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'TfidfVectorizer' object has no attribute 'get_feature_names'", "excluded_by_us": false}
+{"id": "DS-1000/901", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 10 (<string>, line 12)", "excluded_by_us": false}
+{"id": "DS-1000/902", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/903", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/904", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/905", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/906", "official_pass": false, "official_status": "failed", "detail": "[runtime] np.matrix is not supported. Please convert to a numpy array with np.asarray. For more information see: https://numpy.org/doc/stable/reference/generated/numpy.matrix.html", "excluded_by_us": false}
+{"id": "DS-1000/907", "official_pass": false, "official_status": "failed", "detail": "[runtime] np.matrix is not supported. Please convert to a numpy array with np.asarray. For more information see: https://numpy.org/doc/stable/reference/generated/numpy.matrix.html", "excluded_by_us": false}
+{"id": "DS-1000/908", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/909", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/910", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 6 (<string>, line 7)", "excluded_by_us": false}
+{"id": "DS-1000/911", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/912", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/913", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/914", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 6 (<string>, line 8)", "excluded_by_us": false}
+{"id": "DS-1000/915", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/916", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/917", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/918", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/919", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/920", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/921", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/922", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/923", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 6 (<string>, line 8)", "excluded_by_us": false}
+{"id": "DS-1000/924", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": true}
+{"id": "DS-1000/925", "official_pass": false, "official_status": "failed", "detail": "[runtime] Data must be 1-dimensional", "excluded_by_us": true}
+{"id": "DS-1000/926", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'CountVectorizer' object has no attribute 'get_feature_names'", "excluded_by_us": false}
+{"id": "DS-1000/927", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/928", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/929", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/930", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/931", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/932", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/933", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/934", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/935", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'new_learning_rate' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/936", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/937", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 9 (<string>, line 11)", "excluded_by_us": false}
+{"id": "DS-1000/938", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/939", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/940", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/941", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/942", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/943", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/944", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/945", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 6 (<string>, line 8)", "excluded_by_us": false}
+{"id": "DS-1000/946", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/947", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/948", "official_pass": false, "official_status": "failed", "detail": "[runtime] can't convert np.ndarray of type numpy.object_. The only supported types are: float64, float32, float16, complex64, complex128, int64, int32, int16, int8, uint8, and bool.", "excluded_by_us": false}
+{"id": "DS-1000/949", "official_pass": false, "official_status": "failed", "detail": "[runtime] can't convert np.ndarray of type numpy.object_. The only supported types are: float64, float32, float16, complex64, complex128, int64, int32, int16, int8, uint8, and bool.", "excluded_by_us": false}
+{"id": "DS-1000/950", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 6 (<string>, line 7)", "excluded_by_us": false}
+{"id": "DS-1000/951", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/952", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/953", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/954", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 6 (<string>, line 7)", "excluded_by_us": false}
+{"id": "DS-1000/955", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/956", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 6 (<string>, line 7)", "excluded_by_us": false}
+{"id": "DS-1000/957", "official_pass": false, "official_status": "failed", "detail": "[runtime] stack expects each tensor to be equal size, but got [2, 11] at entry 0 and [1, 11] at entry 1", "excluded_by_us": false}
+{"id": "DS-1000/958", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/959", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 6 (<string>, line 8)", "excluded_by_us": false}
+{"id": "DS-1000/960", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/961", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/962", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/963", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/964", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/965", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/966", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 6 (<string>, line 7)", "excluded_by_us": false}
+{"id": "DS-1000/967", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/968", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/969", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/970", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/971", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/972", "official_pass": false, "official_status": "failed", "detail": "[runtime] t() expects a tensor with <= 2 dimensions, but self is 3D", "excluded_by_us": false}
+{"id": "DS-1000/973", "official_pass": false, "official_status": "failed", "detail": "[runtime] a Tensor with 0 elements cannot be converted to Scalar", "excluded_by_us": false}
+{"id": "DS-1000/974", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/975", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/976", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/977", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 6 (<string>, line 7)", "excluded_by_us": false}
+{"id": "DS-1000/978", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 6 (<string>, line 7)", "excluded_by_us": false}
+{"id": "DS-1000/979", "official_pass": false, "official_status": "failed", "detail": "[runtime] too many indices for tensor of dimension 2", "excluded_by_us": false}
+{"id": "DS-1000/980", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/981", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/982", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/983", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 6 (<string>, line 7)", "excluded_by_us": false}
+{"id": "DS-1000/984", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'x' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/985", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'x' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/986", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/987", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/988", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/989", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/990", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/991", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/992", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 6 (<string>, line 7)", "excluded_by_us": false}
+{"id": "DS-1000/993", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/994", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/995", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 6 (<string>, line 7)", "excluded_by_us": false}
+{"id": "DS-1000/996", "official_pass": false, "official_status": "failed", "detail": "[runtime] stack expects each tensor to be equal size, but got [6, 4] at entry 0 and [4, 2] at entry 1", "excluded_by_us": false}
+{"id": "DS-1000/997", "official_pass": false, "official_status": "failed", "detail": "[runtime] The expanded size of the tensor (2) must match the existing size (4) at non-singleton dimension 0.  Target sizes: [2, 2].  Tensor sizes: [4, 2]", "excluded_by_us": false}
+{"id": "DS-1000/998", "official_pass": false, "official_status": "failed", "detail": "[runtime] Sizes of tensors must match except in dimension 0. Expected size 4 but got size 2 for tensor number 1 in the list.", "excluded_by_us": false}
+{"id": "DS-1000/999", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'hid_dim' is not defined", "excluded_by_us": false}

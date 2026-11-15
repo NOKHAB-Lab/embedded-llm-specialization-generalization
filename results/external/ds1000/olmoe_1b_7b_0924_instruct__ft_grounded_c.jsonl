@@ -1,0 +1,1000 @@
+{"id": "DS-1000/0", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 121)", "excluded_by_us": false}
+{"id": "DS-1000/1", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 49) (<string>, line 49)", "excluded_by_us": false}
+{"id": "DS-1000/2", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 33)", "excluded_by_us": false}
+{"id": "DS-1000/3", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 65)", "excluded_by_us": false}
+{"id": "DS-1000/4", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/5", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 78)", "excluded_by_us": false}
+{"id": "DS-1000/6", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/7", "official_pass": false, "official_status": "failed", "detail": "[runtime] DataFrame.drop_duplicates() got an unexpected keyword argument 'subset_logic'", "excluded_by_us": false}
+{"id": "DS-1000/8", "official_pass": false, "official_status": "failed", "detail": "[runtime] Cannot perform 'rand_' with a dtyped [bool] array and scalar of type [bool]", "excluded_by_us": false}
+{"id": "DS-1000/9", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/10", "official_pass": false, "official_status": "failed", "detail": "[syntax] '{' was never closed (<string>, line 70)", "excluded_by_us": false}
+{"id": "DS-1000/11", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 34) (<string>, line 34)", "excluded_by_us": false}
+{"id": "DS-1000/12", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/13", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 41) (<string>, line 41)", "excluded_by_us": false}
+{"id": "DS-1000/14", "official_pass": false, "official_status": "failed", "detail": "[runtime] Can only use .dt accessor with datetimelike values", "excluded_by_us": false}
+{"id": "DS-1000/15", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 33)", "excluded_by_us": false}
+{"id": "DS-1000/16", "official_pass": false, "official_status": "failed", "detail": "[runtime] Must have equal len keys and value when setting with an iterable", "excluded_by_us": false}
+{"id": "DS-1000/17", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 62)", "excluded_by_us": false}
+{"id": "DS-1000/18", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 94)", "excluded_by_us": false}
+{"id": "DS-1000/19", "official_pass": false, "official_status": "failed", "detail": "[runtime] Columns must be same length as key", "excluded_by_us": false}
+{"id": "DS-1000/20", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/21", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/22", "official_pass": false, "official_status": "failed", "detail": "[runtime] setting an array element with a sequence.", "excluded_by_us": false}
+{"id": "DS-1000/23", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/24", "official_pass": false, "official_status": "failed", "detail": "[runtime] Can only use .dt accessor with datetimelike values", "excluded_by_us": false}
+{"id": "DS-1000/25", "official_pass": false, "official_status": "failed", "detail": "[runtime] Can only use .dt accessor with datetimelike values", "excluded_by_us": false}
+{"id": "DS-1000/26", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'numpy.float64' object has no attribute 'shift'", "excluded_by_us": false}
+{"id": "DS-1000/27", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/28", "official_pass": false, "official_status": "failed", "detail": "[syntax] leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers (<string>, line 15)", "excluded_by_us": false}
+{"id": "DS-1000/29", "official_pass": false, "official_status": "failed", "detail": "[runtime] Too many indexers", "excluded_by_us": false}
+{"id": "DS-1000/30", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/31", "official_pass": false, "official_status": "failed", "detail": "[syntax] '{' was never closed (<string>, line 31)", "excluded_by_us": false}
+{"id": "DS-1000/32", "official_pass": false, "official_status": "failed", "detail": "[runtime] ['HeaderA', 'HeaderB', 'HeaderC']", "excluded_by_us": false}
+{"id": "DS-1000/33", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 124)", "excluded_by_us": false}
+{"id": "DS-1000/34", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after 'if' statement on line 112 (<string>, line 113)", "excluded_by_us": false}
+{"id": "DS-1000/35", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/36", "official_pass": false, "official_status": "failed", "detail": "[runtime] \"None of [Int64Index([0, 2, 3], dtype='int64')] are in the [columns]\"", "excluded_by_us": false}
+{"id": "DS-1000/37", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'Series' object has no attribute 'set_index'", "excluded_by_us": false}
+{"id": "DS-1000/38", "official_pass": false, "official_status": "failed", "detail": "[runtime] \"None of [Int64Index([0, 2, 3], dtype='int64')] are in the [columns]\"", "excluded_by_us": false}
+{"id": "DS-1000/39", "official_pass": false, "official_status": "failed", "detail": "[runtime] Length mismatch: Expected axis has 4 elements, new values have 3 elements", "excluded_by_us": true}
+{"id": "DS-1000/40", "official_pass": false, "official_status": "failed", "detail": "[runtime] keyword argument repeated: index (<string>, line 77)", "excluded_by_us": true}
+{"id": "DS-1000/41", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 14)", "excluded_by_us": false}
+{"id": "DS-1000/42", "official_pass": false, "official_status": "failed", "detail": "[runtime] \"['Unnamed: 2'] not found in axis\"", "excluded_by_us": false}
+{"id": "DS-1000/43", "official_pass": false, "official_status": "failed", "detail": "[runtime] \"['Unnamed: 2'] not found in axis\"", "excluded_by_us": false}
+{"id": "DS-1000/44", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'list' object has no attribute 'tolist'", "excluded_by_us": false}
+{"id": "DS-1000/45", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 50)", "excluded_by_us": false}
+{"id": "DS-1000/46", "official_pass": false, "official_status": "failed", "detail": "[runtime] <lambda>() got an unexpected keyword argument 'axis'", "excluded_by_us": false}
+{"id": "DS-1000/47", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": true}
+{"id": "DS-1000/48", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": true}
+{"id": "DS-1000/49", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 5) (<string>, line 5)", "excluded_by_us": true}
+{"id": "DS-1000/50", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/51", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/52", "official_pass": false, "official_status": "failed", "detail": "[runtime] Length mismatch: Expected axis has 4 elements, new values have 2 elements", "excluded_by_us": false}
+{"id": "DS-1000/53", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/54", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'str' object has no attribute 'idxmax'", "excluded_by_us": false}
+{"id": "DS-1000/55", "official_pass": false, "official_status": "failed", "detail": "[runtime] DataFrame.idxmax() got an unexpected keyword argument 'keepdims'", "excluded_by_us": false}
+{"id": "DS-1000/56", "official_pass": false, "official_status": "failed", "detail": "[runtime] Can only use .dt accessor with datetimelike values", "excluded_by_us": false}
+{"id": "DS-1000/57", "official_pass": false, "official_status": "failed", "detail": "[runtime] reduction operation 'argmin' not allowed for this dtype", "excluded_by_us": false}
+{"id": "DS-1000/58", "official_pass": false, "official_status": "failed", "detail": "[runtime] Can only use .dt accessor with datetimelike values", "excluded_by_us": false}
+{"id": "DS-1000/59", "official_pass": false, "official_status": "failed", "detail": "[runtime] Cannot set a DataFrame with multiple columns to the single column val", "excluded_by_us": false}
+{"id": "DS-1000/60", "official_pass": false, "official_status": "failed", "detail": "[runtime] reduction operation 'argmin' not allowed for this dtype", "excluded_by_us": false}
+{"id": "DS-1000/61", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 82)", "excluded_by_us": false}
+{"id": "DS-1000/62", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 181)", "excluded_by_us": false}
+{"id": "DS-1000/63", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/64", "official_pass": false, "official_status": "failed", "detail": "[runtime] \"['name'] not found in axis\"", "excluded_by_us": false}
+{"id": "DS-1000/65", "official_pass": false, "official_status": "failed", "detail": "[runtime] Can only use .dt accessor with datetimelike values", "excluded_by_us": false}
+{"id": "DS-1000/66", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 98) (<string>, line 98)", "excluded_by_us": false}
+{"id": "DS-1000/67", "official_pass": false, "official_status": "failed", "detail": "[runtime] Can only use .dt accessor with datetimelike values", "excluded_by_us": false}
+{"id": "DS-1000/68", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/69", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/70", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 6)", "excluded_by_us": false}
+{"id": "DS-1000/71", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 6)", "excluded_by_us": false}
+{"id": "DS-1000/72", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 7)", "excluded_by_us": false}
+{"id": "DS-1000/73", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 23)", "excluded_by_us": false}
+{"id": "DS-1000/74", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 99)", "excluded_by_us": false}
+{"id": "DS-1000/75", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'result'", "excluded_by_us": false}
+{"id": "DS-1000/76", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'range' object is not callable", "excluded_by_us": false}
+{"id": "DS-1000/77", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/78", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 185)", "excluded_by_us": false}
+{"id": "DS-1000/79", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/80", "official_pass": false, "official_status": "failed", "detail": "[runtime] Grouper and axis must be same length", "excluded_by_us": false}
+{"id": "DS-1000/81", "official_pass": false, "official_status": "failed", "detail": "[runtime] Grouper and axis must be same length", "excluded_by_us": false}
+{"id": "DS-1000/82", "official_pass": false, "official_status": "failed", "detail": "[runtime] Length of values (13) does not match length of index (14)", "excluded_by_us": false}
+{"id": "DS-1000/83", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 44) (<string>, line 44)", "excluded_by_us": false}
+{"id": "DS-1000/84", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 137)", "excluded_by_us": false}
+{"id": "DS-1000/85", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 25)", "excluded_by_us": false}
+{"id": "DS-1000/86", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'DataFrame' object has no attribute 'time'", "excluded_by_us": false}
+{"id": "DS-1000/87", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/88", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 36)", "excluded_by_us": false}
+{"id": "DS-1000/89", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/90", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/91", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'FrozenList' does not support mutable operations.", "excluded_by_us": false}
+{"id": "DS-1000/92", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'FrozenList' does not support mutable operations.", "excluded_by_us": false}
+{"id": "DS-1000/93", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/94", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/95", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'DataFrameGroupBy' object has no attribute 'groupby'", "excluded_by_us": false}
+{"id": "DS-1000/96", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 55) (<string>, line 55)", "excluded_by_us": false}
+{"id": "DS-1000/97", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/98", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/99", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 40)", "excluded_by_us": false}
+{"id": "DS-1000/100", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 47) (<string>, line 47)", "excluded_by_us": false}
+{"id": "DS-1000/101", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/102", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/103", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 40)", "excluded_by_us": false}
+{"id": "DS-1000/104", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 47) (<string>, line 47)", "excluded_by_us": false}
+{"id": "DS-1000/105", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'validate_single_space_name' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/106", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'validate_single_space_name' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/107", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 76) (<string>, line 76)", "excluded_by_us": false}
+{"id": "DS-1000/108", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/109", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'DataFrame' object has no attribute 'drop_du'", "excluded_by_us": false}
+{"id": "DS-1000/110", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 49)", "excluded_by_us": false}
+{"id": "DS-1000/111", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/112", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 47)", "excluded_by_us": false}
+{"id": "DS-1000/113", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 51)", "excluded_by_us": false}
+{"id": "DS-1000/114", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/115", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/116", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/117", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'list' object has no attribute 'values'", "excluded_by_us": false}
+{"id": "DS-1000/118", "official_pass": false, "official_status": "failed", "detail": "[syntax] unmatched ']' (<string>, line 30)", "excluded_by_us": false}
+{"id": "DS-1000/119", "official_pass": false, "official_status": "failed", "detail": "[runtime] ['TP3', 'TP7', 'TP18']", "excluded_by_us": false}
+{"id": "DS-1000/120", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 6 (<string>, line 7)", "excluded_by_us": false}
+{"id": "DS-1000/121", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'Column not found: euclidean_distance'", "excluded_by_us": false}
+{"id": "DS-1000/122", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'numpy.int64' object has no attribute 'values'", "excluded_by_us": false}
+{"id": "DS-1000/123", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 104) (<string>, line 104)", "excluded_by_us": false}
+{"id": "DS-1000/124", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/125", "official_pass": false, "official_status": "failed", "detail": "[runtime] StringMethods.join() got an unexpected keyword argument 'axis'", "excluded_by_us": false}
+{"id": "DS-1000/126", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'keywords_all'", "excluded_by_us": false}
+{"id": "DS-1000/127", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/128", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 34)", "excluded_by_us": false}
+{"id": "DS-1000/129", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 166)", "excluded_by_us": false}
+{"id": "DS-1000/130", "official_pass": false, "official_status": "failed", "detail": "[runtime] Int64Index([2, 4], dtype='int64')", "excluded_by_us": false}
+{"id": "DS-1000/131", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/132", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/133", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/134", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/135", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/136", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/137", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/138", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/139", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 107) (<string>, line 107)", "excluded_by_us": false}
+{"id": "DS-1000/140", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 38) (<string>, line 38)", "excluded_by_us": false}
+{"id": "DS-1000/141", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 99)", "excluded_by_us": false}
+{"id": "DS-1000/142", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 28) (<string>, line 28)", "excluded_by_us": false}
+{"id": "DS-1000/143", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 137) (<string>, line 137)", "excluded_by_us": false}
+{"id": "DS-1000/144", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 6)", "excluded_by_us": false}
+{"id": "DS-1000/145", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 137) (<string>, line 137)", "excluded_by_us": false}
+{"id": "DS-1000/146", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'list' object cannot be interpreted as an integer", "excluded_by_us": false}
+{"id": "DS-1000/147", "official_pass": false, "official_status": "failed", "detail": "[runtime] unhashable type: 'list'", "excluded_by_us": false}
+{"id": "DS-1000/148", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/149", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/150", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/151", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'result'", "excluded_by_us": false}
+{"id": "DS-1000/152", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'result'", "excluded_by_us": false}
+{"id": "DS-1000/153", "official_pass": false, "official_status": "failed", "detail": "[runtime] The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().", "excluded_by_us": false}
+{"id": "DS-1000/154", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'result'", "excluded_by_us": false}
+{"id": "DS-1000/155", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 62) (<string>, line 62)", "excluded_by_us": false}
+{"id": "DS-1000/156", "official_pass": false, "official_status": "failed", "detail": "[runtime] Shape of passed values is (18, 1), indices imply (18, 18)", "excluded_by_us": false}
+{"id": "DS-1000/157", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 26) (<string>, line 26)", "excluded_by_us": false}
+{"id": "DS-1000/158", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'Has Family'", "excluded_by_us": false}
+{"id": "DS-1000/159", "official_pass": false, "official_status": "failed", "detail": "[runtime] cannot insert Survived, already exists", "excluded_by_us": false}
+{"id": "DS-1000/160", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'DataFrameGroupBy' object has no attribute 'sort_values'", "excluded_by_us": false}
+{"id": "DS-1000/161", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'DataFrameGroupBy' object has no attribute 'sort_values'", "excluded_by_us": false}
+{"id": "DS-1000/162", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'A'", "excluded_by_us": false}
+{"id": "DS-1000/163", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 6)", "excluded_by_us": false}
+{"id": "DS-1000/164", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'A'", "excluded_by_us": false}
+{"id": "DS-1000/165", "official_pass": false, "official_status": "failed", "detail": "[runtime] Length mismatch: Expected axis has 3 elements, new values have 2 elements", "excluded_by_us": false}
+{"id": "DS-1000/166", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/167", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'DataFrame' object has no attribute 'group'", "excluded_by_us": false}
+{"id": "DS-1000/168", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 64) (<string>, line 64)", "excluded_by_us": false}
+{"id": "DS-1000/169", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 16) (<string>, line 16)", "excluded_by_us": false}
+{"id": "DS-1000/170", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 13)", "excluded_by_us": false}
+{"id": "DS-1000/171", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 13)", "excluded_by_us": false}
+{"id": "DS-1000/172", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 56)", "excluded_by_us": false}
+{"id": "DS-1000/173", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/174", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/175", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/176", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 47) (<string>, line 47)", "excluded_by_us": false}
+{"id": "DS-1000/177", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/178", "official_pass": false, "official_status": "failed", "detail": "[runtime] \"None of [MultiIndex([('MM1', 'S1'),\\n            ('MM1', 'S3'),\\n            ('MM2', 'S3'),\\n            ('MM2', 'S4'),\\n            ('MM4', 'S2')],\\n           names=['Sp', 'Mt'])] are in ", "excluded_by_us": false}
+{"id": "DS-1000/179", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/180", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/181", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/182", "official_pass": false, "official_status": "failed", "detail": "[runtime] \"value\" parameter must be a scalar, dict or Series, but you passed a \"DataFrame\"", "excluded_by_us": false}
+{"id": "DS-1000/183", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 7)", "excluded_by_us": false}
+{"id": "DS-1000/184", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 9)", "excluded_by_us": false}
+{"id": "DS-1000/185", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 84)", "excluded_by_us": false}
+{"id": "DS-1000/186", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'year'", "excluded_by_us": false}
+{"id": "DS-1000/187", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 28) (<string>, line 28)", "excluded_by_us": false}
+{"id": "DS-1000/188", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 88)", "excluded_by_us": false}
+{"id": "DS-1000/189", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 129)", "excluded_by_us": false}
+{"id": "DS-1000/190", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'DataFrameGroupBy' object has no attribute 'reset_index'", "excluded_by_us": false}
+{"id": "DS-1000/191", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 50) (<string>, line 50)", "excluded_by_us": false}
+{"id": "DS-1000/192", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'DataFrame' object has no attribute 'aggfunc'", "excluded_by_us": false}
+{"id": "DS-1000/193", "official_pass": false, "official_status": "failed", "detail": "[syntax] '{' was never closed (<string>, line 68)", "excluded_by_us": false}
+{"id": "DS-1000/194", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 103)", "excluded_by_us": false}
+{"id": "DS-1000/195", "official_pass": false, "official_status": "failed", "detail": "[runtime] Shape of passed values is (2, 1), indices imply (2, 2)", "excluded_by_us": true}
+{"id": "DS-1000/196", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'Series' object has no attribute 'stack'", "excluded_by_us": true}
+{"id": "DS-1000/197", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/198", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/199", "official_pass": false, "official_status": "failed", "detail": "[runtime] 1", "excluded_by_us": true}
+{"id": "DS-1000/200", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": true}
+{"id": "DS-1000/201", "official_pass": false, "official_status": "failed", "detail": "[runtime] 2", "excluded_by_us": true}
+{"id": "DS-1000/202", "official_pass": false, "official_status": "failed", "detail": "[runtime] Cannot set a DataFrame with multiple columns to the single column cumulative_average", "excluded_by_us": false}
+{"id": "DS-1000/203", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/204", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/205", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/206", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 50)", "excluded_by_us": false}
+{"id": "DS-1000/207", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/208", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 47)", "excluded_by_us": false}
+{"id": "DS-1000/209", "official_pass": false, "official_status": "failed", "detail": "[runtime] unsupported operand type(s) for -: 'str' and 'str'", "excluded_by_us": true}
+{"id": "DS-1000/210", "official_pass": false, "official_status": "failed", "detail": "[runtime] unsupported operand type(s) for -: 'str' and 'str'", "excluded_by_us": true}
+{"id": "DS-1000/211", "official_pass": false, "official_status": "failed", "detail": "[runtime] unsupported operand type(s) for -: 'str' and 'str'", "excluded_by_us": true}
+{"id": "DS-1000/212", "official_pass": false, "official_status": "failed", "detail": "[runtime] Unalignable boolean Series provided as indexer (index of the boolean Series and of the indexed object do not match).", "excluded_by_us": false}
+{"id": "DS-1000/213", "official_pass": false, "official_status": "failed", "detail": "[runtime] keyword argument repeated: na_count (<string>, line 77)", "excluded_by_us": false}
+{"id": "DS-1000/214", "official_pass": false, "official_status": "failed", "detail": "[runtime] Unalignable boolean Series provided as indexer (index of the boolean Series and of the indexed object do not match).", "excluded_by_us": false}
+{"id": "DS-1000/215", "official_pass": false, "official_status": "failed", "detail": "[runtime] keyword argument repeated: level (<string>, line 82)", "excluded_by_us": false}
+{"id": "DS-1000/216", "official_pass": false, "official_status": "failed", "detail": "[runtime] 0", "excluded_by_us": false}
+{"id": "DS-1000/217", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 80)", "excluded_by_us": false}
+{"id": "DS-1000/218", "official_pass": false, "official_status": "failed", "detail": "[syntax] closing parenthesis ')' does not match opening parenthesis '[' (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/219", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/220", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 32) (<string>, line 32)", "excluded_by_us": true}
+{"id": "DS-1000/221", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 44)", "excluded_by_us": true}
+{"id": "DS-1000/222", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 6)", "excluded_by_us": true}
+{"id": "DS-1000/223", "official_pass": false, "official_status": "failed", "detail": "[runtime] DataFrame indexer is not allowed for .iloc\nConsider using .loc for automatic alignment.", "excluded_by_us": false}
+{"id": "DS-1000/224", "official_pass": false, "official_status": "failed", "detail": "[runtime] unhashable type: 'Series'", "excluded_by_us": false}
+{"id": "DS-1000/225", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 77) (<string>, line 77)", "excluded_by_us": false}
+{"id": "DS-1000/226", "official_pass": false, "official_status": "failed", "detail": "[runtime] list expected at most 1 argument, got 2", "excluded_by_us": false}
+{"id": "DS-1000/227", "official_pass": false, "official_status": "failed", "detail": "[syntax] closing parenthesis ']' does not match opening parenthesis '(' (<string>, line 18)", "excluded_by_us": false}
+{"id": "DS-1000/228", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 89)", "excluded_by_us": true}
+{"id": "DS-1000/229", "official_pass": false, "official_status": "failed", "detail": "[syntax] '{' was never closed (<string>, line 53)", "excluded_by_us": false}
+{"id": "DS-1000/230", "official_pass": false, "official_status": "failed", "detail": "[runtime] 1", "excluded_by_us": false}
+{"id": "DS-1000/231", "official_pass": false, "official_status": "failed", "detail": "[syntax] '{' was never closed (<string>, line 53)", "excluded_by_us": false}
+{"id": "DS-1000/232", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 25) (<string>, line 25)", "excluded_by_us": false}
+{"id": "DS-1000/233", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/234", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'Series' object has no attribute 'join'", "excluded_by_us": false}
+{"id": "DS-1000/235", "official_pass": false, "official_status": "failed", "detail": "[runtime] Cannot reset_index inplace on a Series to create a DataFrame", "excluded_by_us": false}
+{"id": "DS-1000/236", "official_pass": false, "official_status": "failed", "detail": "[runtime] StringMethods.cat() got an unexpected keyword argument 'axis'", "excluded_by_us": false}
+{"id": "DS-1000/237", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 19)", "excluded_by_us": false}
+{"id": "DS-1000/238", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'date'", "excluded_by_us": false}
+{"id": "DS-1000/239", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/240", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/241", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/242", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/243", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'amount'", "excluded_by_us": false}
+{"id": "DS-1000/244", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/245", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 50)", "excluded_by_us": false}
+{"id": "DS-1000/246", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 51)", "excluded_by_us": false}
+{"id": "DS-1000/247", "official_pass": false, "official_status": "failed", "detail": "[syntax] '{' was never closed (<string>, line 38)", "excluded_by_us": false}
+{"id": "DS-1000/248", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 65)", "excluded_by_us": false}
+{"id": "DS-1000/249", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'DataFrame' object has no attribute 'name'", "excluded_by_us": false}
+{"id": "DS-1000/250", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 58)", "excluded_by_us": false}
+{"id": "DS-1000/251", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'DataFrame' object has no attribute 'str'", "excluded_by_us": false}
+{"id": "DS-1000/252", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/253", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/254", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 47)", "excluded_by_us": false}
+{"id": "DS-1000/255", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'index' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/256", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 71) (<string>, line 71)", "excluded_by_us": false}
+{"id": "DS-1000/257", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'Time'", "excluded_by_us": false}
+{"id": "DS-1000/258", "official_pass": false, "official_status": "failed", "detail": "[runtime] Per-column arrays must each be 1-dimensional", "excluded_by_us": false}
+{"id": "DS-1000/259", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 71) (<string>, line 71)", "excluded_by_us": false}
+{"id": "DS-1000/260", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 53) (<string>, line 53)", "excluded_by_us": false}
+{"id": "DS-1000/261", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 38)", "excluded_by_us": false}
+{"id": "DS-1000/262", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'Requested level (a) does not match index name (None)'", "excluded_by_us": false}
+{"id": "DS-1000/263", "official_pass": false, "official_status": "failed", "detail": "[runtime] unsupported operand type(s) for &: 'int' and 'Int64Index'", "excluded_by_us": false}
+{"id": "DS-1000/264", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/265", "official_pass": false, "official_status": "failed", "detail": "[runtime] Must specify axis=0 or 1", "excluded_by_us": false}
+{"id": "DS-1000/266", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 77)", "excluded_by_us": false}
+{"id": "DS-1000/267", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/268", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 40) (<string>, line 40)", "excluded_by_us": false}
+{"id": "DS-1000/269", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 118)", "excluded_by_us": false}
+{"id": "DS-1000/270", "official_pass": false, "official_status": "failed", "detail": "[runtime] Too many indexers", "excluded_by_us": false}
+{"id": "DS-1000/271", "official_pass": false, "official_status": "failed", "detail": "[runtime] loop of ufunc does not support argument 0 of type float which has no callable rint method", "excluded_by_us": false}
+{"id": "DS-1000/272", "official_pass": false, "official_status": "failed", "detail": "[runtime] loop of ufunc does not support argument 0 of type float which has no callable rint method", "excluded_by_us": false}
+{"id": "DS-1000/273", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 71)", "excluded_by_us": false}
+{"id": "DS-1000/274", "official_pass": false, "official_status": "failed", "detail": "[syntax] unmatched ')' (<string>, line 44)", "excluded_by_us": false}
+{"id": "DS-1000/275", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 49)", "excluded_by_us": false}
+{"id": "DS-1000/276", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 38) (<string>, line 38)", "excluded_by_us": false}
+{"id": "DS-1000/277", "official_pass": false, "official_status": "failed", "detail": "[runtime] No axis named 2 for object type DataFrame", "excluded_by_us": false}
+{"id": "DS-1000/278", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/279", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 30)", "excluded_by_us": false}
+{"id": "DS-1000/280", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'df' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/281", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'df' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/282", "official_pass": false, "official_status": "failed", "detail": "[runtime] Length mismatch: Expected axis has 3 elements, new values have 2 elements", "excluded_by_us": true}
+{"id": "DS-1000/283", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 72)", "excluded_by_us": true}
+{"id": "DS-1000/284", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'bool' object has no attribute 'count'", "excluded_by_us": false}
+{"id": "DS-1000/285", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/286", "official_pass": false, "official_status": "failed", "detail": "[runtime] incompatible index of inserted column with frame index", "excluded_by_us": false}
+{"id": "DS-1000/287", "official_pass": false, "official_status": "failed", "detail": "[runtime] can only concatenate str (not \"int\") to str", "excluded_by_us": false}
+{"id": "DS-1000/288", "official_pass": false, "official_status": "failed", "detail": "[runtime] can only concatenate str (not \"int\") to str", "excluded_by_us": false}
+{"id": "DS-1000/289", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/290", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/291", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/292", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 41)", "excluded_by_us": false}
+{"id": "DS-1000/293", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 151)", "excluded_by_us": false}
+{"id": "DS-1000/294", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 83)", "excluded_by_us": false}
+{"id": "DS-1000/295", "official_pass": false, "official_status": "failed", "detail": "[runtime] operands could not be broadcast together with shapes (3,) (3,4) (3,4) ", "excluded_by_us": false}
+{"id": "DS-1000/296", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 144)", "excluded_by_us": false}
+{"id": "DS-1000/297", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (3,), (3, 5) mismatch)\n x: array([1, 0, 0])\n y: array([[1., 0., 0., 0., 0.],\n       [0., 1., 0., 0., 0.],\n       [0., 0., 0., 0., 1.]])", "excluded_by_us": false}
+{"id": "DS-1000/298", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 149)", "excluded_by_us": false}
+{"id": "DS-1000/299", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 119)", "excluded_by_us": false}
+{"id": "DS-1000/300", "official_pass": false, "official_status": "failed", "detail": "[runtime] keyword argument repeated: overwrite_a (<string>, line 22)", "excluded_by_us": false}
+{"id": "DS-1000/301", "official_pass": false, "official_status": "failed", "detail": "[runtime] keyword argument repeated: axis (<string>, line 36)", "excluded_by_us": false}
+{"id": "DS-1000/302", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 180)", "excluded_by_us": false}
+{"id": "DS-1000/303", "official_pass": false, "official_status": "failed", "detail": "[runtime] setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (2,) + inhomogeneous part.", "excluded_by_us": false}
+{"id": "DS-1000/304", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 77)", "excluded_by_us": false}
+{"id": "DS-1000/305", "official_pass": false, "official_status": "failed", "detail": "[runtime] axis 1 is out of bounds for array of dimension 1", "excluded_by_us": false}
+{"id": "DS-1000/306", "official_pass": false, "official_status": "failed", "detail": "[runtime] roll() got an unexpected keyword argument 'mode'", "excluded_by_us": false}
+{"id": "DS-1000/307", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 100)", "excluded_by_us": false}
+{"id": "DS-1000/308", "official_pass": false, "official_status": "timed out", "detail": "[runtime] timed out", "excluded_by_us": false}
+{"id": "DS-1000/309", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 2 / 2 (100%)\nMax absolute difference: 3\nMax relative difference: 1.\n x: array([1, 0])\n y: array(3)", "excluded_by_us": false}
+{"id": "DS-1000/310", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 181)", "excluded_by_us": false}
+{"id": "DS-1000/311", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 1 / 2 (50%)\nMax absolute difference: 1\nMax relative difference: 1.\n x: array([1, 0])\n y: array([1, 1])", "excluded_by_us": false}
+{"id": "DS-1000/312", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/313", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/314", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 1 / 2 (50%)\nMax absolute difference: 1\nMax relative difference: 1.\n x: array(0)\n y: array([0, 1])", "excluded_by_us": false}
+{"id": "DS-1000/315", "official_pass": false, "official_status": "failed", "detail": "[runtime] isnan() got an unexpected keyword argument 'axis'", "excluded_by_us": false}
+{"id": "DS-1000/316", "official_pass": false, "official_status": "failed", "detail": "[runtime] index 3 is out of bounds for axis 0 with size 2", "excluded_by_us": false}
+{"id": "DS-1000/317", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/318", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 153)", "excluded_by_us": false}
+{"id": "DS-1000/319", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 79)", "excluded_by_us": false}
+{"id": "DS-1000/320", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 181)", "excluded_by_us": false}
+{"id": "DS-1000/321", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 92)", "excluded_by_us": false}
+{"id": "DS-1000/322", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'tuple' object has no attribute 'T'", "excluded_by_us": false}
+{"id": "DS-1000/323", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 169)", "excluded_by_us": false}
+{"id": "DS-1000/324", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 169)", "excluded_by_us": false}
+{"id": "DS-1000/325", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/326", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 13)", "excluded_by_us": false}
+{"id": "DS-1000/327", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 73)", "excluded_by_us": false}
+{"id": "DS-1000/328", "official_pass": false, "official_status": "failed", "detail": "[runtime] pad() got multiple values for argument 'mode'", "excluded_by_us": false}
+{"id": "DS-1000/329", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 208)", "excluded_by_us": false}
+{"id": "DS-1000/330", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/331", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'numpy.float64' object is not iterable", "excluded_by_us": false}
+{"id": "DS-1000/332", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/333", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 15)", "excluded_by_us": false}
+{"id": "DS-1000/334", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 2 / 3 (66.7%)\nMax absolute difference: 10.\nMax relative difference: 0.33333333\n x: array([20., 20., 25.])\n y: array([30., 20., 30.])", "excluded_by_us": false}
+{"id": "DS-1000/335", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 3 / 3 (100%)\n x: array(<ufunc 'maximum'>, dtype=object)\n y: array([50, 20, 40])", "excluded_by_us": false}
+{"id": "DS-1000/336", "official_pass": false, "official_status": "failed", "detail": "[runtime] diag() takes from 1 to 2 positional arguments but 3 were given", "excluded_by_us": false}
+{"id": "DS-1000/337", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (2, 5), (5,) mismatch)\n x: array([[0, 1, 2, 3, 4],\n       [0, 1, 2, 3, 4]])\n y: array([ 5,  9, 13, 17, 21])", "excluded_by_us": false}
+{"id": "DS-1000/338", "official_pass": false, "official_status": "failed", "detail": "[runtime] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()", "excluded_by_us": false}
+{"id": "DS-1000/339", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 9 / 10 (90%)\nMax absolute difference: 20\nMax relative difference: 1.\n x: array([[0, 1, 2, 3, 4],\n       [0, 1, 2, 3, 4]])\n y: array([[ 0,  6, 12, ", "excluded_by_us": false}
+{"id": "DS-1000/340", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/341", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 27 / 30 (90%)\nMax absolute difference: 6\nMax relative difference: 2.\n x: array([3, 3, 3, 4, 4, 4, 4, 4, 5, 5, 5, 5, 6, 6, 6, 6, 6, 7, 7, 7, 8, 8,\n", "excluded_by_us": false}
+{"id": "DS-1000/342", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 5) (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/343", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/344", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 8)", "excluded_by_us": false}
+{"id": "DS-1000/345", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nNot equal to tolerance rtol=1e-07, atol=0\n\nMismatched elements: 8 / 8 (100%)\nMax absolute difference: 5.92607907\nMax relative difference: 0.58423214\n x: array([ 3.806368,  8.310484, 12.6391", "excluded_by_us": false}
+{"id": "DS-1000/346", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nNot equal to tolerance rtol=1e-07, atol=0\n\nMismatched elements: 4 / 5 (80%)\nMax absolute difference: 11.61392621\nMax relative difference: 14.31747309\n x: array(12.425098)\n y: array([ 0.8111", "excluded_by_us": false}
+{"id": "DS-1000/347", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 11)", "excluded_by_us": false}
+{"id": "DS-1000/348", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'result'", "excluded_by_us": false}
+{"id": "DS-1000/349", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 72)", "excluded_by_us": false}
+{"id": "DS-1000/350", "official_pass": false, "official_status": "failed", "detail": "[runtime] module 'numpy' has no attribute 't'", "excluded_by_us": false}
+{"id": "DS-1000/351", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 15)", "excluded_by_us": false}
+{"id": "DS-1000/352", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/353", "official_pass": false, "official_status": "failed", "detail": "[runtime] operands could not be broadcast together with shapes (4,3) (7,3) ", "excluded_by_us": false}
+{"id": "DS-1000/354", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 4) (<string>, line 4)", "excluded_by_us": false}
+{"id": "DS-1000/355", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 55) (<string>, line 55)", "excluded_by_us": false}
+{"id": "DS-1000/356", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 100) (<string>, line 100)", "excluded_by_us": false}
+{"id": "DS-1000/357", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 26 / 27 (96.3%)\nMax absolute difference: 25\nMax relative difference: 1.\n x: array([[[0, 1, 2],\n        [2, 0, 0],\n        [0, 1, 2]],...\n y: array", "excluded_by_us": false}
+{"id": "DS-1000/358", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 62) (<string>, line 62)", "excluded_by_us": false}
+{"id": "DS-1000/359", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 3 / 9 (33.3%)\nMax absolute difference: 1\nMax relative difference: 0.33333333\n x: array([[ 0,  1,  2],\n       [ 4,  5,  6],\n       [ 8,  9, 10]])\n ", "excluded_by_us": false}
+{"id": "DS-1000/360", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (3, 3), (2, 4) mismatch)\n x: array([[ 0,  1,  2],\n       [ 4,  5,  6],\n       [ 8,  9, 10]])\n y: array([[0, 1, 2, 3],\n       [4, 5, 6, 7]])", "excluded_by_us": false}
+{"id": "DS-1000/361", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 200)", "excluded_by_us": false}
+{"id": "DS-1000/362", "official_pass": false, "official_status": "failed", "detail": "[runtime] index 4 is out of bounds for axis 0 with size 3", "excluded_by_us": false}
+{"id": "DS-1000/363", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (4,), (5,) mismatch)\n x: array([1, 2, 3, 4])\n y: array([ 1,  2, 66,  3,  4])", "excluded_by_us": false}
+{"id": "DS-1000/364", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 104)", "excluded_by_us": false}
+{"id": "DS-1000/365", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/366", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 72)", "excluded_by_us": false}
+{"id": "DS-1000/367", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/368", "official_pass": false, "official_status": "failed", "detail": "[runtime] operands could not be broadcast together with shapes (3,5) (5,3) ", "excluded_by_us": false}
+{"id": "DS-1000/369", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 184)", "excluded_by_us": false}
+{"id": "DS-1000/370", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/371", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid decimal literal (<string>, line 4)", "excluded_by_us": false}
+{"id": "DS-1000/372", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid decimal literal (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/373", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/374", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/375", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nNot equal to tolerance rtol=1e-07, atol=0\n\nMismatched elements: 2 / 2 (100%)\nMax absolute difference: 32.7\nMax relative difference: 0.53782895\n x: array([93.5, 93. ])\n y: array([60.8, 91.5]", "excluded_by_us": false}
+{"id": "DS-1000/376", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'nums' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/377", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/378", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/379", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 113)", "excluded_by_us": true}
+{"id": "DS-1000/380", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": true}
+{"id": "DS-1000/381", "official_pass": false, "official_status": "failed", "detail": "[runtime] argsort() got an unexpected keyword argument 'reverse'", "excluded_by_us": false}
+{"id": "DS-1000/382", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/383", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/384", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nNot equal to tolerance rtol=1e-07, atol=0\n\nMismatched elements: 16 / 16 (100%)\nMax absolute difference: 16507425\nMax relative difference: 1.\n x: array([[     0,      1,     32,    243],\n   ", "excluded_by_us": false}
+{"id": "DS-1000/385", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (16,), (4, 2, 2) mismatch)\n x: array([ 1,  5,  9, 13,  2,  6, 10, 14,  3,  7, 11, 15,  4,  8, 12, 16])\n y: array([[[ 1,  5],\n        [ 2,  6]],\n...", "excluded_by_us": false}
+{"id": "DS-1000/386", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 146)", "excluded_by_us": false}
+{"id": "DS-1000/387", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (2,), (4, 2, 2) mismatch)\n x: array([1, 3])\n y: array([[[ 1,  5],\n        [ 2,  6]],\n...", "excluded_by_us": false}
+{"id": "DS-1000/388", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (5, 2), (4, 2, 2) mismatch)\n x: array([[ 1,  9],\n       [17,  6],\n       [14,  3],...\n y: array([[[ 1,  5],\n        [ 2,  6]],\n...", "excluded_by_us": false}
+{"id": "DS-1000/389", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 12 / 24 (50%)\nMax absolute difference: 3\nMax relative difference: 1.\n x: array([[ 0,  1,  2,  6,  7,  8],\n       [ 3,  4,  5,  9, 10, 11],\n       ", "excluded_by_us": false}
+{"id": "DS-1000/390", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (10,), (4, 2, 2) mismatch)\n x: array([ 1,  9, 17,  6, 14,  3, 11, 19,  8, 16])\n y: array([[[ 1,  5],\n        [ 2,  6]],\n...", "excluded_by_us": false}
+{"id": "DS-1000/391", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (2, 7), (3, 4) mismatch)\n x: array([[ 5,  6,  7,  5,  3,  2,  5],\n       [ 9, 10, 11,  4,  5,  3,  5]])\n y: array([[ 1,  2,  3,  5],\n       [ 5,  6,  7,  5],\n ", "excluded_by_us": false}
+{"id": "DS-1000/392", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/393", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 94)", "excluded_by_us": false}
+{"id": "DS-1000/394", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'float' object is not iterable", "excluded_by_us": false}
+{"id": "DS-1000/395", "official_pass": false, "official_status": "failed", "detail": "[runtime] module 'numpy.random' has no attribute 'loguniform'", "excluded_by_us": false}
+{"id": "DS-1000/396", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/397", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/398", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 82) (<string>, line 82)", "excluded_by_us": false}
+{"id": "DS-1000/399", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nx and y nan location mismatch:\n x: array([      nan,       nan,  0.660557,  3.471338, 11.081245,  3.164169,\n       -2.107282,  8.772866,  9.342247, -0.514542])\n y: arr", "excluded_by_us": false}
+{"id": "DS-1000/400", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/401", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/402", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 4)", "excluded_by_us": false}
+{"id": "DS-1000/403", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 85) (<string>, line 85)", "excluded_by_us": false}
+{"id": "DS-1000/404", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'int32' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/405", "official_pass": false, "official_status": "failed", "detail": "[runtime] cumsum() got an unexpected keyword argument 'initial'", "excluded_by_us": false}
+{"id": "DS-1000/406", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 2 / 3 (66.7%)\nMax absolute difference: 5.\nMax relative difference: 0.5\n x: array(5)\n y: array([ 5., 10.,  9.])", "excluded_by_us": false}
+{"id": "DS-1000/407", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 96) (<string>, line 96)", "excluded_by_us": false}
+{"id": "DS-1000/408", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 124)", "excluded_by_us": false}
+{"id": "DS-1000/409", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'elementwise_function' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/410", "official_pass": false, "official_status": "failed", "detail": "[runtime] a must be 1-dimensional", "excluded_by_us": false}
+{"id": "DS-1000/411", "official_pass": false, "official_status": "failed", "detail": "[runtime] index can't contain negative values", "excluded_by_us": false}
+{"id": "DS-1000/412", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (1,), (10,) mismatch)\n x: array([0.])\n y: array([ 0. ,  1.2,  2.2,  3.1,  4.4,  8.3,  9.9, 10. , 14. , 16.2])", "excluded_by_us": false}
+{"id": "DS-1000/413", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (12,), (2,) mismatch)\n x: array([-2. +1.j, -1.4+0.j, -1.1+0.j,  1.2+0.j,  2.2+2.j,  3.1+0.j,\n        4.4+0.j,  8.3+0.j,  9.9+0.j, 10. +0.j, 14. +0.j, 16.2+0.j]", "excluded_by_us": false}
+{"id": "DS-1000/414", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 4)", "excluded_by_us": false}
+{"id": "DS-1000/415", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 4)", "excluded_by_us": false}
+{"id": "DS-1000/416", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 23)", "excluded_by_us": false}
+{"id": "DS-1000/417", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 4)", "excluded_by_us": false}
+{"id": "DS-1000/418", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 28)", "excluded_by_us": false}
+{"id": "DS-1000/419", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 4)", "excluded_by_us": false}
+{"id": "DS-1000/420", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'numpy.float64' object has no attribute 'gradient'", "excluded_by_us": false}
+{"id": "DS-1000/421", "official_pass": false, "official_status": "failed", "detail": "[runtime] smoothclamp() got an unexpected keyword argument 'N'", "excluded_by_us": false}
+{"id": "DS-1000/422", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nNot equal to tolerance rtol=1e-07, atol=0\n\n(shapes (7,), (4,) mismatch)\n x: array([ 6, 18, 36, 60, 54, 42, 24])\n y: array([30, 36, 38, 36])", "excluded_by_us": false}
+{"id": "DS-1000/423", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (15, 4, 5), (4, 15, 5) mismatch)\n x: array([[[6, 3, 7, 4, 6],\n        [9, 8, 8, 0, 8],\n        [2, 6, 5, 7, 8],...\n y: array([[[6, 6, 7, 7, 1],\n        [4, 8, ", "excluded_by_us": false}
+{"id": "DS-1000/424", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 200)", "excluded_by_us": false}
+{"id": "DS-1000/425", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 139)", "excluded_by_us": false}
+{"id": "DS-1000/426", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (6,), (5, 6) mismatch)\n x: array([1, 2, 3, 4, 5, 0])\n y: array([[0, 0, 0, 0, 0, 1],\n       [0, 0, 0, 0, 1, 0],\n       [0, 0, 0, 0, 1, 1],...", "excluded_by_us": false}
+{"id": "DS-1000/427", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 135)", "excluded_by_us": false}
+{"id": "DS-1000/428", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'result'", "excluded_by_us": false}
+{"id": "DS-1000/429", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 124)", "excluded_by_us": false}
+{"id": "DS-1000/430", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/431", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 83)", "excluded_by_us": false}
+{"id": "DS-1000/432", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'ma' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/433", "official_pass": false, "official_status": "failed", "detail": "[runtime] shape mismatch: indexing arrays could not be broadcast together with shapes (2,) (4,) ", "excluded_by_us": false}
+{"id": "DS-1000/434", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 6)", "excluded_by_us": false}
+{"id": "DS-1000/435", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 189)", "excluded_by_us": false}
+{"id": "DS-1000/436", "official_pass": false, "official_status": "failed", "detail": "[runtime] operands could not be broadcast together with shapes (3,2) (3,) ", "excluded_by_us": false}
+{"id": "DS-1000/437", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 118)", "excluded_by_us": false}
+{"id": "DS-1000/438", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'result'", "excluded_by_us": false}
+{"id": "DS-1000/439", "official_pass": false, "official_status": "failed", "detail": "[syntax] unmatched ')' (<string>, line 37)", "excluded_by_us": false}
+{"id": "DS-1000/440", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'M' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/441", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/442", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 4) (<string>, line 4)", "excluded_by_us": false}
+{"id": "DS-1000/443", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 4) (<string>, line 4)", "excluded_by_us": false}
+{"id": "DS-1000/444", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (12,), (7,) mismatch)\n x: array([1, 1, 0, 0, 0, 0, 4, 0, 0, 0, 8, 8])\n y: array([2, 3, 3, 3, 5, 6, 7])", "excluded_by_us": false}
+{"id": "DS-1000/445", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 49)", "excluded_by_us": false}
+{"id": "DS-1000/446", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 181)", "excluded_by_us": false}
+{"id": "DS-1000/447", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 6) (<string>, line 6)", "excluded_by_us": false}
+{"id": "DS-1000/448", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 18 / 18 (100%)\n x: array(<module 'numpy' from '<evaluator>/ds1000/env/lib/python3.10/site-packages/numpy/__init__", "excluded_by_us": false}
+{"id": "DS-1000/449", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 61)", "excluded_by_us": false}
+{"id": "DS-1000/450", "official_pass": false, "official_status": "failed", "detail": "[runtime] index 3 is out of bounds for axis 0 with size 2", "excluded_by_us": false}
+{"id": "DS-1000/451", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 156)", "excluded_by_us": false}
+{"id": "DS-1000/452", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 101)", "excluded_by_us": false}
+{"id": "DS-1000/453", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 89)", "excluded_by_us": false}
+{"id": "DS-1000/454", "official_pass": false, "official_status": "failed", "detail": "[runtime] module 'numpy' has no attribute 'linal'", "excluded_by_us": false}
+{"id": "DS-1000/455", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'conditions' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/456", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'result'", "excluded_by_us": false}
+{"id": "DS-1000/457", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 12)", "excluded_by_us": false}
+{"id": "DS-1000/458", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nNot equal to tolerance rtol=1e-07, atol=0\n\n(shapes (8, 6), (8, 8) mismatch)\n x: array([[0.  , 0.  , 0.  , 0.  , 0.  , 0.  ],\n       [0.04, 0.  , 0.  , 0.  , 0.  , 0.  ],\n       [0.04, 0.04,", "excluded_by_us": false}
+{"id": "DS-1000/459", "official_pass": false, "official_status": "failed", "detail": "[runtime] ufunc 'add' did not contain a loop with signature matching types (dtype('<U5'), dtype('<U5')) -> None", "excluded_by_us": false}
+{"id": "DS-1000/460", "official_pass": false, "official_status": "failed", "detail": "[runtime] ufunc 'add' did not contain a loop with signature matching types (dtype('<U5'), dtype('<U5')) -> None", "excluded_by_us": false}
+{"id": "DS-1000/461", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 156)", "excluded_by_us": false}
+{"id": "DS-1000/462", "official_pass": false, "official_status": "failed", "detail": "[runtime] index 0 is out of bounds for axis 0 with size 0", "excluded_by_us": false}
+{"id": "DS-1000/463", "official_pass": false, "official_status": "failed", "detail": "[runtime] index 1 is out of bounds for axis 0 with size 1", "excluded_by_us": false}
+{"id": "DS-1000/464", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 67)", "excluded_by_us": false}
+{"id": "DS-1000/465", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 5 (<string>, line 6)", "excluded_by_us": false}
+{"id": "DS-1000/466", "official_pass": false, "official_status": "failed", "detail": "[runtime] Expected a 1D array, got an array with shape (3, 2)", "excluded_by_us": false}
+{"id": "DS-1000/467", "official_pass": false, "official_status": "failed", "detail": "[runtime] operands could not be broadcast together with shapes (16,) (4,4) ", "excluded_by_us": false}
+{"id": "DS-1000/468", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 17)", "excluded_by_us": false}
+{"id": "DS-1000/469", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'numpy.complex128' object does not support item assignment", "excluded_by_us": false}
+{"id": "DS-1000/470", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/471", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 91)", "excluded_by_us": false}
+{"id": "DS-1000/472", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 91)", "excluded_by_us": false}
+{"id": "DS-1000/473", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 11)", "excluded_by_us": false}
+{"id": "DS-1000/474", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 11)", "excluded_by_us": false}
+{"id": "DS-1000/475", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 98)", "excluded_by_us": false}
+{"id": "DS-1000/476", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 43)", "excluded_by_us": false}
+{"id": "DS-1000/477", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/478", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 185)", "excluded_by_us": false}
+{"id": "DS-1000/479", "official_pass": false, "official_status": "failed", "detail": "[runtime] DatetimeIndex(...) must be called with a collection of some kind, datetime.datetime(2015, 2, 23, 23, 11, 43, 504695) was passed", "excluded_by_us": false}
+{"id": "DS-1000/480", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 1 / 1 (100%)\nMax absolute difference: 2\nMax relative difference: 0.66666667\n x: array([1])\n y: array(3)", "excluded_by_us": false}
+{"id": "DS-1000/481", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 10)", "excluded_by_us": false}
+{"id": "DS-1000/482", "official_pass": false, "official_status": "failed", "detail": "[runtime] module 'numpy' has no attribute 'lstsq'", "excluded_by_us": false}
+{"id": "DS-1000/483", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 73) (<string>, line 73)", "excluded_by_us": false}
+{"id": "DS-1000/484", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 77)", "excluded_by_us": false}
+{"id": "DS-1000/485", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 4) (<string>, line 4)", "excluded_by_us": false}
+{"id": "DS-1000/486", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nNot equal to tolerance rtol=1e-07, atol=0\n\nMismatched elements: 2 / 4 (50%)\nMax absolute difference: 0.92857143\nMax relative difference: 13.\n x: array([[0., 0.],\n       [1., 1.]])\n y: array", "excluded_by_us": false}
+{"id": "DS-1000/487", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nNot equal to tolerance rtol=1e-07, atol=0\n\n(shapes (9, 1), (3, 3) mismatch)\n x: array([[1.      ],\n       [0.      ],\n       [0.      ],...\n y: array([[0.      , 0.5     , 1.      ],\n      ", "excluded_by_us": false}
+{"id": "DS-1000/488", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nNot equal to tolerance rtol=1e-07, atol=0\n\nMismatched elements: 12 / 18 (66.7%)\nMax absolute difference: 0.69230769\nMax relative difference: 2.25\n x: array([[[1.      , 0.269231, 0.      ],", "excluded_by_us": false}
+{"id": "DS-1000/489", "official_pass": false, "official_status": "failed", "detail": "[runtime] ufunc 'invert' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''", "excluded_by_us": false}
+{"id": "DS-1000/490", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 148)", "excluded_by_us": false}
+{"id": "DS-1000/491", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/492", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/493", "official_pass": false, "official_status": "failed", "detail": "[runtime] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()", "excluded_by_us": false}
+{"id": "DS-1000/494", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 180)", "excluded_by_us": false}
+{"id": "DS-1000/495", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 85)", "excluded_by_us": false}
+{"id": "DS-1000/496", "official_pass": false, "official_status": "failed", "detail": "[runtime] `pad_width` must be of integral type.", "excluded_by_us": false}
+{"id": "DS-1000/497", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'arrays' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/498", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 5) (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/499", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 106)", "excluded_by_us": false}
+{"id": "DS-1000/500", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 166)", "excluded_by_us": false}
+{"id": "DS-1000/501", "official_pass": false, "official_status": "failed", "detail": "[runtime] `indices` and `arr` must have the same number of dimensions", "excluded_by_us": false}
+{"id": "DS-1000/502", "official_pass": false, "official_status": "failed", "detail": "[runtime] `indices` and `arr` must have the same number of dimensions", "excluded_by_us": false}
+{"id": "DS-1000/503", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 34)", "excluded_by_us": false}
+{"id": "DS-1000/504", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 142)", "excluded_by_us": false}
+{"id": "DS-1000/505", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 1 / 1 (100%)\nMax absolute difference: 203\nMax relative difference: 0.78988327\n x: array(54)\n y: array(257)", "excluded_by_us": false}
+{"id": "DS-1000/506", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 11)", "excluded_by_us": false}
+{"id": "DS-1000/507", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (5, 6), (3, 4) mismatch)\n x: array([[1, 1, 1, 0, 0, 0],\n       [1, 0, 1, 0, 0, 1],\n       [0, 1, 1, 0, 0, 0],...\n y: array([[0, 1, 1, 1],\n       [1, 1, 0, 1],\n", "excluded_by_us": false}
+{"id": "DS-1000/508", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after 'if' statement on line 56 (<string>, line 56)", "excluded_by_us": false}
+{"id": "DS-1000/509", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 26)", "excluded_by_us": false}
+{"id": "DS-1000/510", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 10)", "excluded_by_us": false}
+{"id": "DS-1000/511", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/512", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 9) (<string>, line 9)", "excluded_by_us": false}
+{"id": "DS-1000/513", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 9) (<string>, line 9)", "excluded_by_us": false}
+{"id": "DS-1000/514", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 9) (<string>, line 9)", "excluded_by_us": false}
+{"id": "DS-1000/515", "official_pass": false, "official_status": "failed", "detail": "[runtime] x and y must have same first dimension, but have shapes (10,) and (1,)", "excluded_by_us": false}
+{"id": "DS-1000/516", "official_pass": false, "official_status": "failed", "detail": "[runtime] x and y must have same first dimension, but have shapes (10,) and (1,)", "excluded_by_us": false}
+{"id": "DS-1000/517", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/518", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/519", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/520", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": true}
+{"id": "DS-1000/521", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/522", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/523", "official_pass": false, "official_status": "failed", "detail": "[runtime] could not convert string to float: 'Male'", "excluded_by_us": false}
+{"id": "DS-1000/524", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/525", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/526", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/527", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/528", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/529", "official_pass": false, "official_status": "failed", "detail": "[runtime] Line2D.set() got an unexpected keyword argument 'facecolor'", "excluded_by_us": false}
+{"id": "DS-1000/530", "official_pass": false, "official_status": "failed", "detail": "[runtime] object of type 'Line2D' has no len()", "excluded_by_us": false}
+{"id": "DS-1000/531", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/532", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/533", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/534", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/535", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/536", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/537", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/538", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/539", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'right' is not a valid value for position; supported values are 'top', 'bottom'", "excluded_by_us": false}
+{"id": "DS-1000/540", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 59)", "excluded_by_us": false}
+{"id": "DS-1000/541", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/542", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/543", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/544", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/545", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/546", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 151)", "excluded_by_us": false}
+{"id": "DS-1000/547", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 89) (<string>, line 89)", "excluded_by_us": false}
+{"id": "DS-1000/548", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 9) (<string>, line 9)", "excluded_by_us": false}
+{"id": "DS-1000/549", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/550", "official_pass": false, "official_status": "failed", "detail": "[runtime] unsupported operand type(s) for &: 'tuple' and 'int'", "excluded_by_us": false}
+{"id": "DS-1000/551", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'DataFrame' object has no attribute 'set_axis_label'", "excluded_by_us": false}
+{"id": "DS-1000/552", "official_pass": false, "official_status": "failed", "detail": "[runtime] \"['x'] not found in axis\"", "excluded_by_us": false}
+{"id": "DS-1000/553", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'Axes' object has no attribute 'set_yt'", "excluded_by_us": false}
+{"id": "DS-1000/554", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 51)", "excluded_by_us": false}
+{"id": "DS-1000/555", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/556", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/557", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/558", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/559", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/560", "official_pass": false, "official_status": "failed", "detail": "[runtime] Axis.set_ticklabels() missing 1 required positional argument: 'labels'", "excluded_by_us": false}
+{"id": "DS-1000/561", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/562", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/563", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/564", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/565", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/566", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/567", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/568", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/569", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/570", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/571", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/572", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/573", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/574", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'top' is not a valid value for position; supported values are 'left', 'right'", "excluded_by_us": false}
+{"id": "DS-1000/575", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'args' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/576", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/577", "official_pass": false, "official_status": "failed", "detail": "[runtime] PathCollection.set() got an unexpected keyword argument 'markersize'", "excluded_by_us": false}
+{"id": "DS-1000/578", "official_pass": false, "official_status": "failed", "detail": "[runtime] invalid literal for int() with base 10: '(2.56, 0.15, 58.00)'", "excluded_by_us": false}
+{"id": "DS-1000/579", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/580", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'Axes' object has no attribute 'get_colorbar'", "excluded_by_us": false}
+{"id": "DS-1000/581", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/582", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'Figure' object has no attribute '_gridspecs'", "excluded_by_us": false}
+{"id": "DS-1000/583", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/584", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/585", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/586", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/587", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'NoneType' object has no attribute 'get_texts'", "excluded_by_us": false}
+{"id": "DS-1000/588", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'NoneType' object has no attribute 'get_text'", "excluded_by_us": false}
+{"id": "DS-1000/589", "official_pass": false, "official_status": "failed", "detail": "[runtime] list indices must be integers or slices, not tuple", "excluded_by_us": false}
+{"id": "DS-1000/590", "official_pass": false, "official_status": "failed", "detail": "[runtime] Line2D.set() got an unexpected keyword argument 'fontsize'", "excluded_by_us": false}
+{"id": "DS-1000/591", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/592", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/593", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/594", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/595", "official_pass": false, "official_status": "failed", "detail": "[runtime] The number of FixedLocator locations (11), usually from a call to set_ticks, does not match the number of labels (10).", "excluded_by_us": false}
+{"id": "DS-1000/596", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'Axes' object has no attribute 'set_markersize'", "excluded_by_us": false}
+{"id": "DS-1000/597", "official_pass": false, "official_status": "failed", "detail": "[runtime] Automatic legend placement (loc='best') not implemented for figure legend", "excluded_by_us": false}
+{"id": "DS-1000/598", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/599", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 79) (<string>, line 79)", "excluded_by_us": false}
+{"id": "DS-1000/600", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 186)", "excluded_by_us": false}
+{"id": "DS-1000/601", "official_pass": false, "official_status": "failed", "detail": "[runtime] The number of FixedLocator locations (5), usually from a call to set_ticks, does not match the number of labels (3).", "excluded_by_us": false}
+{"id": "DS-1000/602", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/603", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/604", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/605", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/606", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 136)", "excluded_by_us": false}
+{"id": "DS-1000/607", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'Axes' object has no attribute 'flatten'", "excluded_by_us": false}
+{"id": "DS-1000/608", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/609", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/610", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'Axes' object has no attribute 'set_axis_linewidth'", "excluded_by_us": false}
+{"id": "DS-1000/611", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/612", "official_pass": false, "official_status": "failed", "detail": "[runtime] Shape of passed values is (3, 1), indices imply (3, 3)", "excluded_by_us": false}
+{"id": "DS-1000/613", "official_pass": false, "official_status": "failed", "detail": "[runtime] AxesImage.set() got an unexpected keyword argument 'xlim'", "excluded_by_us": false}
+{"id": "DS-1000/614", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/615", "official_pass": false, "official_status": "failed", "detail": "[runtime] 4", "excluded_by_us": false}
+{"id": "DS-1000/616", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'NoneType' object has no attribute 'get_lines'", "excluded_by_us": false}
+{"id": "DS-1000/617", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'Axes' object has no attribute 'set_theta_direction'", "excluded_by_us": false}
+{"id": "DS-1000/618", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/619", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/620", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'Axes' object has no attribute 'set_major_formatter'", "excluded_by_us": false}
+{"id": "DS-1000/621", "official_pass": false, "official_status": "failed", "detail": "[runtime] keyword argument repeated: startangle (<string>, line 15)", "excluded_by_us": false}
+{"id": "DS-1000/622", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/623", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/624", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/625", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/626", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/627", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'spectral' is not a valid value for name; supported values are 'Accent', 'Accent_r', 'Blues', 'Blues_r', 'BrBG', 'BrBG_r', 'BuGn', 'BuGn_r', 'BuPu', 'BuPu_r', 'CMRmap', 'CMRmap_r', 'Dark2', ", "excluded_by_us": false}
+{"id": "DS-1000/628", "official_pass": false, "official_status": "failed", "detail": "[runtime] operands could not be broadcast together with shapes (7,) (13,) ", "excluded_by_us": false}
+{"id": "DS-1000/629", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/630", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 72)", "excluded_by_us": false}
+{"id": "DS-1000/631", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/632", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/633", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/634", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/635", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/636", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/637", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/638", "official_pass": false, "official_status": "failed", "detail": "[runtime] The x variable is categorical, but one of ['numeric', 'datetime'] is required", "excluded_by_us": false}
+{"id": "DS-1000/639", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/640", "official_pass": false, "official_status": "failed", "detail": "[runtime] list index out of range", "excluded_by_us": false}
+{"id": "DS-1000/641", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/642", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/643", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/644", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/645", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/646", "official_pass": false, "official_status": "failed", "detail": "[runtime] Rectangle.set() got an unexpected keyword argument 'error_bars'", "excluded_by_us": false}
+{"id": "DS-1000/647", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/648", "official_pass": false, "official_status": "failed", "detail": "[runtime] x and y must have same first dimension, but have shapes (10,) and (1,)", "excluded_by_us": false}
+{"id": "DS-1000/649", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/650", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'Styler' object has no attribute 'show'", "excluded_by_us": false}
+{"id": "DS-1000/651", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/652", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/653", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/654", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'tuple' object has no attribute 'drop'", "excluded_by_us": false}
+{"id": "DS-1000/655", "official_pass": false, "official_status": "failed", "detail": "[runtime] PathCollection.set() got an unexpected keyword argument 'hue'", "excluded_by_us": false}
+{"id": "DS-1000/656", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/657", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/658", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/659", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/660", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/661", "official_pass": false, "official_status": "failed", "detail": "[runtime] Legend.__init__() got an unexpected keyword argument 'label'", "excluded_by_us": false}
+{"id": "DS-1000/662", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 21)", "excluded_by_us": false}
+{"id": "DS-1000/663", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/664", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/665", "official_pass": false, "official_status": "failed", "detail": "[runtime] Invalid shape () for image data", "excluded_by_us": false}
+{"id": "DS-1000/666", "official_pass": false, "official_status": "failed", "detail": "[runtime] This operation is not supported when eager execution is enabled.", "excluded_by_us": true}
+{"id": "DS-1000/667", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": true}
+{"id": "DS-1000/668", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": true}
+{"id": "DS-1000/669", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 53)", "excluded_by_us": true}
+{"id": "DS-1000/670", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 91)", "excluded_by_us": true}
+{"id": "DS-1000/671", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 6)", "excluded_by_us": true}
+{"id": "DS-1000/672", "official_pass": false, "official_status": "failed", "detail": "[runtime] {{function_node __wrapped__Reshape_device_/job:localhost/replica:0/task:0/device:CPU:0}} Input to reshape is a tensor with 50 values, but the requested shape has 10 [Op:Reshape]", "excluded_by_us": true}
+{"id": "DS-1000/673", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'my_map_func' is not defined", "excluded_by_us": true}
+{"id": "DS-1000/674", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 5 (<string>, line 6)", "excluded_by_us": true}
+{"id": "DS-1000/675", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 86)", "excluded_by_us": true}
+{"id": "DS-1000/676", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'tensorflow.python.framework.ops.EagerTensor' object does not support item assignment", "excluded_by_us": true}
+{"id": "DS-1000/677", "official_pass": false, "official_status": "failed", "detail": "[runtime] tuple index out of range", "excluded_by_us": true}
+{"id": "DS-1000/678", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 6)", "excluded_by_us": true}
+{"id": "DS-1000/679", "official_pass": false, "official_status": "failed", "detail": "[runtime] module 'tensorflow._api.v2.math' has no attribute 'pad'", "excluded_by_us": true}
+{"id": "DS-1000/680", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax. Perhaps you forgot a comma? (<string>, line 22)", "excluded_by_us": true}
+{"id": "DS-1000/681", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 7)", "excluded_by_us": true}
+{"id": "DS-1000/682", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 74)", "excluded_by_us": true}
+{"id": "DS-1000/683", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 143)", "excluded_by_us": true}
+{"id": "DS-1000/684", "official_pass": false, "official_status": "failed", "detail": "[runtime] {{function_node __wrapped__Reshape_device_/job:localhost/replica:0/task:0/device:CPU:0}} Input to reshape is a tensor with 2600 values, but the requested shape has 2560000 [Op:Reshape]", "excluded_by_us": true}
+{"id": "DS-1000/685", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 104)", "excluded_by_us": true}
+{"id": "DS-1000/686", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": true}
+{"id": "DS-1000/687", "official_pass": false, "official_status": "failed", "detail": "[runtime] module 'tensorflow._api.v2.math' has no attribute 'math'", "excluded_by_us": true}
+{"id": "DS-1000/688", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 46)", "excluded_by_us": true}
+{"id": "DS-1000/689", "official_pass": false, "official_status": "failed", "detail": "[runtime] module 'tensorflow' has no attribute 'sub'", "excluded_by_us": true}
+{"id": "DS-1000/690", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": true}
+{"id": "DS-1000/691", "official_pass": false, "official_status": "failed", "detail": "[runtime] keyword argument repeated: reverse (<string>, line 40)", "excluded_by_us": true}
+{"id": "DS-1000/692", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 97)", "excluded_by_us": true}
+{"id": "DS-1000/693", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": true}
+{"id": "DS-1000/694", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 48)", "excluded_by_us": true}
+{"id": "DS-1000/695", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 15)", "excluded_by_us": true}
+{"id": "DS-1000/696", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 120)", "excluded_by_us": false}
+{"id": "DS-1000/697", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/698", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'numpy.float32' object has no attribute 'numpy'", "excluded_by_us": true}
+{"id": "DS-1000/699", "official_pass": false, "official_status": "failed", "detail": "[runtime] {{function_node __wrapped__RealDiv_device_/job:localhost/replica:0/task:0/device:CPU:0}} Incompatible shapes: [2,4,3] vs. [2,4,1,3] [Op:RealDiv] name: ", "excluded_by_us": true}
+{"id": "DS-1000/700", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 5) (<string>, line 5)", "excluded_by_us": true}
+{"id": "DS-1000/701", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'A' is not defined", "excluded_by_us": true}
+{"id": "DS-1000/702", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": true}
+{"id": "DS-1000/703", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 112)", "excluded_by_us": true}
+{"id": "DS-1000/704", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 14)", "excluded_by_us": true}
+{"id": "DS-1000/705", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": true}
+{"id": "DS-1000/706", "official_pass": false, "official_status": "failed", "detail": "[runtime] Invalid filepath extension for saving. Please add either a `.keras` extension for the native Keras format (recommended) or a `.h5` extension. Use `model.export(filepath)` if you want to expo", "excluded_by_us": true}
+{"id": "DS-1000/707", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": true}
+{"id": "DS-1000/708", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": true}
+{"id": "DS-1000/709", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": true}
+{"id": "DS-1000/710", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/711", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/712", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/713", "official_pass": false, "official_status": "failed", "detail": "[runtime] fit_exponential.<locals>.<lambda>() takes 2 positional arguments but 4 were given", "excluded_by_us": false}
+{"id": "DS-1000/714", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nNot equal to tolerance rtol=1e-07, atol=0\n\nMismatched elements: 2 / 2 (100%)\nMax absolute difference: 0.407\nMax relative difference: 9.04444444\n x: array([4.520000e-01, 2.105546e-92])\n y: a", "excluded_by_us": false}
+{"id": "DS-1000/715", "official_pass": false, "official_status": "failed", "detail": "[runtime] kstest() got multiple values for argument 'args'", "excluded_by_us": false}
+{"id": "DS-1000/716", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'f' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/717", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nNot equal to tolerance rtol=1e-07, atol=0\n\nMismatched elements: 4 / 5 (80%)\nMax absolute difference: 0.9973002\nMax relative difference: 738.79669469\n x: array([0.99865, 0.97725, 0.5    , 0.", "excluded_by_us": false}
+{"id": "DS-1000/718", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nNot equal to tolerance rtol=1e-07, atol=0\n\nMismatched elements: 5 / 5 (100%)\nMax absolute difference: 0.9318429\nMax relative difference: 690.30614081\n x: array([0.933193, 0.89435 , 0.773373", "excluded_by_us": false}
+{"id": "DS-1000/719", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 77)", "excluded_by_us": false}
+{"id": "DS-1000/720", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/721", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'dist' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/722", "official_pass": false, "official_status": "failed", "detail": "[runtime] dimension mismatch", "excluded_by_us": false}
+{"id": "DS-1000/723", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 5 (<string>, line 6)", "excluded_by_us": false}
+{"id": "DS-1000/724", "official_pass": false, "official_status": "failed", "detail": "[runtime] too many indices for array: array is 1-dimensional, but 2 were indexed", "excluded_by_us": false}
+{"id": "DS-1000/725", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 48)", "excluded_by_us": false}
+{"id": "DS-1000/726", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/727", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 4 / 4 (100%)\nMax absolute difference: 15.70177902\nMax relative difference: 0.98136119\n x: array([0.137847, 0.613303, 0.325092, 0.298221])\n y: arra", "excluded_by_us": false}
+{"id": "DS-1000/728", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nNot equal to tolerance rtol=1e-07, atol=0\n\nMismatched elements: 2 / 2 (100%)\nMax absolute difference: 0.90153587\nMax relative difference: 9.15598282\n x: array([1., 0.])\n y: array([0.098464,", "excluded_by_us": false}
+{"id": "DS-1000/729", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 14) (<string>, line 14)", "excluded_by_us": false}
+{"id": "DS-1000/730", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 2 / 2 (100%)\nMax absolute difference: 1.\nMax relative difference: 1.\n x: array([0., 0.])\n y: array(True)", "excluded_by_us": false}
+{"id": "DS-1000/731", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 106)", "excluded_by_us": false}
+{"id": "DS-1000/732", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 48)", "excluded_by_us": false}
+{"id": "DS-1000/733", "official_pass": false, "official_status": "failed", "detail": "[runtime] inconsistent shapes", "excluded_by_us": false}
+{"id": "DS-1000/734", "official_pass": false, "official_status": "failed", "detail": "[runtime] cannot reshape array of size 49 into shape (2)", "excluded_by_us": false}
+{"id": "DS-1000/735", "official_pass": false, "official_status": "failed", "detail": "[runtime] cannot reshape array of size 49 into shape (2)", "excluded_by_us": false}
+{"id": "DS-1000/736", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'csr_matrix' object has no attribute 'diag_indices'", "excluded_by_us": false}
+{"id": "DS-1000/737", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'result'", "excluded_by_us": false}
+{"id": "DS-1000/738", "official_pass": false, "official_status": "failed", "detail": "[runtime] module 'scipy.ndimage' has no attribute 'regionprops'", "excluded_by_us": false}
+{"id": "DS-1000/739", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'threshold' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/740", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'result'", "excluded_by_us": false}
+{"id": "DS-1000/741", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'csr_matrix' object has no attribute 'toc'", "excluded_by_us": false}
+{"id": "DS-1000/742", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 4 (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/743", "official_pass": false, "official_status": "failed", "detail": "[runtime] sequence argument must have length equal to input rank", "excluded_by_us": false}
+{"id": "DS-1000/744", "official_pass": false, "official_status": "failed", "detail": "[runtime] operands could not be broadcast together with shapes (32,32) () (3,3) ", "excluded_by_us": false}
+{"id": "DS-1000/745", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'sA' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/746", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 13)", "excluded_by_us": false}
+{"id": "DS-1000/747", "official_pass": false, "official_status": "failed", "detail": "[runtime] setting an array element with a sequence.", "excluded_by_us": false}
+{"id": "DS-1000/748", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 37)", "excluded_by_us": false}
+{"id": "DS-1000/749", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 5) (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/750", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 5) (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/751", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 6) (<string>, line 6)", "excluded_by_us": false}
+{"id": "DS-1000/752", "official_pass": false, "official_status": "failed", "detail": "[runtime] failed in converting 3rd argument `y' of dfitpack.curfit to C/Fortran array", "excluded_by_us": false}
+{"id": "DS-1000/753", "official_pass": false, "official_status": "failed", "detail": "[runtime] anderson_ksamp() got an unexpected keyword argument 'alpha'", "excluded_by_us": false}
+{"id": "DS-1000/754", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'list' object has no attribute 'lower'", "excluded_by_us": false}
+{"id": "DS-1000/755", "official_pass": false, "official_status": "failed", "detail": "[runtime] module 'pandas' has no attribute 'rolling_apply'", "excluded_by_us": false}
+{"id": "DS-1000/756", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 8)", "excluded_by_us": false}
+{"id": "DS-1000/757", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 46)", "excluded_by_us": false}
+{"id": "DS-1000/758", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (4, 200), (200, 200) mismatch)\n x: array([[0.771321, 0.498507, 0.169111, 0.003948, 0.721755, 0.542544,\n        0.441833, 0.650397, 0.908649, 0.113984, 0.547586", "excluded_by_us": false}
+{"id": "DS-1000/759", "official_pass": false, "official_status": "failed", "detail": "[runtime] unsupported operand type(s) for -: 'function' and 'float'", "excluded_by_us": false}
+{"id": "DS-1000/760", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 5) (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/761", "official_pass": false, "official_status": "failed", "detail": "[runtime] module 'numpy' has no attribute 'kurtosis'", "excluded_by_us": false}
+{"id": "DS-1000/762", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 17)", "excluded_by_us": false}
+{"id": "DS-1000/763", "official_pass": false, "official_status": "failed", "detail": "[runtime] ufunc 'isfinite' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''", "excluded_by_us": false}
+{"id": "DS-1000/764", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 8)", "excluded_by_us": false}
+{"id": "DS-1000/765", "official_pass": false, "official_status": "failed", "detail": "[runtime] only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices", "excluded_by_us": false}
+{"id": "DS-1000/766", "official_pass": false, "official_status": "failed", "detail": "[runtime] unhashable type: 'list'", "excluded_by_us": false}
+{"id": "DS-1000/767", "official_pass": false, "official_status": "failed", "detail": "[runtime] unrecognized csc_matrix constructor usage", "excluded_by_us": false}
+{"id": "DS-1000/768", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 97)", "excluded_by_us": false}
+{"id": "DS-1000/769", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'csr_matrix' object has no attribute 'get_value'", "excluded_by_us": false}
+{"id": "DS-1000/770", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 13)", "excluded_by_us": false}
+{"id": "DS-1000/771", "official_pass": false, "official_status": "failed", "detail": "[runtime] operands could not be broadcast together with shapes (100,100) (100,10,10) ", "excluded_by_us": false}
+{"id": "DS-1000/772", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'NormalDistro' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/773", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 8 (<string>, line 10)", "excluded_by_us": false}
+{"id": "DS-1000/774", "official_pass": false, "official_status": "failed", "detail": "[runtime] module 'numpy.linalg' has no attribute 'diag'", "excluded_by_us": false}
+{"id": "DS-1000/775", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'tridiibular_array' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/776", "official_pass": false, "official_status": "failed", "detail": "[runtime] float() argument must be a string or a real number, not 'rv_discrete_frozen'", "excluded_by_us": false}
+{"id": "DS-1000/777", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 22)", "excluded_by_us": false}
+{"id": "DS-1000/778", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 22)", "excluded_by_us": false}
+{"id": "DS-1000/779", "official_pass": false, "official_status": "failed", "detail": "[runtime] Cannot set a DataFrame with multiple columns to the single column zscore", "excluded_by_us": false}
+{"id": "DS-1000/780", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'sample1'", "excluded_by_us": false}
+{"id": "DS-1000/781", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 10)", "excluded_by_us": false}
+{"id": "DS-1000/782", "official_pass": false, "official_status": "failed", "detail": "[runtime] module 'scipy.spatial.distance' has no attribute 'Distance'", "excluded_by_us": false}
+{"id": "DS-1000/783", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 108)", "excluded_by_us": false}
+{"id": "DS-1000/784", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 5 (<string>, line 6)", "excluded_by_us": false}
+{"id": "DS-1000/785", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 10)", "excluded_by_us": false}
+{"id": "DS-1000/786", "official_pass": false, "official_status": "failed", "detail": "[runtime] unsupported operand type(s) for *: 'function' and 'float'", "excluded_by_us": false}
+{"id": "DS-1000/787", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'residual' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/788", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 89)", "excluded_by_us": false}
+{"id": "DS-1000/789", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'sol' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/790", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'solve_ivp' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/791", "official_pass": false, "official_status": "failed", "detail": "[runtime] Constraints must be defined using a dictionary.", "excluded_by_us": false}
+{"id": "DS-1000/792", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 88)", "excluded_by_us": false}
+{"id": "DS-1000/793", "official_pass": false, "official_status": "failed", "detail": "[runtime] diag requires an array of at least two dimensions", "excluded_by_us": false}
+{"id": "DS-1000/794", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 4) (<string>, line 4)", "excluded_by_us": false}
+{"id": "DS-1000/795", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 5) (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/796", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": true}
+{"id": "DS-1000/797", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 101)", "excluded_by_us": false}
+{"id": "DS-1000/798", "official_pass": false, "official_status": "failed", "detail": "[runtime] adding a nonzero scalar to a sparse array is not supported", "excluded_by_us": false}
+{"id": "DS-1000/799", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'xrange' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/800", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 18)", "excluded_by_us": false}
+{"id": "DS-1000/801", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 5 / 9 (55.6%)\nMax absolute difference: 194\nMax relative difference: 194.\n x: array([[ 26,   3,   0],\n       [  3, 195,   1],\n       [  0,   1,  17", "excluded_by_us": false}
+{"id": "DS-1000/802", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 9 / 9 (100%)\nMax absolute difference: 195\nMax relative difference: 1.\n x: array([[ 26,   3,   0],\n       [  3, 195,   1],\n       [  0,   1,  17]])", "excluded_by_us": false}
+{"id": "DS-1000/803", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\nMismatched elements: 5 / 5 (100%)\nMax absolute difference: 80\nMax relative difference: 1.\n x: array(0)\n y: array([80,  5, 19, 11, 45])", "excluded_by_us": false}
+{"id": "DS-1000/804", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 25)", "excluded_by_us": false}
+{"id": "DS-1000/805", "official_pass": false, "official_status": "failed", "detail": "[runtime] \nArrays are not equal\n\n(shapes (3, 5), (5,) mismatch)\n x: array([[3, 1, 4, 0, 2],\n       [2, 3, 4, 0, 1],\n       [1, 3, 2, 4, 0]])\n y: array([32, 64, 25, 76, 50])", "excluded_by_us": false}
+{"id": "DS-1000/806", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 63)", "excluded_by_us": false}
+{"id": "DS-1000/807", "official_pass": false, "official_status": "failed", "detail": "[runtime] <lambda>() missing 1 required positional argument: 'b'", "excluded_by_us": false}
+{"id": "DS-1000/808", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 42)", "excluded_by_us": false}
+{"id": "DS-1000/809", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 96) (<string>, line 96)", "excluded_by_us": false}
+{"id": "DS-1000/810", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'time'", "excluded_by_us": false}
+{"id": "DS-1000/811", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'np' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/812", "official_pass": false, "official_status": "failed", "detail": "[runtime] operands could not be broadcast together with shapes (11,) (5,) ", "excluded_by_us": false}
+{"id": "DS-1000/813", "official_pass": false, "official_status": "failed", "detail": "[runtime] Optimization bounds must be finite scalars.", "excluded_by_us": false}
+{"id": "DS-1000/814", "official_pass": false, "official_status": "failed", "detail": "[runtime] operands could not be broadcast together with shapes (4,) (6,) ", "excluded_by_us": false}
+{"id": "DS-1000/815", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'result'", "excluded_by_us": false}
+{"id": "DS-1000/816", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 53)", "excluded_by_us": false}
+{"id": "DS-1000/817", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 93) (<string>, line 93)", "excluded_by_us": false}
+{"id": "DS-1000/818", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/819", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 89)", "excluded_by_us": false}
+{"id": "DS-1000/820", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 6 (<string>, line 7)", "excluded_by_us": false}
+{"id": "DS-1000/821", "official_pass": false, "official_status": "failed", "detail": "[runtime] unhashable type: 'list'", "excluded_by_us": false}
+{"id": "DS-1000/822", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 40)", "excluded_by_us": false}
+{"id": "DS-1000/823", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 68)", "excluded_by_us": false}
+{"id": "DS-1000/824", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 47)", "excluded_by_us": false}
+{"id": "DS-1000/825", "official_pass": false, "official_status": "failed", "detail": "[runtime] unhashable type: 'list'", "excluded_by_us": false}
+{"id": "DS-1000/826", "official_pass": false, "official_status": "failed", "detail": "[runtime] This LinearSVC instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.", "excluded_by_us": false}
+{"id": "DS-1000/827", "official_pass": false, "official_status": "failed", "detail": "[runtime] This LinearSVC instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.", "excluded_by_us": false}
+{"id": "DS-1000/828", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 74) (<string>, line 74)", "excluded_by_us": false}
+{"id": "DS-1000/829", "official_pass": false, "official_status": "failed", "detail": "[runtime] cannot concatenate object of type '<class 'scipy.sparse._csr.csr_matrix'>'; only Series and DataFrame objs are valid", "excluded_by_us": false}
+{"id": "DS-1000/830", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 7) (<string>, line 7)", "excluded_by_us": false}
+{"id": "DS-1000/831", "official_pass": false, "official_status": "failed", "detail": "[syntax] cannot delete function call (<string>, line 19)", "excluded_by_us": false}
+{"id": "DS-1000/832", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 125)", "excluded_by_us": false}
+{"id": "DS-1000/833", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'Bunch' object is not callable", "excluded_by_us": false}
+{"id": "DS-1000/834", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/835", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'Bunch' object is not callable", "excluded_by_us": false}
+{"id": "DS-1000/836", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'reduce_dim'", "excluded_by_us": false}
+{"id": "DS-1000/837", "official_pass": false, "official_status": "failed", "detail": "[runtime] GridSearchCV.__init__() got an unexpected keyword argument 'iid'", "excluded_by_us": false}
+{"id": "DS-1000/838", "official_pass": false, "official_status": "failed", "detail": "[runtime] This GridSearchCV instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.", "excluded_by_us": false}
+{"id": "DS-1000/839", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/840", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'cross_val_predict' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/841", "official_pass": false, "official_status": "failed", "detail": "[runtime] list indices must be integers or slices, not str", "excluded_by_us": false}
+{"id": "DS-1000/842", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 9 (<string>, line 10)", "excluded_by_us": false}
+{"id": "DS-1000/843", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/844", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 46) (<string>, line 46)", "excluded_by_us": false}
+{"id": "DS-1000/845", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/846", "official_pass": false, "official_status": "failed", "detail": "[runtime] The TF-IDF vectorizer is not fitted", "excluded_by_us": false}
+{"id": "DS-1000/847", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 12)", "excluded_by_us": false}
+{"id": "DS-1000/848", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 28)", "excluded_by_us": false}
+{"id": "DS-1000/849", "official_pass": false, "official_status": "failed", "detail": "[runtime] Invalid parameter 'base_estimator' for estimator DecisionTreeClassifier(max_depth=1, random_state=42). Valid parameters are: ['ccp_alpha', 'class_weight', 'criterion', 'max_depth', 'max_feat", "excluded_by_us": false}
+{"id": "DS-1000/850", "official_pass": false, "official_status": "failed", "detail": "[runtime] Expected 2D array, got 1D array instead:\narray=[ 0.93128014  0.08704707 -1.0577109   0.31424734 -0.47917423  0.64768857\n -0.46341768  0.54256004  0.6116763   1.0035329   0.8219025   1.538036", "excluded_by_us": false}
+{"id": "DS-1000/851", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 64) (<string>, line 64)", "excluded_by_us": false}
+{"id": "DS-1000/852", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'data' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/853", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 5)", "excluded_by_us": false}
+{"id": "DS-1000/854", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/855", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/856", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'GridSearchCV' object has no attribute 'best_params_'", "excluded_by_us": false}
+{"id": "DS-1000/857", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 19)", "excluded_by_us": false}
+{"id": "DS-1000/858", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'model' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/859", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'model' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/860", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'model' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/861", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'ExtraTreesClassifier' object has no attribute 'get_support'", "excluded_by_us": false}
+{"id": "DS-1000/862", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 16)", "excluded_by_us": false}
+{"id": "DS-1000/863", "official_pass": false, "official_status": "failed", "detail": "[runtime] module 'numpy' has no attribute 'args'", "excluded_by_us": false}
+{"id": "DS-1000/864", "official_pass": false, "official_status": "failed", "detail": "[runtime] operands could not be broadcast together with shapes (450,3) (0,2,3) ", "excluded_by_us": false}
+{"id": "DS-1000/865", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 7 (<string>, line 8)", "excluded_by_us": false}
+{"id": "DS-1000/866", "official_pass": false, "official_status": "failed", "detail": "[runtime] \"None of [Index(['a', 'b'], dtype='object')] are in the [columns]\"", "excluded_by_us": false}
+{"id": "DS-1000/867", "official_pass": false, "official_status": "failed", "detail": "[runtime] \"None of [Index(['a', 'b', 'c', 'd', 'e', 'f'], dtype='object')] are in the [columns]\"", "excluded_by_us": false}
+{"id": "DS-1000/868", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'load_data' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/869", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'load_data' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/870", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'predict' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/871", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 18)", "excluded_by_us": false}
+{"id": "DS-1000/872", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'list' object has no attribute 'T'", "excluded_by_us": false}
+{"id": "DS-1000/873", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 18)", "excluded_by_us": false}
+{"id": "DS-1000/874", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'load_data' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/875", "official_pass": false, "official_status": "failed", "detail": "[runtime] setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (3,) + inhomogeneous part.", "excluded_by_us": false}
+{"id": "DS-1000/876", "official_pass": false, "official_status": "failed", "detail": "[runtime] setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (3,) + inhomogeneous part.", "excluded_by_us": false}
+{"id": "DS-1000/877", "official_pass": false, "official_status": "failed", "detail": "[runtime] setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (3,) + inhomogeneous part.", "excluded_by_us": false}
+{"id": "DS-1000/878", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 6 (<string>, line 8)", "excluded_by_us": false}
+{"id": "DS-1000/879", "official_pass": false, "official_status": "failed", "detail": "[runtime] setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (3,) + inhomogeneous part.", "excluded_by_us": false}
+{"id": "DS-1000/880", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/881", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/882", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 22)", "excluded_by_us": false}
+{"id": "DS-1000/883", "official_pass": false, "official_status": "failed", "detail": "[runtime] non-string returned while reading data", "excluded_by_us": false}
+{"id": "DS-1000/884", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/885", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 85)", "excluded_by_us": false}
+{"id": "DS-1000/886", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 22)", "excluded_by_us": false}
+{"id": "DS-1000/887", "official_pass": false, "official_status": "failed", "detail": "[runtime] Expected 2D array, got 1D array instead:\narray=[1. 2. 3. 2. 4. 5.].\nReshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contai", "excluded_by_us": false}
+{"id": "DS-1000/888", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'numpy.ndarray' object has no attribute 'columns'", "excluded_by_us": false}
+{"id": "DS-1000/889", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'box_cox_data' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/890", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/891", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 6) (<string>, line 6)", "excluded_by_us": false}
+{"id": "DS-1000/892", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 14) (<string>, line 14)", "excluded_by_us": false}
+{"id": "DS-1000/893", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'train_test_split' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/894", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'x_train' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/895", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'train_test_split' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/896", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 5 (<string>, line 6)", "excluded_by_us": false}
+{"id": "DS-1000/897", "official_pass": false, "official_status": "failed", "detail": "[runtime] [Errno 2] No such file or directory: 'generate_csv/all_data_device.csv'", "excluded_by_us": false}
+{"id": "DS-1000/898", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 20)", "excluded_by_us": false}
+{"id": "DS-1000/899", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'LinearSVC' object has no attribute 'get_feature_names'", "excluded_by_us": false}
+{"id": "DS-1000/900", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 21)", "excluded_by_us": false}
+{"id": "DS-1000/901", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 10 (<string>, line 12)", "excluded_by_us": false}
+{"id": "DS-1000/902", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'CountVectorizer' object has no attribute 'get_feature_names'", "excluded_by_us": false}
+{"id": "DS-1000/903", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'CountVectorizer' object has no attribute 'get_feature_names'", "excluded_by_us": false}
+{"id": "DS-1000/904", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'CountVectorizer' object has no attribute 'get_feature_names'", "excluded_by_us": false}
+{"id": "DS-1000/905", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'CountVectorizer' object has no attribute 'get_feature_names'", "excluded_by_us": false}
+{"id": "DS-1000/906", "official_pass": false, "official_status": "failed", "detail": "[runtime] np.matrix is not supported. Please convert to a numpy array with np.asarray. For more information see: https://numpy.org/doc/stable/reference/generated/numpy.matrix.html", "excluded_by_us": false}
+{"id": "DS-1000/907", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 7)", "excluded_by_us": false}
+{"id": "DS-1000/908", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/909", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/910", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 6 (<string>, line 7)", "excluded_by_us": false}
+{"id": "DS-1000/911", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'sklearn' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/912", "official_pass": true, "official_status": "passed", "detail": "", "excluded_by_us": false}
+{"id": "DS-1000/913", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 28)", "excluded_by_us": false}
+{"id": "DS-1000/914", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 7) (<string>, line 7)", "excluded_by_us": false}
+{"id": "DS-1000/915", "official_pass": false, "official_status": "failed", "detail": "[runtime] Found array with dim 3. DecisionTreeRegressor expected <= 2.", "excluded_by_us": false}
+{"id": "DS-1000/916", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 119)", "excluded_by_us": false}
+{"id": "DS-1000/917", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 114) (<string>, line 114)", "excluded_by_us": false}
+{"id": "DS-1000/918", "official_pass": false, "official_status": "failed", "detail": "[runtime] could not convert string to float: 'dsa'", "excluded_by_us": false}
+{"id": "DS-1000/919", "official_pass": false, "official_status": "failed", "detail": "[runtime] Found input variables with inconsistent numbers of samples: [1, 9]", "excluded_by_us": false}
+{"id": "DS-1000/920", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'X' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/921", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 19)", "excluded_by_us": false}
+{"id": "DS-1000/922", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'str' object has no attribute 'iloc'", "excluded_by_us": false}
+{"id": "DS-1000/923", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 7) (<string>, line 7)", "excluded_by_us": false}
+{"id": "DS-1000/924", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 60)", "excluded_by_us": true}
+{"id": "DS-1000/925", "official_pass": false, "official_status": "failed", "detail": "[runtime] Expected a 2-dimensional container but got <class 'pandas.core.series.Series'> instead. Pass a DataFrame containing a single row (i.e. single sample) or a single column (i.e. single feature)", "excluded_by_us": true}
+{"id": "DS-1000/926", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 43)", "excluded_by_us": false}
+{"id": "DS-1000/927", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'feature_names' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/928", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'model' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/929", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'parameters' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/930", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'load_data' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/931", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid decimal literal (<string>, line 18)", "excluded_by_us": false}
+{"id": "DS-1000/932", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/933", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 108)", "excluded_by_us": false}
+{"id": "DS-1000/934", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected ':' (<string>, line 119)", "excluded_by_us": false}
+{"id": "DS-1000/935", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'load_data' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/936", "official_pass": false, "official_status": "failed", "detail": "[syntax] invalid syntax (<string>, line 148)", "excluded_by_us": false}
+{"id": "DS-1000/937", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 10) (<string>, line 10)", "excluded_by_us": false}
+{"id": "DS-1000/938", "official_pass": false, "official_status": "failed", "detail": "[runtime] Data must be 1-dimensional", "excluded_by_us": false}
+{"id": "DS-1000/939", "official_pass": false, "official_status": "failed", "detail": "[runtime] \"['tensor'] not found in axis\"", "excluded_by_us": false}
+{"id": "DS-1000/940", "official_pass": false, "official_status": "failed", "detail": "[runtime] Data must be 1-dimensional", "excluded_by_us": false}
+{"id": "DS-1000/941", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 6) (<string>, line 6)", "excluded_by_us": false}
+{"id": "DS-1000/942", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 95)", "excluded_by_us": false}
+{"id": "DS-1000/943", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 6) (<string>, line 6)", "excluded_by_us": false}
+{"id": "DS-1000/944", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 6) (<string>, line 6)", "excluded_by_us": false}
+{"id": "DS-1000/945", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 7) (<string>, line 7)", "excluded_by_us": false}
+{"id": "DS-1000/946", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/947", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 84)", "excluded_by_us": false}
+{"id": "DS-1000/948", "official_pass": false, "official_status": "failed", "detail": "[runtime] can't convert np.ndarray of type numpy.object_. The only supported types are: float64, float32, float16, complex64, complex128, int64, int32, int16, int8, uint8, and bool.", "excluded_by_us": false}
+{"id": "DS-1000/949", "official_pass": false, "official_status": "failed", "detail": "[runtime] can't convert np.ndarray of type numpy.object_. The only supported types are: float64, float32, float16, complex64, complex128, int64, int32, int16, int8, uint8, and bool.", "excluded_by_us": false}
+{"id": "DS-1000/950", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 6 (<string>, line 7)", "excluded_by_us": false}
+{"id": "DS-1000/951", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/952", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'batch_size' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/953", "official_pass": false, "official_status": "failed", "detail": "[runtime] expand(torch.LongTensor{[5]}, size=[]): the number of sizes provided (0) must be greater or equal to the number of dimensions in the tensor (1)", "excluded_by_us": false}
+{"id": "DS-1000/954", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 6 (<string>, line 7)", "excluded_by_us": false}
+{"id": "DS-1000/955", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 96)", "excluded_by_us": false}
+{"id": "DS-1000/956", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 7) (<string>, line 7)", "excluded_by_us": false}
+{"id": "DS-1000/957", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 106)", "excluded_by_us": false}
+{"id": "DS-1000/958", "official_pass": false, "official_status": "failed", "detail": "[runtime] stack expects each tensor to be equal size, but got [2, 11] at entry 0 and [1, 11] at entry 1", "excluded_by_us": false}
+{"id": "DS-1000/959", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 7) (<string>, line 7)", "excluded_by_us": false}
+{"id": "DS-1000/960", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 54)", "excluded_by_us": false}
+{"id": "DS-1000/961", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 78)", "excluded_by_us": false}
+{"id": "DS-1000/962", "official_pass": false, "official_status": "failed", "detail": "[runtime] too many indices for tensor of dimension 3", "excluded_by_us": false}
+{"id": "DS-1000/963", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 81)", "excluded_by_us": false}
+{"id": "DS-1000/964", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 123)", "excluded_by_us": false}
+{"id": "DS-1000/965", "official_pass": false, "official_status": "failed", "detail": "[runtime] only one element tensors can be converted to Python scalars", "excluded_by_us": false}
+{"id": "DS-1000/966", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 6 (<string>, line 8)", "excluded_by_us": false}
+{"id": "DS-1000/967", "official_pass": false, "official_status": "failed", "detail": "[runtime] Dimension out of range (expected to be in range of [-2, 1], but got 2)", "excluded_by_us": false}
+{"id": "DS-1000/968", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 101)", "excluded_by_us": false}
+{"id": "DS-1000/969", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 111)", "excluded_by_us": false}
+{"id": "DS-1000/970", "official_pass": false, "official_status": "failed", "detail": "[runtime] ", "excluded_by_us": false}
+{"id": "DS-1000/971", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'scores' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/972", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'scores' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/973", "official_pass": false, "official_status": "failed", "detail": "[runtime] module 'numpy' has no attribute 'gather'", "excluded_by_us": false}
+{"id": "DS-1000/974", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 23)", "excluded_by_us": false}
+{"id": "DS-1000/975", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 23)", "excluded_by_us": false}
+{"id": "DS-1000/976", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 21)", "excluded_by_us": false}
+{"id": "DS-1000/977", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 7) (<string>, line 7)", "excluded_by_us": false}
+{"id": "DS-1000/978", "official_pass": false, "official_status": "failed", "detail": "[syntax] expected an indented block after function definition on line 6 (<string>, line 7)", "excluded_by_us": false}
+{"id": "DS-1000/979", "official_pass": false, "official_status": "failed", "detail": "[runtime] module 'torch.nn.functional' has no attribute 'cross_entropy2d'", "excluded_by_us": false}
+{"id": "DS-1000/980", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'load_data' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/981", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 137)", "excluded_by_us": false}
+{"id": "DS-1000/982", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'load_data' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/983", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 7) (<string>, line 7)", "excluded_by_us": false}
+{"id": "DS-1000/984", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 27)", "excluded_by_us": false}
+{"id": "DS-1000/985", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'load_data' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/986", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 86) (<string>, line 86)", "excluded_by_us": false}
+{"id": "DS-1000/987", "official_pass": false, "official_status": "failed", "detail": "[runtime] Dimension out of range (expected to be in range of [-2, 1], but got 2)", "excluded_by_us": false}
+{"id": "DS-1000/988", "official_pass": false, "official_status": "failed", "detail": "[runtime] index 1 is out of bounds for dimension 0 with size 1", "excluded_by_us": false}
+{"id": "DS-1000/989", "official_pass": false, "official_status": "failed", "detail": "[runtime] shape mismatch: value tensor of shape [3, 2] cannot be broadcast to indexing result of shape [2, 2]", "excluded_by_us": false}
+{"id": "DS-1000/990", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 15)", "excluded_by_us": false}
+{"id": "DS-1000/991", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'return' outside function (<string>, line 19)", "excluded_by_us": false}
+{"id": "DS-1000/992", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 7) (<string>, line 7)", "excluded_by_us": false}
+{"id": "DS-1000/993", "official_pass": false, "official_status": "failed", "detail": "[runtime] name 'output' is not defined", "excluded_by_us": false}
+{"id": "DS-1000/994", "official_pass": false, "official_status": "failed", "detail": "[syntax] '(' was never closed (<string>, line 91)", "excluded_by_us": false}
+{"id": "DS-1000/995", "official_pass": false, "official_status": "failed", "detail": "[syntax] unterminated string literal (detected at line 7) (<string>, line 7)", "excluded_by_us": false}
+{"id": "DS-1000/996", "official_pass": false, "official_status": "failed", "detail": "[runtime] Shape of passed values is (4, 2), indices imply (4, 4)", "excluded_by_us": false}
+{"id": "DS-1000/997", "official_pass": false, "official_status": "failed", "detail": "[runtime] stack expects each tensor to be equal size, but got [2, 4] at entry 0 and [4, 4] at entry 1", "excluded_by_us": false}
+{"id": "DS-1000/998", "official_pass": false, "official_status": "failed", "detail": "[runtime] 'DataFrame' object has no attribute 'to_tensor'", "excluded_by_us": false}
+{"id": "DS-1000/999", "official_pass": false, "official_status": "failed", "detail": "[syntax] '[' was never closed (<string>, line 57)", "excluded_by_us": false}

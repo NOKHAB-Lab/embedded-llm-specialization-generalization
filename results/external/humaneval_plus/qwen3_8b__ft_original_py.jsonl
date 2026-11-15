@@ -1,0 +1,164 @@
+{"id": "HumanEval/0", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/1", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/2", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/3", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/4", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/5", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/6", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/7", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/8", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/9", "official_pass": false, "official_status": "base:fail/plus:pass", "detail": "base failing input: [[[]]]"}
+{"id": "HumanEval/10", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [['xyz']]"}
+{"id": "HumanEval/11", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/12", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/13", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/14", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/15", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/16", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/17", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/18", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/19", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [['three']]"}
+{"id": "HumanEval/20", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/21", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/22", "official_pass": false, "official_status": "base:pass/plus:fail", "detail": "plus failing input: [[[True, False, None, 0, -10, 'test', [], {}, 3.14]]]"}
+{"id": "HumanEval/23", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/24", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/25", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/26", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/27", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/28", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/29", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/30", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/31", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/32", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[-10, -2]]]"}
+{"id": "HumanEval/33", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/34", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/35", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/36", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/37", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/38", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/39", "official_pass": false, "official_status": "base:pass/plus:fail", "detail": "plus failing input: [[12]]"}
+{"id": "HumanEval/40", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/41", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/42", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/43", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/44", "official_pass": false, "official_status": "base:pass/plus:fail", "detail": "plus failing input: [[0, 3]]"}
+{"id": "HumanEval/45", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/46", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/47", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/48", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/49", "official_pass": false, "official_status": "base:pass/plus:fail", "detail": "plus failing input: [[0, 1]]"}
+{"id": "HumanEval/50", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/51", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/52", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/53", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/54", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [['eabcdzzzz', 'dddzzzzzzzddeddabc']]"}
+{"id": "HumanEval/55", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/56", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/57", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/58", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/59", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[27]]"}
+{"id": "HumanEval/60", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/61", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/62", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/63", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/64", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [['key']]"}
+{"id": "HumanEval/65", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[97, 8]]"}
+{"id": "HumanEval/66", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/67", "official_pass": false, "official_status": "base:pass/plus:fail", "detail": "plus failing input: [['10 apples and 0 oranges', 15]]"}
+{"id": "HumanEval/68", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/69", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/70", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/71", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/72", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/73", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/74", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/75", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/76", "official_pass": false, "official_status": "base:pass/plus:fail", "detail": "plus failing input: [[-2, -2]]"}
+{"id": "HumanEval/77", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[-1]]"}
+{"id": "HumanEval/78", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/79", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/80", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/81", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[4.0, 3, 1.7, 2, 3.5]]]"}
+{"id": "HumanEval/82", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/83", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[2]]"}
+{"id": "HumanEval/84", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/85", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/86", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/87", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/88", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/89", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [['hi']]"}
+{"id": "HumanEval/90", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/91", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [['I feel good today. I will be productive. will kill It']]"}
+{"id": "HumanEval/92", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/93", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [['TEST']]"}
+{"id": "HumanEval/94", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/95", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/96", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/97", "official_pass": false, "official_status": "base:pass/plus:fail", "detail": "plus failing input: [[-6, -9]]"}
+{"id": "HumanEval/98", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/99", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/100", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[4]]"}
+{"id": "HumanEval/101", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/102", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[13, 12]]"}
+{"id": "HumanEval/103", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[1, 5]]"}
+{"id": "HumanEval/104", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/105", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/106", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[5]]"}
+{"id": "HumanEval/107", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/108", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[-1, -2, 0]]]"}
+{"id": "HumanEval/109", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/110", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[1, 2, 3, 4], [1, 5, 3, 4]]]"}
+{"id": "HumanEval/111", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/112", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/113", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[['1234567']]]"}
+{"id": "HumanEval/114", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/115", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[[1, 1, 1, 1], [1, 1, 1, 1]], 9]]"}
+{"id": "HumanEval/116", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/117", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [['Uncle sam', 3]]"}
+{"id": "HumanEval/118", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [['yogurt']]"}
+{"id": "HumanEval/119", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[')(', ')(']]]"}
+{"id": "HumanEval/120", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/121", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/122", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[1, -2, -3, 41, 57, 76, 87, 88, 99], 3]]"}
+{"id": "HumanEval/123", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/124", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/125", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/126", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[1, 2, 2, 3, 3, 4]]]"}
+{"id": "HumanEval/127", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[1, 2], [2, 3]]]"}
+{"id": "HumanEval/128", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/129", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[[6, 4, 13, 10], [5, 7, 12, 1], [3, 16, 11, 15], [8, 14, 9, 2]], 7]]"}
+{"id": "HumanEval/130", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[3]]"}
+{"id": "HumanEval/131", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[2468]]"}
+{"id": "HumanEval/132", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [['[]]]]]]][[[[[]']]"}
+{"id": "HumanEval/133", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[1.4, 4.2, 0]]]"}
+{"id": "HumanEval/134", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [['A']]"}
+{"id": "HumanEval/135", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/136", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/137", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/138", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[8]]"}
+{"id": "HumanEval/139", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/140", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [['Yellow Yellow  Dirty  Fellow']]"}
+{"id": "HumanEval/141", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/142", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/143", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/144", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [['1/6', '2/1']]"}
+{"id": "HumanEval/145", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[[1, 11, -1, -11, -12]]]"}
+{"id": "HumanEval/146", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/147", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/148", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/149", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/150", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[1, 2, 0]]"}
+{"id": "HumanEval/151", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/152", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/153", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [['Watashi', ['tEN', 'niNE', 'eIGHt8OKe']]]"}
+{"id": "HumanEval/154", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [['xyzw', 'xyw']]"}
+{"id": "HumanEval/155", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/156", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[19]]"}
+{"id": "HumanEval/157", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/158", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/159", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/160", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[['+', '*', '-'], [2, 3, 4, 5]]]"}
+{"id": "HumanEval/161", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/162", "official_pass": true, "official_status": "base:pass/plus:pass", "detail": ""}
+{"id": "HumanEval/163", "official_pass": false, "official_status": "base:fail/plus:fail", "detail": "base failing input: [[132, 2]]"}

@@ -1,0 +1,50 @@
+{"id": "C/1", "official_pass": false, "official_status": "run_failed", "detail": "path=whole_text exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_py/tmp/1.c:11: main: Assertion `strcmp(hello_mmcodeeva"}
+{"id": "C/2", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/3", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: incompatible type for argument 2 of ‘sprintf’"}
+{"id": "C/4", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_py/tmp/4.c:51: main: Assertion `max == 3 && min == 1' "}
+{"id": "C/5", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/6", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_py/tmp/6.c:33: main: Assertion `process_request(10000)"}
+{"id": "C/7", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/8", "official_pass": false, "official_status": "timeout", "detail": "path=entry_regex exit=None official time_limit(15)"}
+{"id": "C/9", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: unknown type name ‘bool’; did you mean ‘_Bool’?"}
+{"id": "C/10", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: unknown type name ‘bool’; did you mean ‘_Bool’?"}
+{"id": "C/11", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: unknown type name ‘bool’; did you mean ‘_Bool’?"}
+{"id": "C/12", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_py/tmp/12.c:38: main: Assertion `extraNumber(2, 7, 2) "}
+{"id": "C/13", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/14", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_py/tmp/14.c:37: main: Assertion `decode_numbers(\"0000\""}
+{"id": "C/15", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_py/tmp/15.c:33: main: Assertion `count_coloring_method"}
+{"id": "C/16", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_py/tmp/16.c:37: main: Assertion `count_valid_coin_toss"}
+{"id": "C/17", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: unknown type name ‘uint64_t’; did you mean ‘__uint64_t’?"}
+{"id": "C/18", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_py/tmp/18.c:46: main: Assertion `strcmp(id, \"ftiasch\")"}
+{"id": "C/19", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_py/tmp/19.c:37: main: Assertion `count_permutations_of"}
+{"id": "C/20", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None error: unknown type name ‘choice_’; did you mean ‘choice_t’?"}
+{"id": "C/21", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected declaration or statement at end of input"}
+{"id": "C/22", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None error: invalid preprocessing directive #!"}
+{"id": "C/23", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None error: redefinition of ‘edges_arr_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy_copy’"}
+{"id": "C/24", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/25", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-11 "}
+{"id": "C/26", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_py/tmp/26.c:33: main: Assertion `classify_integer(\"24\""}
+{"id": "C/27", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/28", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/29", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_py/tmp/29.c:35: main: Assertion `evaluate_integer_grad"}
+{"id": "C/30", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_py/tmp/30.c:34: main: Assertion `strcmp(check_two_equa"}
+{"id": "C/31", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_py/tmp/31.c:38: main: Assertion `minRoundsToSameChar(\""}
+{"id": "C/32", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-11 "}
+{"id": "C/33", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-8 "}
+{"id": "C/34", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_py/tmp/34.c:43: main: Assertion `makeEqualAgain(6, a1)"}
+{"id": "C/35", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: redefinition of parameter ‘piles’"}
+{"id": "C/36", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: ‘d’ is a pointer; did you mean to use ‘->’?"}
+{"id": "C/37", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_py/tmp/37.c:33: main: Assertion `countHandshakes(4, or"}
+{"id": "C/38", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None error: assignment to expression with array type"}
+{"id": "C/39", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_py/tmp/39.c:27: main: Assertion `sumOfXorSubarrays(tes"}
+{"id": "C/40", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_py/tmp/40.c:24: main: Assertion `countPowerNumbers(99,"}
+{"id": "C/41", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: too few arguments to function ‘countBalancedSubsequences’"}
+{"id": "C/42", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None error: two or more data types in declaration specifiers"}
+{"id": "C/43", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: ‘qq’ redeclared as different kind of symbol"}
+{"id": "C/44", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_py/tmp/44.c:46: main: Assertion `countTriplets(heights"}
+{"id": "C/45", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None error: ld returned 1 exit status"}
+{"id": "C/46", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/47", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_py/tmp/47.c:26: main: Assertion `isPalindrome(\"A man a"}
+{"id": "C/48", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_py/tmp/48.c:20: main: Assertion `addDigits(38) == 2' f"}
+{"id": "C/49", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/50", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmoe_1b_7b_0924_instruct__ft_original_py/tmp/50.c:16: main: Assertion `evenSumOrOddProduct(2"}

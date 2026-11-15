@@ -1,0 +1,161 @@
+{"id": "HumanEval_0_has_close_elements", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_1_separate_paren_groups", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp1hkbbe2d: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_2_truncate_number", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_3_below_zero", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_4_mean_absolute_deviation", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_5_intersperse", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: unable to deduce \u2018auto\u2019 from \u2018intersperse\u2019"}
+{"id": "HumanEval_6_parse_nested_parens", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpvk3j3dds: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_7_filter_by_substring", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_8_sum_product", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_9_rolling_max", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-11 "}
+{"id": "HumanEval_10_make_palindrome", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018is_palindrome\u2019 was not declared in this scope; did you mean \u2018make_palindrome\u2019?"}
+{"id": "HumanEval_11_string_xor", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_12_longest", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp91bt332r: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_13_greatest_common_divisor", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_14_all_prefixes", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_15_string_sequence", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp2_35zea1: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_16_count_distinct_characters", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_17_parse_music", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: duplicate case value"}
+{"id": "HumanEval_18_how_many_times", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_19_sort_numbers", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpq4iyspdv: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_20_find_closest_elements", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: unable to deduce \u2018auto\u2019 from \u2018find_closest_elements\u2019"}
+{"id": "HumanEval_21_rescale_to_unit", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_22_filter_integers", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp06qyjdvc: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_23_strlen", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_24_largest_divisor", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_25_factorize", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_26_remove_duplicates", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp9w306cmc: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_27_flip_case", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_28_concatenate", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_29_filter_by_prefix", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_30_get_positive", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_31_is_prime", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_33_sort_third", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmphfnnsrhh: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_34_unique", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_35_max_element", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_36_fizz_buzz", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_37_sort_even", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp7nm8jr5e: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_39_prime_fib", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpt_bwnru6: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_40_triples_sum_to_zero", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-11 "}
+{"id": "HumanEval_41_car_race_collision", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpg2d2gh_x: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_42_incr_list", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_43_pairs_sum_to_zero", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_44_change_base", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_45_triangle_area", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_46_fib4", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_47_median", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpvz7x6lo_: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_48_is_palindrome", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_49_modp", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp2np52m5y: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_51_remove_vowels", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_52_below_threshold", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp0v_erjj5: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_53_add", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_54_same_chars", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp_lbry0xk: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_55_fib", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_56_correct_bracketing", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_57_monotonic", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_58_common", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_59_largest_prime_factor", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_60_sum_to_n", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_61_correct_bracketing", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_62_derivative", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_63_fibfib", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp_emw11px: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_64_vowels_count", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp63xjee3k: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_65_circular_shift", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpe4wmd33s: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_66_digitSum", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_67_fruit_distribution", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpqg0otles: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_68_pluck", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpsmusjad6: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_69_search", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_70_strange_sort_list", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp9pmvb0nx: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_71_triangle_area", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp9gvzgiwq: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_72_will_it_fly", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_73_smallest_change", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_74_total_match", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpqyan94xf: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_75_is_multiply_prime", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpou52h7o5: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_76_is_simple_power", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp444gun_f: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_77_iscube", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpcth853jn: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_78_hex_key", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp1zewn5co: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_79_decimal_to_binary", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpqp7ilsgi: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_80_is_happy", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpmq4_v1y7: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_81_numerical_letter_grade", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpia1c2fq3: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_82_prime_length", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpa0n36mwr: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_83_starts_one_ends", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpvjuojo7d: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_84_solve", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmphx7kf72o: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_85_add", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpre_q7_ft: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_86_anti_shuffle", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp5bfzhfz8: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_87_get_row", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpvo4dnh4i: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_88_sort_array", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpkuatb8r7: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_89_encrypt", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpj0lr_s3l: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_90_next_smallest", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: operands to \u2018?:\u2019 have different types \u2018const std::nullopt_t\u2019 and \u2018__gnu_cxx::__normal_iterator<long int*, std::vector<long int> >::difference_type\u2019 {aka "}
+{"id": "HumanEval_91_is_bored", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp8yx64lhk: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_92_any_int", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp6nruynmx: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_93_encode", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp9y2qqrzo: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_94_skjkasdkd", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpdh_ise1b: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_95_check_dict_case", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: base operand of \u2018->\u2019 has non-pointer type \u2018std::pair<const std::__cxx11::basic_string<char>, std::__cxx11::basic_string<char> >\u2019"}
+{"id": "HumanEval_96_count_up_to", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmptw3lmm5c: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_97_multiply", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpmvxmn6la: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_98_count_upper", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpj1khsquu: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_99_closest_integer", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpqmm67n3o: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_100_make_a_pile", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6   what():  std::bad_alloc"}
+{"id": "HumanEval_101_words_string", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpq1_sw6kp: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_102_choose_num", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018max\u2019 was not declared in this scope; did you mean \u2018std::max\u2019?"}
+{"id": "HumanEval_103_rounded_avg", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpn0tp5q_o: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_104_unique_digits", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpytory63c: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_105_by_length", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpm1e4ikx3: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_106_f", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: expected \u2018;\u2019 before \u2018if\u2019"}
+{"id": "HumanEval_107_even_odd_palindrome", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpnv81ggvq: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_108_count_nums", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmph894fpek: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_109_move_one_ball", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpnz55cq7z: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_110_exchange", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpqmxfwv41: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_111_histogram", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpb4j8l361: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_112_reverse_delete", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018is_palindrome\u2019 is not a member of \u2018std\u2019"}
+{"id": "HumanEval_113_odd_count", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: no match for \u2018operator+\u2019 (operand types are \u2018std::__cxx11::basic_string<char>\u2019 and \u2018std::__cxx11::basic_string<char>::size_type\u2019 {aka \u2018long unsigned int\u2019"}
+{"id": "HumanEval_114_minSubArraySum", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpzcgn7dzh: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_115_max_fill", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpi0u1z553: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_116_sort_array", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpwxio9piu: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_117_select_words", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpewzoc5ce: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_118_get_closest_vowel", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: could not convert \u2018word.std::__cxx11::basic_string<char>::operator[](((std::__cxx11::basic_string<char>::size_type)j))\u2019 from \u2018__gnu_cxx::__alloc_traits<s"}
+{"id": "HumanEval_119_match_parens", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpvapp3yhe: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_120_maximum", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpzdhgrbv5: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_121_solution", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_122_add_elements", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpyrauucup: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_123_get_odd_collatz", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmprqq41txx: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_124_valid_date", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_125_split_words", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp95h3g96m: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_126_is_sorted", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpy36r8ujj: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_127_intersection", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp00sndf_x: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_128_prod_signs", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpo9e1ytw0: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_129_minPath", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: expected primary-expression before \u2018}\u2019 token"}
+{"id": "HumanEval_130_tri", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpigjy0sgq: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_131_digits", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp4511oppk: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_132_is_nested", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp6jwqnfsp: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_133_sum_squares", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp5mtnj_ev: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_134_check_if_last_char_is_a_letter", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpq4pasf6_: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_135_can_arrange", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpk845ocni: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_136_largest_smallest_integers", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmprfdq939s: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_137_compare_one", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=-1 error: \u2018nullopt\u2019 in namespace \u2018std\u2019 does not name a type"}
+{"id": "HumanEval_138_is_equal_to_sum_even", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpusyoomjt: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_139_special_factorial", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpyxciyilt: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_140_fix_spaces", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpntede_d5: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_141_file_name_check", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: expected primary-expression before \u2018}\u2019 token"}
+{"id": "HumanEval_142_sum_squares", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_143_words_in_sentence", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpz1terjko: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_144_simplify", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpzc5n0_tl: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_145_order_by_points", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 <evaluator>/multipl_e_cpp/toolchain/gcc11-jammy/root/usr/include/c++/11/bits/stl_algo.h:82:17:   required from \u2018void std::__mov"}
+{"id": "HumanEval_146_specialFilter", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmppx0e9odq: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_147_get_max_triples", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018vector\u2019 was not declared in this scope"}
+{"id": "HumanEval_148_bf", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp2jfakd6i: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_149_sorted_list_sum", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp5f803bz5: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_150_x_or_y", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018is_prime\u2019 is not a member of \u2018std\u2019"}
+{"id": "HumanEval_151_double_the_difference", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpn76or3no: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_152_compare", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_153_Strongest_Extension", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmppcspf5lb: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_154_cycpattern_check", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpq2uu11nd: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_155_even_odd_count", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpqbwvpzyv: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_156_int_to_mini_roman", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpie5ijpba: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_157_right_angle_triangle", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpgifw7sla: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_158_find_max", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmphu_kr1zj: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_159_eat", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_160_do_algebra", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpc4aw7zro: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_161_solve", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: expected \u2018;\u2019 before \u2018if\u2019"}
+{"id": "HumanEval_162_string_to_md5", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp_27ejn14: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}
+{"id": "HumanEval_163_generate_integers", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpm1p8r4dj: <evaluator>/multipl_e_cpp/native/starcoder2_3b__ft_original_py/tmp/"}

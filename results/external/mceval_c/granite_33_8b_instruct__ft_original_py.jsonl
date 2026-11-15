@@ -1,0 +1,50 @@
+{"id": "C/1", "official_pass": false, "official_status": "run_failed", "detail": "path=whole_text exit=-6 work: <evaluator>/mceval_c/native/granite_33_8b_instruct__ft_original_py/tmp/1.c:22: main: Assertion `strcmp(hello_mmcodeeval()"}
+{"id": "C/2", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/3", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: incompatible types when initializing type ‘const char *’ using type ‘double’"}
+{"id": "C/4", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: conflicting types for ‘main’"}
+{"id": "C/5", "official_pass": true, "official_status": "pass", "detail": "path=whole_text exit=0"}
+{"id": "C/6", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: redefinition of ‘main’"}
+{"id": "C/7", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/8", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/9", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/10", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/11", "official_pass": true, "official_status": "pass", "detail": "path=whole_text exit=0"}
+{"id": "C/12", "official_pass": false, "official_status": "run_failed", "detail": "path=whole_text exit=-6 work: <evaluator>/mceval_c/native/granite_33_8b_instruct__ft_original_py/tmp/12.c:25: main: Assertion `extraNumber(3, 2, 2) == "}
+{"id": "C/13", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/14", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_8b_instruct__ft_original_py/tmp/14.c:39: main: Assertion `decode_numbers(\"0000\") ="}
+{"id": "C/15", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_8b_instruct__ft_original_py/tmp/15.c:42: main: Assertion `count_coloring_methods(1"}
+{"id": "C/16", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: unknown type name ‘uint64_t’; did you mean ‘__uint64_t’?"}
+{"id": "C/17", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: ‘std’ undeclared (first use in this function); did you mean ‘stdin’?"}
+{"id": "C/18", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_8b_instruct__ft_original_py/tmp/18.c:46: main: Assertion `strcmp(id, \"ftiasch\") =="}
+{"id": "C/19", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: unknown type name ‘uint32_t’"}
+{"id": "C/20", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_8b_instruct__ft_original_py/tmp/20.c:49: main: Assertion `strcmp(answer_questions("}
+{"id": "C/21", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/22", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: unknown type name ‘PyObject’"}
+{"id": "C/23", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None n file included from <evaluator>/mceval_c/native/granite_33_8b_instruct__ft_original_py/tmp/23.c:4:0:\n<evaluator>"}
+{"id": "C/24", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/25", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/26", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_8b_instruct__ft_original_py/tmp/26.c:28: main: Assertion `classify_integer(\"24\") ="}
+{"id": "C/27", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_8b_instruct__ft_original_py/tmp/27.c:30: main: Assertion `transform_letter_case('1"}
+{"id": "C/28", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/29", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_8b_instruct__ft_original_py/tmp/29.c:31: main: Assertion `evaluate_integer_grade(1"}
+{"id": "C/30", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_8b_instruct__ft_original_py/tmp/30.c:34: main: Assertion `strcmp(check_two_equal_d"}
+{"id": "C/31", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_8b_instruct__ft_original_py/tmp/31.c:28: main: Assertion `minRoundsToSameChar(\"aab"}
+{"id": "C/32", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: redefinition of ‘main’"}
+{"id": "C/33", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_8b_instruct__ft_original_py/tmp/33.c:80: main: Assertion `newModuloFactorial(10, 3"}
+{"id": "C/34", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None -Wimplicit-function-declaration]\n     assert(makeEqualAgain(6, a1) == 4);\n            ^\n/usr/bin/ld: <evaluator>/mceval_c/nativ"}
+{"id": "C/35", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: redefinition of ‘main’"}
+{"id": "C/36", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: invalid type argument of unary ‘*’ (have ‘int’)"}
+{"id": "C/37", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_8b_instruct__ft_original_py/tmp/37.c:33: main: Assertion `countHandshakes(4, or1) "}
+{"id": "C/38", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: unknown type name ‘uint64_t’"}
+{"id": "C/39", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_8b_instruct__ft_original_py/tmp/39.c:34: main: Assertion `sumOfXorSubarrays(test, "}
+{"id": "C/40", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_8b_instruct__ft_original_py/tmp/40.c:27: main: Assertion `countPowerNumbers(99, 1)"}
+{"id": "C/41", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_8b_instruct__ft_original_py/tmp/41.c:25: main: Assertion `countBalancedSubsequence"}
+{"id": "C/42", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_8b_instruct__ft_original_py/tmp/42.c:19: main: Assertion `expectedCuts(2, 4, 8) =="}
+{"id": "C/43", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-11 "}
+{"id": "C/44", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/45", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: ‘INT_MAX’ undeclared (first use in this function); did you mean ‘TMP_MAX’?"}
+{"id": "C/46", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/47", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_8b_instruct__ft_original_py/tmp/47.c:36: main: Assertion `isPalindrome(\"A man a pl"}
+{"id": "C/48", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_8b_instruct__ft_original_py/tmp/48.c:20: main: Assertion `addDigits(38) == 2' fail"}
+{"id": "C/49", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_8b_instruct__ft_original_py/tmp/49.c:19: main: Assertion `canWinNim(3) == true' fa"}
+{"id": "C/50", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}

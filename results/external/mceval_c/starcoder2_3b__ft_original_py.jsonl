@@ -1,0 +1,50 @@
+{"id": "C/1", "official_pass": false, "official_status": "run_failed", "detail": "path=whole_text exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_py/tmp/1.c:10: main"}
+{"id": "C/2", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: invalid preprocessing directive #Calculate"}
+{"id": "C/3", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: cannot convert to a pointer type"}
+{"id": "C/4", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/5", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: invalid preprocessing directive #Calculate"}
+{"id": "C/6", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_py/tmp/6.c:31: main"}
+{"id": "C/7", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/8", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: invalid preprocessing directive #Calculate"}
+{"id": "C/9", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None error: invalid preprocessing directive #count_odd_numbers"}
+{"id": "C/10", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/11", "official_pass": false, "official_status": "run_failed", "detail": "path=whole_text exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_py/tmp/11.c:16: mai"}
+{"id": "C/12", "official_pass": true, "official_status": "pass", "detail": "path=whole_text exit=0"}
+{"id": "C/13", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/14", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_py/tmp/14.c:27: mai"}
+{"id": "C/15", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_py/tmp/15.c:44: mai"}
+{"id": "C/16", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_py/tmp/16.c:40: mai"}
+{"id": "C/17", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_py/tmp/17.c:30: mai"}
+{"id": "C/18", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_py/tmp/18.c:36: mai"}
+{"id": "C/19", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_py/tmp/19.c:35: mai"}
+{"id": "C/20", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_py/tmp/20.c:49: mai"}
+{"id": "C/21", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_py/tmp/21.c:20: mai"}
+{"id": "C/22", "official_pass": false, "official_status": "run_failed", "detail": "path=whole_text exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_py/tmp/22.c:28: mai"}
+{"id": "C/23", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: invalid preprocessing directive #Counts"}
+{"id": "C/24", "official_pass": true, "official_status": "pass", "detail": "path=whole_text exit=0"}
+{"id": "C/25", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_py/tmp/25.c:36: mai"}
+{"id": "C/26", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_py/tmp/26.c:31: mai"}
+{"id": "C/27", "official_pass": true, "official_status": "pass", "detail": "path=whole_text exit=0"}
+{"id": "C/28", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/29", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_py/tmp/29.c:28: mai"}
+{"id": "C/30", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_py/tmp/30.c:26: mai"}
+{"id": "C/31", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: assignment of read-only location ‘*(s + ((sizetype)i + 1))’"}
+{"id": "C/32", "official_pass": false, "official_status": "run_failed", "detail": "path=whole_text exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_py/tmp/32.c:15: mai"}
+{"id": "C/33", "official_pass": false, "official_status": "timeout", "detail": "path=entry_regex exit=None official time_limit(15)"}
+{"id": "C/34", "official_pass": false, "official_status": "run_failed", "detail": "path=whole_text exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_py/tmp/34.c:43: mai"}
+{"id": "C/35", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_py/tmp/35.c:32: mai"}
+{"id": "C/36", "official_pass": false, "official_status": "run_failed", "detail": "path=whole_text exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_py/tmp/36.c:19: mai"}
+{"id": "C/37", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_py/tmp/37.c:22: mai"}
+{"id": "C/38", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_py/tmp/38.c:25: mai"}
+{"id": "C/39", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_py/tmp/39.c:27: mai"}
+{"id": "C/40", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_py/tmp/40.c:25: mai"}
+{"id": "C/41", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_py/tmp/41.c:34: mai"}
+{"id": "C/42", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_py/tmp/42.c:29: mai"}
+{"id": "C/43", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_py/tmp/43.c:39: mai"}
+{"id": "C/44", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_py/tmp/44.c:36: mai"}
+{"id": "C/45", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_py/tmp/45.c:37: mai"}
+{"id": "C/46", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/47", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: invalid preprocessing directive #A"}
+{"id": "C/48", "official_pass": true, "official_status": "pass", "detail": "path=whole_text exit=0"}
+{"id": "C/49", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/50", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}

@@ -1,0 +1,161 @@
+{"id": "HumanEval_0_has_close_elements", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: invalid preprocessing directive #Simple"}
+{"id": "HumanEval_1_separate_paren_groups", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_2_truncate_number", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_3_below_zero", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_4_mean_absolute_deviation", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: invalid preprocessing directive #Mean"}
+{"id": "HumanEval_5_intersperse", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: invalid preprocessing directive #Functional"}
+{"id": "HumanEval_6_parse_nested_parens", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: \u2018import\u2019 was not declared in this scope"}
+{"id": "HumanEval_7_filter_by_substring", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: invalid preprocessing directive #Functional"}
+{"id": "HumanEval_8_sum_product", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_9_rolling_max", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: invalid preprocessing directive #Rolling"}
+{"id": "HumanEval_10_make_palindrome", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_11_string_xor", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: empty character constant"}
+{"id": "HumanEval_12_longest", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_13_greatest_common_divisor", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: \u2018def\u2019 was not declared in this scope"}
+{"id": "HumanEval_14_all_prefixes", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: invalid preprocessing directive #Prefixes"}
+{"id": "HumanEval_15_string_sequence", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_16_count_distinct_characters", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: invalid preprocessing directive #Simple"}
+{"id": "HumanEval_17_parse_music", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpby5zrrm1: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_18_how_many_times", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: \u2018import\u2019 was not declared in this scope"}
+{"id": "HumanEval_19_sort_numbers", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_20_find_closest_elements", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_21_rescale_to_unit", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_22_filter_integers", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_23_strlen", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: invalid preprocessing directive #Functional"}
+{"id": "HumanEval_24_largest_divisor", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_25_factorize", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: \u2018import\u2019 was not declared in this scope"}
+{"id": "HumanEval_26_remove_duplicates", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: invalid preprocessing directive #Remove"}
+{"id": "HumanEval_27_flip_case", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: empty character constant"}
+{"id": "HumanEval_28_concatenate", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_29_filter_by_prefix", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: invalid preprocessing directive #Functional"}
+{"id": "HumanEval_30_get_positive", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_31_is_prime", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_33_sort_third", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpusudhp2q: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_34_unique", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_35_max_element", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_36_fizz_buzz", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: \u2018import\u2019 was not declared in this scope"}
+{"id": "HumanEval_37_sort_even", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpe01jcyc1: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_39_prime_fib", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: \u2018import\u2019 was not declared in this scope"}
+{"id": "HumanEval_40_triples_sum_to_zero", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp5ayvt4vi: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_41_car_race_collision", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp67fetxak: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_42_incr_list", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: invalid preprocessing directive #Functional"}
+{"id": "HumanEval_43_pairs_sum_to_zero", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_44_change_base", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: \u2018def\u2019 was not declared in this scope"}
+{"id": "HumanEval_45_triangle_area", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: invalid preprocessing directive #Simple"}
+{"id": "HumanEval_46_fib4", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: \u2018def\u2019 was not declared in this scope"}
+{"id": "HumanEval_47_median", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: stray \u2018#\u2019 in program"}
+{"id": "HumanEval_48_is_palindrome", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_49_modp", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: \u2018def\u2019 was not declared in this scope"}
+{"id": "HumanEval_51_remove_vowels", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: invalid preprocessing directive #remove_vowels"}
+{"id": "HumanEval_52_below_threshold", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_53_add", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: \u2018def\u2019 was not declared in this scope"}
+{"id": "HumanEval_54_same_chars", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: \u2018def\u2019 was not declared in this scope"}
+{"id": "HumanEval_55_fib", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: \u2018def\u2019 was not declared in this scope"}
+{"id": "HumanEval_56_correct_bracketing", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_57_monotonic", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmplkvsk3m5: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_58_common", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_59_largest_prime_factor", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: \u2018def\u2019 was not declared in this scope"}
+{"id": "HumanEval_60_sum_to_n", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_61_correct_bracketing", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_62_derivative", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018max\u2019 was not declared in this scope; did you mean \u2018std::max\u2019?"}
+{"id": "HumanEval_63_fibfib", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: \u2018def\u2019 was not declared in this scope"}
+{"id": "HumanEval_64_vowels_count", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpg4j8v7zl: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_65_circular_shift", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: \u2018import\u2019 was not declared in this scope"}
+{"id": "HumanEval_66_digitSum", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_67_fruit_distribution", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: stray \u2018#\u2019 in program"}
+{"id": "HumanEval_68_pluck", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_69_search", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp9dhddqdp: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_70_strange_sort_list", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmph1a4ac9g: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_71_triangle_area", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpllhd4qru: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_72_will_it_fly", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpct_7o2ye: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_73_smallest_change", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpri5l75lq: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_74_total_match", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpjjyd4o3e: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_75_is_multiply_prime", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: stray \u2018#\u2019 in program"}
+{"id": "HumanEval_76_is_simple_power", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_77_iscube", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: \u2018def\u2019 was not declared in this scope"}
+{"id": "HumanEval_78_hex_key", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_79_decimal_to_binary", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_80_is_happy", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp7r9n78h6: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_81_numerical_letter_grade", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpbkd8mzjl: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_82_prime_length", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: \u2018def\u2019 was not declared in this scope"}
+{"id": "HumanEval_83_starts_one_ends", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpx4p1emhr: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_84_solve", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: \u2018def\u2019 was not declared in this scope"}
+{"id": "HumanEval_85_add", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: invalid preprocessing directive #Functional"}
+{"id": "HumanEval_86_anti_shuffle", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_87_get_row", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpotm9c_wb: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_88_sort_array", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_89_encrypt", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_90_next_smallest", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmph6sm6bdv: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_91_is_bored", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpd5a8ldlt: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_92_any_int", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmprtipzdcl: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_93_encode", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_94_skjkasdkd", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpzu1r2y63: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_95_check_dict_case", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: invalid preprocessing directive #Functional"}
+{"id": "HumanEval_96_count_up_to", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_97_multiply", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: \u2018def\u2019 was not declared in this scope"}
+{"id": "HumanEval_98_count_upper", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: \u2018def\u2019 was not declared in this scope"}
+{"id": "HumanEval_99_closest_integer", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpda29s50o: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_100_make_a_pile", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6   what():  std::bad_alloc"}
+{"id": "HumanEval_101_words_string", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: invalid preprocessing directive #Simple"}
+{"id": "HumanEval_102_choose_num", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp_bre4jc_: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_103_rounded_avg", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: \u2018import\u2019 was not declared in this scope"}
+{"id": "HumanEval_104_unique_digits", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_105_by_length", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp04nbfuda: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_106_f", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpbuc3af1f: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_107_even_odd_palindrome", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpg_hfbpbs: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_108_count_nums", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpxykn4lgi: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_109_move_one_ball", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp4dwikyg4: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_110_exchange", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: \u2018import\u2019 was not declared in this scope"}
+{"id": "HumanEval_111_histogram", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpo4tpydz2: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_112_reverse_delete", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_113_odd_count", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: expected primary-expression before \u2018.\u2019 token"}
+{"id": "HumanEval_114_minSubArraySum", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp46lfzn6p: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_115_max_fill", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: bits/stdc++.h_: No such file or directory"}
+{"id": "HumanEval_116_sort_array", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpmq4vncqv: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_117_select_words", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: request for member \u2018find\u2019 in \u2018\"aeiouy\"\u2019, which is of non-class type \u2018const char [7]\u2019"}
+{"id": "HumanEval_118_get_closest_vowel", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_119_match_parens", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp2qwfmgax: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_120_maximum", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpufu6r962: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_121_solution", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_122_add_elements", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp3h1395a4: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_123_get_odd_collatz", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp425woj6y: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_124_valid_date", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_125_split_words", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmprqkjyfzh: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_126_is_sorted", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpiafwjqhe: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_127_intersection", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: could not convert \u2018is_prime(int)()\u2019 from \u2018std::string\u2019 {aka \u2018std::__cxx11::basic_string<char>\u2019} to \u2018bool\u2019"}
+{"id": "HumanEval_128_prod_signs", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp2dbx3zud: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_129_minPath", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-11 "}
+{"id": "HumanEval_130_tri", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp6vstwbs5: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_131_digits", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: \u2018def\u2019 was not declared in this scope"}
+{"id": "HumanEval_132_is_nested", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018def\u2019 does not name a type"}
+{"id": "HumanEval_133_sum_squares", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_134_check_if_last_char_is_a_letter", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: invalid preprocessing directive #Import; did you mean #import?"}
+{"id": "HumanEval_135_can_arrange", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpss0nwh4k: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_136_largest_smallest_integers", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpt_h49vr1: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_137_compare_one", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018nullopt\u2019 in namespace \u2018std\u2019 does not name a type"}
+{"id": "HumanEval_138_is_equal_to_sum_even", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_139_special_factorial", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_140_fix_spaces", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_141_file_name_check", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_142_sum_squares", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_143_words_in_sentence", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: \u2018import\u2019 was not declared in this scope"}
+{"id": "HumanEval_144_simplify", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: invalid preprocessing directive #Simplify"}
+{"id": "HumanEval_145_order_by_points", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_146_specialFilter", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmprzs9asri: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_147_get_max_triples", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: \u2018import\u2019 was not declared in this scope"}
+{"id": "HumanEval_148_bf", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_149_sorted_list_sum", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: stray \u2018#\u2019 in program"}
+{"id": "HumanEval_150_x_or_y", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: \u2018def\u2019 was not declared in this scope"}
+{"id": "HumanEval_151_double_the_difference", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp2y5x4fax: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_152_compare", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_153_Strongest_Extension", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpqc23b1y1: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_154_cycpattern_check", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: \u2018def\u2019 was not declared in this scope"}
+{"id": "HumanEval_155_even_odd_count", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: stray \u2018#\u2019 in program"}
+{"id": "HumanEval_156_int_to_mini_roman", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018def\u2019 does not name a type"}
+{"id": "HumanEval_157_right_angle_triangle", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_158_find_max", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp18j0kqg8: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_159_eat", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: bits/stdc++.h.: No such file or directory"}
+{"id": "HumanEval_160_do_algebra", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpheecihjc: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}
+{"id": "HumanEval_161_solve", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: empty character constant"}
+{"id": "HumanEval_162_string_to_md5", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: \u2018import\u2019 was not declared in this scope"}
+{"id": "HumanEval_163_generate_integers", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp_las0xot: <evaluator>/multipl_e_cpp/native/starcoder2_15b__ft_original_py/tmp"}

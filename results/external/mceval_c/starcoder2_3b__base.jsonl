@@ -1,0 +1,50 @@
+{"id": "C/1", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__base/tmp/1.c:10: main: Assertio"}
+{"id": "C/2", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__base/tmp/2.c:35: main: Assertio"}
+{"id": "C/3", "official_pass": false, "official_status": "compile_failed", "detail": "path=fence exit=None error: incompatible types when returning type ‘double’ but ‘const char *’ was expected"}
+{"id": "C/4", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/5", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/6", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/7", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__base/tmp/7.c:29: main: Assertio"}
+{"id": "C/8", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/9", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/10", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/11", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__base/tmp/11.c:26: main: Asserti"}
+{"id": "C/12", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/13", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/14", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__base/tmp/14.c:29: main: Asserti"}
+{"id": "C/15", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__base/tmp/15.c:37: main: Asserti"}
+{"id": "C/16", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/17", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/18", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__base/tmp/18.c:35: main: Asserti"}
+{"id": "C/19", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__base/tmp/19.c:31: main: Asserti"}
+{"id": "C/20", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__base/tmp/20.c:58: main: Asserti"}
+{"id": "C/21", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None error: stray ‘`’ in program"}
+{"id": "C/22", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/23", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__base/tmp/23.c:46: main: Asserti"}
+{"id": "C/24", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/25", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__base/tmp/25.c:34: main: Asserti"}
+{"id": "C/26", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-11 "}
+{"id": "C/27", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/28", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/29", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__base/tmp/29.c:31: main: Asserti"}
+{"id": "C/30", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__base/tmp/30.c:34: main: Asserti"}
+{"id": "C/31", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None error: stray ‘`’ in program"}
+{"id": "C/32", "official_pass": false, "official_status": "compile_failed", "detail": "path=fence exit=None error: ‘signs’ redeclared as different kind of symbol"}
+{"id": "C/33", "official_pass": false, "official_status": "timeout", "detail": "path=fence exit=None official time_limit(15)"}
+{"id": "C/34", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__base/tmp/34.c:40: main: Asserti"}
+{"id": "C/35", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None error: stray ‘`’ in program"}
+{"id": "C/36", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__base/tmp/36.c:22: main: Asserti"}
+{"id": "C/37", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__base/tmp/37.c:24: main: Asserti"}
+{"id": "C/38", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__base/tmp/38.c:29: main: Asserti"}
+{"id": "C/39", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/40", "official_pass": false, "official_status": "timeout", "detail": "path=fence exit=None official time_limit(15)"}
+{"id": "C/41", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__base/tmp/41.c:31: main: Asserti"}
+{"id": "C/42", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None error: stray ‘`’ in program"}
+{"id": "C/43", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__base/tmp/43.c:33: main: Asserti"}
+{"id": "C/44", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__base/tmp/44.c:39: main: Asserti"}
+{"id": "C/45", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None error: stray ‘`’ in program"}
+{"id": "C/46", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/47", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__base/tmp/47.c:30: main: Asserti"}
+{"id": "C/48", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/49", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/50", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}

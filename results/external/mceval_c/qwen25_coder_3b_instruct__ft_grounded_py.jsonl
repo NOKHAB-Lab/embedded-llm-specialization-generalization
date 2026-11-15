@@ -1,0 +1,50 @@
+{"id": "C/1", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 malloc(): corrupted top size"}
+{"id": "C/2", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/3", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/4", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/5", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/6", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/7", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/8", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: unknown type name ‘uint32_t’; did you mean ‘__uint32_t’?"}
+{"id": "C/9", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/10", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/11", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: unknown type name ‘bool’"}
+{"id": "C/12", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/13", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/14", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/qwen25_coder_3b_instruct__ft_grounded_py/tmp/14.c:54: main: Assertion `decode_numbers(\"9999\")"}
+{"id": "C/15", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: too many arguments to function ‘pow’"}
+{"id": "C/16", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/17", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/18", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/qwen25_coder_3b_instruct__ft_grounded_py/tmp/18.c:54: main: Assertion `strcmp(id, \"ftiasch\") "}
+{"id": "C/19", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/qwen25_coder_3b_instruct__ft_grounded_py/tmp/19.c:40: main: Assertion `count_permutations_of_"}
+{"id": "C/20", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/qwen25_coder_3b_instruct__ft_grounded_py/tmp/20.c:49: main: Assertion `strcmp(answer_question"}
+{"id": "C/21", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/qwen25_coder_3b_instruct__ft_grounded_py/tmp/21.c:32: main: Assertion `Is_Square(2, (int[]){1"}
+{"id": "C/22", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/qwen25_coder_3b_instruct__ft_grounded_py/tmp/22.c:111: main: Assertion `find_integers(5, 6) ="}
+{"id": "C/23", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/qwen25_coder_3b_instruct__ft_grounded_py/tmp/23.c:74: main: Assertion `count_acute_triangles("}
+{"id": "C/24", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/25", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/qwen25_coder_3b_instruct__ft_grounded_py/tmp/25.c:47: main: Assertion `strcmp(shift_character"}
+{"id": "C/26", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/qwen25_coder_3b_instruct__ft_grounded_py/tmp/26.c:50: main: Assertion `classify_integer(\"1234"}
+{"id": "C/27", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/28", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/29", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/30", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/31", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/qwen25_coder_3b_instruct__ft_grounded_py/tmp/31.c:39: main: Assertion `minRoundsToSameChar(\"a"}
+{"id": "C/32", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: ld returned 1 exit status"}
+{"id": "C/33", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: unknown type name ‘uint64_t’"}
+{"id": "C/34", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/qwen25_coder_3b_instruct__ft_grounded_py/tmp/34.c:40: main: Assertion `makeEqualAgain(6, a1) "}
+{"id": "C/35", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/qwen25_coder_3b_instruct__ft_grounded_py/tmp/35.c:54: main: Assertion `gameWinner(5, test2) ="}
+{"id": "C/36", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/qwen25_coder_3b_instruct__ft_grounded_py/tmp/36.c:39: main: Assertion `minTotalCost(5, costs1"}
+{"id": "C/37", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/38", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/qwen25_coder_3b_instruct__ft_grounded_py/tmp/38.c:78: main: Assertion `maxModeSum(3, (int[]){"}
+{"id": "C/39", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: unknown type name ‘uint64_t’"}
+{"id": "C/40", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/qwen25_coder_3b_instruct__ft_grounded_py/tmp/40.c:39: main: Assertion `countPowerNumbers(99, "}
+{"id": "C/41", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: conflicting types for ‘powMod’"}
+{"id": "C/42", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None error: expected declaration or statement at end of input"}
+{"id": "C/43", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: algorithm: No such file or directory"}
+{"id": "C/44", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/qwen25_coder_3b_instruct__ft_grounded_py/tmp/44.c:55: main: Assertion `countTriplets(heights2"}
+{"id": "C/45", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/qwen25_coder_3b_instruct__ft_grounded_py/tmp/45.c:66: main: Assertion `minOperations(5, (int["}
+{"id": "C/46", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/qwen25_coder_3b_instruct__ft_grounded_py/tmp/46.c:21: main: Assertion `sumOfMultiples(10) == "}
+{"id": "C/47", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-11 "}
+{"id": "C/48", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/49", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/50", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}

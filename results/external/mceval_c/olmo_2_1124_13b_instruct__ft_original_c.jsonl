@@ -1,0 +1,50 @@
+{"id": "C/1", "official_pass": false, "official_status": "run_failed", "detail": "path=whole_text exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_original_c/tmp/1.c:12: main: Assertion `strcmp(hello_mmcodeeval("}
+{"id": "C/2", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_original_c/tmp/2.c:51: main: Assertion `area == -1' failed."}
+{"id": "C/3", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: incompatible types when returning type ‘double’ but ‘const char *’ was expected"}
+{"id": "C/4", "official_pass": false, "official_status": "run_failed", "detail": "path=whole_text exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_original_c/tmp/4.c:35: main: Assertion `max == 3 && min == 1' fa"}
+{"id": "C/5", "official_pass": true, "official_status": "pass", "detail": "path=whole_text exit=0"}
+{"id": "C/6", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/7", "official_pass": true, "official_status": "pass", "detail": "path=fence exit=0"}
+{"id": "C/8", "official_pass": false, "official_status": "run_failed", "detail": "path=fence exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_original_c/tmp/8.c:30: main: Assertion `hamming_distance(1, 2) ="}
+{"id": "C/9", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_original_c/tmp/9.c:40: main: Assertion `count_odd_numbers(5, 1, "}
+{"id": "C/10", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/11", "official_pass": false, "official_status": "run_failed", "detail": "path=whole_text exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_original_c/tmp/11.c:21: main: Assertion `are_intervals_intersect"}
+{"id": "C/12", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected identifier or ‘(’ before ‘}’ token"}
+{"id": "C/13", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/14", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: ‘EXIT_FAILURE’ undeclared (first use in this function); did you mean ‘_IO_FILE’?"}
+{"id": "C/15", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None error: expected expression before ‘int’"}
+{"id": "C/16", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_original_c/tmp/16.c:54: main: Assertion `count_valid_coin_toss_s"}
+{"id": "C/17", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_original_c/tmp/17.c:61: main: Assertion `find_longest_consecutiv"}
+{"id": "C/18", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: ‘word1_len’ undeclared (first use in this function); did you mean ‘word2_len’?"}
+{"id": "C/19", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: conflicting types for ‘factorial’"}
+{"id": "C/20", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_original_c/tmp/20.c:70: main: Assertion `strcmp(answer_questions"}
+{"id": "C/21", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: called object ‘sqrt’ is not a function or function pointer"}
+{"id": "C/22", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: ‘b’ undeclared (first use in this function)"}
+{"id": "C/23", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: ‘arguments’ undeclared (first use in this function)"}
+{"id": "C/24", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/25", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: too few arguments to function ‘shift_characters’"}
+{"id": "C/26", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_original_c/tmp/26.c:57: main: Assertion `classify_integer(\"24\") "}
+{"id": "C/27", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/28", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_original_c/tmp/28.c:28: main: Assertion `display_ascii_info('0')"}
+{"id": "C/29", "official_pass": true, "official_status": "pass", "detail": "path=whole_text exit=0"}
+{"id": "C/30", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_original_c/tmp/30.c:46: main: Assertion `strcmp(check_two_equal_"}
+{"id": "C/31", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_original_c/tmp/31.c:40: main: Assertion `minRoundsToSameChar(\"aa"}
+{"id": "C/32", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_original_c/tmp/32.c:23: main: Assertion `apocalypseYear(6, (int["}
+{"id": "C/33", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_original_c/tmp/33.c:41: main: Assertion `newModuloFactorial(45, "}
+{"id": "C/34", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected identifier or ‘(’ before ‘}’ token"}
+{"id": "C/35", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_original_c/tmp/35.c:43: main: Assertion `gameWinner(5, test2) =="}
+{"id": "C/36", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: ‘LLONG_MAX’ undeclared (first use in this function); did you mean ‘RAND_MAX’?"}
+{"id": "C/37", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/38", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_original_c/tmp/38.c:43: main: Assertion `maxModeSum(3, (int[]){1"}
+{"id": "C/39", "official_pass": false, "official_status": "compile_failed", "detail": "path=fence exit=None error: ld returned 1 exit status"}
+{"id": "C/40", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_original_c/tmp/40.c:24: main: Assertion `countPowerNumbers(99, 3"}
+{"id": "C/41", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: conflicting types for ‘factorial’"}
+{"id": "C/42", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_original_c/tmp/42.c:67: main: Assertion `expectedCuts(2, 4, 10) "}
+{"id": "C/43", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_original_c/tmp/43.c:63: main: Assertion `countPermutations(2, 1,"}
+{"id": "C/44", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/olmo_2_1124_13b_instruct__ft_original_c/tmp/44.c:76: main: Assertion `countTriplets(heights4,"}
+{"id": "C/45", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: variable-sized object may not be initialized"}
+{"id": "C/46", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/47", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-11 "}
+{"id": "C/48", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected identifier or ‘(’ before ‘}’ token"}
+{"id": "C/49", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: called object ‘nimSum’ is not a function or function pointer"}
+{"id": "C/50", "official_pass": false, "official_status": "compile_failed", "detail": "path=fence exit=None error: called object ‘sum’ is not a function or function pointer"}

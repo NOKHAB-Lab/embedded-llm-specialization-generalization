@@ -1,0 +1,881 @@
+{
+ "floor_models": [
+  "codellama_13b_instruct_hf",
+  "granite_33_2b_instruct",
+  "llama_32_3b_instruct",
+  "mistral_7b_instruct_v03",
+  "olmo_2_1124_13b_instruct",
+  "olmoe_1b_7b_0924_instruct",
+  "starcoder2_3b"
+ ],
+ "rows": {
+  "Python coding": [
+   {
+    "comparison": "ft_original_py - base",
+    "mean_pp": -12.638029078650977,
+    "ci95": [
+     -15.33904159769089,
+     -9.937016559611063
+    ],
+    "k": 21,
+    "significant": true
+   },
+   {
+    "comparison": "ft_grounded_py - base",
+    "mean_pp": -2.9472457193264345,
+    "ci95": [
+     -5.1406216394060165,
+     -0.7538697992468526
+    ],
+    "k": 21,
+    "significant": true
+   },
+   {
+    "comparison": "ft_grounded_py - ft_original_py",
+    "mean_pp": 9.690783359324543,
+    "ci95": [
+     7.711788611163416,
+     11.66977810748567
+    ],
+    "k": 21,
+    "significant": true
+   },
+   {
+    "comparison": "ft_original_c - base",
+    "mean_pp": -3.18352944882882,
+    "ci95": [
+     -5.24298648539602,
+     -1.12407241226162
+    ],
+    "k": 21,
+    "significant": true
+   },
+   {
+    "comparison": "ft_grounded_c - base",
+    "mean_pp": -0.5938597734826649,
+    "ci95": [
+     -2.5711008145533922,
+     1.3833812675880621
+    ],
+    "k": 21,
+    "significant": false
+   },
+   {
+    "comparison": "ft_grounded_c - ft_original_c",
+    "mean_pp": 2.589669675346155,
+    "ci95": [
+     0.4804337497855409,
+     4.69890560090677
+    ],
+    "k": 21,
+    "significant": true
+   }
+  ],
+  "humaneval_plus": [
+   {
+    "comparison": "ft_original_py - base",
+    "mean_pp": -13.234005258545137,
+    "ci95": [
+     -17.236862156485692,
+     -9.231148360604582
+    ],
+    "k": 21,
+    "significant": true
+   },
+   {
+    "comparison": "ft_grounded_py - base",
+    "mean_pp": -3.1843412211510382,
+    "ci95": [
+     -6.371606079239026,
+     0.002923636936949414
+    ],
+    "k": 21,
+    "significant": false
+   },
+   {
+    "comparison": "ft_grounded_py - ft_original_py",
+    "mean_pp": 10.049664037394098,
+    "ci95": [
+     7.223089925972401,
+     12.876238148815796
+    ],
+    "k": 21,
+    "significant": true
+   },
+   {
+    "comparison": "ft_original_c - base",
+    "mean_pp": -5.404615834063688,
+    "ci95": [
+     -10.376408120248264,
+     -0.4328235478791109
+    ],
+    "k": 21,
+    "significant": true
+   },
+   {
+    "comparison": "ft_grounded_c - base",
+    "mean_pp": 0.32135553607946105,
+    "ci95": [
+     -2.697524966396779,
+     3.340236038555701
+    ],
+    "k": 21,
+    "significant": false
+   },
+   {
+    "comparison": "ft_grounded_c - ft_original_c",
+    "mean_pp": 5.7259713701431485,
+    "ci95": [
+     -0.40526385053544267,
+     11.85720659082174
+    ],
+    "k": 21,
+    "significant": false
+   }
+  ],
+  "mbpp_plus": [
+   {
+    "comparison": "ft_original_py - base",
+    "mean_pp": -7.44520030234316,
+    "ci95": [
+     -9.929595227441647,
+     -4.960805377244673
+    ],
+    "k": 21,
+    "significant": true
+   },
+   {
+    "comparison": "ft_grounded_py - base",
+    "mean_pp": -1.158982111363063,
+    "ci95": [
+     -2.8570906444466067,
+     0.5391264217204808
+    ],
+    "k": 21,
+    "significant": false
+   },
+   {
+    "comparison": "ft_grounded_py - ft_original_py",
+    "mean_pp": 6.286218190980097,
+    "ci95": [
+     4.768757421188491,
+     7.803678960771704
+    ],
+    "k": 21,
+    "significant": true
+   },
+   {
+    "comparison": "ft_original_c - base",
+    "mean_pp": -2.5321239606953903,
+    "ci95": [
+     -5.6090306555476355,
+     0.544782734156855
+    ],
+    "k": 21,
+    "significant": false
+   },
+   {
+    "comparison": "ft_grounded_c - base",
+    "mean_pp": -0.15117157974300677,
+    "ci95": [
+     -1.715530232570246,
+     1.4131870730842326
+    ],
+    "k": 21,
+    "significant": false
+   },
+   {
+    "comparison": "ft_grounded_c - ft_original_c",
+    "mean_pp": 2.3809523809523836,
+    "ci95": [
+     -1.0191257097705924,
+     5.7810304716753595
+    ],
+    "k": 21,
+    "significant": false
+   }
+  ],
+  "bigcodebench": [
+   {
+    "comparison": "ft_original_py - base",
+    "mean_pp": -16.83375104427736,
+    "ci95": [
+     -19.750750448197355,
+     -13.916751640357365
+    ],
+    "k": 21,
+    "significant": true
+   },
+   {
+    "comparison": "ft_grounded_py - base",
+    "mean_pp": -2.6608187134502925,
+    "ci95": [
+     -4.521043473143082,
+     -0.8005939537575035
+    ],
+    "k": 21,
+    "significant": true
+   },
+   {
+    "comparison": "ft_grounded_py - ft_original_py",
+    "mean_pp": 14.172932330827068,
+    "ci95": [
+     11.35346890150678,
+     16.992395760147357
+    ],
+    "k": 21,
+    "significant": true
+   },
+   {
+    "comparison": "ft_original_c - base",
+    "mean_pp": -3.9933166248955723,
+    "ci95": [
+     -6.7248054866563205,
+     -1.2618277631348236
+    ],
+    "k": 21,
+    "significant": true
+   },
+   {
+    "comparison": "ft_grounded_c - base",
+    "mean_pp": -0.9147869674185464,
+    "ci95": [
+     -2.2568865557287805,
+     0.42731262089168764
+    ],
+    "k": 21,
+    "significant": false
+   },
+   {
+    "comparison": "ft_grounded_c - ft_original_c",
+    "mean_pp": 3.078529657477026,
+    "ci95": [
+     0.2881023904451654,
+     5.868956924508886
+    ],
+    "k": 21,
+    "significant": true
+   }
+  ],
+  "ds1000": [
+   {
+    "comparison": "ft_original_py - base",
+    "mean_pp": -12.823809523809523,
+    "ci95": [
+     -17.525528579859753,
+     -8.122090467759293
+    ],
+    "k": 21,
+    "significant": true
+   },
+   {
+    "comparison": "ft_grounded_py - base",
+    "mean_pp": -4.914285714285714,
+    "ci95": [
+     -8.836871320053751,
+     -0.991700108517676
+    ],
+    "k": 21,
+    "significant": true
+   },
+   {
+    "comparison": "ft_grounded_py - ft_original_py",
+    "mean_pp": 7.909523809523809,
+    "ci95": [
+     4.60094814762825,
+     11.218099471419368
+    ],
+    "k": 21,
+    "significant": true
+   },
+   {
+    "comparison": "ft_original_c - base",
+    "mean_pp": -2.828571428571428,
+    "ci95": [
+     -7.84425231135304,
+     2.187109454210185
+    ],
+    "k": 21,
+    "significant": false
+   },
+   {
+    "comparison": "ft_grounded_c - base",
+    "mean_pp": -0.947619047619047,
+    "ci95": [
+     -5.056581771601954,
+     3.1613436763638605
+    ],
+    "k": 21,
+    "significant": false
+   },
+   {
+    "comparison": "ft_grounded_c - ft_original_c",
+    "mean_pp": 1.880952380952381,
+    "ci95": [
+     -0.8271536711997536,
+     4.5890584331045154
+    ],
+    "k": 21,
+    "significant": false
+   }
+  ],
+  "livecodebench": [
+   {
+    "comparison": "ft_original_py - base",
+    "mean_pp": -3.5644667223614594,
+    "ci95": [
+     -5.11927432294169,
+     -2.0096591217812283
+    ],
+    "k": 21,
+    "significant": true
+   },
+   {
+    "comparison": "ft_grounded_py - base",
+    "mean_pp": -0.013923698134224444,
+    "ci95": [
+     -1.3538401380255258,
+     1.3259927417570772
+    ],
+    "k": 21,
+    "significant": false
+   },
+   {
+    "comparison": "ft_grounded_py - ft_original_py",
+    "mean_pp": 3.550543024227235,
+    "ci95": [
+     2.717978432758476,
+     4.383107615695994
+    ],
+    "k": 21,
+    "significant": true
+   },
+   {
+    "comparison": "ft_original_c - base",
+    "mean_pp": -1.1835143414090785,
+    "ci95": [
+     -2.287886382720945,
+     -0.07914230009721201
+    ],
+    "k": 21,
+    "significant": true
+   },
+   {
+    "comparison": "ft_grounded_c - base",
+    "mean_pp": 0.5847953216374269,
+    "ci95": [
+     -0.9227982213341523,
+     2.0923888646090063
+    ],
+    "k": 21,
+    "significant": false
+   },
+   {
+    "comparison": "ft_grounded_c - ft_original_c",
+    "mean_pp": 1.7683096630465054,
+    "ci95": [
+     0.06721945445352473,
+     3.469399871639486
+    ],
+    "k": 21,
+    "significant": true
+   }
+  ],
+  "C coding": [
+   {
+    "comparison": "ft_original_py - base",
+    "mean_pp": -6.6610644257703076,
+    "ci95": [
+     -9.505113854892155,
+     -3.8170149966484592
+    ],
+    "k": 21,
+    "significant": true
+   },
+   {
+    "comparison": "ft_grounded_py - base",
+    "mean_pp": -2.7843137254901955,
+    "ci95": [
+     -4.194919642088658,
+     -1.3737078088917332
+    ],
+    "k": 21,
+    "significant": true
+   },
+   {
+    "comparison": "ft_grounded_py - ft_original_py",
+    "mean_pp": 3.876750700280112,
+    "ci95": [
+     1.470620442152879,
+     6.282880958407345
+    ],
+    "k": 21,
+    "significant": true
+   },
+   {
+    "comparison": "ft_original_c - base",
+    "mean_pp": -1.1148459383753497,
+    "ci95": [
+     -3.0198043490378783,
+     0.7901124722871788
+    ],
+    "k": 21,
+    "significant": false
+   },
+   {
+    "comparison": "ft_grounded_c - base",
+    "mean_pp": -1.3501400560224088,
+    "ci95": [
+     -2.6284166151575334,
+     -0.071863496887284
+    ],
+    "k": 21,
+    "significant": true
+   },
+   {
+    "comparison": "ft_grounded_c - ft_original_c",
+    "mean_pp": -0.2352941176470591,
+    "ci95": [
+     -1.5251154444417347,
+     1.0545272091476166
+    ],
+    "k": 21,
+    "significant": false
+   }
+  ],
+  "mceval_c": [
+   {
+    "comparison": "ft_original_py - base",
+    "mean_pp": -8.19047619047619,
+    "ci95": [
+     -12.188989228378336,
+     -4.1919631525740435
+    ],
+    "k": 21,
+    "significant": true
+   },
+   {
+    "comparison": "ft_grounded_py - base",
+    "mean_pp": -3.8095238095238093,
+    "ci95": [
+     -6.334188221407466,
+     -1.2848593976401523
+    ],
+    "k": 21,
+    "significant": true
+   },
+   {
+    "comparison": "ft_grounded_py - ft_original_py",
+    "mean_pp": 4.380952380952381,
+    "ci95": [
+     0.7665925102005504,
+     7.995312251704212
+    ],
+    "k": 21,
+    "significant": true
+   },
+   {
+    "comparison": "ft_original_c - base",
+    "mean_pp": -0.8571428571428571,
+    "ci95": [
+     -4.134182278236257,
+     2.4198965639505428
+    ],
+    "k": 21,
+    "significant": false
+   },
+   {
+    "comparison": "ft_grounded_c - base",
+    "mean_pp": -5.0476190476190474,
+    "ci95": [
+     -11.803043751425157,
+     1.7078056561870625
+    ],
+    "k": 21,
+    "significant": false
+   },
+   {
+    "comparison": "ft_grounded_c - ft_original_c",
+    "mean_pp": -4.190476190476191,
+    "ci95": [
+     -9.184396094402999,
+     0.8034437134506165
+    ],
+    "k": 21,
+    "significant": false
+   }
+  ],
+  "xcodeeval_c": [
+   {
+    "comparison": "ft_original_py - base",
+    "mean_pp": -5.5625,
+    "ci95": [
+     -7.897180829321797,
+     -3.2278191706782033
+    ],
+    "k": 14,
+    "significant": true
+   },
+   {
+    "comparison": "ft_grounded_py - base",
+    "mean_pp": -1.9375,
+    "ci95": [
+     -3.093566081191568,
+     -0.7814339188084318
+    ],
+    "k": 14,
+    "significant": true
+   },
+   {
+    "comparison": "ft_grounded_py - ft_original_py",
+    "mean_pp": 3.625,
+    "ci95": [
+     1.9579188957037337,
+     5.292081104296266
+    ],
+    "k": 14,
+    "significant": true
+   },
+   {
+    "comparison": "ft_original_c - base",
+    "mean_pp": -1.6964285714285714,
+    "ci95": [
+     -3.030151824775385,
+     -0.3627053180817581
+    ],
+    "k": 14,
+    "significant": true
+   },
+   {
+    "comparison": "ft_grounded_c - base",
+    "mean_pp": -1.1071428571428572,
+    "ci95": [
+     -2.069156690352723,
+     -0.14512902393299132
+    ],
+    "k": 14,
+    "significant": true
+   },
+   {
+    "comparison": "ft_grounded_c - ft_original_c",
+    "mean_pp": 0.5892857142857143,
+    "ci95": [
+     -0.2742070518796048,
+     1.4527784804510335
+    ],
+    "k": 14,
+    "significant": false
+   }
+  ],
+  "multipl_e_cpp": [
+   {
+    "comparison": "ft_original_py - base",
+    "mean_pp": -17.80538302277433,
+    "ci95": [
+     -22.142617423328144,
+     -13.468148622220514
+    ],
+    "k": 21,
+    "significant": true
+   },
+   {
+    "comparison": "ft_grounded_py - base",
+    "mean_pp": -5.678793256433009,
+    "ci95": [
+     -10.191218296611385,
+     -1.1663682162546314
+    ],
+    "k": 21,
+    "significant": true
+   },
+   {
+    "comparison": "ft_grounded_py - ft_original_py",
+    "mean_pp": 12.126589766341318,
+    "ci95": [
+     5.982428194398125,
+     18.270751338284512
+    ],
+    "k": 21,
+    "significant": true
+   },
+   {
+    "comparison": "ft_original_c - base",
+    "mean_pp": -2.5732031943212075,
+    "ci95": [
+     -4.994275626842562,
+     -0.15213076179985352
+    ],
+    "k": 21,
+    "significant": true
+   },
+   {
+    "comparison": "ft_grounded_c - base",
+    "mean_pp": -1.0647737355811895,
+    "ci95": [
+     -3.3861585503552334,
+     1.2566110791928544
+    ],
+    "k": 21,
+    "significant": false
+   },
+   {
+    "comparison": "ft_grounded_c - ft_original_c",
+    "mean_pp": 1.5084294587400182,
+    "ci95": [
+     -1.0806250928435974,
+     4.097484010323634
+    ],
+    "k": 21,
+    "significant": false
+   }
+  ],
+  "cruxeval_o": [
+   {
+    "comparison": "ft_original_py - base",
+    "mean_pp": -9.869047619047619,
+    "ci95": [
+     -17.17945807098792,
+     -2.5586371671073183
+    ],
+    "k": 21,
+    "significant": true
+   },
+   {
+    "comparison": "ft_grounded_py - base",
+    "mean_pp": -5.654761904761905,
+    "ci95": [
+     -12.626609678599282,
+     1.3170858690754716
+    ],
+    "k": 21,
+    "significant": false
+   },
+   {
+    "comparison": "ft_grounded_py - ft_original_py",
+    "mean_pp": 4.214285714285714,
+    "ci95": [
+     -0.044130957809234594,
+     8.472702386380664
+    ],
+    "k": 21,
+    "significant": false
+   },
+   {
+    "comparison": "ft_original_c - base",
+    "mean_pp": -6.482142857142857,
+    "ci95": [
+     -13.19313423545671,
+     0.22884852117099808
+    ],
+    "k": 21,
+    "significant": false
+   },
+   {
+    "comparison": "ft_grounded_c - base",
+    "mean_pp": -1.2916666666666667,
+    "ci95": [
+     -7.257834410181093,
+     4.6745010768477595
+    ],
+    "k": 21,
+    "significant": false
+   },
+   {
+    "comparison": "ft_grounded_c - ft_original_c",
+    "mean_pp": 5.190476190476191,
+    "ci95": [
+     1.4447193318094356,
+     8.936233049142945
+    ],
+    "k": 21,
+    "significant": true
+   }
+  ],
+  "ifeval": [
+   {
+    "comparison": "ft_original_py - base",
+    "mean_pp": -9.435789103071913,
+    "ci95": [
+     -12.80162839768387,
+     -6.069949808459955
+    ],
+    "k": 21,
+    "significant": true
+   },
+   {
+    "comparison": "ft_grounded_py - base",
+    "mean_pp": -2.904673884341168,
+    "ci95": [
+     -6.292073308718743,
+     0.48272554003640655
+    ],
+    "k": 21,
+    "significant": false
+   },
+   {
+    "comparison": "ft_grounded_py - ft_original_py",
+    "mean_pp": 6.531115218730745,
+    "ci95": [
+     4.37210008792622,
+     8.69013034953527
+    ],
+    "k": 21,
+    "significant": true
+   },
+   {
+    "comparison": "ft_original_c - base",
+    "mean_pp": -3.247953525217851,
+    "ci95": [
+     -6.769627318953708,
+     0.27372026851800557
+    ],
+    "k": 21,
+    "significant": false
+   },
+   {
+    "comparison": "ft_grounded_c - base",
+    "mean_pp": -2.033271719038817,
+    "ci95": [
+     -4.590198143272434,
+     0.5236547051948
+    ],
+    "k": 21,
+    "significant": false
+   },
+   {
+    "comparison": "ft_grounded_c - ft_original_c",
+    "mean_pp": 1.2146818061790337,
+    "ci95": [
+     -1.4177639964430744,
+     3.8471276088011415
+    ],
+    "k": 21,
+    "significant": false
+   }
+  ],
+  "gsm8k": [
+   {
+    "comparison": "ft_original_py - base",
+    "mean_pp": -10.794613523953934,
+    "ci95": [
+     -14.030842556103085,
+     -7.558384491804783
+    ],
+    "k": 21,
+    "significant": true
+   },
+   {
+    "comparison": "ft_grounded_py - base",
+    "mean_pp": -3.436947182208744,
+    "ci95": [
+     -7.3528766854208225,
+     0.4789823210033348
+    ],
+    "k": 21,
+    "significant": false
+   },
+   {
+    "comparison": "ft_grounded_py - ft_original_py",
+    "mean_pp": 7.357666341745191,
+    "ci95": [
+     3.8732003480202963,
+     10.842132335470087
+    ],
+    "k": 21,
+    "significant": true
+   },
+   {
+    "comparison": "ft_original_c - base",
+    "mean_pp": -3.010939023069426,
+    "ci95": [
+     -5.759813211864714,
+     -0.26206483427413874
+    ],
+    "k": 21,
+    "significant": true
+   },
+   {
+    "comparison": "ft_grounded_c - base",
+    "mean_pp": -0.12996859092386018,
+    "ci95": [
+     -3.9080834135393947,
+     3.648146231691674
+    ],
+    "k": 21,
+    "significant": false
+   },
+   {
+    "comparison": "ft_grounded_c - ft_original_c",
+    "mean_pp": 2.8809704321455656,
+    "ci95": [
+     -0.9826735050419595,
+     6.744614369333091
+    ],
+    "k": 21,
+    "significant": false
+   }
+  ],
+  "mmlu": [
+   {
+    "comparison": "ft_original_py - base",
+    "mean_pp": -1.157751236087655,
+    "ci95": [
+     -1.649550935175922,
+     -0.6659515369993877
+    ],
+    "k": 21,
+    "significant": true
+   },
+   {
+    "comparison": "ft_grounded_py - base",
+    "mean_pp": -0.806424264621103,
+    "ci95": [
+     -1.237376604388279,
+     -0.3754719248539269
+    ],
+    "k": 21,
+    "significant": true
+   },
+   {
+    "comparison": "ft_grounded_py - ft_original_py",
+    "mean_pp": 0.35132697146655206,
+    "ci95": [
+     0.06035017834395706,
+     0.6423037645891471
+    ],
+    "k": 21,
+    "significant": true
+   },
+   {
+    "comparison": "ft_original_c - base",
+    "mean_pp": -0.27163407735975753,
+    "ci95": [
+     -0.6535405333197908,
+     0.11027237860027578
+    ],
+    "k": 21,
+    "significant": false
+   },
+   {
+    "comparison": "ft_grounded_c - base",
+    "mean_pp": -0.35641375194145297,
+    "ci95": [
+     -0.7242541000669047,
+     0.011426596183998827
+    ],
+    "k": 21,
+    "significant": false
+   },
+   {
+    "comparison": "ft_grounded_c - ft_original_c",
+    "mean_pp": -0.08477967458169543,
+    "ci95": [
+     -0.3182198284263645,
+     0.14866047926297365
+    ],
+    "k": 21,
+    "significant": false
+   }
+  ]
+ }
+}

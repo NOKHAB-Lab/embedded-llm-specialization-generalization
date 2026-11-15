@@ -1,0 +1,161 @@
+{"id": "HumanEval_0_has_close_elements", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_1_separate_paren_groups", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: a function-definition is not allowed here before \u2018{\u2019 token"}
+{"id": "HumanEval_2_truncate_number", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_3_below_zero", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_4_mean_absolute_deviation", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_5_intersperse", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_6_parse_nested_parens", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_7_filter_by_substring", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_8_sum_product", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_9_rolling_max", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_10_make_palindrome", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmppx4g4pri: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmppx4g4pri.cpp:28: int main(): Assertion `candidate((\""}
+{"id": "HumanEval_11_string_xor", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018to_string\u2019 was not declared in this scope; did you mean \u2018std::__cxx11::to_string\u2019?"}
+{"id": "HumanEval_12_longest", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: expected declaration before \u2018}\u2019 token"}
+{"id": "HumanEval_13_greatest_common_divisor", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: a function-definition is not allowed here before \u2018{\u2019 token"}
+{"id": "HumanEval_14_all_prefixes", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_15_string_sequence", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpz5d681m0: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmpz5d681m0.cpp:18: int main(): Assertion `candidate((0"}
+{"id": "HumanEval_16_count_distinct_characters", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_17_parse_music", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_18_how_many_times", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_19_sort_numbers", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: a function-definition is not allowed here before \u2018{\u2019 token"}
+{"id": "HumanEval_20_find_closest_elements", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_21_rescale_to_unit", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: expected declaration before \u2018}\u2019 token"}
+{"id": "HumanEval_22_filter_integers", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmph0tcvrcb: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmph0tcvrcb.cpp:21: int main(): Assertion `candidate((s"}
+{"id": "HumanEval_23_strlen", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_24_largest_divisor", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_25_factorize", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=-1 error: no match for \u2018operator==\u2019 (operand types are \u2018std::vector<long long int>\u2019 and \u2018std::vector<long int>\u2019)"}
+{"id": "HumanEval_26_remove_duplicates", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp01rot0v0: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmp01rot0v0.cpp:24: int main(): Assertion `candidate((s"}
+{"id": "HumanEval_27_flip_case", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: expected declaration before \u2018}\u2019 token"}
+{"id": "HumanEval_28_concatenate", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_29_filter_by_prefix", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_30_get_positive", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_31_is_prime", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: expected declaration before \u2018}\u2019 token"}
+{"id": "HumanEval_33_sort_third", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpk9pyo_ui: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmpk9pyo_ui.cpp:34: int main(): Assertion `candidate((s"}
+{"id": "HumanEval_34_unique", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_35_max_element", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_36_fizz_buzz", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_37_sort_even", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpcw6dqgtt: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmpcw6dqgtt.cpp:24: int main(): Assertion `candidate((s"}
+{"id": "HumanEval_39_prime_fib", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_40_triples_sum_to_zero", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-11 "}
+{"id": "HumanEval_41_car_race_collision", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_42_incr_list", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_43_pairs_sum_to_zero", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_44_change_base", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_45_triangle_area", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_46_fib4", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp068v_kuk: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmp068v_kuk.cpp:18: int main(): Assertion `candidate((5"}
+{"id": "HumanEval_47_median", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_48_is_palindrome", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_49_modp", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_51_remove_vowels", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_52_below_threshold", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: expected declaration before \u2018}\u2019 token"}
+{"id": "HumanEval_53_add", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_54_same_chars", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpowrt4ffb: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmpowrt4ffb.cpp:27: int main(): Assertion `candidate((\""}
+{"id": "HumanEval_55_fib", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: a function-definition is not allowed here before \u2018{\u2019 token"}
+{"id": "HumanEval_56_correct_bracketing", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_57_monotonic", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_58_common", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_59_largest_prime_factor", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_60_sum_to_n", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_61_correct_bracketing", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_62_derivative", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_63_fibfib", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_64_vowels_count", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpwwyr5lma: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmpwwyr5lma.cpp:14: int main(): Assertion `candidate((\""}
+{"id": "HumanEval_65_circular_shift", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmprydybyn8: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmprydybyn8.cpp:23: int main(): Assertion `candidate((9"}
+{"id": "HumanEval_66_digitSum", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_67_fruit_distribution", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpeb2ensgp: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmpeb2ensgp.cpp:15: int main(): Assertion `candidate((\""}
+{"id": "HumanEval_68_pluck", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpx0l8i01m: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmpx0l8i01m.cpp:53: int main(): Assertion `candidate((s"}
+{"id": "HumanEval_69_search", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: unable to deduce \u2018auto\u2019 from \u2018std::search\u2019"}
+{"id": "HumanEval_70_strange_sort_list", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_71_triangle_area", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpze6dpnhp: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmpze6dpnhp.cpp:25: int main(): Assertion `candidate((4"}
+{"id": "HumanEval_72_will_it_fly", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_73_smallest_change", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_74_total_match", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_75_is_multiply_prime", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp74wckbr4: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmp74wckbr4.cpp:19: int main(): Assertion `candidate((3"}
+{"id": "HumanEval_76_is_simple_power", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp09lj2xw8: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmp09lj2xw8.cpp:15: int main(): Assertion `candidate((9"}
+{"id": "HumanEval_77_iscube", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_78_hex_key", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpe1xx70az: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmpe1xx70az.cpp:16: int main(): Assertion `candidate((\""}
+{"id": "HumanEval_79_decimal_to_binary", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpj8amzj7w: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmpj8amzj7w.cpp:18: int main(): Assertion `candidate((0"}
+{"id": "HumanEval_80_is_happy", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_81_numerical_letter_grade", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp053ogj24: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmp053ogj24.cpp:28: int main(): Assertion `candidate((s"}
+{"id": "HumanEval_82_prime_length", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_83_starts_one_ends", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp0n4i8sf3: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmp0n4i8sf3.cpp:16: int main(): Assertion `candidate((2"}
+{"id": "HumanEval_84_solve", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp2ynufbn8: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmp2ynufbn8.cpp:31: int main(): Assertion `candidate((1"}
+{"id": "HumanEval_85_add", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_86_anti_shuffle", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6   what():  basic_string::erase: __pos (which is 18446744073709551615) > this->size() (which is 2)"}
+{"id": "HumanEval_87_get_row", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: could not convert \u2018std::vector<std::vector<long int> >(std::initializer_list<std::vector<long int> >{((const std::vector<long int>*)(& const std::vector<"}
+{"id": "HumanEval_88_sort_array", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: expected declaration before \u2018}\u2019 token"}
+{"id": "HumanEval_89_encrypt", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp3mspylds: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmp3mspylds.cpp:14: int main(): Assertion `candidate((\""}
+{"id": "HumanEval_90_next_smallest", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpb1zft58x: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmpb1zft58x.cpp:31: int main(): Assertion `candidate((s"}
+{"id": "HumanEval_91_is_bored", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmptb5in6i7: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmptb5in6i7.cpp:24: int main(): Assertion `candidate((\""}
+{"id": "HumanEval_92_any_int", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpvaj8wtbt: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmpvaj8wtbt.cpp:21: int main(): Assertion `candidate((3"}
+{"id": "HumanEval_93_encode", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp5mbyu9mr: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmp5mbyu9mr.cpp:23: int main(): Assertion `candidate((\""}
+{"id": "HumanEval_94_skjkasdkd", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: expected declaration before \u2018}\u2019 token"}
+{"id": "HumanEval_95_check_dict_case", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpdcvbsz2q: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmpdcvbsz2q.cpp:17: int main(): Assertion `candidate((s"}
+{"id": "HumanEval_96_count_up_to", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=-1 error: no match for \u2018operator==\u2019 (operand types are \u2018std::vector<int>\u2019 and \u2018std::vector<long int>\u2019)"}
+{"id": "HumanEval_97_multiply", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmprq4pmz8c: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmprq4pmz8c.cpp:27: int main(): Assertion `candidate((1"}
+{"id": "HumanEval_98_count_upper", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_99_closest_integer", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: a function-definition is not allowed here before \u2018{\u2019 token"}
+{"id": "HumanEval_100_make_a_pile", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpgdpjfot9: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmpgdpjfot9.cpp:17: int main(): Assertion `candidate((3"}
+{"id": "HumanEval_101_words_string", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_102_choose_num", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp5mfoojm5: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmp5mfoojm5.cpp:14: int main(): Assertion `candidate((1"}
+{"id": "HumanEval_103_rounded_avg", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpey658ji0: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmpey658ji0.cpp:25: int main(): Assertion `candidate((1"}
+{"id": "HumanEval_104_unique_digits", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_105_by_length", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp_53xuk6f: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmp_53xuk6f.cpp:26: int main(): Assertion `candidate((s"}
+{"id": "HumanEval_106_f", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=-1 error: no match for \u2018operator==\u2019 (operand types are \u2018long int\u2019 and \u2018std::vector<long int>\u2019)"}
+{"id": "HumanEval_107_even_odd_palindrome", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6   what():  basic_string::_M_create"}
+{"id": "HumanEval_108_count_nums", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpxtx9q17w: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmpxtx9q17w.cpp:18: int main(): Assertion `candidate((s"}
+{"id": "HumanEval_109_move_one_ball", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_110_exchange", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: unable to deduce \u2018auto\u2019 from \u2018std::exchange\u2019"}
+{"id": "HumanEval_111_histogram", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpd_l10n31: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmpd_l10n31.cpp:33: int main(): Assertion `candidate((\""}
+{"id": "HumanEval_112_reverse_delete", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: a function-definition is not allowed here before \u2018{\u2019 token"}
+{"id": "HumanEval_113_odd_count", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_114_minSubArraySum", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_115_max_fill", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_116_sort_array", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp28k80mcj: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmp28k80mcj.cpp:28: int main(): Assertion `candidate((s"}
+{"id": "HumanEval_117_select_words", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpi9wralir: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmpi9wralir.cpp:19: int main(): Assertion `candidate((\""}
+{"id": "HumanEval_118_get_closest_vowel", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: could not convert \u2018word.std::__cxx11::basic_string<char>::operator[](((std::__cxx11::basic_string<char>::size_type)i))\u2019 from \u2018__gnu_cxx::__alloc_traits<s"}
+{"id": "HumanEval_119_match_parens", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: could not convert \u2018(x < 0)\u2019 from \u2018bool\u2019 to \u2018std::string\u2019 {aka \u2018std::__cxx11::basic_string<char>\u2019}"}
+{"id": "HumanEval_120_maximum", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_121_solution", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_122_add_elements", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpjqtcu9tu: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmpjqtcu9tu.cpp:14: int main(): Assertion `candidate((s"}
+{"id": "HumanEval_123_get_odd_collatz", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpjoj9efzq: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmpjoj9efzq.cpp:35: int main(): Assertion `candidate((1"}
+{"id": "HumanEval_124_valid_date", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_125_split_words", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018regex_split\u2019 is not a member of \u2018std\u2019"}
+{"id": "HumanEval_126_is_sorted", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: unable to deduce \u2018auto\u2019 from \u2018std::is_sorted\u2019"}
+{"id": "HumanEval_127_intersection", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: could not convert \u2018std::make_tuple(_Elements&& ...) [with _Elements = {int, int}](2)\u2019 from \u2018std::tuple<int, int>\u2019 to \u2018std::pair<int, int>\u2019"}
+{"id": "HumanEval_128_prod_signs", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpb4bfvush: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmpb4bfvush.cpp:33: int main(): Assertion `candidate((s"}
+{"id": "HumanEval_129_minPath", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: could not convert \u2018std::vector<std::vector<long int> >(std::initializer_list<std::vector<long int> >{((const std::vector<long int>*)(& const std::vector<"}
+{"id": "HumanEval_130_tri", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp5bdztbuw: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmp5bdztbuw.cpp:23: int main(): Assertion `candidate((3"}
+{"id": "HumanEval_131_digits", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp_zcuftpr: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmp_zcuftpr.cpp:20: int main(): Assertion `candidate((1"}
+{"id": "HumanEval_132_is_nested", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpmf6x53u7: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmpmf6x53u7.cpp:16: int main(): Assertion `candidate((\""}
+{"id": "HumanEval_133_sum_squares", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmprlu7t5cc: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmprlu7t5cc.cpp:18: int main(): Assertion `candidate((s"}
+{"id": "HumanEval_134_check_if_last_char_is_a_letter", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpmgj4p655: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmpmgj4p655.cpp:12: int main(): Assertion `candidate((\""}
+{"id": "HumanEval_135_can_arrange", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpzk055rx3: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmpzk055rx3.cpp:13: int main(): Assertion `candidate((s"}
+{"id": "HumanEval_136_largest_smallest_integers", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: a function-definition is not allowed here before \u2018{\u2019 token"}
+{"id": "HumanEval_137_compare_one", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018nullopt\u2019 in namespace \u2018std\u2019 does not name a type"}
+{"id": "HumanEval_138_is_equal_to_sum_even", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_139_special_factorial", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_140_fix_spaces", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpxhrdtjur: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmpxhrdtjur.cpp:45: int main(): Assertion `candidate((\""}
+{"id": "HumanEval_141_file_name_check", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_142_sum_squares", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: a function-definition is not allowed here before \u2018{\u2019 token"}
+{"id": "HumanEval_143_words_in_sentence", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpyfzc3ypi: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmpyfzc3ypi.cpp:30: int main(): Assertion `candidate((\""}
+{"id": "HumanEval_144_simplify", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpv65b6uy_: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmpv65b6uy_.cpp:16: int main(): Assertion `candidate((\""}
+{"id": "HumanEval_145_order_by_points", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: a function-definition is not allowed here before \u2018{\u2019 token"}
+{"id": "HumanEval_146_specialFilter", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_147_get_max_triples", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: declaration of \u2018long long int n\u2019 shadows a parameter"}
+{"id": "HumanEval_148_bf", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp1f7q51v8: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmp1f7q51v8.cpp:18: int main(): Assertion `candidate((\""}
+{"id": "HumanEval_149_sorted_list_sum", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpo5mr2fa8: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmpo5mr2fa8.cpp:23: int main(): Assertion `candidate((s"}
+{"id": "HumanEval_150_x_or_y", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_151_double_the_difference", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpl1dysi3z: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmpl1dysi3z.cpp:19: int main(): Assertion `candidate((s"}
+{"id": "HumanEval_152_compare", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_153_Strongest_Extension", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: a function-definition is not allowed here before \u2018{\u2019 token"}
+{"id": "HumanEval_154_cycpattern_check", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp1ltghft1: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmp1ltghft1.cpp:13: int main(): Assertion `candidate((\""}
+{"id": "HumanEval_155_even_odd_count", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_156_int_to_mini_roman", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_157_right_angle_triangle", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_158_find_max", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: operands to \u2018?:\u2019 have different types \u2018int\u2019 and \u2018std::string\u2019 {aka \u2018std::__cxx11::basic_string<char>\u2019}"}
+{"id": "HumanEval_159_eat", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_160_do_algebra", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpni_fwx7g: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmpni_fwx7g.cpp:21: int main(): Assertion `candidate((s"}
+{"id": "HumanEval_161_solve", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp95ujdqro: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmp95ujdqro.cpp:26: int main(): Assertion `candidate((\""}
+{"id": "HumanEval_162_string_to_md5", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: ld returned 1 exit status"}
+{"id": "HumanEval_163_generate_integers", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpyzly3rzw: <evaluator>/multipl_e_cpp/native/phi_4__ft_original_py/tmp/tmpyzly3rzw.cpp:23: int main(): Assertion `candidate((2"}

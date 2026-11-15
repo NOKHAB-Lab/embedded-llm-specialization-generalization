@@ -1,0 +1,800 @@
+{"id": "sample_0", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(nums):\\n    output = []\\n    for n in nums:\\n        output.append((nums.count(n), n))\\n    output.sort(reverse=True)\\n'"}
+{"id": "sample_1", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(a, b, c):\\n    result = {}\\n    for d in a, b, c:\\n        result.update(dict.fromkeys(d))\\n    return result'"}
+{"id": "sample_2", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text):\\n    new_text = list(text)\\n    for i in '+':\\n        if i in new_text:\\n            new_text.remove(i)\\n    re\""}
+{"id": "sample_3", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(t, v):\\n    return ''.join(list(t) + [v])\""}
+{"id": "sample_4", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(l):\\n    s = ' '\\n    for x in l:\\n        s += x\\n    return s\""}
+{"id": "sample_5", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text, lower, upper):\\n    count = 0\\n    new_text = list()\\n    for char in text:\\n        char = lower if char.isdeci'"}
+{"id": "sample_6", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='m}'"}
+{"id": "sample_7", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'__main__':\\n    print(f([1, 2, 3]))\""}
+{"id": "sample_8", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_9", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_10", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text):\\n    new_text = ''\\n    for ch in text.lower().strip():\\n        if ch.isnumeric() or ch in '\u00c4\u00e4\u00cf\u00ef\u00d6\u00f6\u00dc\u00fc':\\n      \""}
+{"id": "sample_11", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(a, b):\\n    for key, value in b.items():\\n        if key not in a:\\n            a[key] = [value]\\n        else:\\n      '"}
+{"id": "sample_12", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='x and count < len(s)-len(x):\\n        s = s[len(x):]\\n        count += len(x)\\n    return s\\n\\nif __name__'"}
+{"id": "sample_13", "official_pass": false, "official_status": "fail", "detail": "[value] answer='3'"}
+{"id": "sample_14", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'__main__':\\n    s = '   OOP   '\\n    print(f(s))\""}
+{"id": "sample_15", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text, wrong, right):\\n    new_text = text.replace(wrong, right)\\n    return new_text.upper()\\n\\nprint(f(\"zn kgd jw lnt'"}
+{"id": "sample_16", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'__main__':\\n    print(f.__doc__)\\n    c = input().strip()\\n    p = input().strip()\\n    print(f(c, p))\""}
+{"id": "sample_17", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text):\\n    return text.find(\",\")\\n\\nprint(f(\"There are, no, commas, in this text\"))'"}
+{"id": "sample_18", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(array, elem):\\n    k = 0\\n    l = array.copy()\\n    for i in l:\\n        if i > elem:\\n            array.insert(k, elem'"}
+{"id": "sample_19", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'9' else '9' for c in y[::-1]])\\n    if (x.isnumeric() and tmp.isnumeric()):\\n        return x + tmp\\n    else:\\n        ret\""}
+{"id": "sample_20", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(text):\\n    result = ''\\n    for i in range(len(text)-1, -1, -1):\\n        result += text[i]\\n    return result\""}
+{"id": "sample_21", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(s):\\n    n = s.pop()\\n    s.extend([n, n])\\n    return s'"}
+{"id": "sample_22", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='0:\\n        return [0]\\n    result = []\\n    while a > 0:\\n        result.append(a%10)\\n        a = a//10\\n    result.reverse('"}
+{"id": "sample_23", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'':\\n        return '-'\\n    return text\\n\\nif __name__\""}
+{"id": "sample_24", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_25", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_26", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'.' or c[-1]\""}
+{"id": "sample_27", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='omw\\n    return False'"}
+{"id": "sample_28", "official_pass": false, "official_status": "fail", "detail": "[value] answer='revl'"}
+{"id": "sample_29", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f('-123   \\\\t+314'))\""}
+{"id": "sample_30", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'__main__':\\n    print(f('Hello, World!'))\""}
+{"id": "sample_31", "official_pass": false, "official_status": "fail", "detail": "[value] answer='12'"}
+{"id": "sample_32", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(s, sep):\\n    reverse = ['*' + e for e in s.split(sep)]\\n    return ';'.join(reversed(reverse))\""}
+{"id": "sample_33", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(lists):\\n    dic = {}\\n    for n in lists:\\n        if n in dic:\\n            dic[n].append(lists.pop(lists.index(n)))'"}
+{"id": "sample_34", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def solve(s):\\n    a = ''.join([chr(int(bin(int(x, 36)), 2)) for x in s.split(','))\\n    return f.__import__('dis').dis(a)\""}
+{"id": "sample_35", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(p, l):\\n    return [i.rfind(p) for i in l if i.rfind(p) >= 0]'"}
+{"id": "sample_36", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text, chars):\\n    return text.rstrip(chars) if text else text\\n\\nprint(f('ha', ''))\""}
+{"id": "sample_37", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text):\\n    text_arr = []\\n    for j in range(len(text)):\\n        text_arr.append(text[j:])\\n    return text_arr\\n\\npri'"}
+{"id": "sample_38", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f('1oE-err bzz-bmm'))\""}
+{"id": "sample_39", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(array, elem):\\n    if elem in array:\\n        return array.index(elem)\\n    return -1'"}
+{"id": "sample_40", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text):\\n    return text.ljust(len(text) + 1, \"#\")\\n\\nprint(f(\"the cow goes moo\"))'"}
+{"id": "sample_41", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(a, b):\\n    a.reverse()\\n    for i in b:\\n        a.insert(len(a) // 2, i)\\n    a.reverse()\\n    return a'"}
+{"id": "sample_42", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(nums):\\n    nums.clear()\\n    for num in nums:\\n        nums.append(num*2)\\n    return nums\\n\\nprint(f([4, 3, 2, 1, 2, -'"}
+{"id": "sample_43", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_44", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(text):\\n    ls = list(text)\\n    for i in range(0, len(ls)):\\n        if ls[i]!='+':\\n            ls.insert(i, '+')\\n  \""}
+{"id": "sample_45", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(text, letter):\\n    counts = {}\\n    for char in text:\\n        if char not in counts:\\n            counts[char] = 1\\n '"}
+{"id": "sample_46", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'manylettersasvszhello man'\""}
+{"id": "sample_47", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='encode.decode():\\n        return True\\n    else:\\n        return False'"}
+{"id": "sample_48", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='\"\"\"\\nThis module contains functions for testing and generating random user data,\\nincluding names, addresses, and credit c'"}
+{"id": "sample_49", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text):\\n    if text.isidentifier():\\n        return ''.join(c for c in text if c.isdigit())\\n    else:\\n        return\""}
+{"id": "sample_50", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'__main__':\\n    print(f(input()))\""}
+{"id": "sample_51", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"211\\ndef f(n):\\n    return n - 1 if n % 2 else '<' * 10\""}
+{"id": "sample_52", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text):\\n    a = []\\n    for i in range(len(text)):\\n        if not text[i].isdecimal():\\n            a.append(text[i])'"}
+{"id": "sample_53", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 1, 1, 1, 1, 1]'"}
+{"id": "sample_54", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text, s, e):\\n    sublist = text[s:e]\\n    if not sublist:\\n        return -1\\n    return sublist.index(min(sublist))\\n'"}
+{"id": "sample_55", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(array):\\n    array_2 = []\\n    for i in array:\\n        if i>0:\\n            array_2 += [i]\\n    array_2.sort(reverse=T'"}
+{"id": "sample_56", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_57", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text):\\n    text = text.upper()\\n    count_upper = 0\\n    for char in text:\\n        if char.isupper():\\n            co'"}
+{"id": "sample_58", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(nums):\\n    count = len(nums)\\n    for i in [i % 2 for i in range(count)]:\\n        nums.append(nums[i])\\n    return n'"}
+{"id": "sample_59", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"' ':\\n            b.pop()\\n        else:\\n            break\\n    return ''.join(b)\\n\\nprint(f('hi '))\""}
+{"id": "sample_60", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'__main__':\\n    print(f(input()))\""}
+{"id": "sample_61", "official_pass": false, "official_status": "fail", "detail": "[value] answer='nada\\ndef f(text):\\n    texts = text.split()\\n    if texts:\\n        xtexts = [t for t in texts if t.isascii() and t not in '"}
+{"id": "sample_62", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"('eating', 'books', 'piano', 'excitement')\""}
+{"id": "sample_63", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f('ndbtdabdahesyehu', 'n'))\""}
+{"id": "sample_64", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(text, size):\\n    counter = len(text)\\n    for i in range(size-int(size%2)):\\n        text = ' '+text+' '\\n        cou\""}
+{"id": "sample_65", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(nums, index):\\n    return nums[index] % 42 + nums.pop(index) * 2'"}
+{"id": "sample_66", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text, prefix):\\n    prefix_length = len(prefix)\\n    if text.startswith(prefix):\\n        return text[(prefix_length '"}
+{"id": "sample_67", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(num1, num2, num3):\\n    nums = [num1, num2, num3]\\n    nums.sort()\\n    return f'{nums[0]},{nums[1]},{nums[2]}'\\n\\nprin\""}
+{"id": "sample_68", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='from typing import List, Tuple\\n\\ndef parse_args(args: str) -> List[Tuple[str, str]]:\\n    \"\"\"Parses a string of arguments '"}
+{"id": "sample_69", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_70", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(x):\\n    a = 0\\n    for i in x.split(' '):\\n        a += len(i.zfill(len(i)*2))\\n    return a\""}
+{"id": "sample_71", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{2: 1, 4: 3, 6: 5, 8: 7, 10: 9}'"}
+{"id": "sample_72", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_73", "official_pass": false, "official_status": "fail", "detail": "[value] answer='(3, 5)'"}
+{"id": "sample_74", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(l, i, n):\\n    l.insert(i, n)\\n    return l'"}
+{"id": "sample_75", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(array, elem):\\n    ind = array.index(elem)\\n    return ind * 2 + array[-ind - 1] * 3'"}
+{"id": "sample_76", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(nums):\\n    nums = [y for y in nums if y > 0]\\n    if len(nums) <= 3:\\n        return nums\\n    nums.reverse()\\n    hal'"}
+{"id": "sample_77", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'__main__':\\n    print(f('abc123abc', 'a'))\""}
+{"id": "sample_78", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'__main__':\\n    print(f('mTYWLMwbLRVOqNEf.oLsYkZORKE[Ko[{n]'))\""}
+{"id": "sample_79", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_80", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f('ab        '))\""}
+{"id": "sample_81", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_82", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(a, b, c, d):\\n    return a and b or c and d\\n\\nprint(f('CJU', 'BFS', 'WBYDZPVES', 'Y'))\""}
+{"id": "sample_83", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='\\'\\':\\n        return \\'-1:-1\\'\\n    return f\\'{len(l[0])}:{l[2].find(\"0\") + 1}\\'\\n\\nif __name__'"}
+{"id": "sample_84", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text):\\n    arr = text.split()\\n    result = []\\n    for item in arr:\\n        if item.endswith('day'):\\n            it\""}
+{"id": "sample_85", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(n):\\n    a = {0: 3, 1: 4.5, 2: '-'}\\n    r = {}\\n    for i, j in a.items():\\n        if i % n != 2:\\n            r[j] =\""}
+{"id": "sample_86", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='b:\\n        return c\\n    return p.pop() if c'"}
+{"id": "sample_87", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(nums):\\n    nums.reverse()\\n    return ''.join(map(str, nums))\\n\\nprint(f([-1, 9, 3, 1, -2]))\""}
+{"id": "sample_88", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(s1, s2):\\n    if s2.endswith(s1):\\n        s2 = s2[:len(s1) * -1]\\n    return s2\\n\\nprint(f(\"he\", \"hello\"))'"}
+{"id": "sample_89", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='import random\\nimport string\\n\\ndef generate_password(length):\\n    \"\"\"Generates a random password of specified length.\"\"\"\\n '"}
+{"id": "sample_90", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_91", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_92", "official_pass": false, "official_status": "fail", "detail": "[value] answer='True\\ndef f(text):\\n    return text.isascii()'"}
+{"id": "sample_93", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f('iq'))\""}
+{"id": "sample_94", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='v[k] for k in u if k in v)'"}
+{"id": "sample_95", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(zoo):\\n    return dict((v, k) for k, v in zoo.items())'"}
+{"id": "sample_96", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"True\\n# f('lunabotics') returns True because there are no uppercase letters in 'lunabotics'.\""}
+{"id": "sample_97", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='3:\\n            return False\\n    else:\\n        return True'"}
+{"id": "sample_98", "official_pass": false, "official_status": "fail", "detail": "[value] answer='2\\n# This is a very basic example of functional programming in Python.\\n# It demonstrates how to use a lambda function and'"}
+{"id": "sample_99", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text, sep, num):\\n    return '___'.join(text.rsplit(sep, num))\\n\\nprint(f('aa+++bb', '+', 1))\""}
+{"id": "sample_100", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(c, r):\\n    return [x for x in c if x not in r]\\n\\ndef g(c, r):\\n    for x in r:\\n        c.discard(x)\\n    return c\\n\\ncl'"}
+{"id": "sample_101", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'__main__':\\n    print(f([12, 0, 7, 4, 5, 3, 7, 17], 5, 6))\""}
+{"id": "sample_102", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(a, b):\\n    return sorted([a.index(i) for i in a if i in b], reverse=True)\\n\\ndef g(c):\\n    return f('abcdefghijklmno\""}
+{"id": "sample_103", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f('abcDEFGhIJ'))\""}
+{"id": "sample_104", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_105", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text):\\n    if not text.istitle():\\n        return text.title()\\n    return text.lower()\\n\\nprint(f(\"PermissioN is GRAN'"}
+{"id": "sample_106", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(nums):\\n    count = len(nums)\\n    for i in range(0, count):\\n        nums.insert(i, nums[i]*2)\\n    return nums'"}
+{"id": "sample_107", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text):\\n    result = []\\n    for i in range(len(text)):\\n        if not text[i].isascii():\\n            return False\\n '"}
+{"id": "sample_108", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_109", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(nums, spot, idx):\\n    nums.insert(spot, idx)\\n    return nums\\n\\ndef g(nums, spot, idx):\\n    nums[spot] = idx\\n    ret'"}
+{"id": "sample_110", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text):\\n    a = ['']\\n    b = ''\\n    for i in text:\\n        if not i.isspace():\\n            a.append(b)\\n            \""}
+{"id": "sample_111", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_112", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(sentence):\\n    ls = list(sentence)\\n    for letter in ls:\\n        if not letter.istitle():\\n            ls.remove(le'"}
+{"id": "sample_113", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='0:\\n            a.append(line[i].swapcase())\\n        else:\\n            a.append(line[i])\\n    return \\'\\'.join(a)\\n\\nprint(f(\"'"}
+{"id": "sample_114", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='\\'__main__\\':\\n    print(f(\"a-.-.b\", \"-.\"))'"}
+{"id": "sample_115", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='61:\\n            break\\n        if ch'"}
+{"id": "sample_116", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_117", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(numbers):\\n    for i in range(len(numbers)):\\n        if numbers.count('3') > 1:\\n            return i\\n    return -1\""}
+{"id": "sample_118", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f('zbzquiuqnmfkx', 'mk'))\""}
+{"id": "sample_119", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='0:\\n            result += text[i].swapcase()\\n        else:\\n            result += text[i]\\n    return result'"}
+{"id": "sample_120", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(countries):\\n    language_country = dict()\\n    for country, language in countries.items():\\n        if language not '"}
+{"id": "sample_121", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_122", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'Nuva'\""}
+{"id": "sample_123", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(array, elem):\\n    for idx, e in enumerate(array):\\n        if e > elem and array[idx - 1] < elem:\\n            array'"}
+{"id": "sample_124", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_125", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text, res):\\n    for c in \\'*\\\\n\"\\':\\n        text = text.replace(c, \\'!\\' + str(res))\\n    if text.startswith(\\'!\\'):\\n     '"}
+{"id": "sample_126", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'' and '-' or s[0]), (s[2]\""}
+{"id": "sample_127", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text):\\n    s = text.splitlines()\\n    return len(s)\\n\\nprint(f(\"145\\\\n\\\\n12fjkjg\"))'"}
+{"id": "sample_128", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"0:\\n            even += c\\n        else:\\n            odd += c\\n    return even + odd.lower()\\n\\nprint(f('Mammoth'))\""}
+{"id": "sample_129", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(c, s):\\n    i = []\\n    while s in c:\\n        i.append(c.rindex(s))\\n        c = c[:c.rindex(s)]\\n    return i'"}
+{"id": "sample_130", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(m):\\n    items = list(m.items())\\n    for i in range(len(items)-2, -1, -1):\\n        tmp = items[i]\\n        items[i] '"}
+{"id": "sample_131", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text):\\n    a = len(text)\\n    count = 0\\n    while text:\\n        if text.startswith('a'):\\n            count += text.\""}
+{"id": "sample_132", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f('abc', 'abcd'))\""}
+{"id": "sample_133", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(c, s):\\n    a = []\\n    for i in s:\\n        c.append(i)\\n        a.append(c.pop())\\n    return a\\n\\ndef g(c, s):\\n    a ='"}
+{"id": "sample_134", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"0: t += 1\\n        else: break\\n    for _ in range(t):\\n        b += str(1) + '0' + str(4)\\n    b += str(n)\\n    return b\\n\\npr\""}
+{"id": "sample_135", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_136", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(text, width):\\n    lines = [line.center(width) for line in text.split('\\\\n')]\\n    return '\\\\n'.join(lines)\""}
+{"id": "sample_137", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='0:\\n            nums.pop() # remove last element\\n        else:\\n            nums.pop(0) # remove first element\\n        cou'"}
+{"id": "sample_138", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text, chars):\\n    listchars = list(chars)\\n    first = listchars.pop()\\n    for i in listchars:\\n        text = text['"}
+{"id": "sample_139", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_140", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_141", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(s):\\n    return [s.count(c) for c in s]'"}
+{"id": "sample_142", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(x):\\n    if x.islower():\\n        return x\\n    else:\\n        return x[::-1]\\n\\nprint(f('ykdfhp'))\""}
+{"id": "sample_143", "official_pass": false, "official_status": "fail", "detail": "[value] answer='n.casefold()'"}
+{"id": "sample_144", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(vectors):\\n    sorted_vecs = []\\n    for vec in vectors:\\n        vec.sort()\\n        sorted_vecs.append(vec)\\n    retu'"}
+{"id": "sample_145", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_146", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(single_digit):\\n    result = []\\n    for c in range(1, 11):\\n        if c != single_digit:\\n            result.append('"}
+{"id": "sample_147", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_148", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"len(s) - 1:\\n        r[i] = '-'\\n    return ''.join(r)\\n\\nif __name__\""}
+{"id": "sample_149", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(t, j):\\n    r = \"\"\\n    for n in t:\\n        d = dict.fromkeys(str(n), j * len(str(n)))\\n        r += d.popitem()[0] +'"}
+{"id": "sample_150", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f([-2, 4, -4], 0))\""}
+{"id": "sample_151", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'0':\\n                c = '.'\\n            else:\\n                c = '0' if c != '1' else '.'\\n    return ''.join(list(text\""}
+{"id": "sample_152", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_153", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text, suffix, num):\\n    str_num = str(num)\\n    return text.endswith(suffix + str_num)\\n\\nprint(f('friends and love',\""}
+{"id": "sample_154", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(s, c):\\n    s = s.split(\\' \\')\\n    return ((c + \"  \") + (\"  \".join(s[::-1])))'"}
+{"id": "sample_155", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='0:\\n            r += \"\\\\n\"\\n    return r'"}
+{"id": "sample_156", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text, limit, char):\\n    if limit < len(text):\\n        return text[0:limit]\\n    return text.ljust(limit, char)\\n\\npri'"}
+{"id": "sample_157", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='\"0\":\\n                ans += 1\\n    return ans\\n\\nprint(f(\"aboba 212 has 0 digits\"))'"}
+{"id": "sample_158", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='0]\\n    for x in c:\\n        if x not in a:\\n            a.append(x)\\n    return a\\n\\nprint(f([3, 6, 4, -2, 5]))'"}
+{"id": "sample_159", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(st):\\n    swapped = ''\\n    for ch in reversed(st):\\n        swapped += ch.swapcase()\\n    return swapped\\n\\nprint(f('RT\""}
+{"id": "sample_160", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(d):\\n    while not d.get(1, len(d)):\\n        d.clear()\\n        break\\n    return d\\n\\nimport random\\na = {i: random.ran'"}
+{"id": "sample_161", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'k difkj rinpx'\""}
+{"id": "sample_162", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text):\\n    result = ''\\n    for char in text:\\n        if char.isalnum():\\n            result += char.upper()\\n    ret\""}
+{"id": "sample_163", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'__main__':\\n    print(f('abc', 'xyz', 5))\""}
+{"id": "sample_164", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f([5, 8, 1, 3, 0]))\""}
+{"id": "sample_165", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_166", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(graph):\\n    new_graph = {}\\n    for key, value in graph.items():\\n        new_graph[key] = {}\\n        for subkey in '"}
+{"id": "sample_167", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(s, p):\\n    t = s.split('XXXX')\\n    r = ''\\n    for i in range(min(len(t), 4)):\\n        r += t[i] + p.title()\\n    re\""}
+{"id": "sample_168", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text, new_value, index):\\n    key = text.maketrans(text[index], new_value)\\n    return text.translate(key)\\n\\nprint(f('"}
+{"id": "sample_169", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(text):\\n    ls = list(text)\\n    total = (len(text) - 1) * 2\\n    for i in range(1, total+1):\\n        if i % 2:\\n     '"}
+{"id": "sample_170", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(nums, number):\\n    return nums.count(number)'"}
+{"id": "sample_171", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(nums):\\n    count = len(nums) // 2\\n    for _ in range(count):\\n        nums.pop(0)\\n    return nums\\n\\nprint(f([3, 4, 1'"}
+{"id": "sample_172", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(s):\\n    for i in s:\\n        if i < 0:\\n            s.remove(i)\\n    return s\\n\\ndef g(s):\\n    return [i for i in s if '"}
+{"id": "sample_173", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(list_x):\\n    item_count = len(list_x)\\n    new_list = []\\n    for i in range(item_count):\\n        new_list.append(li'"}
+{"id": "sample_174", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(s):\\n    s[1:4] = s[1:4][::-1]\\n    return s\\n\\ndef g(s):\\n    s[1:4] = s[1:4][::-1]\\n    return s'"}
+{"id": "sample_175", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"-1:\\n            lines[0] = lines[0] + ' ' * amount\\n            return '\\\\n'.join(lines)\\n\\n        # Add spaces after the l\""}
+{"id": "sample_176", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text, to_place):\\n    after_place = text[:text.find(to_place, 0) + 1]\\n    before_place = text[text.find(to_place, 0'"}
+{"id": "sample_177", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"1:\\n            text[i] = text[i].swapcase()\\n    return ''.join(text)\\n\\nprint(f('Hey DUdE THis $nd^ &*&this@#'))\""}
+{"id": "sample_178", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_179", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(nums):\\n    nums = nums[:]  # Create a copy to avoid modifying the original list\\n    count = len(nums)\\n    for i in'"}
+{"id": "sample_180", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(nums):\\n    a = -1\\n    b = nums[1:]\\n    while a <= b[0]:\\n        nums.remove(b[0])\\n        a = 0\\n        b = b[1:]\\n'"}
+{"id": "sample_181", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_182", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_183", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text):\\n    ls = text.split()\\n    lines = \" \".join(ls[::3]).splitlines()\\n    res = []\\n    for i in range(2):\\n      '"}
+{"id": "sample_184", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(digits):\\n    digits.reverse()\\n    if len(digits) < 2:\\n        return digits\\n    for i in range(0, len(digits), 2):'"}
+{"id": "sample_185", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(L):\\n    N = len(L)\\n    for k in range(1, N//2 + 1):\\n        i = k - 1\\n        j = N - k\\n        while i < j:\\n     '"}
+{"id": "sample_186", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f('pvtso'))\""}
+{"id": "sample_187", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(c, i):\\n    l = len(c)\\n    c = {k: c[k] for k in sorted(c.keys())}\\n    for _ in range(i):\\n        c.pop(next(iter(c'"}
+{"id": "sample_188", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(strings):\\n    new_strings = []\\n    for string in strings:\\n        first_two = string[:2]\\n        if first_two.star'"}
+{"id": "sample_189", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_190", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text):\\n    short = ''\\n    for c in text:\\n        if(c.islower()):\\n            short += c\\n    return short\\n\\nprint(f\""}
+{"id": "sample_191", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_192", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(text, suffix):\\n    output = text\\n    while text.endswith(suffix):\\n        output = text[:-len(suffix)]\\n        tex'"}
+{"id": "sample_193", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_194", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_195", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'ilf do irw im to ibs'\""}
+{"id": "sample_196", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='mixed\\ntext = \"398 Is A Poor Year To Sow\"\\ntext = text.replace(\\' x\\', \\' x.\\')\\nif text.istitle(): return \\'correct\\'\\ntext = tex'"}
+{"id": "sample_197", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['25 oC', '5 20'][5 > 1]\""}
+{"id": "sample_198", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text, strip_chars):\\n    return text[::-1].strip(strip_chars)[::-1]\\n\\nprint(f('tcmfsmj', 'cfj'))\""}
+{"id": "sample_199", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"import re\\n\\ndef f(s, c):\\n    p = re.compile(c + '+$')\\n    return p.sub('', s)\""}
+{"id": "sample_200", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text, value):\\n    length = len(text)\\n    index = 0\\n    while length > 0:\\n        value = text[index] + value\\n     '"}
+{"id": "sample_201", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text):\\n    chars = []\\n    for c in text:\\n        if c.isdigit():\\n            chars.append(c)\\n    return ''.join(ch\""}
+{"id": "sample_202", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f([2, 15], [15, 1]))\""}
+{"id": "sample_203", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"{}\\nf({'a': 3, 'b': -1, 'c': 'Dum'})\""}
+{"id": "sample_204", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(c):\\n    return [c[0], c[1][::-1][0]]'"}
+{"id": "sample_205", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'#':\\n        a = a[:-1]\\n    return a\\n\\nif __name__\""}
+{"id": "sample_206", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(a):\\n    return ' '.join(a.split())\""}
+{"id": "sample_207", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(commands):\\n    d = {}\\n    for c in commands:\\n        d.update(c)\\n    return d'"}
+{"id": "sample_208", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(items):\\n    result = []\\n    for item in items:\\n        for d in item:\\n            if not d.isdigit():\\n            '"}
+{"id": "sample_209", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f('hymi', 'hymifulhxhzpnyihyf'))\""}
+{"id": "sample_210", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='0:\\n            return x[j]\\n\\nif __name__'"}
+{"id": "sample_211", "official_pass": false, "official_status": "fail", "detail": "[value] answer='6\\ndef f(s):\\n    count = 0\\n    for c in s:\\n        if s.rindex(c) != s.index(c):\\n            count+=1\\n    return count'"}
+{"id": "sample_212", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f([1, -9, 7, 2, 6, -3, 3]))\""}
+{"id": "sample_213", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='\\'__main__\\':\\n    print(f(\"(ac)\"))'"}
+{"id": "sample_214", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f('present/here/car%2Fwe'))\""}
+{"id": "sample_215", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"text[-1]:\\n        new_text = text = text[1:-1]\\n    return new_text\\n\\nprint(f(')'))\""}
+{"id": "sample_216", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(letters):\\n    count = 0\\n    for l in letters:\\n        if l.isdigit():\\n            count += 1\\n    return count'"}
+{"id": "sample_217", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'__main__':\\n    print(f('ABC123'))\\n    print(f('ABC123!'))\""}
+{"id": "sample_218", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(string, sep):\\n    cnt = string.count(sep)\\n    return((string+sep) * cnt)[::-1]'"}
+{"id": "sample_219", "official_pass": false, "official_status": "fail", "detail": "[value] answer='True\\ndef f(s1, s2):\\n    for k in range(0, len(s2)+len(s1)):\\n        s1 += s1[0]\\n        if s1.find(s2) >= 0:\\n           '"}
+{"id": "sample_220", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(text, m, n):\\n    text = \"{}{}{}\".format(text, text[:m], text[n:])\\n    result = \"\"\\n    for i in range(n, len(text)-'"}
+{"id": "sample_221", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text, delim):\\n    first, second = text.split(delim)\\n    return second + delim + first\\n\\nprint(f('bpxa24fc5.', '.'))\""}
+{"id": "sample_222", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'0abba0b'\""}
+{"id": "sample_223", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(array, target):\\n    count, i = 0, 1\\n    for j in range(1, len(array)):\\n        if ((array[j] > array[j-1]) and (ar'"}
+{"id": "sample_224", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(s, n):\\n    s = s[::-1]\\n    s = s[:-1]\\n    d = {}\\n    while s:\\n        d[s.pop()] = n\\n    return d'"}
+{"id": "sample_225", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_226", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_227", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text):\\n    text = text.lower()\\n    head, tail = text[0], text[1:]\\n    return head.upper() + tail\\n\\nprint(f('Manolo'\""}
+{"id": "sample_228", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text, splitter):\\n    return splitter.join(text.lower().split())\\n\\nprint(f('LlTHH sAfLAPkPhtsWP', '#'))\""}
+{"id": "sample_229", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"v:\\n            r.reverse()\\n        else:\\n            r.append(c[e])\\n    return r\\n\\nprint(f({'9m':2, 'mA':1, '10K':2, 'Lk'\""}
+{"id": "sample_230", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text):\\n    result = ''\\n    i = len(text)-1\\n    while i >= 0:\\n        c = text[i]\\n        if c.isalpha():\\n         \""}
+{"id": "sample_231", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'__main__':\\n    years = [int(i) for i in input().split()]\\n    print(f(years))\""}
+{"id": "sample_232", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text, changes):\\n    result = ''\\n    count = 0\\n    changes = list(changes)\\n    for char in text:\\n        result += \""}
+{"id": "sample_233", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(xs):\\n    for idx in reversed(range(-len(xs)-1, -1)):\\n        xs.insert(idx, xs.pop(0))\\n    return xs'"}
+{"id": "sample_234", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(text, char):\\n    position = len(text)\\n    if char in text:\\n        position = text.index(char)\\n        if position'"}
+{"id": "sample_235", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_236", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"1:\\n        return ''.join(s)\\n    r = list(s)\\n    i = 0\\n    while i < len(s) - 1:\\n        for j in range(2):\\n            \""}
+{"id": "sample_237", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(text, char):\\n    if char in text:\\n        suff, char, pref = text.partition(char)\\n        pref = suff[:-len(char)]'"}
+{"id": "sample_238", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_239", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f('0 t 1cos ', 'st ' + '0\\\\t\\\\n  '))\""}
+{"id": "sample_240", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'3.12'\""}
+{"id": "sample_241", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(postcode):\\n    return postcode[postcode.index('C'):]\\n\\nprint(f('ED20 CW'))\""}
+{"id": "sample_242", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='a[1].split(\\' \\')[0]:\\n        return f(\\' \\'.join(a[0].split(\\' \\')[:-1]) + \\' \\' + a[1])\\n    return s\\n\\nprint(f(\"udhv zcvi nhtnf'"}
+{"id": "sample_243", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_244", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(t, s):\\n    c = 0\\n    if s:\\n        for i in s:\\n            c += 1\\n        t = t * c\\n    return t.rjust(len(t) + c '"}
+{"id": "sample_245", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='s:\\n        a.append(\\'all_uppercased\\')\\n    return a\\n\\nprint(f(\\'abcdefghijklmnopqrstuvwxyz\\', \"uppercased # % ^ @ ! vz.\"\\'))'"}
+{"id": "sample_246", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='needle:\\n            return i\\n    return -1'"}
+{"id": "sample_247", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='\"\":\\n        return \"str is empty\"\\n    return \"no\"\\n\\nif __name__'"}
+{"id": "sample_248", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_249", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='\\'__main__\\':\\n    print(f(\"FSA\"))'"}
+{"id": "sample_250", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text):\\n    count = len(text)\\n    for i in range(-count+1, 0):\\n        text = text + text[i]\\n    return text\\n\\nprint'"}
+{"id": "sample_251", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(messages):\\n    phone_code = \"+353\"\\n    result = []\\n    for message in messages:\\n        message.extend(phone_code)'"}
+{"id": "sample_252", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(text, char):\\n    if char in text:\\n        if not text.startswith(char):\\n            text = text.replace(char,'')\\n \""}
+{"id": "sample_253", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='c[:len(p)]:\\n        return c[len(p):]\\n    return c\\n\\nif __name__'"}
+{"id": "sample_254", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'lower case'\""}
+{"id": "sample_255", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(text, fill, size):\\n    if size < 0:\\n        size = -size\\n    if len(text) > size:\\n        return text[len(text) - '"}
+{"id": "sample_256", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text, sub):\\n    a = 0\\n    b = len(text) - 1\\n\\n    while a <= b:\\n        c = (a + b) // 2\\n        if text.rfind(sub)'"}
+{"id": "sample_257", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_258", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(L, m, start, step):\\n    L.insert(start, m)\\n    for x in range(start - 1, 0, -step):\\n        start -= 1\\n        L.i'"}
+{"id": "sample_259", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"g(text)\\n\\ndef i(text):\\n    return f'{f(text)} {g(text)}'\\n\\ndef j(text):\\n    return f'{g(text)} {f(text)}'\\n\\ndef k(text):\\n  \""}
+{"id": "sample_260", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(nums, start, k):\\n    nums[start:start+k] = nums[start:start + k][::-1]\\n    return nums\\n\\nprint(f([1, 2, 3, 4, 5, 6]'"}
+{"id": "sample_261", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(nums, target):\\n    lows, higgs = [], []\\n    for i in nums:\\n        if i < target:\\n            lows.append(i)\\n     '"}
+{"id": "sample_262", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(nums):\\n    count = len(nums)\\n    score = {0: \"F\", 1: \"E\", 2: \"D\", 3: \"C\", 4: \"B\", 5: \"A\", 6: \"\"}\\n    result = []\\n '"}
+{"id": "sample_263", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='delta[j][0]:\\n                assert delta[j][1] != base[i]\\n                base[i] = delta[j][1]\\n    return base\\n\\ndef g('"}
+{"id": "sample_264", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='\\'__main__\\':\\n    print(f(\"papera\"))'"}
+{"id": "sample_265", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='0]\\n\\ndef g(c):\\n    return [x for x in c if x % 2 != 0]'"}
+{"id": "sample_266", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='1:\\n            nums.insert(i+1, nums[i])\\n    return nums\\n\\nprint(f([2, 3, 4, 6, -2]))'"}
+{"id": "sample_267", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_268", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"sep:\\n            new_s = list(s)\\n            new_s[i] = '/'\\n            return ' '.join(new_s)\""}
+{"id": "sample_269", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"1:\\n        s[0] = '0' + s[0]\\n        n += 1\\n    return ['0' + s[i] + s[i+1] for i in range(0, n, 3)]\\n\\ndef g(s):\\n    n = \""}
+{"id": "sample_270", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_271", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(text, c):\\n    ls = list(text)\\n    if c not in text:\\n        raise ValueError('Text has no {c}')\\n    ls.pop(text.ri\""}
+{"id": "sample_272", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(a, b):\\n    a.extend(b)\\n    c = a[:]\\n    for i in range(-len(b), 0):\\n        c.append(c[i])\\n    return c'"}
+{"id": "sample_273", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(name):\\n    new_name =''\\n    name = name[::-1]\\n    for i in range(len(name)):\\n        n = name[i]\\n        if n !='.\""}
+{"id": "sample_274", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='target)\\n    return count'"}
+{"id": "sample_275", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(dic):\\n    dic2 = dict(zip(dic.values(), dic.keys()))\\n    return dic2'"}
+{"id": "sample_276", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_277", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(lst, mode):\\n    result = [el for el in lst]\\n    if mode:\\n        result.reverse()\\n    return result'"}
+{"id": "sample_278", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(a, b):\\n    d = {}\\n    for i in a:\\n        d[i] = [x for x in b if i * 2 > x]\\n    return d'"}
+{"id": "sample_279", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_280", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'iiiiiiii   iiiiiiii   len'\""}
+{"id": "sample_281", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(c, i, v):\\n    c[i] = v\\n    if v >= 3:\\n        c['message'] = 'xcrWt'\\n    else:\\n        c.pop('message', None)\\n    \""}
+{"id": "sample_282", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(s1, s2):\\n    position = 1\\n    count = 0\\n    while position > 0:\\n        position = s1.find(s2, position)\\n        c'"}
+{"id": "sample_283", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(s, p):\\n    s = s.split()\\n    p = p.lower()\\n    c = 0\\n    for i in s:\\n        if i.lower().startswith(p):\\n         '"}
+{"id": "sample_284", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text, prefix):\\n    idx = 0\\n    for letter in prefix:\\n        if text[idx] != letter:\\n            return None\\n     '"}
+{"id": "sample_285", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text, ch):\\n    \"\"\"Counting vowels in Pirates\\' Curse\"\"\"\\n    return text.count(ch)\\n\\nprint(f(\"This be Pirate\\'s Speak '"}
+{"id": "sample_286", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(a, b, c):\\n    if c < -len(a) or c > len(a) - 1:\\n        return 'no'\\n    t = a[c]\\n    a[c] = b\\n    return a\\n\\nprint(\""}
+{"id": "sample_287", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(name):\\n    if name.islower():\\n        name = name.upper()\\n    else:\\n        name = name.lower()\\n    return name\\n\\np'"}
+{"id": "sample_288", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(d):\\n    sorted_pairs = sorted(list(d.items()), key=lambda x: len(str(str(x[0])+str(x[1]))))\\n    return [(k, v) for'"}
+{"id": "sample_289", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_290", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f('abixaaaily', 'al'))\""}
+{"id": "sample_291", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='a[1]:\\n        s[a[0]] = a[0]\\n    return s'"}
+{"id": "sample_292", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text):\\n    new_text = [c if c.isdigit() else '*' for c in text]\\n    return ''.join(new_text)\\n\\nprint(f('5f83u23saa'\""}
+{"id": "sample_293", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'x':\\n            return 'no'\\n    return text.isupper()\""}
+{"id": "sample_294", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'':\\n        return c\\n    h, m, t = c[0], c[1:-1], c[-1]\\n    joined = h.replace(a, b) + m.replace(a, b) + t.replace(a, b)\""}
+{"id": "sample_295", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"c[0]:\\n        return 'no'\\n    else:\\n        c.pop(0)\\n        c.pop()\\n        c.pop(0)\\n        c.pop()\\n        return c[0\""}
+{"id": "sample_296", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def r(url):\\n    return url.split('//')[1].split('/')[0]\\n\\ndef p(url):\\n    u = url\\n    if url.startswith('http://'):\\n     \""}
+{"id": "sample_297", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f(6173))\""}
+{"id": "sample_298", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text):\\n    new_text = list(text)\\n    for i in range(len(new_text)):\\n        character = new_text[i]\\n        new_ch'"}
+{"id": "sample_299", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(text, char):\\n    if not text.endswith(char):\\n        return f(char + text, char)\\n    return text'"}
+{"id": "sample_300", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(nums):\\n    count = 1\\n    for i in range(count, len(nums) - 1, 2):\\n        nums[i] = max(nums[i], nums[count-1])\\n  '"}
+{"id": "sample_301", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(nums):\\n    count = len(nums)\\n    for i in range(-count+1, 0):\\n        nums.extend([nums[i], nums[i]])\\n    return n'"}
+{"id": "sample_302", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f('wdeejjjzsjsjjsxjjneddaddddddefsfd'))\""}
+{"id": "sample_303", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"result[i]:\\n            i += 1\\n        else:\\n            result[i] = t\\n        i += 2\\n    return ''.join(result)\\n\\nprint(f\""}
+{"id": "sample_304", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(d):\\n    k1 = sorted(d, key=lambda x: (d[x], x), reverse=True)[0]\\n    k2 = sorted(d, key=lambda x: (d[x], x), rever'"}
+{"id": "sample_305", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='char:\\n            index = i\\n    if index'"}
+{"id": "sample_306", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(nums):\\n    digits = []\\n    for num in nums:\\n        if (isinstance(num, str) and num.isnumeric()) or isinstance(nu'"}
+{"id": "sample_307", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(text):\\n    rtext = list(text)\\n    for i in range(1, len(rtext) - 1):\\n        rtext.insert(i + 1, '|')\\n    return '\""}
+{"id": "sample_308", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='\\'__main__\\':\\n    print(f([\"La\", \"Q\", \"9\", \"La\", \"La\"]))'"}
+{"id": "sample_309", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='t:\\n        s = s[:-1]\\n    return s'"}
+{"id": "sample_310", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(s):\\n    return ''.join([s[i][len(s[i]) // 2] for i in range(len(s))])\\n\\ndef g(s):\\n    t = s\\n    for i in range(len(\""}
+{"id": "sample_311", "official_pass": false, "official_status": "fail", "detail": "[value] answer='no'"}
+{"id": "sample_312", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_313", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"='\""}
+{"id": "sample_314", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text):\\n    if ',' in text:\\n        before, _, after = text.partition(',')\\n        return after + ' ' + before\\n    \""}
+{"id": "sample_315", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(challenge):\\n    return challenge.casefold().replace('l', ',')\""}
+{"id": "sample_316", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f('i am your father'))\""}
+{"id": "sample_317", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text, a, b):\\n    text = text.replace(a, b)\\n    return text.replace(b, a)\\n\\nprint(f(' vup a zwwo oihee amuwuuw! ', '\""}
+{"id": "sample_318", "official_pass": false, "official_status": "fail", "detail": "[value] answer='char or c'"}
+{"id": "sample_319", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(needle, haystack):\\n    count = 0\\n    while needle in haystack:\\n        haystack = haystack.replace(needle, '', 1)\\n\""}
+{"id": "sample_320", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text):\\n    index = 1\\n    while index < len(text):\\n        if text[index] != text[index - 1]:\\n            index += '"}
+{"id": "sample_321", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(a, b):\\n    return {k: a.get(k, 0) + b.get(k, 0) for k in set(a) | set(b)}\\n\\ndef g(c):\\n    return {k: v for k, v in '"}
+{"id": "sample_322", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(chemicals, num):\\n    fish = chemicals[1:]\\n    chemicals.reverse()\\n    for i in range(num):\\n        fish.append(che'"}
+{"id": "sample_323", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text):\\n    return len(text.splitlines())\\n\\nprint(f('ncdsdfdaaa0a1cdscsk*XFd'))\""}
+{"id": "sample_324", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(nums):\\n    asc, desc = nums.copy(), []\\n    asc.reverse()\\n    desc = asc[:len(asc)//2]\\n    return desc + asc + desc'"}
+{"id": "sample_325", "official_pass": false, "official_status": "fail", "detail": "[value] answer='False\\ndef f(s):\\n    l = list(s)\\n    for i in range(len(l)):\\n        l[i] = l[i].lower()\\n        if not l[i].isdigit():\\n '"}
+{"id": "sample_326", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(text):\\n    number = 0\\n    for t in text:\\n        if t.isnumeric():\\n            number += 1\\n    return number'"}
+{"id": "sample_327", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='0:\\n            new.append(-lst[i])\\n        else:\\n            new.append(lst[i])\\n        i -= 1\\n    return new'"}
+{"id": "sample_328", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(array, L):\\n    if L <= 0:\\n        return array\\n    if len(array) < L:\\n        array.extend(f(array, L - len(array)'"}
+{"id": "sample_329", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='text[i].upper() and text[i-1].islower():\\n            return True\\n    return False'"}
+{"id": "sample_330", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text):\\n    ans = []\\n    for char in text:\\n        if char.isdigit():\\n            ans.append(char)\\n        else:\\n  '"}
+{"id": "sample_331", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_332", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='0:\\n        nums = [0] * int(nums.pop())\\n    elif count % 2'"}
+{"id": "sample_333", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='1:\\n        return 1\\n    for i, place in enumerate(places):\\n        if places.count(place+1)'"}
+{"id": "sample_334", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'a00nU00 9 rCSAz00w00 lpA5BO00sizL00i7rlVr'\""}
+{"id": "sample_335", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text, to_remove):\\n    new_text = list(text)\\n    if to_remove in new_text:\\n        index = new_text.index(to_remove'"}
+{"id": "sample_336", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f('234dsfssdfs333324314', 's'))\""}
+{"id": "sample_337", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(txt):\\n    d = []\\n    for c in txt:\\n        if c.isdigit():\\n            continue\\n        if c.islower():\\n          '"}
+{"id": "sample_338", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_339", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='b:\\n            c += 1\\n    return c\\n\\nprint(f([-1, 2, 1, -8, -8, 2], 2))'"}
+{"id": "sample_340", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text):\\n    uppercase_index = text.find('A')\\n    if uppercase_index >= 0:\\n        return text[:uppercase_index] + t\""}
+{"id": "sample_341", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_342", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='len(text)) # True\\nprint(f(text)) # False'"}
+{"id": "sample_343", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(a, b):\\n    a.extend(b)\\n    return a\\n\\ndef g(c):\\n    c[:] = [x + 1 for x in c]\\n\\na = [1, 2, 3]\\nb = [4, 5, 6]\\nf(a, b)\\n'"}
+{"id": "sample_344", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_345", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(a, b):\\n    if a < b:\\n        return (b, a)\\n    return (a, b)\\n\\nprint(f('ml', 'mv'))\""}
+{"id": "sample_346", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='t[-1][::-1]\\n\\nif __name__'"}
+{"id": "sample_347", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(text):\\n    ls = list(text)\\n    length = len(ls)\\n    for i in range(length):\\n        ls.insert(i, ls[i])\\n    return'"}
+{"id": "sample_348", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_349", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"{'noeohqhk': 623}\""}
+{"id": "sample_350", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='0:\\n        return v\\n    for i, e in enumerate(d.values()):\\n        v[i] = e\\n    return v'"}
+{"id": "sample_351", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_352", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(nums):\\n    return nums[len(nums)//2]\\n\\nprint(f([-1, -3, -5, -7, 0]))'"}
+{"id": "sample_353", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='[]:\\n        return -1\\n    else:\\n        cache = {}\\n        for item in x:\\n            if item in cache:\\n                '"}
+{"id": "sample_354", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(s, l):\\n    if l[1] is None:\\n        l = l[:1]\\n    else:\\n        l = l[1:]\\n    return s.format(*l)\\n\\nprint(f('{0}, {\""}
+{"id": "sample_355", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text, prefix):\\n    return text[len(prefix):]\\n\\nprint(f('123x John z', 'z'))\""}
+{"id": "sample_356", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 2, 1, 2]'"}
+{"id": "sample_357", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f('crew'))\""}
+{"id": "sample_358", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='value and (i'"}
+{"id": "sample_359", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f(['dZwbSR', 'wijHeq', 'qluVok', 'dxjxbF']))\""}
+{"id": "sample_360", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text, n):\\n    if len(text) <= 2:\\n        return text\\n    leading_chars = text[0] * (n - len(text) + 1)\\n    return '"}
+{"id": "sample_361", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text):\\n    return text.split(\\':\\')[0].count(\\'#\\')\\n\\nprint(f(\"#! : #!\"))'"}
+{"id": "sample_362", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text):\\n    for i in range(len(text)-1):\\n        if text[i:].islower():\\n            return text[i + 1:]\\n    return '"}
+{"id": "sample_363", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_364", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_365", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(n, s):\\n    if s.startswith(n):\\n        pre, _ = s.split(n, 1)\\n        return pre + n + s[len(n):]\\n    return s'"}
+{"id": "sample_366", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(string):\\n    tmp = string.lower()\\n    for char in string.lower():\\n        if char in tmp:\\n            tmp = tmp.re'"}
+{"id": "sample_367", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_368", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f('4327', [2, 8, 9, 2, 7, 1]))\""}
+{"id": "sample_369", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='len(var) - 1:\\n        return \"str\"\\n    elif len(var)'"}
+{"id": "sample_370", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_371", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(nums):\\n    for odd in nums[:]:\\n        if odd % 2 != 0:\\n            nums.remove(odd)\\n    sum_ = 0\\n    for num in n'"}
+{"id": "sample_372", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[\"v,\"]'"}
+{"id": "sample_373", "official_pass": false, "official_status": "fail", "detail": "[value] answer='10\\n\\ndef p(x, y):\\n    return x + y\\n\\ndef q(x, y):\\n    return x * y\\n\\ndef r(x, y):\\n    return x - y'"}
+{"id": "sample_374", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(a, b):\\n    return [x * 2 for x in a if x.endswith(b)]'"}
+{"id": "sample_375", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(a, b):\\n    if b in a:\\n        return b.join(a.partition(a[a.index(b) + 1]))\\n    else:\\n        return a\\n\\nprint(f('s\""}
+{"id": "sample_376", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='\\'__main__\\':\\n    print(f(\"2two programmers\"))'"}
+{"id": "sample_377", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='\\'__main__\\':\\n    print(f(\"BYE\\\\nNO\\\\nWAY\"))'"}
+{"id": "sample_378", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_379", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='0:\\n            nums.clear()\\n            return False\\n    return nums\\n\\nprint(f([0, 0, 1, 2, 1]))'"}
+{"id": "sample_380", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text, delimiter):\\n    text = text.rpartition(delimiter)\\n    return text[0] + text[-1]\\n\\nprint(f('xxjarczx', 'x'))\""}
+{"id": "sample_381", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text, num_digits):\\n    width = max(1, num_digits)\\n    return text.zfill(width)\\n\\nprint(f('19', 5))\""}
+{"id": "sample_382", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"15 Qltuf 12 Rwrepny\"'"}
+{"id": "sample_383", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(t, c):\\n    r = list(t)\\n    while c in r[-3::-2]:\\n        r.remove(r[-3])\\n        r.remove(r[-3])\\n    return ''.joi\""}
+{"id": "sample_384", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(text, chars):\\n    chars = list(chars)\\n    text = list(text)\\n    new_text = text\\n    while len(new_text) > 0 and te'"}
+{"id": "sample_385", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='s[-1] and d[s[i]] < d[s[-1]] and s[i] not in s[i+1:-1]]\\n    return a[0] if len(a)'"}
+{"id": "sample_386", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='import json\\nfrom typing import Dict, List, Union\\n\\ndef process_data(v: str, data: Dict[str, Union[str, List[str]]]) -> st'"}
+{"id": "sample_387", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(nums, pos, value):\\n    nums.insert(pos, value)\\n    return nums\\n\\ndef g(nums, pos, value):\\n    nums = nums[:pos] + ['"}
+{"id": "sample_388", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='\\'__main__\\':\\n    print(f(\"2nm_28in\", \"nm\"))'"}
+{"id": "sample_389", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(a, b):\\n    if isinstance(b, list):\\n        a.extend(b)\\n    else:\\n        a.append(b)\\n    return a'"}
+{"id": "sample_390", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text):\\n    if not text.strip():\\n        return len(text.strip())\\n    return None\\n\\nprint(f(\" \\\\t \"))'"}
+{"id": "sample_391", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(students):\\n    seatlist = students\\n    seatlist.reverse()\\n    cnt = 0\\n    for cnt in range(len(seatlist)):\\n       '"}
+{"id": "sample_392", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_393", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f('scala'))\""}
+{"id": "sample_394", "official_pass": false, "official_status": "fail", "detail": "[value] answer='2\\n2\\nbike\\n0'"}
+{"id": "sample_395", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'0')\\n        elif s[i]\""}
+{"id": "sample_396", "official_pass": false, "official_status": "fail", "detail": "[value] answer='{}\\nf({1: 2, 3: 4})\\n{1: 4, 3: 16}'"}
+{"id": "sample_397", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_398", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(c):\\n    d = {}\\n    for k, v in c.items():\\n        count = c[k]\\n        if count not in d:\\n            d[count] = ['"}
+{"id": "sample_399", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text, old, new):\\n    if len(old) > 3:\\n        return text\\n    if old in text and ' ' not in text:\\n        return t\""}
+{"id": "sample_400", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(multi_string):\\n    cond_string = map(str.isascii, multi_string.split())\\n    if True in cond_string:\\n        return'"}
+{"id": "sample_401", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text, suffix):\\n    if suffix and text.endswith(suffix):\\n        return text[:- len(suffix)]\\n    return text\\n\\nprint'"}
+{"id": "sample_402", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_403", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(a, b):\\n    c = a\\n    d = 0\\n    while c.find(b) >= 0:\\n        e = c.find(b)\\n        c = c[e + len(b):]\\n        d +='"}
+{"id": "sample_404", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_405", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(xs):\\n    new_x = xs[0] - 1\\n    xs.pop(0)\\n    while(new_x <= xs[0]):\\n        xs.pop(0)\\n        new_x -= 1\\n    xs.in'"}
+{"id": "sample_406", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(text):\\n    ls = list(text)\\n    ls[0], ls[-1] = ls[-1].upper(), ls[0].upper()\\n    return ''.join(ls).istitle()\""}
+{"id": "sample_407", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(s):\\n    while len(s) > 1:\\n        s.clear()\\n        s.append(len(s))\\n    return s.pop()'"}
+{"id": "sample_408", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(m):\\n    m.reverse()\\n    return m\\n\\nprint(f([-4, 6, 0, 4, -7, 2, -1]))'"}
+{"id": "sample_409", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(c, p):\\n    if c:\\n        c = c.removeprefix(p)\\n        c = c.removeprefix(c[-1])\\n        c = c[:-1] + c[-1].capita'"}
+{"id": "sample_410", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(nums):\\n    a = 0\\n    for i in range(len(nums)):\\n        nums.insert(i, nums[a])\\n        a += 1\\n    return nums\\n\\npr'"}
+{"id": "sample_411", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_412", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(start, end, interval):\\n    steps = list(range(start, end + 1, interval))\\n    if 1 in steps:\\n        steps[-1] = en'"}
+{"id": "sample_413", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(s):\\n    return '{}{}{}'.format(s[3:], s[2], s[5:8])\""}
+{"id": "sample_414", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_415", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f(((8, 5), (8, 2), (5, 3))))\""}
+{"id": "sample_416", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f('jysrhfm ojwesf xgwwdyr dlrul ymba bpq', 'j', '1'))\""}
+{"id": "sample_417", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'__main__':\\n    print(f('  join    with    spaces'))\""}
+{"id": "sample_418", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(s, p):\\n    arr = s.partition(p)\\n    part_one, part_two, part_three = len(arr[0]), len(arr[1]), len(arr[2])\\n    if '"}
+{"id": "sample_419", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(c, l):\\n    if not l in c:\\n        return ''\\n    return c.rpartition(l)[0]\""}
+{"id": "sample_420", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_421", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(s, n):\\n    if len(s) < n:\\n        return s\\n    else:\\n        return s[n-1:]\\n\\nprint(f(\"try.\", 5))'"}
+{"id": "sample_422", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 1, 4]'"}
+{"id": "sample_423", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(c):\\n    while c[-1] != c[0]:\\n        c.pop()\\n    return c[::]\\n\\nprint(f([4, 2, 5, 1, 3, 2, 6]))'"}
+{"id": "sample_424", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='\".\":\\n            count = ls[col] + 1\\n        col += 1\\n    return s[col+count:]'"}
+{"id": "sample_425", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(a):\\n    a = a.replace('/', ':')\\n    z = a.rpartition(':')\\n    return [z[0], z[1], z[2]]\\n\\nprint(f('/CL44     '))\""}
+{"id": "sample_426", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(a, b, c):\\n    a.insert(c, b)\\n    return a'"}
+{"id": "sample_427", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='-1:\\n        count -= 1\\n        reverse_s = reverse_s[:count]\\n    return reverse_s[count:]\\n\\nif __name__'"}
+{"id": "sample_428", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[0, 0]'"}
+{"id": "sample_429", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(d):\\n    result = []\\n    while len(d.keys()) > 0:\\n        result.append(d.popitem())\\n    return result'"}
+{"id": "sample_430", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(a, b):\\n    return a + b\\n\\ndef g(a, b):\\n    return a + b\\n\\ndef h(a, b):\\n    return a + b\\n\\ndef i(a, b):\\n    return a +'"}
+{"id": "sample_431", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(n, m):\\n    arr = list(range(1, n+1))\\n    for i in range(m):\\n        arr.clear()\\n    return arr\\n\\nprint(f(1, 3))'"}
+{"id": "sample_432", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_433", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text):\\n    text = text.split(',')\\n    text.pop(0)\\n    text.insert(0, text.pop(text.index('T')))\\n    return 'T' + '\""}
+{"id": "sample_434", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(string):\\n    try:\\n       return string.rfind(\\'e\\')\\n    except AttributeError:\\n        return \"Nuk\"\\n\\nprint(f(\\'eeusee'"}
+{"id": "sample_435", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='ValueError: num must be greater than 0'"}
+{"id": "sample_436", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['7', ' ', '6', 's', '7']\""}
+{"id": "sample_437", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(tap_hierarchy):\\n    hierarchy = {}\\n    for gift in tap_hierarchy:\\n        hierarchy = hierarchy.fromkeys(gift, Non'"}
+{"id": "sample_438", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(string):\\n    bigTab = 100\\n    for i in range(10, 30):\\n        if 0 < string.count('\\\\t') < 20:\\n            bigTab =\""}
+{"id": "sample_439", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(value):\\n    parts = value.partition(' ')[::2]\\n    return ''.join(parts)\""}
+{"id": "sample_440", "official_pass": false, "official_status": "fail", "detail": "[value] answer='no'"}
+{"id": "sample_441", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(a, b, c):\\n    a[b] = c\\n    return a'"}
+{"id": "sample_442", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(s):\\n    return ''.join(chr(ord('a') + i) for i in range(s))\\n\\nprint(f(3))\""}
+{"id": "sample_443", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"' ':\\n            text = text.lstrip()\\n        else:\\n            text = text.replace('cd', space)\\n    return text\""}
+{"id": "sample_444", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(nums):\\n    count = len(nums)\\n    for i in range(count-1, 0, -2):\\n        nums.insert(i, nums.pop(0) + nums.pop(0))'"}
+{"id": "sample_445", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(names):\\n    parts = names.split(',')\\n    for i, part in enumerate(parts):\\n        parts[i] = part.replace(' and', \""}
+{"id": "sample_446", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='0:\\n        s[:] = []\\n    else:\\n        s.reverse()\\n    return s'"}
+{"id": "sample_447", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"|   a\"'"}
+{"id": "sample_448", "official_pass": false, "official_status": "fail", "detail": "[value] answer='True'"}
+{"id": "sample_449", "official_pass": false, "official_status": "fail", "detail": "[value] answer='n'"}
+{"id": "sample_450", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f('K zBK'))\""}
+{"id": "sample_451", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"char:\\n            text.remove(item)\\n            return ''.join(text)\\n    return text\\n\\nprint(f('pn', 'p'))\""}
+{"id": "sample_452", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(text):\\n    counter = 0\\n    for char in text:\\n        if char.isalpha():\\n            counter += 1\\n    return counte'"}
+{"id": "sample_453", "official_pass": false, "official_status": "fail", "detail": "[value] answer='True'"}
+{"id": "sample_454", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_455", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'?xyz'\""}
+{"id": "sample_456", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='\\'__main__\\':\\n    print(f(\"Join us in Hungary\", 4))'"}
+{"id": "sample_457", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(nums):\\n    count = list(range(len(nums)))\\n    for i in range(len(nums)):\\n        nums.pop()\\n        if len(count) '"}
+{"id": "sample_458", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'m,poIm'\""}
+{"id": "sample_459", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(a, b):\\n    for i in range(1, len(a), 2):\\n        b[a[i]] = a[i-1]\\n    return b\\n\\nprint(f(['b', 'vzjmc', 'f', 'ae', \""}
+{"id": "sample_460", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text, amount):\\n    length = len(text)\\n    pre_text = '|'\\n    if amount >= length:\\n        extra_space = amount - l\""}
+{"id": "sample_461", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"True\\ndef f(text, search):\\n    return search.startswith(text) or False\\n\\nprint(f('123', '123eenhas0'))\""}
+{"id": "sample_462", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f('ldebgp o', 'o'))\""}
+{"id": "sample_463", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='len(a):\\n        return \"None\"\\n    return \" \".join(str(v) for v in a.values())'"}
+{"id": "sample_464", "official_pass": false, "official_status": "fail", "detail": "[value] answer='-4'"}
+{"id": "sample_465", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_466", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f('-----\\\\t\\\\n\\\\tth\\\\n-----'))\""}
+{"id": "sample_467", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_468", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='import re\\n\\ndef f(a, b, n):\\n    return re.sub(b, lambda m: a.pop(0) if a else m.group(0), a, count=n) if a and b and n el'"}
+{"id": "sample_469", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text, position, value):\\n   length = len(text)\\n   index = position % (length)\\n   if position < 0:\\n       index = le'"}
+{"id": "sample_470", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='0:\\n            result.append(key)\\n    return result'"}
+{"id": "sample_471", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_472", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text):\\n    d = {}\\n    for char in text.replace('-', '').lower():\\n        d[char] = d[char] + 1 if char in d else 1\""}
+{"id": "sample_473", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f('scedvtvotkwqfoqn', 'o'))\""}
+{"id": "sample_474", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"import re\\n\\ndef f(t, l):\\n    a = []\\n    for line in t.split('\\\\n'):\\n        a.append(line.center(l))\\n    return '\\\\n'.join(\""}
+{"id": "sample_475", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_476", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(a, b):\\n    return b in a.split(' ')[-1]\\n\\ndef g(a, b):\\n    return b in ' '.join(a.lower().split()[-1] for a in [lin\""}
+{"id": "sample_477", "official_pass": false, "official_status": "fail", "detail": "[value] answer='(\"\",\"r\")'"}
+{"id": "sample_478", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(s):\\n    d = {}\\n    for c in s:\\n        d[c] = d.get(c, 0) + 1\\n    return d\\n\\nprint(f('abba'))\""}
+{"id": "sample_479", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(nums, pop1, pop2):\\n    nums.pop(pop1 - 1)\\n    nums.pop(pop2 - 1 - 1) # Adjust for the shifted index after the firs'"}
+{"id": "sample_480", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'':\\n        return s\\n    ls = s.split(c1)\\n    for index, item in enumerate(ls):\\n        if c1 in item:\\n            ls[in\""}
+{"id": "sample_481", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='c:\\n        if a[0] not in a[1:]:\\n            a.append(a[0])\\n    elif a[-1]'"}
+{"id": "sample_482", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_483", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text, char):\\n    return ' '.join(text.split(char, len(text)))\\n\\nprint(f('a', 'a'))\""}
+{"id": "sample_484", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f(['91', '16', '6r', '5r', 'egr', '', 'f', 'q1f', '-2']))\""}
+{"id": "sample_485", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"2:\\n        a = list(reversed(a))\\n    return ' '.join([a[0].ljust(5), a[1].ljust(5)])\""}
+{"id": "sample_486", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(s):\\n    return s[::-1]\\n\\ndef g(s):\\n    return s[1:-1]\\n\\ndef h(s):\\n    return s.upper()\\n\\ndef i(s):\\n    return s.lower'"}
+{"id": "sample_487", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_488", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f('tezmgvn 651h', '6'))\""}
+{"id": "sample_489", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text, value):\\n    return text.removeprefix(value.lower())\\n\\nprint(f('coscifysu', 'cos'))\""}
+{"id": "sample_490", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(s):\\n    return ''.join([c for c in s if c.isspace()])\""}
+{"id": "sample_491", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[4, 8, 8, 5, 5, 8, 8, 4]'"}
+{"id": "sample_492", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"0:\\n        while value in ls:\\n            ls.remove(value)\\n    else:\\n        ls.clear()\\n    return ''.join(ls)\\n\\nprint(f(\""}
+{"id": "sample_493", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_494", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(num, l):\\n    t = \"\"\\n    while l > len(num):\\n        t += \\'0\\'\\n        l -= 1\\n    return t + num'"}
+{"id": "sample_495", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(s):\\n    if str.isascii(s[-5:]):\\n        return s[-5:], s[0:][:3]\\n    elif str.isascii(s[:5]):\\n        return s[:5]'"}
+{"id": "sample_496", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_497", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(n):\\n    b = list(str(n))\\n    for i in range(2,len(b)): b[i] += '+'\\n    return b\\n\\nprint(f(44))\""}
+{"id": "sample_498", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='0:\\n            return i\\n    return len(nums)\\n\\ndef h(nums, n, x):\\n    i = g(nums, n, x)\\n    return f(nums, i, x)'"}
+{"id": "sample_499", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text, length, fillchar):\\n    size = len(text)\\n    return text.center(length, fillchar)\\n\\nprint(f('magazine', 25, '.\""}
+{"id": "sample_500", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text, delim):\\n    return text[:text[::-1].find(delim)][::-1]\\n\\nprint(f('dsj osq wi w', ' '))\""}
+{"id": "sample_501", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(s, c):\\n    i = s.rindex(c)\\n    l = list(s)\\n    while i > 0:\\n        l[i], l[i-1] = l[i-1], l[i]\\n        i -= 2\\n   '"}
+{"id": "sample_502", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(name):\\n    return '*'.join(name.split(' '))\\n\\nprint(f('Fred Smith'))\""}
+{"id": "sample_503", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[{}]'"}
+{"id": "sample_504", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_505", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(string):\\n    while string:\\n        if string[-1].isalpha():\\n            return string\\n        string = string[:-1]'"}
+{"id": "sample_506", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"1:\\n        p+='sn'\\n    else:\\n        return n*n\\n    for x in range(1, n+1):\\n        if x%2\""}
+{"id": "sample_507", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_508", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def solve(s, c, n):\\n    l = s.split(c, n)\\n    m = len(l) // 2\\n    l = l[:m][::-1] + l[m:]\\n    return c.join(l)'"}
+{"id": "sample_509", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'0005'\""}
+{"id": "sample_510", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'vfa0tW'\""}
+{"id": "sample_511", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(a, b):\\n    d = dict((x, '') for x in a)\\n    d.update(b)\\n    return d\""}
+{"id": "sample_512", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"s.count('0') + s.count('1')\""}
+{"id": "sample_513", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(s):\\n    while -1 in s:\\n        s.pop(-3)\\n    while 0 in s:\\n        s.pop()\\n    while 1 in s:\\n        s.pop(0)\\n    '"}
+{"id": "sample_514", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text):\\n    for item in text.split():\\n        text = text.replace('-{}'.format(item), ' ').replace('{}-'.format(ite\""}
+{"id": "sample_515", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(array):\\n    result = array.copy()\\n    result.reverse()\\n    result[:] = [item * 2 for item in result]\\n    return re'"}
+{"id": "sample_516", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(strings, substr):\\n    list = [s for s in strings if s.startswith(substr)]\\n    return sorted(list, key=len)\\n\\nprint('"}
+{"id": "sample_517", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text):\\n    for i in range(len(text)-1, 0, -1):\\n        if not text[i].isupper():\\n            return text[0:i]\\n    '"}
+{"id": "sample_518", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_519", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(d):\\n    d['luck'] = 42\\n    d.clear()\\n    return {1: False, 2: 0}\""}
+{"id": "sample_520", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_521", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(nums):\\n    m = max(nums)\\n    for i in range(m):\\n        nums.reverse()\\n    return nums\\n\\nprint(f([43, 0, 4, 77, 5, '"}
+{"id": "sample_522", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(numbers):\\n    floats = [n % 1 for n in numbers]\\n    return floats if 1 in floats else []\\n\\nimport random\\nprint(f([r'"}
+{"id": "sample_523", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text):\\n    text = list(text)\\n    for i in range(len(text)-1, -1, -1):\\n        if text[i].isspace():\\n            te'"}
+{"id": "sample_524", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='p(s, f(s))\\n\\nif __name__'"}
+{"id": "sample_525", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(c, s, e):\\n    d = {}\\n    for k, v in c.items():\\n        d[v] = k\\n    return (d[s], d[e]) if c[d[s]] > c[d[e]] else'"}
+{"id": "sample_526", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(label1, char, label2, index):\\n    m = label1.rindex(char)\\n    if m >= index:\\n        return label2[:m - index + 1]'"}
+{"id": "sample_527", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(text, value):\\n    return text.ljust(len(value), \"?\")'"}
+{"id": "sample_528", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f('papeluchis'))\""}
+{"id": "sample_529", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(array):\\n    prev = array[0]\\n    newArray = array[:]\\n    for i in range(1, len(array)):\\n        if prev != array[i]'"}
+{"id": "sample_530", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"0:\\n            sl = sl + '!?'\\n    else:\\n        return 'no'\\n    return sl\""}
+{"id": "sample_531", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'__main__':\\n    s = 'gnirts a si sihT'\\n    r = f(s, 'This is a ')\\n    g(r)\""}
+{"id": "sample_532", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_533", "official_pass": false, "official_status": "fail", "detail": "[value] answer='q and len(k)'"}
+{"id": "sample_534", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'+':\\n            r += c\\n        else:\\n            r += s[i + j]\\n    return r\\n\\nif __name__\""}
+{"id": "sample_535", "official_pass": false, "official_status": "fail", "detail": "[value] answer='True\\ndef f(n):\\n    for n in str(n):\\n        if n not in \"012\" and n not in list(range(5, 10)):\\n            return False\\n'"}
+{"id": "sample_536", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(cat):\\n    digits = 0\\n    for char in cat:\\n        if char.isdigit():\\n            digits += 1\\n    return digits\\n\\npr'"}
+{"id": "sample_537", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text, value):\\n    new_text = list(text)\\n    try:\\n        new_text.append(value)\\n        length = len(new_text)\\n   '"}
+{"id": "sample_538", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'N' and next_residue\""}
+{"id": "sample_539", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['_']\""}
+{"id": "sample_540", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(a):\\n    b = a.copy()\\n    for k in range(0, len(a) - 1, 2):\\n        b.insert(k + 1, b[k])\\n    b.append(b[0])\\n    re'"}
+{"id": "sample_541", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_542", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f('ab cd', 'x', 2))\""}
+{"id": "sample_543", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"import re\\n\\ndef f(text):\\n    return re.sub(r'(\\\\.\\\\s+)(?=[^?])', '.\\\\n', text)\\n\\ndef g(text):\\n    return re.sub(r'\\\\.{3}', '..\""}
+{"id": "sample_544", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text):\\n    a = text.split('\\\\n')\\n    b = []\\n    for i in range(len(a)):\\n        c = a[i].replace('\\\\t', '    ')\\n    \""}
+{"id": "sample_545", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(array):\\n    result = []\\n    index = 0\\n    while index < len(array):\\n        result.append(array.pop())\\n        ind'"}
+{"id": "sample_546", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text, speaker):\\n    while text.startswith(speaker):\\n        text = text[len(speaker):]\\n    return text\\n\\nprint(f('[\""}
+{"id": "sample_547", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(letters):\\n    letters_only = letters.strip(\"., !?*\")\\n    return \"....\".join(letters_only.split(\" \"))\\n\\nprint(f(\"h,e'"}
+{"id": "sample_548", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_549", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_550", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[1, 1, 2, 4, 4, 16]'"}
+{"id": "sample_551", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(data):\\n    members = []\\n    for item in data:\\n        for member in data[item]:\\n            if member not in membe'"}
+{"id": "sample_552", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(d):\\n    r = {}\\n    for k, v in d.items():\\n        if isinstance(k, float):\\n            for i in v:\\n               '"}
+{"id": "sample_553", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text, count):\\n    for i in range(count):\\n        text = text[::-1]\\n    return text\\n\\nprint(f('439m2670hlsw', 3))\""}
+{"id": "sample_554", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'__main__':\\n    print(f('12345'))\""}
+{"id": "sample_555", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text, tabstop):\\n    text = text.replace('\\\\n', '_____')\\n    text = text.replace('\\\\t', tabstop * ' ')\\n    text = tex\""}
+{"id": "sample_556", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(t):\\n    t = t.replace('\\\\n', '***')\\n    t = t.replace(' ', '\\\\t')\\n    t = t.replace('***', '\\\\n')\\n    return t\\n\\ndef g\""}
+{"id": "sample_557", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'xxx arm marxx'\""}
+{"id": "sample_558", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(nums, mos):\\n    for num in mos:\\n        nums.pop(nums.index(num))\\n    nums.sort()\\n    for num in mos:\\n        nums'"}
+{"id": "sample_559", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(n):\\n    n = str(n)\\n    return n[0] + \\'.\\'+n[1:].replace(\\'-\\', \\'_\\')\\n\\nprint(f(\"first-second-third\"))'"}
+{"id": "sample_560", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text):\\n    x = 0\\n    if text.islower():\\n        for c in text:\\n            if int(c) in list(range(90)):\\n         '"}
+{"id": "sample_561", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text, digit):\\n    #different than previous? Just count instances digit\\n    count = text.count(digit)\\n    return in'"}
+{"id": "sample_562", "official_pass": false, "official_status": "fail", "detail": "[value] answer='str(text)'"}
+{"id": "sample_563", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f('jivespdcxc', 'sx'))\""}
+{"id": "sample_564", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_565", "official_pass": false, "official_status": "fail", "detail": "[value] answer='10\\n# Given string: \"qsqgijwmmhbchoj\"\\n# Vowels in the string: i, o\\n# Index of \\'i\\': 5\\n# Index of \\'o\\': 10\\n# Maximum index: '"}
+{"id": "sample_566", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"towaru\\ndef f(string, code):\\n    t = ''\\n    try:\\n        t = string.encode(code)\\n        if t.endswith(b'\\\\n'):\\n          \""}
+{"id": "sample_567", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(s, n):\\n    ls = s.rsplit()\\n    out = []\\n    while len(ls) >= n:\\n        out += ls[-n:]\\n        ls = ls[:-n]\\n    re'"}
+{"id": "sample_568", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='n:\\n            return t\\n        n = len(t)\\n    return t\\n\\nif __name__'"}
+{"id": "sample_569", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(txt):\\n    coincidences = {}\\n    for c in txt:\\n        if c in coincidences:\\n            coincidences[c] += 1\\n     '"}
+{"id": "sample_570", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(a, b, c):\\n    a.insert(0, b + 1)\\n    if c >= 1:\\n        a.insert(b, c)\\n    return a'"}
+{"id": "sample_571", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f(r'a\\\\tb', 4))\""}
+{"id": "sample_572", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(c, n):\\n    d = dict(c)\\n    t = list(d.items())\\n    r = {t[i]: None for i in range(len(t) - 1, n - 1, -1)}\\n    retu'"}
+{"id": "sample_573", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='\\'__main__\\':\\n    print(f(\"Vipra\", \"via\"))'"}
+{"id": "sample_574", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='p.title():\\n            return p\\n    return p\\n\\ndef g(c):\\n    while c:\\n        p = c.pop()\\n        if p != p.title():\\n    '"}
+{"id": "sample_575", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(nums, val):\\n    new_list = []\\n    [new_list.extend([i] * val) for i in nums]\\n    return sum(new_list)\\n\\nprint(f([10'"}
+{"id": "sample_576", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(array, const):\\n    output = ['x']\\n    for i in range(1, len(array) + 1):\\n        if i % 2 != 0:\\n            output\""}
+{"id": "sample_577", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_578", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(d):\\n    for k, v in d.items():\\n        if v >= 0:\\n            d[k] = -v\\n    return d'"}
+{"id": "sample_579", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_580", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text, char):\\n    new_text = text\\n    a = []\\n    while char in new_text:\\n        a.append(new_text.index(char))\\n   '"}
+{"id": "sample_581", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text, sign):\\n    length = len(text)\\n    new_text = list(text)\\n    sign = list(sign)\\n    for i in range(len(sign)):'"}
+{"id": "sample_582", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_583", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='ch:\\n            result.append(line.lower())\\n        else:\\n            result.append(line.upper())\\n    return \"\\\\n\".join(r'"}
+{"id": "sample_584", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"0000000000000000000000\"'"}
+{"id": "sample_585", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(text):\\n    count = text.count(text[0])\\n    ls = list(text)\\n    for _ in range(count):\\n        ls.remove(ls[0])\\n   '"}
+{"id": "sample_586", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text, char):\\n    return text.rindex(char)\\n\\nprint(f(\"breakfast\", \"e\"))'"}
+{"id": "sample_587", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(nums, fill):\\n    ans = dict.fromkeys(nums, fill)\\n    return ans\\n\\nprint(f([0, 1, 1, 2], 'abcca'))\""}
+{"id": "sample_588", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(items, target):\\n    if target in items:\\n        return items.index(target)\\n    return -1'"}
+{"id": "sample_589", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f([-70, 20, 9, 1]))\""}
+{"id": "sample_590", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text):\\n    for i in range(10, 0, -1):\\n        text = text.lstrip(str(i))\\n    return text\\n\\nprint(f(\"25000   $\"))'"}
+{"id": "sample_591", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[0, 0, 0, 1, 1, 1, 1, 1, 1], [1, 2, 3, 4, 5, 6, 7, 8, 9]'"}
+{"id": "sample_592", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(numbers):\\n    new_numbers = []\\n    for i, _ in enumerate(numbers):\\n        new_numbers.append(numbers[len(numbers)'"}
+{"id": "sample_593", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[14]'"}
+{"id": "sample_594", "official_pass": false, "official_status": "fail", "detail": "[value] answer='6'"}
+{"id": "sample_595", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='\"__main__\":\\n    print(f(\"qdhstudentamxupuihbuztn\", \"jdm\"))'"}
+{"id": "sample_596", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"0:\\n        return txt[::-1]\\n    return txt\\n\\nprint(f(['8', '9', '7', '4', '3', '2'], '9'))\""}
+{"id": "sample_597", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"JAAFODSFA SODOFJ AOAFAJS JAFASIDSFA1\"'"}
+{"id": "sample_598", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(text, n):\\n    length = len(text)\\n    return text[length*(n%4):length ]'"}
+{"id": "sample_599", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(a, b):\\n    a = b.join(a)\\n    lst = []\\n    for i in range(1, len(a)+1, 2):\\n        lst.append(a[i-1:][:i])\\n        '"}
+{"id": "sample_600", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(array):\\n    just_ns = list(map(lambda num: 'n'*num, array))\\n    final_output = []\\n    for wipe in just_ns:\\n       \""}
+{"id": "sample_601", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text):\\n    t = 5\\n    tab = []\\n    for i in text:\\n        if i.lower() in 'aeiouy':\\n            tab.append(i.upper(\""}
+{"id": "sample_602", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(nums, target):\\n    cnt = nums.count(target)\\n    return cnt * 2\\n\\nprint(f([1, 1], 1))'"}
+{"id": "sample_603", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='not oscillating'"}
+{"id": "sample_604", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text, start):\\n    return text.startswith(start)\\n\\nprint(f(\"Hello world\", \"Hello\"))'"}
+{"id": "sample_605", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(nums):\\n    nums.clear()\\n    return \"quack\"'"}
+{"id": "sample_606", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(value):\\n    ls = list(value)\\n    ls.append('NHIB')\\n    return ''.join(ls)\\n\\nprint(f('ruam'))\""}
+{"id": "sample_607", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_608", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(aDict):\\n    # transpose the keys and values into a new dict\\n    return dict([v for v in aDict.items()])'"}
+{"id": "sample_609", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='{}\\nf() {}'"}
+{"id": "sample_610", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='d.get(i, None):\\n            del d[i]\\n    return d'"}
+{"id": "sample_611", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(nums):\\n    nums[:] = nums[::-1]\\n    return nums\\n\\ndef g(nums):\\n    return nums[::-1]'"}
+{"id": "sample_612", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(d):\\n    return dict(d.items())\\n\\ndef g(d):\\n    return {k: v for k, v in d.items()}'"}
+{"id": "sample_613", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text):\\n    result = ''\\n    mid = (len(text) - 1) // 2\\n    for i in range(mid):\\n        result += text[i]\\n    for i\""}
+{"id": "sample_614", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='-1:\\n            break\\n        elif n'"}
+{"id": "sample_615", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(in_list, num):\\n    in_list.append(num)\\n    return in_list.index(max(in_list[:-1]))\\n\\ndef g(in_list, num):\\n    in_li'"}
+{"id": "sample_616", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'\\\\t':\\n            d += (1 + l[i - 1].count('\\\\t')) * 3\\n        l[i] = '[' + l[i] + ']'\\n    return ''.join(l).expandtabs(4\""}
+{"id": "sample_617", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_618", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(match, fill, n):\\n    return fill[:n] + match\\n\\nprint(f('9', '8', 2))\""}
+{"id": "sample_619", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f('   Rock   Paper   SCISSORS  '))\""}
+{"id": "sample_620", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(x):\\n    return \" \".join(list(x)[::-1])'"}
+{"id": "sample_621", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"LookupError(16, \\'unknown encoding: shift_jis\\')\"'"}
+{"id": "sample_622", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(s):\\n    a, b, c = s.rpartition('.')\\n    return a + ',' + b + c + '.' + b + c\""}
+{"id": "sample_623", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'@':\\n            text = text[::-1]\\n        elif rule\""}
+{"id": "sample_624", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'__main__':\\n    print(solve('llomnrpc', 'x'))\""}
+{"id": "sample_625", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(text):\\n    count = 0\\n    for i in text:\\n        if i in '.?!.,':\\n            count += 1\\n    return count\""}
+{"id": "sample_626", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(line, equalityMap):\\n    rs = {\\n        k[0]: k[1] for k in equalityMap\\n    }\\n    return line.translate(str.maketra'"}
+{"id": "sample_627", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(parts):\\n    d = {}\\n    for k, v in parts:\\n        d[k] = v\\n    return [d[k] for k in d]\\n\\ndef g(parts):\\n    d = {}\\n'"}
+{"id": "sample_628", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_629", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(a, b):\\n    if not a.endswith(b):\\n        return a\\n    return f(a[:-len(b)], b) if a.endswith(b) else f(a[:-1], b)\\n'"}
+{"id": "sample_630", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(a, b):\\n    return {k: v for k, v in b.items()} | {k: a.get(v) for k, v in b.items() if v in a}\\n\\ndef g(a, b):\\n    r'"}
+{"id": "sample_631", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(text, num):\\n    req = num - len(text)\\n    text = text.center(num, '*')\\n    return text[:req // 2: -req // 2]\""}
+{"id": "sample_632", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(list):\\n    for i in range(len(list) - 1, 0, -1):\\n        for j in range(i):\\n            if list[j] > list[j + 1]:\\n'"}
+{"id": "sample_633", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(array, elem):\\n    array.reverse()\\n    try:\\n        found = array.index(elem)\\n    finally:\\n        array.reverse()\\n'"}
+{"id": "sample_634", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f('biec'))\""}
+{"id": "sample_635", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='False and char not in valid_chars:\\n        print(False)\\n        exit()\\nprint(True)'"}
+{"id": "sample_636", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'__main__':\\n    print(f({3: 'A3', 1: 'A1', 2: 'A2'}))\""}
+{"id": "sample_637", "official_pass": false, "official_status": "fail", "detail": "[value] answer='no'"}
+{"id": "sample_638", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(s, suffix):\\n    if not suffix:\\n        return s\\n    while s.endswith(suffix):\\n        s = s[:-len(suffix)]\\n    ret'"}
+{"id": "sample_639", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='b[i] else \"no\") + \" \"\\n    return r\\n\\nif __name__'"}
+{"id": "sample_640", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text):\\n    a = 0\\n    if text[0] in text[1:]:\\n        a += 1\\n    for i in range(0, len(text)-1):\\n        if text[i]'"}
+{"id": "sample_641", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_642", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='len(text):\\n        return \\'space\\'\\n    return \\'no\\'\\n\\nprint(f(\"     \"))'"}
+{"id": "sample_643", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'__main__':\\n    print(f.__doc__)\\n    c = input().strip()\\n    p = input().strip()\\n    print(f(c, p))\""}
+{"id": "sample_644", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(nums, pos):\\n    s = slice(None)\\n    if pos % 2:\\n        s = slice(None, -1)\\n    nums[s].reverse()\\n    return nums'"}
+{"id": "sample_645", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_646", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text, count):\\n    for i in range(count):\\n        text = ''.join(reversed(text))\\n    return text\\n\\nprint(f('aBc, ,Sz\""}
+{"id": "sample_647", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(text, chunks):\\n    return text.splitlines(chunks)'"}
+{"id": "sample_648", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(a, b):\\n    l = a[:]\\n    while len(l) > 0:\\n        if l[-1] in b:\\n            l.pop()\\n        else:\\n            ret'"}
+{"id": "sample_649", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text, tabsize):\\n    return '\\\\n'.join([\\n    \\tt.expandtabs(tabsize)\\n        for t in text.split('\\\\n')\\n    ])\\n\\nprint(\""}
+{"id": "sample_650", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(string, substring):\\n    while string.startswith(substring):\\n        string = string[len(substring):len(string)]\\n  '"}
+{"id": "sample_651", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'E Wrestled Evil Until Upperfeat'\""}
+{"id": "sample_652", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_653", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text, letter):\\n    t = text\\n    for alph in text:\\n        t = t.replace(alph, \"\")\\n    return len(t.split(letter))\\n'"}
+{"id": "sample_654", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f('aphid', 'i', '?'))\""}
+{"id": "sample_655", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(s):\\n    return s.replace('a', '').replace('r', '')\\n\\nprint(f('rpaar'))\""}
+{"id": "sample_656", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(letters):\\n    a = [] \\n    for i in range(len(letters)):\\n        if letters[i] in a:\\n            return 'no'\\n      \""}
+{"id": "sample_657", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(text):\\n    for punct in '!.?,:;':\\n        if text.count(punct) > 1:\\n            return 'no'\\n    return text.title(\""}
+{"id": "sample_658", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_659", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(b):\\n    c = []\\n    for u in b:\\n        if not u.isupper():\\n            c.append(u[:2] + u[-3:])\\n    return len(c)'"}
+{"id": "sample_660", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f(3))\""}
+{"id": "sample_661", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(letters, maxsplit):\\n    return ''.join(letters.split()[-maxsplit:])\""}
+{"id": "sample_662", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(values):\\n    names = ['Pete', 'Linda', 'Angela']\\n    names.extend(values)\\n    names.sort()\\n    return names\\n\\nprint\""}
+{"id": "sample_663", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(c, n):\\n    if n not in c:\\n        return c\\n    i = c.index(n)\\n    return c[:i] + c[i+1:]'"}
+{"id": "sample_664", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"3 4\"'"}
+{"id": "sample_665", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='0:\\n            s += ch.upper()\\n        else:\\n            s += ch\\n    return s\\n\\nprint(f(\"acbced\"))'"}
+{"id": "sample_666", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(c, p):\\n    m = 0\\n    for k, v in c.items():\\n        if len(v) + len(p.get(k, [])) > m:\\n            m = len(v) + le'"}
+{"id": "sample_667", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text):\\n    new_text = []\\n    for i in range(len(text) // 3):\\n        new_text.append(f\"< {text[i * 3: i * 3 + 3]} '"}
+{"id": "sample_668", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f('hellomyfriendear'))\""}
+{"id": "sample_669", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"len(a):\\n        return 'imbalanced'\\n    return a + b.replace(sep, '')\\n\\nif __name__\""}
+{"id": "sample_670", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(a, b):\\n    d = dict(zip(a, b))\\n    a.sort(key=d.get, reverse=True)\\n    return [d.pop(x) for x in a]\\n\\nprint(f(['12'\""}
+{"id": "sample_671", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='import string\\n\\ndef f(t, c1, c2):\\n    r = list(string.ascii_lowercase)\\n    for i in range(len(c1)):\\n        r[tolower(c1['"}
+{"id": "sample_672", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(a, b, c):\\n    l = len(a)\\n    i = (b % (l + 2)) - 1\\n    if i >= l or i < 0:\\n        return a\\n    a[i] = c\\n    retur'"}
+{"id": "sample_673", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(string):\\n    if string.isupper():\\n        return string.lower()\\n    elif string.islower():\\n        return string.u'"}
+{"id": "sample_674", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text):\\n    ls = list(text)\\n    for x in range(len(ls)-1, -1, -1):\\n        if len(ls) <= 1: break\\n        if ls[x] '"}
+{"id": "sample_675", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(nums, k):\\n    nums.sort()\\n    return nums[:k]\\n\\nprint(f([7, 3, 5, 3, 7, 8, 1, 1, 1, 5, 6, 8, 8, 1, 2, 2, 3, 4, 5, 6'"}
+{"id": "sample_676", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_677", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text, length):\\n    length = -length if length < 0 else length\\n    output = ''\\n    for idx in range(length):\\n      \""}
+{"id": "sample_678", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(text):\\n    freq = dict()\\n    for c in text.lower():\\n        if c in freq:\\n            freq[c] += 1\\n        else:\\n '"}
+{"id": "sample_679", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'':\\n    print(False) # Check for empty string\\nelse:\\n    first_char = text[0]\\n    if first_char.isdigit():\\n        print(\""}
+{"id": "sample_680", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text):\\n    letters = ''\\n    for i in range(len(text)):\\n        if text[i].isalnum():\\n            letters += text[i\""}
+{"id": "sample_681", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(s, i, j):\\n    s.insert(i, j)\\n    return s\\n\\ndef g(s, i, j):\\n    s.insert(i+1, j)\\n    return s\\n\\ndef h(s, i, j):\\n    '"}
+{"id": "sample_682", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(text, length, index):\\n    ls = text.rsplit(None, index)\\n    return '_'.join([l[:length] for l in ls])\""}
+{"id": "sample_683", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(a, b):\\n    return {**a, **b}'"}
+{"id": "sample_684", "official_pass": false, "official_status": "fail", "detail": "[value] answer='\"Transform numbers9833not into 9833.\"'"}
+{"id": "sample_685", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(array, elem):\\n    return array.count(elem) + elem\\n\\nprint(f([1, 1, 1], -2))'"}
+{"id": "sample_686", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(d, l):\\n    new_d = {}\\n    for k in l:\\n        if d.get(k) is not None:\\n            new_d[k] = d[k]\\n    return new_'"}
+{"id": "sample_687", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f('Rjug nzufE'))\""}
+{"id": "sample_688", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(n):\\n    r = []\\n    for i in n:\\n        if i not in r:\\n            r.append(i)\\n    return r\\n\\nprint(f([3, 1, 9, 0, 2'"}
+{"id": "sample_689", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(arr):\\n    count = len(arr)\\n    sub = arr.copy()\\n    for i in range(0, count, 2):\\n        sub[i] *= 5\\n    return su'"}
+{"id": "sample_690", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_691", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(a, b):\\n    if b and a.endswith(b):\\n        return f(a, b[:-1])\\n    return a'"}
+{"id": "sample_692", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_693", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='\\'__main__\\':\\n    print(f(\"sa832d83r xd 8g 26a81xdf\"))'"}
+{"id": "sample_694", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_695", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='import copy\\n\\ndef f(d):\\n    r = {}\\n    for k, v in d.items():\\n        r[k] = []\\n        for i, e in enumerate(v):\\n       '"}
+{"id": "sample_696", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(text):\\n    s = 0\\n    for i in range(1, len(text)):\\n        s += len(text.rpartition(text[i])[0])\\n    return s'"}
+{"id": "sample_697", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='\"__main__\":\\n    main()'"}
+{"id": "sample_698", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f(('(((((((((((d))))))))).))))(((((')))\""}
+{"id": "sample_699", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(a, b):\\n    if b != '':\\n        while a.startswith(b):\\n            a = a.replace(b, '')\\n        while b.startswith(\""}
+{"id": "sample_700", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text):\\n    return len(text) - text.count(\\'bot\\')\\n\\nprint(f(\"Where is the bot in this world?\"))'"}
+{"id": "sample_701", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'let it! pass!'\""}
+{"id": "sample_702", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(nums):\\n    count = len(nums)\\n    for i in range(len(nums) - 1, -1, -1):\\n        nums.insert(i, nums.pop(0))\\n    re'"}
+{"id": "sample_703", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text, char):\\n    count = text.count(char*2)\\n    return text[count:]\\n\\nprint(f('vzzv2sg', 'z'))\""}
+{"id": "sample_704", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f('.', 0, '99'))\""}
+{"id": "sample_705", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(cities, name):\\n    if not name:\\n        return cities\\n    if name and name != 'cities':\\n        return []\\n    retu\""}
+{"id": "sample_706", "official_pass": false, "official_status": "fail", "detail": "[value] answer='w[0] and w[-1]'"}
+{"id": "sample_707", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'__main__':\\n    t = 'undbs l'\\n    p = 1\\n    print(i(t))\""}
+{"id": "sample_708", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f('    jcmfxv     '))\""}
+{"id": "sample_709", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text):\\n    my_list = text.split()\\n    my_list.sort(reverse=True)\\n    return ' '.join(my_list)\\n\\nprint(f('a loved'))\""}
+{"id": "sample_710", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(playlist, liker_name, song_index):\\n    playlist[liker_name] = playlist.get(liker_name, [])\\n    playlist[liker_name'"}
+{"id": "sample_711", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(t):\\n    return t.replace('\\\\n', '\\\\t')\""}
+{"id": "sample_712", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'':\\n            break\\n        c.append(list(list(l.rstrip())[::-1][flush]))\\n    return c[::-1]\\n\\nflush = 0\""}
+{"id": "sample_713", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_714", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(s):\\n    s = s[::-1]\\n    s = ['x'] * len(s)\\n    s = s[::-1]\\n    return s\""}
+{"id": "sample_715", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text, char):\\n    return text.count(char) % 2 != 0\\n\\nprint(f('abababac', 'a'))\""}
+{"id": "sample_716", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(nums):\\n    count = len(nums)\\n    while len(nums) > (count//2):\\n        nums.clear()\\n    return nums\\n\\nprint(f([2, 1'"}
+{"id": "sample_717", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text):\\n    (k, l) = (0, len(text) - 1)\\n    while not text[l].isalpha():\\n        l -= 1\\n    while not text[k].isalp'"}
+{"id": "sample_718", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f('ThisIsSoAtrocious'))\""}
+{"id": "sample_719", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='if (x)\\n  y = 1;\\nelse\\n  z = 1;'"}
+{"id": "sample_720", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='v:\\n        l.pop()\\n    l.append(v)\\n    return len(l)'"}
+{"id": "sample_721", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(nums):\\n    count = len(nums)\\n    for num in range(2, count):\\n        nums.sort()\\n    return nums\\n\\nprint(f([-6, -5,'"}
+{"id": "sample_722", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(text):\\n    out = \"\"\\n    for i in range(len(text)):\\n        if text[i].isupper():\\n            out += text[i].lower('"}
+{"id": "sample_723", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"['dga nqdk ull qcha kl']\""}
+{"id": "sample_724", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='p]'"}
+{"id": "sample_725", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='0, numbers))\\n    print(even_numbers)'"}
+{"id": "sample_726", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text):\\n    ws = 0\\n    for s in text:\\n        if s.isspace():\\n            ws += 1\\n    return ws, len(text)\\n\\nprint(f'"}
+{"id": "sample_727", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(numbers, prefix):\\n    return sorted(n[len(prefix):] if (len(n) > len(prefix) and n.startswith(prefix)) else n\\n    '"}
+{"id": "sample_728", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f('ru'))\""}
+{"id": "sample_729", "official_pass": false, "official_status": "fail", "detail": "[value] answer='[11, 2]'"}
+{"id": "sample_730", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text):\\n    m = 0\\n    cnt = 0\\n    for i in text.split():\\n        if len(i) > m:\\n            cnt += 1\\n            m '"}
+{"id": "sample_731", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text, use):\\n    return text.replace(use, '')\\n\\nprint(f('Chris requires a ride to the airport on Friday.', 'a'))\""}
+{"id": "sample_732", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'__main__':\\n    s = {'u': 20, 'v': 5, 'b': 7, 'w': 3, 'x': 3}\\n    print(f(s))\""}
+{"id": "sample_733", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text):\\n    length = len(text) // 2\\n    left_half = text[:length]\\n    right_half = text[length:][::-1]\\n    return l'"}
+{"id": "sample_734", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='0:\\n            nums.remove(nums[i])\\n    return nums\\n\\nprint(f([5, 3, 3, 7]))'"}
+{"id": "sample_735", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'':\\n        return ''\\n    s = s.replace('(', '')\\n    s = s.replace(')', '')\\n    return s.capitalize().replace(' ', '')\\n\\n\""}
+{"id": "sample_736", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(t, i):\\n    w = {'\\\\t', '\\\\r', '\\\\v', ' ', '\\\\f', '\\\\n'}\\n    c = ''\\n    for char in t:\\n        c += i if char in w else \""}
+{"id": "sample_737", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='0:\\n                counts += 1\\n    return counts\\n\\nif __name__'"}
+{"id": "sample_738", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text, characters):\\n    for i in range(len(characters)):\\n        text = text.rstrip(characters[i::len(characters)])'"}
+{"id": "sample_739", "official_pass": false, "official_status": "fail", "detail": "[value] answer='True'"}
+{"id": "sample_740", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_741", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'__main__':\\n    print(f.__doc__)\\n    c = [6, 8, 2, 5, 3, 1, 9, 7]\\n    p = 6\\n    print(f(c, p))\""}
+{"id": "sample_742", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_743", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(text):\\n    string_a, string_b = text.split(',')\\n    return -(len(string_a) + (len(string_b)))\""}
+{"id": "sample_744", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(t, n):\\n    return t + n\\n\\ndef g(t, n):\\n    return t.join(n)\\n\\ndef h(t, n):\\n    r = list(t)\\n    r.extend(n)\\n    retur'"}
+{"id": "sample_745", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"import re\\n\\ndef f(email):\\n    return re.sub(r'(?<=@)[^.]+(\\\\.[^.]{2,})$', r'\\\\1', email)\""}
+{"id": "sample_746", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_747", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'42.42':\\n        return True\\n    for i in range(3, len(text) - 3):\\n        if text[i]\""}
+{"id": "sample_748", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_749", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(text, width):\\n    result = \"\"\\n    lines = text.split(\\'\\\\n\\')\\n    for l in lines:\\n        result += l.center(width)\\n '"}
+{"id": "sample_750", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'__main__':\\n    c = g()\\n    print(f(c, 'hello'))\""}
+{"id": "sample_751", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text, char, min_count):\\n    count = text.count(char)\\n    if count < min_count:\\n        return text.swapcase()\\n    '"}
+{"id": "sample_752", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(s, amount):\\n    return (amount - len(s)) * 'z' + s\\n\\nprint(f('abc', 8))\""}
+{"id": "sample_753", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(bag):\\n    values = list(bag.values())\\n    tbl = {}\\n    for v in range(100):\\n        if v in values:\\n            tb'"}
+{"id": "sample_754", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_755", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(a, b, c):\\n    while c in b:\\n        a += 'ax'\\n        b = b.replace(c, a, 1)\\n    return b\""}
+{"id": "sample_756", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_757", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f('a1a8', '1', 'n2'))\""}
+{"id": "sample_758", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='nums:\\n        return True\\n    return False'"}
+{"id": "sample_759", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text, sub):\\n    index = []\\n    starting = 0\\n    while starting != -1:\\n        starting = text.find(sub, starting)\\n'"}
+{"id": "sample_760", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(d):\\n    l = []\\n    while d:\\n        k, v = d.popitem()\\n        l.append(k)\\n    return l'"}
+{"id": "sample_761", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(s):\\n    return s[::2] + s[-2:0:-2]\\n\\ndef g(s):\\n    return s[-1::-2] + s[1::2]'"}
+{"id": "sample_762", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text):\\n    text = text.lower()\\n    capitalize = text.capitalize()\\n    return text[:1] + capitalize[1:]\\n\\nprint(f('t\""}
+{"id": "sample_763", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f('2Pn', 'yCxpg2C2Pny2', ''))\""}
+{"id": "sample_764", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(t, o, n):\\n    t = t.replace(o, n)\\n    o = o[::-1]\\n    while o in t:\\n        t = t.replace(o, n)\\n    return t'"}
+{"id": "sample_765", "official_pass": false, "official_status": "fail", "detail": "[value] answer='4'"}
+{"id": "sample_766", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_767", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='\\'__main__\\':\\n    print(f(\"d khqw whi fwi bbn 41\"))'"}
+{"id": "sample_768", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(s, o):\\n    if s.startswith(o):\\n        return s\\n    return o + f(s, o[-2::-1])\\n\\nprint(f('abba', 'bab'))\""}
+{"id": "sample_769", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text):\\n    text_list = [char for char in text]\\n    for i, char in enumerate(text_list):\\n        text_list[i] = cha'"}
+{"id": "sample_770", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"import re\\n\\ndef f(s, p):\\n    return ' '.join([i for i in re.sub(f'[{p}]', ' ', s).split() if i])\\n\\ndef g(s, p):\\n    return\""}
+{"id": "sample_771", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(items):\\n    items = list(items)\\n    odd_positioned = []\\n    while len(items) > 0:\\n        position = items.index(m'"}
+{"id": "sample_772", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"def f(phrase):\\n    result = ''\\n    for i in phrase:\\n        if not i.islower():\\n            result += i\\n    return resul\""}
+{"id": "sample_773", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(nums, n):\\n    return nums.pop(n)\\n\\nprint(f([-7, 3, 1, -1, -1, 0, 4], 6))'"}
+{"id": "sample_774", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(num, name):\\n    f_str = 'quiz leader = {}, count = {}'\\n    return f_str.format(name, num)\\n\\nprint(f(23, 'Cornareti'\""}
+{"id": "sample_775", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(nums):\\n    count = len(nums)\\n    for i in range(0, count // 2):\\n        nums[i], nums[count-i-1] = nums[count-i-1]'"}
+{"id": "sample_776", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_777", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(names, excluded):\\n    excluded = excluded\\n    for i in range(len(names)):\\n        if excluded in names[i]:\\n       '"}
+{"id": "sample_778", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f('mjs', 'mjqwmjsqjwisojqwiso'))\""}
+{"id": "sample_779", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='${first}y, ${second}x, ${third}r, ${fourth}p'"}
+{"id": "sample_780", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(ints):\\n    counts = [0] * 301\\n\\n    for i in ints:\\n        counts[i] += 1\\n\\n    r = []\\n    for i in range(len(counts'"}
+{"id": "sample_781", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f('shivajimonto6', '6'))\""}
+{"id": "sample_782", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_783", "official_pass": false, "official_status": "fail", "detail": "[value] answer='6'"}
+{"id": "sample_784", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_785", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"'__main__':\\n    print(f(938))\""}
+{"id": "sample_786", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'9kefp71'\""}
+{"id": "sample_787", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"0:\\n        return ''\\n    text = text.lower()\\n    return text[0].upper() + text[1:]\\n\\nprint(f('xzd'))\""}
+{"id": "sample_788", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer='def f(text, suffix):\\n    if suffix.startswith(\"/\"):\\n        return text + suffix[1:]\\n    return text\\n\\nprint(f(\\'hello.txt'"}
+{"id": "sample_789", "official_pass": false, "official_status": "fail", "detail": "[value] answer=\"'BR'\""}
+{"id": "sample_790", "official_pass": false, "official_status": "fail", "detail": "[value] answer='(True, True)'"}
+{"id": "sample_791", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(integer, n):\\n    i = 1\\n    text = str(integer)\\n    while (i+len(text) < n):\\n        i += len(text)\\n    return text'"}
+{"id": "sample_792", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(l1, l2):\\n    if len(l1) != len(l2):\\n        return {}\\n    return dict.fromkeys(l1, l2)'"}
+{"id": "sample_793", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(a, b, c):\\n    s = 0\\n    for i in range(b, c):\\n        for j in range(i, c):\\n            if a[i] != a[j]:\\n         '"}
+{"id": "sample_794", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='\\'__main__\\':\\n    print(f(\\'\\\\\"\\\\\\\\%$ normal chars $%~ qwet42\\\\\\'\\'))'"}
+{"id": "sample_795", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"'__main__':\\n    print(f('Fu,ux zfujijabji pfu.'))\""}
+{"id": "sample_796", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer='def f(s, t):\\n    if s.startswith(t):\\n        return s[len(t):]\\n    return s'"}
+{"id": "sample_797", "official_pass": true, "official_status": "pass", "detail": ""}
+{"id": "sample_798", "official_pass": false, "official_status": "fail", "detail": "[f_call] answer=\"def f(text, pre):\\n    if not text.startswith(pre):\\n        return text\\n    return text.removeprefix(pre)\\n\\nprint(f('@hihu\""}
+{"id": "sample_799", "official_pass": false, "official_status": "fail", "detail": "[syntax] answer=\"import re\\n\\ndef f(st):\\n    if st.startswith('xn--'):\\n        return re.sub(r'[-.]', '_', st[4:]).lower()\\n    else:\\n      \""}

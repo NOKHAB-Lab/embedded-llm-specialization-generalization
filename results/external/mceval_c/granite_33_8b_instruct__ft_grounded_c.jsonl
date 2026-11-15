@@ -1,0 +1,50 @@
+{"id": "C/1", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘:’ token"}
+{"id": "C/2", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘the’"}
+{"id": "C/3", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘function’"}
+{"id": "C/4", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘.’ token"}
+{"id": "C/5", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘the’"}
+{"id": "C/6", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘function’"}
+{"id": "C/7", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘the’"}
+{"id": "C/8", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘the’"}
+{"id": "C/9", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘-’ token"}
+{"id": "C/10", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘:’ token"}
+{"id": "C/11", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘:’ token"}
+{"id": "C/12", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘:’ token"}
+{"id": "C/13", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘.’ token"}
+{"id": "C/14", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_8b_instruct__ft_grounded_c/tmp/14.c:79: main: Assertion `decode_numbers(\"9999\") =="}
+{"id": "C/15", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_8b_instruct__ft_grounded_c/tmp/15.c:45: main: Assertion `count_coloring_methods(2,"}
+{"id": "C/16", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/17", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_8b_instruct__ft_grounded_c/tmp/17.c:52: main: Assertion `find_longest_consecutive_"}
+{"id": "C/18", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘:’ token"}
+{"id": "C/19", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘.’ token"}
+{"id": "C/20", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘a’"}
+{"id": "C/21", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘:’ token"}
+{"id": "C/22", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/23", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: ‘ab_sq’ undeclared (first use in this function); did you mean ‘b_sq’?"}
+{"id": "C/24", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘*’ token"}
+{"id": "C/25", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_8b_instruct__ft_grounded_c/tmp/25.c:60: main: Assertion `strcmp(shift_characters(t"}
+{"id": "C/26", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘:’ token"}
+{"id": "C/27", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘:’ token"}
+{"id": "C/28", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘.’ token"}
+{"id": "C/29", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘:’ token"}
+{"id": "C/30", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘:’ token"}
+{"id": "C/31", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘-’ token"}
+{"id": "C/32", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘:’ token"}
+{"id": "C/33", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_8b_instruct__ft_grounded_c/tmp/33.c:45: main: Assertion `newModuloFactorial(10, 3)"}
+{"id": "C/34", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘:’ token"}
+{"id": "C/35", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_8b_instruct__ft_grounded_c/tmp/35.c:42: main: Assertion `gameWinner(3, test1) == \""}
+{"id": "C/36", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_8b_instruct__ft_grounded_c/tmp/36.c:29: main: Assertion `minTotalCost(5, costs1) ="}
+{"id": "C/37", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘:’ token"}
+{"id": "C/38", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_8b_instruct__ft_grounded_c/tmp/38.c:56: main: Assertion `maxModeSum(3, (int[]){1, "}
+{"id": "C/39", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘function’"}
+{"id": "C/40", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_8b_instruct__ft_grounded_c/tmp/40.c:31: main: Assertion `countPowerNumbers(99, 1) "}
+{"id": "C/41", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_8b_instruct__ft_grounded_c/tmp/41.c:50: main: Assertion `countBalancedSubsequences"}
+{"id": "C/42", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_8b_instruct__ft_grounded_c/tmp/42.c:42: main: Assertion `expectedCuts(2, 4, 10) =="}
+{"id": "C/43", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_8b_instruct__ft_grounded_c/tmp/43.c:59: main: Assertion `countPermutations(2, 1, q"}
+{"id": "C/44", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/45", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/granite_33_8b_instruct__ft_grounded_c/tmp/45.c:51: main: Assertion `minOperations(5, (int[]){"}
+{"id": "C/46", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘:’ token"}
+{"id": "C/47", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘-’ token"}
+{"id": "C/48", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘:’ token"}
+{"id": "C/49", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘function’"}
+{"id": "C/50", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: expected declaration specifiers before ‘*’ token"}

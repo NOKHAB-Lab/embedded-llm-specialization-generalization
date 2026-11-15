@@ -1,0 +1,50 @@
+{"id": "C/1", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None mp/1.c:10:19: warning: passing argument 1 of ‘strcmp’ makes pointer from integer without a cast [-Wint-conversion]\nIn file included from <project>"}
+{"id": "C/2", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/3", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: incompatible types when returning type ‘char *’ but ‘double’ was expected"}
+{"id": "C/4", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/5", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/6", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-11 "}
+{"id": "C/7", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/8", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_c/tmp/8.c:25: main:"}
+{"id": "C/9", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/10", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/11", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None l_c/tmp/cc7fi3yF.o: in function `main':\n11.c:(.text+0x5c): undefined reference to `are_intervals_intersecting'\n/usr/bin/ld: 11.c:(.text+0x9e): undefined referen"}
+{"id": "C/12", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/13", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/14", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_c/tmp/14.c:38: main"}
+{"id": "C/15", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_c/tmp/15.c:31: main"}
+{"id": "C/16", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/17", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/18", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_c/tmp/18.c:44: main"}
+{"id": "C/19", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None starcoder2_3b__ft_original_c/tmp/ccRweFxE.o: in function `main':\n19.c:(.text+0x8b): undefined reference to `count_permutations_of_binary_string'\n/usr/bin/ld: 19"}
+{"id": "C/20", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None error: expected ‘)’ before ‘int’"}
+{"id": "C/21", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None 21.c:(.text+0xc2): undefined reference to `Is_Square'\n/usr/bin/ld: 21.c:(.text+0x113): undefined reference to `Is_Square'\n/usr/bin/ld: 21.c:(.text+0x164): undef"}
+{"id": "C/22", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/23", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_c/tmp/23.c:52: main"}
+{"id": "C/24", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/25", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_c/tmp/25.c:55: main"}
+{"id": "C/26", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None <evaluator>/mceval_c/native/starcoder2_3b__ft_original_c/tmp/26.c:19:5: note: expected ‘char *"}
+{"id": "C/27", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/28", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/29", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/30", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None ument 1 of ‘strcmp’ makes pointer from integer without a cast [-Wint-conversion]\nIn file included from <evaluator>"}
+{"id": "C/31", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_c/tmp/31.c:31: main"}
+{"id": "C/32", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_c/tmp/32.c:20: main"}
+{"id": "C/33", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_c/tmp/33.c:22: main"}
+{"id": "C/34", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_c/tmp/34.c:39: main"}
+{"id": "C/35", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_c/tmp/35.c:50: main"}
+{"id": "C/36", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_c/tmp/36.c:25: main"}
+{"id": "C/37", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_c/tmp/37.c:24: main"}
+{"id": "C/38", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_c/tmp/38.c:46: main"}
+{"id": "C/39", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_c/tmp/39.c:25: main"}
+{"id": "C/40", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_c/tmp/40.c:27: main"}
+{"id": "C/41", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None (.text+0x19): undefined reference to `countBalancedSubsequences'\n/usr/bin/ld: 41.c:(.text+0x56): undefined reference to `countBalancedSubsequences'\n/usr/bin/ld:"}
+{"id": "C/42", "official_pass": false, "official_status": "compile_failed", "detail": "path=whole_text exit=None  reference to `expectedCuts'\n/usr/bin/ld: 42.c:(.text+0x293): undefined reference to `expectedCuts'\n/usr/bin/ld: 42.c:(.text+0x2d0): undefined reference to `exp"}
+{"id": "C/43", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_c/tmp/43.c:36: main"}
+{"id": "C/44", "official_pass": false, "official_status": "compile_failed", "detail": "path=entry_regex exit=None error: ld returned 1 exi"}
+{"id": "C/45", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_c/tmp/45.c:27: main"}
+{"id": "C/46", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/47", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_c/tmp/47.c:42: main"}
+{"id": "C/48", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/49", "official_pass": true, "official_status": "pass", "detail": "path=entry_regex exit=0"}
+{"id": "C/50", "official_pass": false, "official_status": "run_failed", "detail": "path=entry_regex exit=-6 work: <evaluator>/mceval_c/native/starcoder2_3b__ft_original_c/tmp/50.c:20: main"}

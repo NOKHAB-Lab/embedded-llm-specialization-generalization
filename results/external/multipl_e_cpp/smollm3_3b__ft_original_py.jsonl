@@ -1,0 +1,161 @@
+{"id": "HumanEval_0_has_close_elements", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 <evaluator>/multipl_e_cpp/toolchain/gcc11-jammy/root/usr/include/c++/11/bits/stl_algo.h:1866:25:   required from \u2018void std::__f"}
+{"id": "HumanEval_1_separate_paren_groups", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmplhwsrf13: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmplhwsrf13.cpp:37: int main(): Assertion `candida"}
+{"id": "HumanEval_2_truncate_number", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_3_below_zero", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_4_mean_absolute_deviation", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_5_intersperse", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_6_parse_nested_parens", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-11 "}
+{"id": "HumanEval_7_filter_by_substring", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_8_sum_product", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_9_rolling_max", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_10_make_palindrome", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpmn6zoq85: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpmn6zoq85.cpp:31: int main(): Assertion `candida"}
+{"id": "HumanEval_11_string_xor", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018to_char_t\u2019 is not a member of \u2018std\u2019; did you mean \u2018to_chars\u2019?"}
+{"id": "HumanEval_12_longest", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_13_greatest_common_divisor", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_14_all_prefixes", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp8qfecfp9: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmp8qfecfp9.cpp:15: int main(): Assertion `candida"}
+{"id": "HumanEval_15_string_sequence", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp2o5t_8s5: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmp2o5t_8s5.cpp:22: int main(): Assertion `candida"}
+{"id": "HumanEval_16_count_distinct_characters", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp9fr6icr7: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmp9fr6icr7.cpp:15: int main(): Assertion `candida"}
+{"id": "HumanEval_17_parse_music", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018get_duration\u2019 was not declared in this scope; did you mean \u2018duration\u2019?"}
+{"id": "HumanEval_18_how_many_times", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: a function-definition is not allowed here before \u2018{\u2019 token"}
+{"id": "HumanEval_19_sort_numbers", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: no match for \u2018operator*\u2019 (operand types are \u2018std::string\u2019 {aka \u2018std::__cxx11::basic_string<char>\u2019} and \u2018__gnu_cxx::__alloc_traits<std::allocator<int>, in"}
+{"id": "HumanEval_20_find_closest_elements", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpfp7ubsr7: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpfp7ubsr7.cpp:30: int main(): Assertion `candida"}
+{"id": "HumanEval_21_rescale_to_unit", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_22_filter_integers", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: invalid \u2018static_cast\u2019 from type \u2018const std::any\u2019 to type \u2018long int\u2019"}
+{"id": "HumanEval_23_strlen", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_24_largest_divisor", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018ONE\u2019 was not declared in this scope"}
+{"id": "HumanEval_25_factorize", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 free(): invalid pointer"}
+{"id": "HumanEval_26_remove_duplicates", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpzm_zhiyt: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpzm_zhiyt.cpp:23: int main(): Assertion `candida"}
+{"id": "HumanEval_27_flip_case", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpytluma2y: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpytluma2y.cpp:16: int main(): Assertion `candida"}
+{"id": "HumanEval_28_concatenate", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_29_filter_by_prefix", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_30_get_positive", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_31_is_prime", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_33_sort_third", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpy0fjwyjx: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpy0fjwyjx.cpp:16: int main(): Assertion `candida"}
+{"id": "HumanEval_34_unique", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpbhdmes6j: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpbhdmes6j.cpp:22: int main(): Assertion `candida"}
+{"id": "HumanEval_35_max_element", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_36_fizz_buzz", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: a function-definition is not allowed here before \u2018{\u2019 token"}
+{"id": "HumanEval_37_sort_even", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_39_prime_fib", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpbp1l97nl: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpbp1l97nl.cpp:42: int main(): Assertion `candida"}
+{"id": "HumanEval_40_triples_sum_to_zero", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-11 "}
+{"id": "HumanEval_41_car_race_collision", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmppgrq_ma2: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmppgrq_ma2.cpp:16: int main(): Assertion `candida"}
+{"id": "HumanEval_42_incr_list", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_43_pairs_sum_to_zero", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_44_change_base", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_45_triangle_area", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_46_fib4", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_47_median", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: unable to deduce \u2018auto\u2019 from \u2018median\u2019"}
+{"id": "HumanEval_48_is_palindrome", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpabh9ii9l: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpabh9ii9l.cpp:21: int main(): Assertion `candida"}
+{"id": "HumanEval_49_modp", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpx40qyb3i: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpx40qyb3i.cpp:29: int main(): Assertion `candida"}
+{"id": "HumanEval_51_remove_vowels", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018is_vowel\u2019 was not declared in this scope"}
+{"id": "HumanEval_52_below_threshold", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_53_add", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_54_same_chars", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpzfw_bzn3: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpzfw_bzn3.cpp:18: int main(): Assertion `candida"}
+{"id": "HumanEval_55_fib", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_56_correct_bracketing", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpwof5d85y: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpwof5d85y.cpp:24: int main(): Assertion `candida"}
+{"id": "HumanEval_57_monotonic", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_58_common", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_59_largest_prime_factor", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp3x69x3ec: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmp3x69x3ec.cpp:38: int main(): Assertion `candida"}
+{"id": "HumanEval_60_sum_to_n", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_61_correct_bracketing", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_62_derivative", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpmqmg088e: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpmqmg088e.cpp:16: int main(): Assertion `candida"}
+{"id": "HumanEval_63_fibfib", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_64_vowels_count", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpkwd4zi5l: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpkwd4zi5l.cpp:25: int main(): Assertion `candida"}
+{"id": "HumanEval_65_circular_shift", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: no matching function for call to \u2018std::__cxx11::basic_string<char>::basic_string(long int&)\u2019"}
+{"id": "HumanEval_66_digitSum", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp2qudl_hf: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmp2qudl_hf.cpp:35: int main(): Assertion `candida"}
+{"id": "HumanEval_67_fruit_distribution", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: a function-definition is not allowed here before \u2018{\u2019 token"}
+{"id": "HumanEval_68_pluck", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpcslpv0ab: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpcslpv0ab.cpp:32: int main(): Assertion `candida"}
+{"id": "HumanEval_69_search", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: no matching function for call to \u2018max(long int&, int&)\u2019"}
+{"id": "HumanEval_70_strange_sort_list", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp3cbked1b: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmp3cbked1b.cpp:26: int main(): Assertion `candida"}
+{"id": "HumanEval_71_triangle_area", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp6bcv6euy: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmp6bcv6euy.cpp:29: int main(): Assertion `candida"}
+{"id": "HumanEval_72_will_it_fly", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 <evaluator>/multipl_e_cpp/toolchain/gcc11-jammy/root/usr/include/c++/11/bits/stl_algo.h:1866:25:   required from \u2018void std::__f"}
+{"id": "HumanEval_73_smallest_change", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_74_total_match", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmptb_yy54b: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmptb_yy54b.cpp:62: int main(): Assertion `candida"}
+{"id": "HumanEval_75_is_multiply_prime", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpalkb8ab2: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpalkb8ab2.cpp:39: int main(): Assertion `candida"}
+{"id": "HumanEval_76_is_simple_power", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpf83whyhy: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpf83whyhy.cpp:26: int main(): Assertion `candida"}
+{"id": "HumanEval_77_iscube", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_78_hex_key", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: a function-definition is not allowed here before \u2018{\u2019 token"}
+{"id": "HumanEval_79_decimal_to_binary", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpej41kowu: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpej41kowu.cpp:32: int main(): Assertion `candida"}
+{"id": "HumanEval_80_is_happy", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: expected \u2018;\u2019 after class definition"}
+{"id": "HumanEval_81_numerical_letter_grade", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpidpfwjup: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpidpfwjup.cpp:20: int main(): Assertion `candida"}
+{"id": "HumanEval_82_prime_length", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: pair: No such file or directory"}
+{"id": "HumanEval_83_starts_one_ends", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: invalid operands of types \u2018double\u2019 and \u2018long int\u2019 to binary \u2018operator^\u2019"}
+{"id": "HumanEval_84_solve", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpqdvm0moo: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpqdvm0moo.cpp:39: int main(): Assertion `candida"}
+{"id": "HumanEval_85_add", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_86_anti_shuffle", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpdz05vdxo: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpdz05vdxo.cpp:33: int main(): Assertion `candida"}
+{"id": "HumanEval_87_get_row", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpcjd0ohcm: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpcjd0ohcm.cpp:36: int main(): Assertion `candida"}
+{"id": "HumanEval_88_sort_array", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-11 "}
+{"id": "HumanEval_89_encrypt", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018toascii\u2019 is not a member of \u2018std\u2019; did you mean \u2018toascii\u2019?"}
+{"id": "HumanEval_90_next_smallest", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_91_is_bored", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpfetw6l84: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpfetw6l84.cpp:27: int main(): Assertion `candida"}
+{"id": "HumanEval_92_any_int", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpmktpi0wr: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpmktpi0wr.cpp:13: int main(): Assertion `candida"}
+{"id": "HumanEval_93_encode", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018make_iterator_pair\u2019 is not a member of \u2018std\u2019"}
+{"id": "HumanEval_94_skjkasdkd", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpl5by3il6: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpl5by3il6.cpp:50: int main(): Assertion `candida"}
+{"id": "HumanEval_95_check_dict_case", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: no matching function for call to \u2018tolower(std::string&)\u2019"}
+{"id": "HumanEval_96_count_up_to", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_97_multiply", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpjzxp0ups: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpjzxp0ups.cpp:21: int main(): Assertion `candida"}
+{"id": "HumanEval_98_count_upper", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpw6wyylc9: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpw6wyylc9.cpp:20: int main(): Assertion `candida"}
+{"id": "HumanEval_99_closest_integer", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpdcb81q5s: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpdcb81q5s.cpp:67: int main(): Assertion `candida"}
+{"id": "HumanEval_100_make_a_pile", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6   what():  std::bad_alloc"}
+{"id": "HumanEval_101_words_string", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpir7h2iua: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpir7h2iua.cpp:21: int main(): Assertion `candida"}
+{"id": "HumanEval_102_choose_num", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpl0guec79: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpl0guec79.cpp:30: int main(): Assertion `candida"}
+{"id": "HumanEval_103_rounded_avg", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpqonq7042: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpqonq7042.cpp:27: int main(): Assertion `candida"}
+{"id": "HumanEval_104_unique_digits", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: no matching function for call to \u2018stoi(char&)\u2019"}
+{"id": "HumanEval_105_by_length", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpt7ibeuaw: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpt7ibeuaw.cpp:31: int main(): Assertion `candida"}
+{"id": "HumanEval_106_f", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp_e5gbw7x: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmp_e5gbw7x.cpp:22: int main(): Assertion `candida"}
+{"id": "HumanEval_107_even_odd_palindrome", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: a function-definition is not allowed here before \u2018{\u2019 token"}
+{"id": "HumanEval_108_count_nums", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmptiyy7ur7: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmptiyy7ur7.cpp:33: int main(): Assertion `candida"}
+{"id": "HumanEval_109_move_one_ball", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-11 "}
+{"id": "HumanEval_110_exchange", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: unable to deduce \u2018auto\u2019 from \u2018std::exchange\u2019"}
+{"id": "HumanEval_111_histogram", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: no match for \u2018operator==\u2019 (operand types are \u2018const long int\u2019 and \u2018std::__cxx11::basic_string<char>\u2019)"}
+{"id": "HumanEval_112_reverse_delete", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_113_odd_count", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmptsmypokx: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmptsmypokx.cpp:22: int main(): Assertion `candida"}
+{"id": "HumanEval_114_minSubArraySum", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_115_max_fill", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: a function-definition is not allowed here before \u2018{\u2019 token"}
+{"id": "HumanEval_116_sort_array", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp9b7mq21n: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmp9b7mq21n.cpp:20: int main(): Assertion `candida"}
+{"id": "HumanEval_117_select_words", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018ispace\u2019 is not a member of \u2018std\u2019; did you mean \u2018isspace\u2019?"}
+{"id": "HumanEval_118_get_closest_vowel", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: no match for \u2018operator!\u2019 (operand type is \u2018__gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char> >\u2019)"}
+{"id": "HumanEval_119_match_parens", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: ISO C++ forbids comparison between pointer and integer [-fpermissive]"}
+{"id": "HumanEval_120_maximum", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpfd04h16z: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpfd04h16z.cpp:28: int main(): Assertion `candida"}
+{"id": "HumanEval_121_solution", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_122_add_elements", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpzvdxu3xh: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpzvdxu3xh.cpp:21: int main(): Assertion `candida"}
+{"id": "HumanEval_123_get_odd_collatz", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_124_valid_date", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: a function-definition is not allowed here before \u2018{\u2019 token"}
+{"id": "HumanEval_125_split_words", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpbeffa7xp: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpbeffa7xp.cpp:32: int main(): Assertion `candida"}
+{"id": "HumanEval_126_is_sorted", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: unable to deduce \u2018auto\u2019 from \u2018std::is_sorted\u2019"}
+{"id": "HumanEval_127_intersection", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=-1 error: no match for \u2018operator==\u2019 (operand types are \u2018std::tuple<long int, long int>\u2019 and \u2018const char [3]\u2019)"}
+{"id": "HumanEval_128_prod_signs", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpii2ffkwk: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpii2ffkwk.cpp:22: int main(): Assertion `candida"}
+{"id": "HumanEval_129_minPath", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpquu0oktt: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpquu0oktt.cpp:83: int main(): Assertion `candida"}
+{"id": "HumanEval_130_tri", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp6_9m6gmo: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmp6_9m6gmo.cpp:18: int main(): Assertion `candida"}
+{"id": "HumanEval_131_digits", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=-1 error: no match for \u2018operator==\u2019 (operand types are \u2018std::vector<int>\u2019 and \u2018int\u2019)"}
+{"id": "HumanEval_132_is_nested", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp4crf_89m: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmp4crf_89m.cpp:22: int main(): Assertion `candida"}
+{"id": "HumanEval_133_sum_squares", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_134_check_if_last_char_is_a_letter", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpwwsn03vr: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpwwsn03vr.cpp:16: int main(): Assertion `candida"}
+{"id": "HumanEval_135_can_arrange", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 <evaluator>/multipl_e_cpp/toolchain/gcc11-jammy/root/usr/include/c++/11/bits/stl_algo.h:1866:25:   required from \u2018void std::__f"}
+{"id": "HumanEval_136_largest_smallest_integers", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_137_compare_one", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=-1 error: too few arguments to function \u2018std::ios_base& std::boolalpha(std::ios_base&)\u2019"}
+{"id": "HumanEval_138_is_equal_to_sum_even", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp6hnxiveb: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmp6hnxiveb.cpp:41: int main(): Assertion `candida"}
+{"id": "HumanEval_139_special_factorial", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018factorial\u2019 is not a member of \u2018std\u2019"}
+{"id": "HumanEval_140_fix_spaces", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmplr5z6728: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmplr5z6728.cpp:42: int main(): Assertion `candida"}
+{"id": "HumanEval_141_file_name_check", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: a function-definition is not allowed here before \u2018{\u2019 token"}
+{"id": "HumanEval_142_sum_squares", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_143_words_in_sentence", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_144_simplify", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpw94utmtt: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpw94utmtt.cpp:63: int main(): Assertion `candida"}
+{"id": "HumanEval_145_order_by_points", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpcwlkp3kp: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpcwlkp3kp.cpp:26: int main(): Assertion `candida"}
+{"id": "HumanEval_146_specialFilter", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_147_get_max_triples", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp7qx_cek5: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmp7qx_cek5.cpp:27: int main(): Assertion `candida"}
+{"id": "HumanEval_148_bf", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: expected \u2018,\u2019 or \u2018;\u2019 before \u2018int\u2019"}
+{"id": "HumanEval_149_sorted_list_sum", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp6en8df7t: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmp6en8df7t.cpp:16: int main(): Assertion `candida"}
+{"id": "HumanEval_150_x_or_y", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_151_double_the_difference", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp2hdikugq: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmp2hdikugq.cpp:18: int main(): Assertion `candida"}
+{"id": "HumanEval_152_compare", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_153_Strongest_Extension", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: a function-definition is not allowed here before \u2018{\u2019 token"}
+{"id": "HumanEval_154_cycpattern_check", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpdb0heq_h: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpdb0heq_h.cpp:16: int main(): Assertion `candida"}
+{"id": "HumanEval_155_even_odd_count", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpj_2ovlgy: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpj_2ovlgy.cpp:30: int main(): Assertion `candida"}
+{"id": "HumanEval_156_int_to_mini_roman", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpypp88yu9: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpypp88yu9.cpp:32: int main(): Assertion `candida"}
+{"id": "HumanEval_157_right_angle_triangle", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: a function-definition is not allowed here before \u2018{\u2019 token"}
+{"id": "HumanEval_158_find_max", "official_pass": true, "official_status": "OK", "detail": "rule=split exit=0"}
+{"id": "HumanEval_159_eat", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp3i059k7f: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmp3i059k7f.cpp:21: int main(): Assertion `candida"}
+{"id": "HumanEval_160_do_algebra", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpj5w2qtr_: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpj5w2qtr_.cpp:22: int main(): Assertion `candida"}
+{"id": "HumanEval_161_solve", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmpkcdfzw_5: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmpkcdfzw_5.cpp:20: int main(): Assertion `candida"}
+{"id": "HumanEval_162_string_to_md5", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: expected unqualified-id before string constant"}
+{"id": "HumanEval_163_generate_integers", "official_pass": false, "official_status": "Exception", "detail": "rule=split exit=-6 tmp8teus0x6: <evaluator>/multipl_e_cpp/native/smollm3_3b__ft_original_py/tmp/tmp8teus0x6.cpp:19: int main(): Assertion `candida"}

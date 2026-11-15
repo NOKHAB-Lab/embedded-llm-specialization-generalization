@@ -1,0 +1,342 @@
+{"id": "3487", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/44 Wrong Answer"}
+{"id": "3502", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3562", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3566", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3587", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error IndexError('list index out of range')"}
+{"id": "3588", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error TypeError('list indices must be integers or slices, not str')"}
+{"id": "3591", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error TypeError(\"unsupported operand type(s) for -: 'str' and 'str'\")"}
+{"id": "3593", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3594", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3603", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error UnboundLocalError(\"cannot access local variable 'dfsStr' where it is not associated with a value\")"}
+{"id": "3604", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=2/43 Wrong Answer"}
+{"id": "3605", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/33 Wrong Answer"}
+{"id": "3607", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3608", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3610", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/33 Wrong Answer"}
+{"id": "3612", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/33 Wrong Answer"}
+{"id": "3613", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error IndexError('list index out of range')"}
+{"id": "3616", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/33 Wrong Answer"}
+{"id": "3617", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/34 Wrong Answer"}
+{"id": "3620", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3621", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/34 Runtime Error ValueError('max() arg is an empty sequence')"}
+{"id": "3622", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error TypeError(\"'int' object is not iterable\")"}
+{"id": "3625", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/33 Wrong Answer"}
+{"id": "3626", "official_pass": false, "official_status": "Error during testing", "detail": "[ran] tests=0/33 Error during testing: name 'Solution' is not defined"}
+{"id": "3627", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3629", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=1/42 Wrong Answer"}
+{"id": "3631", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3632", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=2/33 Wrong Answer"}
+{"id": "3634", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error TypeError(\"'str' object does not support item assignment\")"}
+{"id": "3636", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=33/33"}
+{"id": "3637", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3638", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3639", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3644", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/34 Wrong Answer"}
+{"id": "3646", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3647", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3648", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3649", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3651", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=33/33"}
+{"id": "3653", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3654", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3655", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3656", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/34 Wrong Answer"}
+{"id": "3657", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3658", "official_pass": false, "official_status": "Time Limit Exceeded", "detail": "[ran] tests=0/43 Time Limit Exceeded"}
+{"id": "3659", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3674", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3675", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error NameError(\"name 'parent' is not defined\")"}
+{"id": "3676", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=3/34 Wrong Answer"}
+{"id": "3677", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3680", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error KeyError(4)"}
+{"id": "3681", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3682", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3683", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3684", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=4/34 Wrong Answer"}
+{"id": "3685", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/33 Wrong Answer"}
+{"id": "3686", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3687", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3688", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3690", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3692", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/44 Wrong Answer"}
+{"id": "3696", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3697", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=1/43 Wrong Answer"}
+{"id": "3699", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3700", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3701", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: invalid syntax (<string>, line 70)"}
+{"id": "3702", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/34 Runtime Error TypeError(\"'int' object is not callable\")"}
+{"id": "3704", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/34 Wrong Answer"}
+{"id": "3705", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/34 Wrong Answer"}
+{"id": "3708", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/34 Wrong Answer"}
+{"id": "3709", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/33 Runtime Error IndexError('string index out of range')"}
+{"id": "3714", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3715", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3716", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3717", "official_pass": false, "official_status": "TestRunnerError", "detail": "[ran] tests=0/42 TestRunnerError IndexError('list index out of range')"}
+{"id": "3720", "official_pass": false, "official_status": "Time Limit Exceeded", "detail": "[ran] tests=0/44 Time Limit Exceeded"}
+{"id": "3721", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error ValueError(\"invalid literal for int() with base 10: 'id1'\")"}
+{"id": "3722", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error TypeError(\"'int' object is not iterable\")"}
+{"id": "3723", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/33 Runtime Error IndexError('list index out of range')"}
+{"id": "3725", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error IndexError('list index out of range')"}
+{"id": "3731", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/33 Wrong Answer"}
+{"id": "3733", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/44 Wrong Answer"}
+{"id": "3736", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/34 Wrong Answer"}
+{"id": "3737", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3739", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3743", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3744", "official_pass": false, "official_status": "Time Limit Exceeded", "detail": "[ran] tests=0/42 Time Limit Exceeded"}
+{"id": "3747", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=33/33"}
+{"id": "3748", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error IndexError('list index out of range')"}
+{"id": "3750", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3751", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3753", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/33 Runtime Error ValueError('max() arg is an empty sequence')"}
+{"id": "3754", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error UnboundLocalError(\"cannot access local variable 'max_distance' where it is not associated with a value\")"}
+{"id": "3759", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error IndexError('list index out of range')"}
+{"id": "3760", "official_pass": false, "official_status": "Time Limit Exceeded", "detail": "[ran] tests=20/43 Time Limit Exceeded"}
+{"id": "3762", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3763", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3764", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error IndexError('list index out of range')"}
+{"id": "3765", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3768", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/33 Runtime Error IndexError('string index out of range')"}
+{"id": "3770", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3771", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error TypeError(\"unsupported operand type(s) for -: 'str' and 'str'\")"}
+{"id": "3773", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=1/33 Wrong Answer"}
+{"id": "3776", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3777", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3778", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=33/33"}
+{"id": "3779", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3781", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3783", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3784", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3785", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3786", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error IndexError('string index out of range')"}
+{"id": "3788", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=1/34 Wrong Answer"}
+{"id": "3789", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error IndexError('list index out of range')"}
+{"id": "3791", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=1/42 Wrong Answer"}
+{"id": "3793", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=1/44 Runtime Error IndexError('string index out of range')"}
+{"id": "3794", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3795", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/44 Wrong Answer"}
+{"id": "3799", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/35 Wrong Answer"}
+{"id": "3801", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=1/42 Wrong Answer"}
+{"id": "3805", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=1/44 Wrong Answer"}
+{"id": "3809", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=6/43 Wrong Answer"}
+{"id": "3811", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/33 Wrong Answer"}
+{"id": "3817", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/33 Wrong Answer"}
+{"id": "3832", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/33 Wrong Answer"}
+{"id": "abc374_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=19/19"}
+{"id": "abc374_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=1/25 Wrong answer at output_line_idx=0: 5 != 6"}
+{"id": "abc374_c", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/30 Error during testing: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers (<string>, line 49)"}
+{"id": "abc374_d", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/44 Error during testing: invalid syntax (<string>, line 10)"}
+{"id": "abc374_e", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/44 Error during testing: invalid syntax (<string>, line 6)"}
+{"id": "abc374_f", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: invalid syntax (<string>, line 5)"}
+{"id": "abc374_g", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: invalid syntax (<string>, line 9)"}
+{"id": "abc375_a", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/23 Error during testing: invalid syntax (<string>, line 7)"}
+{"id": "abc375_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/14 Wrong answer at output_line_idx=0: 3.23606797749979 != 6.06449510224597979401"}
+{"id": "abc375_c", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/36 Runtime Error IndexError('list assignment index out of range')"}
+{"id": "abc375_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/34 Wrong answer at output_line_idx=0: 1 != 5"}
+{"id": "abc375_e", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/52 Error during testing: invalid syntax (<string>, line 5)"}
+{"id": "abc375_f", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/29 Error during testing: invalid syntax (<string>, line 7)"}
+{"id": "abc375_g", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/45 Runtime Error NameError(\"name 'm' is not defined\")"}
+{"id": "abc376_a", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/17 Error during testing: invalid syntax (<string>, line 11)"}
+{"id": "abc376_b", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/24 Error during testing: invalid syntax (<string>, line 7)"}
+{"id": "abc376_c", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/30 Error during testing: invalid syntax (<string>, line 6)"}
+{"id": "abc376_d", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/39 Runtime Error ValueError(\"invalid literal for int() with base 10: '3 3'\")"}
+{"id": "abc376_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/38 Wrong answer at output_line_idx=0: 105 != 42"}
+{"id": "abc376_f", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/37 Error during testing: invalid syntax (<string>, line 8)"}
+{"id": "abc376_g", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/39 Error during testing: invalid syntax (<string>, line 9)"}
+{"id": "abc377_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/18 Wrong answer at output_line_idx=0: No != Yes"}
+{"id": "abc377_b", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/17 Error during testing: invalid syntax (<string>, line 9)"}
+{"id": "abc377_c", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/35 Error during testing: invalid syntax (<string>, line 10)"}
+{"id": "abc377_d", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/32 Error during testing: invalid syntax (<string>, line 4)"}
+{"id": "abc377_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/50 Wrong answer at output_line_idx=0: 4 4 4 4 4 4 != 6 1 3 2 4 5"}
+{"id": "abc377_f", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: invalid syntax (<string>, line 9)"}
+{"id": "abc377_g", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/40 Error during testing: invalid syntax (<string>, line 7)"}
+{"id": "abc378_a", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: invalid syntax (<string>, line 5)"}
+{"id": "abc378_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/41 Wrong answer at output_line_idx=0: 896 != 3"}
+{"id": "abc378_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0:  != -1 -1 1 3 -1"}
+{"id": "abc378_d", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: invalid syntax (<string>, line 9)"}
+{"id": "abc378_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 1 != 10"}
+{"id": "abc378_f", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 0 != 1"}
+{"id": "abc378_g", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error ValueError('too many values to unpack (expected 2)')"}
+{"id": "abc379_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=42/42"}
+{"id": "abc379_b", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: invalid syntax (<string>, line 6)"}
+{"id": "abc379_c", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/42 Error during testing: invalid syntax (<string>, line 10)"}
+{"id": "abc379_d", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error ValueError(\"invalid literal for int() with base 10: '2 15'\")"}
+{"id": "abc379_e", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error TypeError(\"unsupported operand type(s) for -: 'str' and 'str'\")"}
+{"id": "abc379_f", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/42 Error during testing: invalid syntax (<string>, line 9)"}
+{"id": "abc379_g", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: invalid syntax (<string>, line 10)"}
+{"id": "abc380_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=44/44"}
+{"id": "abc380_b", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/43 Error during testing: expected an indented block after function definition on line 38 (<string>, line 38)"}
+{"id": "abc380_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 01001110001100101001110001100 != 010011111000001"}
+{"id": "abc380_d", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error MemoryError()"}
+{"id": "abc380_e", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/41 Runtime Error ValueError(\"invalid literal for int() with base 10: '5 6'\")"}
+{"id": "abc380_f", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error ValueError(\"invalid literal for int() with base 10: '1 1 2'\")"}
+{"id": "abc380_g", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: invalid syntax (<string>, line 8)"}
+{"id": "abc381_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/44 Wrong answer at output_line_idx=0: No != Yes"}
+{"id": "abc381_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: No != Yes"}
+{"id": "abc381_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 0 != 5"}
+{"id": "abc381_d", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error IndexError('list index out of range')"}
+{"id": "abc381_e", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/41 Error during testing: invalid syntax (<string>, line 9)"}
+{"id": "abc382_a", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: invalid syntax (<string>, line 8)"}
+{"id": "abc382_b", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: invalid syntax (<string>, line 6)"}
+{"id": "abc382_c", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=43/43"}
+{"id": "abc382_d", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/41 Runtime Error ValueError(\"invalid literal for int() with base 10: '3 23'\")"}
+{"id": "abc382_f", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: invalid syntax (<string>, line 10)"}
+{"id": "abc382_g", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/2 Wrong answer at output_line_idx=0: -1 != 4"}
+{"id": "abc383_a", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: invalid syntax (<string>, line 4)"}
+{"id": "abc383_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 0 != 3"}
+{"id": "abc383_c", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/43 Error during testing: expected an indented block after function definition on line 38 (<string>, line 38)"}
+{"id": "abc383_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 0 != 3"}
+{"id": "abc383_e", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/42 Error during testing: invalid syntax (<string>, line 13)"}
+{"id": "abc384_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/44 Wrong answer at output_line_idx=0: agc != gbg"}
+{"id": "abc384_b", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/43 Error during testing: expected an indented block after function definition on line 38 (<string>, line 38)"}
+{"id": "abc384_c", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/43 Error during testing: expected an indented block after function definition on line 38 (<string>, line 38)"}
+{"id": "abc384_d", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/44 Error during testing: invalid syntax (<string>, line 6)"}
+{"id": "abc384_e", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: invalid syntax (<string>, line 10)"}
+{"id": "abc384_f", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error IndexError('list index out of range')"}
+{"id": "abc384_g", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/32 Error during testing: invalid syntax (<string>, line 16)"}
+{"id": "abc385_a", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: invalid syntax (<string>, line 5)"}
+{"id": "abc385_b", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: invalid syntax (<string>, line 10)"}
+{"id": "abc385_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 4 != 3"}
+{"id": "abc385_d", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error TypeError('cannot unpack non-iterable int object')"}
+{"id": "abc385_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0:  != 1"}
+{"id": "abc385_f", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/44 Error during testing: invalid syntax (<string>, line 10)"}
+{"id": "abc386_a", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/45 Error during testing: invalid syntax (<string>, line 8)"}
+{"id": "abc386_b", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error TypeError(\"object of type 'int' has no len()\")"}
+{"id": "abc386_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/46 Wrong answer at output_line_idx=0: No != Yes"}
+{"id": "abc386_d", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/44 Error during testing: invalid syntax (<string>, line 11)"}
+{"id": "abc386_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 4 != 7"}
+{"id": "abc386_f", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error ValueError('not enough values to unpack (expected 3, got 1)')"}
+{"id": "abc387_a", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/44 Runtime Error TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'int'\")"}
+{"id": "abc387_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 81 != 2024"}
+{"id": "abc387_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 7 != 6"}
+{"id": "abc387_f", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: invalid syntax (<string>, line 19)"}
+{"id": "abc388_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=42/42"}
+{"id": "abc388_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer: mismatched output length"}
+{"id": "abc388_c", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error ValueError(\"invalid literal for int() with base 10: '2 3 4 4 7 10'\")"}
+{"id": "abc388_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0:  != 2 0 10 5"}
+{"id": "abc388_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 0 != 3"}
+{"id": "abc388_f", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: No != Yes"}
+{"id": "abc388_g", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/42 Error during testing: invalid syntax (<string>, line 4)"}
+{"id": "abc389_a", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error SyntaxError('invalid decimal literal', ('<string>', 1, 1, '3x8', 1, 1))"}
+{"id": "abc389_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: -1 != 3"}
+{"id": "abc389_d", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: expected an indented block after function definition on line 6 (<string>, line 99)"}
+{"id": "abc389_e", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/42 Error during testing: expected an indented block after function definition on line 38 (<string>, line 38)"}
+{"id": "abc389_f", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: invalid syntax (<string>, line 7)"}
+{"id": "abc389_g", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error TypeError(\"'float' object cannot be interpreted as an integer\")"}
+{"id": "abc390_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/44 Wrong answer at output_line_idx=0: No != Yes"}
+{"id": "abc390_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=2/43 Wrong answer at output_line_idx=0: No != Yes"}
+{"id": "abc390_c", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: invalid syntax (<string>, line 8)"}
+{"id": "abc390_d", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: invalid decimal literal (<string>, line 12)"}
+{"id": "abc390_e", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/42 Error during testing: invalid syntax (<string>, line 5)"}
+{"id": "abc390_f", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error TypeError(\"'RegexFlag' object is not subscriptable\")"}
+{"id": "abc390_g", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: invalid syntax (<string>, line 16)"}
+{"id": "abc391_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=1/42 Wrong answer at output_line_idx=0: SW != NW"}
+{"id": "abc391_b", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=1/42 Runtime Error IndexError('list index out of range')"}
+{"id": "abc391_d", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/42 Error during testing: invalid syntax (<string>, line 12)"}
+{"id": "abc391_e", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error IndexError('list index out of range')"}
+{"id": "abc391_f", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: invalid syntax (<string>, line 16)"}
+{"id": "abc391_g", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error TypeError(\"unsupported operand type(s) for %: 'float' and 'builtin_function_or_method'\")"}
+{"id": "abc392_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=42/42"}
+{"id": "abc392_b", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: invalid syntax (<string>, line 15)"}
+{"id": "abc392_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 3 != 3 4 1 2"}
+{"id": "abc392_d", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/42 Error during testing: invalid syntax (<string>, line 6)"}
+{"id": "abc392_f", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error ValueError(\"invalid literal for int() with base 10: '1 1 2 1'\")"}
+{"id": "abc392_g", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error IndexError('list index out of range')"}
+{"id": "abc393_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: No stomach trouble oyster. != 2"}
+{"id": "abc393_b", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error TypeError('islice() takes no keyword arguments')"}
+{"id": "abc393_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 2 != 3"}
+{"id": "abc393_e", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error StopIteration()"}
+{"id": "abc393_f", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 3 != 2"}
+{"id": "abc394_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=43/43"}
+{"id": "abc394_b", "official_pass": false, "official_status": "Time Limit Exceeded", "detail": "[ran] tests=0/42 Time Limit Exceeded"}
+{"id": "abc394_c", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=43/43"}
+{"id": "abc394_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=1/43 Wrong answer at output_line_idx=0: Yes != No"}
+{"id": "abc394_e", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/42 Error during testing: invalid syntax (<string>, line 2)"}
+{"id": "abc394_f", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error StopIteration()"}
+{"id": "abc394_g", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/41 Error during testing: invalid syntax (<string>, line 10)"}
+{"id": "abc395_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=43/43"}
+{"id": "abc395_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/44 Wrong answer: mismatched output length"}
+{"id": "abc395_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 6 != 4"}
+{"id": "abc395_e", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/44 Runtime Error IndexError('list index out of range')"}
+{"id": "abc395_f", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/44 Runtime Error TypeError(\"'map' object is not subscriptable\")"}
+{"id": "abc396_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/45 Wrong answer at output_line_idx=0: No != Yes"}
+{"id": "abc396_b", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error ValueError(\"invalid literal for int() with base 10: '1 4'\")"}
+{"id": "abc396_c", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: invalid syntax (<string>, line 6)"}
+{"id": "abc396_d", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: invalid syntax (<string>, line 11)"}
+{"id": "abc396_e", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error StopIteration()"}
+{"id": "abc396_f", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: invalid syntax (<string>, line 5)"}
+{"id": "abc396_g", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/36 Error during testing: invalid syntax (<string>, line 5)"}
+{"id": "abc397_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=43/43"}
+{"id": "abc397_b", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error NameError(\"name 'ioi' is not defined\")"}
+{"id": "abc397_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=1/42 Wrong answer at output_line_idx=0: 10 != 8"}
+{"id": "abc397_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 1 396 != 12 11"}
+{"id": "abc397_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer: mismatched output length"}
+{"id": "abc397_f", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=1/42 Wrong answer at output_line_idx=0: 10 != 9"}
+{"id": "abc397_g", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: invalid syntax (<string>, line 7)"}
+{"id": "abc398_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: -- != -==-"}
+{"id": "abc398_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/44 Wrong answer at output_line_idx=0: No != Yes"}
+{"id": "abc398_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer: mismatched output length"}
+{"id": "abc398_d", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: invalid syntax (<string>, line 10)"}
+{"id": "abc398_f", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error NameError(\"name 'ABC' is not defined\")"}
+{"id": "abc398_g", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: invalid syntax (<string>, line 10)"}
+{"id": "abc399_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=44/44"}
+{"id": "abc399_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/44 Wrong answer at output_line_idx=0: 2 != 4"}
+{"id": "abc399_c", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error ValueError(\"invalid literal for int() with base 10: '4 4'\")"}
+{"id": "abc399_d", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/2 Error during testing: invalid syntax (<string>, line 6)"}
+{"id": "abc399_e", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/44 Error during testing: expected an indented block after function definition on line 38 (<string>, line 38)"}
+{"id": "abc399_f", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error ValueError(\"invalid literal for int() with base 10: '3 2\\\\n'\")"}
+{"id": "abc400_a", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error ValueError(\"invalid literal for int() with base 10: '<evaluator>/livecodebench/native/mistral_7b_instruct_v03__ft_original_c/input/custom_outputs.json'\")"}
+{"id": "abc400_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=1/44 Wrong answer at output_line_idx=0: 1000001000001 != inf"}
+{"id": "abc400_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 1 != 5"}
+{"id": "abc400_d", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/44 Error during testing: expected an indented block after 'for' statement on line 20 (<string>, line 27)"}
+{"id": "abc400_e", "official_pass": false, "official_status": "Time Limit Exceeded", "detail": "[ran] tests=0/5 Time Limit Exceeded"}
+{"id": "abc400_g", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/6 Runtime Error IndexError('list index out of range')"}
+{"id": "arc184_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 499999999999999998500000000000000001 != 3"}
+{"id": "arc184_d", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/42 Error during testing: invalid syntax (<string>, line 8)"}
+{"id": "arc184_e", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error IndexError('list index out of range')"}
+{"id": "arc185_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/2 Wrong answer: mismatched output length"}
+{"id": "arc185_c", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error ValueError(\"invalid literal for int() with base 10: '5 16'\")"}
+{"id": "arc185_d", "official_pass": false, "official_status": "Error during testing", "detail": "[ran] tests=0/42 Error during testing: from __future__ imports must occur at the beginning of the file (<string>, line 37)"}
+{"id": "arc185_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer: mismatched output length"}
+{"id": "arc186_a", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/42 Error during testing: invalid syntax (<string>, line 10)"}
+{"id": "arc186_b", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/42 Error during testing: invalid syntax (<string>, line 3)"}
+{"id": "arc186_c", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/2 Runtime Error IndexError('list index out of range')"}
+{"id": "arc186_d", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/44 Error during testing: invalid syntax (<string>, line 10)"}
+{"id": "arc186_e", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/44 Error during testing: invalid syntax (<string>, line 15)"}
+{"id": "arc187_b", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: closing parenthesis ')' does not match opening parenthesis '{' on line 51 (<string>, line 61)"}
+{"id": "arc188_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 54.0 != 1"}
+{"id": "arc188_b", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/2 Error during testing: invalid syntax (<string>, line 6)"}
+{"id": "arc188_c", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: invalid syntax (<string>, line 12)"}
+{"id": "arc188_d", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/42 Error during testing: invalid syntax (<string>, line 12)"}
+{"id": "arc189_a", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/42 Error during testing: invalid syntax (<string>, line 9)"}
+{"id": "arc189_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 23 != 21"}
+{"id": "arc189_c", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/44 Error during testing: invalid syntax (<string>, line 5)"}
+{"id": "arc189_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0:  != 4 30 2 13 2 13"}
+{"id": "arc190_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/44 Wrong answer: mismatched output length"}
+{"id": "arc190_c", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/42 Error during testing: invalid syntax (<string>, line 12)"}
+{"id": "arc190_d", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error StopIteration()"}
+{"id": "arc191_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 555 != 593"}
+{"id": "arc191_c", "official_pass": false, "official_status": "Error during testing", "detail": "[ran] tests=0/2 Error during testing: from __future__ imports must occur at the beginning of the file (<string>, line 37)"}
+{"id": "arc191_d", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error ValueError('too many values to unpack (expected 2)')"}
+{"id": "arc192_a", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: invalid syntax (<string>, line 6)"}
+{"id": "arc192_b", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: unterminated string literal (detected at line 29) (<string>, line 29)"}
+{"id": "arc192_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 7680 != 939634344"}
+{"id": "arc192_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 1 != 192"}
+{"id": "arc193_a", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/42 Error during testing: invalid syntax (<string>, line 13)"}
+{"id": "arc193_b", "official_pass": false, "official_status": "Error during testing", "detail": "[ran] tests=0/42 Error during testing: from __future__ imports must occur at the beginning of the file (<string>, line 37)"}
+{"id": "arc193_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/2 Wrong answer at output_line_idx=0: 0 != 3"}
+{"id": "arc194_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: -4 != 8"}
+{"id": "arc194_b", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error TypeError(\"'itertools.accumulate' object is not subscriptable\")"}
+{"id": "arc194_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 9 != 16"}
+{"id": "arc194_d", "official_pass": false, "official_status": "Error during testing", "detail": "[ran] tests=0/42 Error during testing: expected an indented block after function definition on line 38 (<string>, line 38)"}
+{"id": "arc194_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=2/42 Wrong answer at output_line_idx=0: Yes != No"}
+{"id": "arc195_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=1/43 Wrong answer at output_line_idx=0: Yes != No"}
+{"id": "arc195_b", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: invalid syntax (<string>, line 6)"}
+{"id": "arc195_c", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/5 Error during testing: invalid syntax (<string>, line 11)"}
+{"id": "arc195_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/2 Wrong answer: mismatched output length"}
+{"id": "arc195_e", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error ValueError('not enough values to unpack (expected 2, got 0)')"}
+{"id": "arc196_a", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: Generator expression must be parenthesized (<string>, line 11)"}
+{"id": "arc196_b", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/2 Runtime Error IndexError('list index out of range')"}
+{"id": "arc196_c", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: invalid syntax (<string>, line 2)"}
+{"id": "arc196_d", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/42 Error during testing: invalid syntax (<string>, line 10)"}

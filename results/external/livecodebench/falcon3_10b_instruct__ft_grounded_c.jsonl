@@ -1,0 +1,342 @@
+{"id": "3487", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/44 Wrong Answer"}
+{"id": "3502", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3562", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3566", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3587", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error TypeError(\"maxScore() missing 1 required positional argument: 'travelScore'\")"}
+{"id": "3588", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3591", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/42 Error during testing: invalid syntax (<string>, line 55)"}
+{"id": "3593", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3594", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: '[' was never closed (<string>, line 138)"}
+{"id": "3603", "official_pass": false, "official_status": "Error during testing", "detail": "[ran] tests=0/42 Error during testing: no binding for nonlocal 'dfsStr' found (<string>, line 46)"}
+{"id": "3604", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3605", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/33 Error during testing: invalid decimal literal (<string>, line 54)"}
+{"id": "3607", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error TypeError(\"minOperations() missing 1 required positional argument: 'nums'\")"}
+{"id": "3608", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3610", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/33 Wrong Answer"}
+{"id": "3612", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=33/33"}
+{"id": "3613", "official_pass": false, "official_status": "Error during testing", "detail": "[empty_answer] tests=0/43 Error during testing: cannot unpack non-iterable NoneType object"}
+{"id": "3616", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/33 Wrong Answer"}
+{"id": "3617", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/34 Wrong Answer"}
+{"id": "3620", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3621", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/34 Wrong Answer"}
+{"id": "3622", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3625", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/33 Wrong Answer"}
+{"id": "3626", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=33/33"}
+{"id": "3627", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3629", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3631", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3632", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=1/33 Wrong Answer"}
+{"id": "3634", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3636", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=33/33"}
+{"id": "3637", "official_pass": false, "official_status": "Error during testing", "detail": "[ran] tests=0/43 Error during testing: list index out of range"}
+{"id": "3638", "official_pass": false, "official_status": "Error during testing", "detail": "[ran] tests=0/43 Error during testing: object of type 'int' has no len()"}
+{"id": "3639", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error TypeError(\"isZeroArray() missing 1 required positional argument: 'queries'\")"}
+{"id": "3644", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/34 Runtime Error TypeError(\"minimumSumSubarray() missing 1 required positional argument: 'r'\")"}
+{"id": "3646", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/42 Error during testing: '[' was never closed (<string>, line 89)"}
+{"id": "3647", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3648", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error TypeError(\"maxCollectedFruits() missing 1 required positional argument: 'fruits'\")"}
+{"id": "3649", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3651", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=33/33"}
+{"id": "3653", "official_pass": false, "official_status": "Time Limit Exceeded", "detail": "[ran] tests=11/43 Time Limit Exceeded"}
+{"id": "3654", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error TypeError(\"minArraySum() missing 1 required positional argument: 'op2'\")"}
+{"id": "3655", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3656", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/34 Wrong Answer"}
+{"id": "3657", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3658", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error TypeError(\"minDifference() missing 1 required positional argument: 'nums'\")"}
+{"id": "3659", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=43/43"}
+{"id": "3674", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3675", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3676", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/34 Wrong Answer"}
+{"id": "3677", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error TypeError(\"maximumAmount() missing 1 required positional argument: 'coins'\")"}
+{"id": "3680", "official_pass": false, "official_status": "Time Limit Exceeded", "detail": "[ran] tests=3/42 Time Limit Exceeded"}
+{"id": "3681", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3682", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3683", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3684", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/34 Runtime Error TypeError(\"hasMatch() missing 1 required positional argument: 'p'\")"}
+{"id": "3685", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=33/33"}
+{"id": "3686", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3687", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3688", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=1/42 Wrong Answer"}
+{"id": "3690", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error TypeError(\"minLength() missing 1 required positional argument: 'numOps'\")"}
+{"id": "3692", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/44 Runtime Error TypeError(\"shortestMatchingSubstring() missing 1 required positional argument: 'p'\")"}
+{"id": "3696", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=1/43 Runtime Error ZeroDivisionError('integer modulo by zero')"}
+{"id": "3697", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3699", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3700", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3701", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error TypeError(\"minCostGoodCaption() missing 1 required positional argument: 'caption'\")"}
+{"id": "3702", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/34 Wrong Answer"}
+{"id": "3704", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=34/34"}
+{"id": "3705", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/34 Wrong Answer"}
+{"id": "3708", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/34 Wrong Answer"}
+{"id": "3709", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=21/33 Wrong Answer"}
+{"id": "3714", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3715", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error TypeError(\"maximumCoins() missing 1 required positional argument: 'k'\")"}
+{"id": "3716", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: invalid syntax (<string>, line 44)"}
+{"id": "3717", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error TypeError(\"minOperations() missing 1 required positional argument: 'k'\")"}
+{"id": "3720", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/44 Wrong Answer"}
+{"id": "3721", "official_pass": false, "official_status": "Error during testing", "detail": "[ran] tests=0/43 Error during testing: invalid literal for int() with base 10: 'id1'"}
+{"id": "3722", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3723", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=33/33"}
+{"id": "3725", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3731", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/33 Wrong Answer"}
+{"id": "3733", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/44 Runtime Error IndexError('list index out of range')"}
+{"id": "3736", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=34/34"}
+{"id": "3737", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error TypeError(\"minCost() missing 1 required positional argument: 'cost'\")"}
+{"id": "3739", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3743", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3744", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3747", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=33/33"}
+{"id": "3748", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error IndexError('list index out of range')"}
+{"id": "3750", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error TypeError(\"solveQueries() missing 1 required positional argument: 'queries'\")"}
+{"id": "3751", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error IndexError('list index out of range')"}
+{"id": "3753", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/33 Runtime Error TypeError(\"maxDifference() missing 1 required positional argument: 's'\")"}
+{"id": "3754", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error TypeError(\"maxDistance() missing 1 required positional argument: 'k'\")"}
+{"id": "3759", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error TypeError('list indices must be integers or slices, not list')"}
+{"id": "3760", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3762", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error TypeError(\"maxScore() missing 1 required positional argument: 'm'\")"}
+{"id": "3763", "official_pass": false, "official_status": "Error during testing", "detail": "[ran] tests=0/42 Error during testing: name 'w' is not defined"}
+{"id": "3764", "official_pass": false, "official_status": "Time Limit Exceeded", "detail": "[ran] tests=6/42 Time Limit Exceeded"}
+{"id": "3765", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3768", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/33 Runtime Error TypeError(\"hasSameDigits() missing 1 required positional argument: 's'\")"}
+{"id": "3770", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=1/43 Wrong Answer"}
+{"id": "3771", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=1/43 Wrong Answer"}
+{"id": "3773", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/33 Wrong Answer"}
+{"id": "3776", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error TypeError(\"minCost() missing 1 required positional argument: 'nums'\")"}
+{"id": "3777", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error TypeError(\"maxProduct() missing 1 required positional argument: 'limit'\")"}
+{"id": "3778", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=33/33"}
+{"id": "3779", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error TypeError(\"maxWeight() missing 1 required positional argument: 'pizzas'\")"}
+{"id": "3781", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=1/43 Wrong Answer"}
+{"id": "3783", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error TypeError(\"permute() missing 1 required positional argument: 'k'\")"}
+{"id": "3784", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error TypeError(\"longestCommonPrefix() missing 1 required positional argument: 'k'\")"}
+{"id": "3785", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error MemoryError()"}
+{"id": "3786", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error TypeError(\"longestPalindromicSubsequence() missing 1 required positional argument: 'k'\")"}
+{"id": "3788", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=3/34 Wrong Answer"}
+{"id": "3789", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3791", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong Answer"}
+{"id": "3793", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/44 Wrong Answer"}
+{"id": "3794", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong Answer"}
+{"id": "3795", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/44 Wrong Answer"}
+{"id": "3799", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=1/35 Wrong Answer"}
+{"id": "3801", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=1/42 Wrong Answer"}
+{"id": "3805", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=1/44 Wrong Answer"}
+{"id": "3809", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=2/43 Wrong Answer"}
+{"id": "3811", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=33/33"}
+{"id": "3817", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=33/33"}
+{"id": "3832", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/33 Wrong Answer"}
+{"id": "abc374_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=19/19"}
+{"id": "abc374_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=4/25 Wrong answer at output_line_idx=0: 98 != 91"}
+{"id": "abc374_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/30 Wrong answer at output_line_idx=0: 22 != 17"}
+{"id": "abc374_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/44 Wrong answer at output_line_idx=0: 7.854101966249685 != 6.44317475868633722080"}
+{"id": "abc374_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/44 Wrong answer at output_line_idx=0: 10 != 4"}
+{"id": "abc374_f", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: -8 != 2"}
+{"id": "abc374_g", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 669 != 3"}
+{"id": "abc375_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=23/23"}
+{"id": "abc375_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/14 Wrong answer at output_line_idx=0: 6.06449510224598 != 6.06449510224597979401"}
+{"id": "abc375_c", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/36 Runtime Error IndexError('list assignment index out of range')"}
+{"id": "abc375_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/34 Wrong answer at output_line_idx=0: 0 != 5"}
+{"id": "abc375_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/52 Wrong answer at output_line_idx=0: -1 != 2"}
+{"id": "abc375_f", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/29 Runtime Error EOFError('EOF when reading a line')"}
+{"id": "abc375_g", "official_pass": false, "official_status": "Time Limit Exceeded", "detail": "[ran] tests=3/45 Time Limit Exceeded"}
+{"id": "abc376_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/17 Wrong answer at output_line_idx=0: 2 != 3"}
+{"id": "abc376_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/24 Wrong answer at output_line_idx=0: 6 != 8"}
+{"id": "abc376_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=1/30 Wrong answer at output_line_idx=0: 3 != -1"}
+{"id": "abc376_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/39 Wrong answer at output_line_idx=0: 6 != 3"}
+{"id": "abc376_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/38 Wrong answer at output_line_idx=0: 36 != 42"}
+{"id": "abc376_f", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/37 Wrong answer at output_line_idx=0: 5 != 6"}
+{"id": "abc376_g", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/39 Wrong answer at output_line_idx=0: None != 166374061"}
+{"id": "abc377_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=18/18"}
+{"id": "abc377_b", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=17/17"}
+{"id": "abc377_c", "official_pass": false, "official_status": "Time Limit Exceeded", "detail": "[ran] tests=1/35 Time Limit Exceeded"}
+{"id": "abc377_d", "official_pass": false, "official_status": "Time Limit Exceeded", "detail": "[ran] tests=3/32 Time Limit Exceeded"}
+{"id": "abc377_e", "official_pass": false, "official_status": "Time Limit Exceeded", "detail": "[ran] tests=1/50 Time Limit Exceeded"}
+{"id": "abc377_f", "official_pass": false, "official_status": "Time Limit Exceeded", "detail": "[ran] tests=1/43 Time Limit Exceeded"}
+{"id": "abc377_g", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/40 Wrong answer at output_line_idx=0: inf != 5"}
+{"id": "abc378_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=43/43"}
+{"id": "abc378_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/41 Wrong answer at output_line_idx=0: 17 != 3"}
+{"id": "abc378_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: -1 -1 0 2 -1 != -1 -1 1 3 -1"}
+{"id": "abc378_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 4 != 2"}
+{"id": "abc378_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=1/42 Wrong answer at output_line_idx=0: 1436 != 2736"}
+{"id": "abc378_f", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 0 != 1"}
+{"id": "abc378_g", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 31 != 10"}
+{"id": "abc379_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=42/42"}
+{"id": "abc379_b", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=43/43"}
+{"id": "abc379_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0:  != 4"}
+{"id": "abc379_d", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error IndexError('list index out of range')"}
+{"id": "abc379_e", "official_pass": false, "official_status": "Time Limit Exceeded", "detail": "[ran] tests=20/42 Time Limit Exceeded"}
+{"id": "abc379_f", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error ValueError(\"invalid literal for int() with base 10: '1 2'\")"}
+{"id": "abc379_g", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 27 != 6"}
+{"id": "abc380_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=44/44"}
+{"id": "abc380_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 0 3 1 4 1 5 != 3 1 4 1 5"}
+{"id": "abc380_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 010011100011001 != 010011111000001"}
+{"id": "abc380_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: B a B a B a B a B a B a B a B a != a B A b A b a B A b a B a B A b"}
+{"id": "abc380_e", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=41/41"}
+{"id": "abc380_f", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: Takahashi != Aoki"}
+{"id": "abc380_g", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 2 != 166374061"}
+{"id": "abc381_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=44/44"}
+{"id": "abc381_b", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=43/43"}
+{"id": "abc381_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 0 != 5"}
+{"id": "abc381_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 2 != 4"}
+{"id": "abc381_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/41 Wrong answer at output_line_idx=0: 0 != 5"}
+{"id": "abc382_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=43/43"}
+{"id": "abc382_b", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=43/43"}
+{"id": "abc382_c", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=43/43"}
+{"id": "abc382_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/41 Wrong answer: mismatched output length"}
+{"id": "abc382_f", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 4 != 2"}
+{"id": "abc382_g", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/2 Wrong answer at output_line_idx=1: 5 != 4"}
+{"id": "abc383_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=43/43"}
+{"id": "abc383_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 4 != 3"}
+{"id": "abc383_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 6 != 5"}
+{"id": "abc383_d", "official_pass": false, "official_status": "Time Limit Exceeded", "detail": "[ran] tests=1/42 Time Limit Exceeded"}
+{"id": "abc383_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 12 != 8"}
+{"id": "abc384_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=44/44"}
+{"id": "abc384_b", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=43/43"}
+{"id": "abc384_c", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error NameError(\"name 'B' is not defined\")"}
+{"id": "abc384_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/44 Wrong answer at output_line_idx=0: No != Yes"}
+{"id": "abc384_e", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error IndexError('list index out of range')"}
+{"id": "abc384_f", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=43/43"}
+{"id": "abc384_g", "official_pass": false, "official_status": "Time Limit Exceeded", "detail": "[ran] tests=0/32 Time Limit Exceeded"}
+{"id": "abc385_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=3/43 Wrong answer at output_line_idx=0: Yes != No"}
+{"id": "abc385_b", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=43/43"}
+{"id": "abc385_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 1 != 3"}
+{"id": "abc385_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 2 3 1 != 2 3 2"}
+{"id": "abc385_e", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error ValueError('not enough values to unpack (expected 2, got 0)')"}
+{"id": "abc385_f", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/44 Wrong answer at output_line_idx=0: 0.6666666666666665 != 1.500000000000000000"}
+{"id": "abc386_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=2/45 Wrong answer at output_line_idx=0: No != Yes"}
+{"id": "abc386_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 10 != 6"}
+{"id": "abc386_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=2/46 Wrong answer at output_line_idx=0: No != Yes"}
+{"id": "abc386_d", "official_pass": false, "official_status": "Error during testing", "detail": "[ran] tests=0/44 Error during testing: expected an indented block after function definition on line 38 (<string>, line 38)"}
+{"id": "abc386_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 0 != 7"}
+{"id": "abc386_f", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: No != Yes"}
+{"id": "abc387_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=44/44"}
+{"id": "abc387_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=1/43 Wrong answer at output_line_idx=0: 2014 != 2025"}
+{"id": "abc387_c", "official_pass": false, "official_status": "Time Limit Exceeded", "detail": "[ran] tests=2/43 Time Limit Exceeded"}
+{"id": "abc387_f", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 0 != 6"}
+{"id": "abc388_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=42/42"}
+{"id": "abc388_b", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=42/42"}
+{"id": "abc388_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 12 != 8"}
+{"id": "abc388_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 7 3 11 5 != 2 0 10 5"}
+{"id": "abc388_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=4/43 Wrong answer at output_line_idx=0: 225 != 220"}
+{"id": "abc388_f", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: No != Yes"}
+{"id": "abc388_g", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 0 != 2"}
+{"id": "abc389_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=42/42"}
+{"id": "abc389_b", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=42/42"}
+{"id": "abc389_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 9 != 5"}
+{"id": "abc389_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 2 != 3"}
+{"id": "abc389_f", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=1: 5 != 6"}
+{"id": "abc389_g", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error IndexError('list index out of range')"}
+{"id": "abc390_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=12/44 Wrong answer at output_line_idx=0: No != Yes"}
+{"id": "abc390_b", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=43/43"}
+{"id": "abc390_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: No != Yes"}
+{"id": "abc390_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 1 != 3"}
+{"id": "abc390_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 2 != 3"}
+{"id": "abc390_f", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 20 != 16"}
+{"id": "abc390_g", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 4000 != 1332"}
+{"id": "abc391_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=42/42"}
+{"id": "abc391_b", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=42/42"}
+{"id": "abc391_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=2: Yes != No"}
+{"id": "abc391_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=1/42 Wrong answer at output_line_idx=0: 0 != 2"}
+{"id": "abc391_f", "official_pass": false, "official_status": "Time Limit Exceeded", "detail": "[ran] tests=6/43 Time Limit Exceeded"}
+{"id": "abc391_g", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 676 675 676 != 576 99 1"}
+{"id": "abc392_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=42/42"}
+{"id": "abc392_b", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=43/43"}
+{"id": "abc392_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 4 3 2 1 != 3 4 1 2"}
+{"id": "abc392_d", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error ValueError(\"invalid literal for int() with base 10: '3 1 2 3'\")"}
+{"id": "abc392_f", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 4 2 3 1 1 2 3 4 != 4 2 3 1"}
+{"id": "abc392_g", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=2/43 Wrong answer at output_line_idx=0: 8 != 10"}
+{"id": "abc393_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=42/42"}
+{"id": "abc393_b", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=43/43"}
+{"id": "abc393_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 0 != 3"}
+{"id": "abc393_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 1 != 3"}
+{"id": "abc393_f", "official_pass": false, "official_status": "Time Limit Exceeded", "detail": "[ran] tests=0/42 Time Limit Exceeded"}
+{"id": "abc394_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=43/43"}
+{"id": "abc394_b", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=42/42"}
+{"id": "abc394_c", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=43/43"}
+{"id": "abc394_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=2/43 Wrong answer at output_line_idx=0: Yes != No"}
+{"id": "abc394_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 1 1 2 5 != 0 1 2 4"}
+{"id": "abc394_f", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error ValueError('not enough values to unpack (expected 2, got 1)')"}
+{"id": "abc394_g", "official_pass": false, "official_status": "Time Limit Exceeded", "detail": "[ran] tests=0/41 Time Limit Exceeded"}
+{"id": "abc395_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=43/43"}
+{"id": "abc395_b", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=44/44"}
+{"id": "abc395_c", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=43/43"}
+{"id": "abc395_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=1/44 Wrong answer at output_line_idx=0: 4 != 3"}
+{"id": "abc395_f", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/44 Wrong answer at output_line_idx=0: 10 != 15"}
+{"id": "abc396_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=45/45"}
+{"id": "abc396_b", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=42/42"}
+{"id": "abc396_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 15 != 19"}
+{"id": "abc396_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=2/43 Wrong answer at output_line_idx=0: 659730015854443167 != 186751192333709144"}
+{"id": "abc396_e", "official_pass": false, "official_status": "Error during testing", "detail": "[syntax] tests=0/43 Error during testing: invalid syntax (<string>, line 48)"}
+{"id": "abc396_f", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 6 != 3"}
+{"id": "abc396_g", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/36 Wrong answer at output_line_idx=0: 5 != 2"}
+{"id": "abc397_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=43/43"}
+{"id": "abc397_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=1/43 Wrong answer at output_line_idx=0: 0 != 2"}
+{"id": "abc397_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 3 != 5"}
+{"id": "abc397_d", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error TypeError(\"int() argument must be a string, a bytes-like object or a real number, not 'complex'\")"}
+{"id": "abc397_e", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error IndexError('list index out of range')"}
+{"id": "abc397_f", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 2 != 5"}
+{"id": "abc397_g", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 2 != 1"}
+{"id": "abc398_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: -- != -==-"}
+{"id": "abc398_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=4/44 Wrong answer at output_line_idx=0: No != Yes"}
+{"id": "abc398_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=2/42 Wrong answer at output_line_idx=0: 99 != 18"}
+{"id": "abc398_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=1/43 Wrong answer at output_line_idx=0: 0000001000 != 0001101011"}
+{"id": "abc398_f", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: CBAABC != ABCBA"}
+{"id": "abc398_g", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: Takahashi != Aoki"}
+{"id": "abc399_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=44/44"}
+{"id": "abc399_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/44 Wrong answer at output_line_idx=0: 6 != 4"}
+{"id": "abc399_c", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error RecursionError('maximum recursion depth exceeded')"}
+{"id": "abc399_d", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/2 Runtime Error TypeError(\"'int' object is not subscriptable\")"}
+{"id": "abc399_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=2/44 Wrong answer at output_line_idx=0: 1 != -1"}
+{"id": "abc399_f", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=43/43"}
+{"id": "abc400_a", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=43/43"}
+{"id": "abc400_b", "official_pass": true, "official_status": "passed", "detail": "[ran] tests=44/44"}
+{"id": "abc400_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 11 != 5"}
+{"id": "abc400_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/44 Wrong answer at output_line_idx=0: 3 != 1"}
+{"id": "abc400_e", "official_pass": false, "official_status": "Time Limit Exceeded", "detail": "[ran] tests=0/5 Time Limit Exceeded"}
+{"id": "abc400_g", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/6 Wrong answer at output_line_idx=0: 11 != 12"}
+{"id": "arc184_c", "official_pass": false, "official_status": "Time Limit Exceeded", "detail": "[ran] tests=0/42 Time Limit Exceeded"}
+{"id": "arc184_d", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error EOFError('EOF when reading a line')"}
+{"id": "arc184_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 0 != 8"}
+{"id": "arc185_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/2 Wrong answer at output_line_idx=0: No != Yes"}
+{"id": "arc185_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=12/43 Wrong answer at output_line_idx=0: 1 4 96 != 1 8 169"}
+{"id": "arc185_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 10 != 20"}
+{"id": "arc185_e", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error IndexError('list index out of range')"}
+{"id": "arc186_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=1/42 Wrong answer at output_line_idx=1: No != Yes"}
+{"id": "arc186_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 12 != 3"}
+{"id": "arc186_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/2 Wrong answer at output_line_idx=0: 0 != 2"}
+{"id": "arc186_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/44 Wrong answer at output_line_idx=0: 12 != 2"}
+{"id": "arc186_e", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/44 Runtime Error IndexError('list index out of range')"}
+{"id": "arc187_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 7 != 6"}
+{"id": "arc188_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 81 != 1"}
+{"id": "arc188_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/2 Wrong answer at output_line_idx=2: No != Yes"}
+{"id": "arc188_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0:  != 010"}
+{"id": "arc188_d", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error IndexError('list index out of range')"}
+{"id": "arc189_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 6 != 3"}
+{"id": "arc189_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 19 != 21"}
+{"id": "arc189_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=1/44 Wrong answer at output_line_idx=0: 4 != 0"}
+{"id": "arc189_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 4 16 8 22 15 9 != 4 30 2 13 2 13"}
+{"id": "arc190_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/44 Wrong answer at output_line_idx=0: 4 != 2"}
+{"id": "arc190_c", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/42 Runtime Error ValueError(\"invalid literal for int() with base 10: '3 2 2'\")"}
+{"id": "arc190_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 2 1 != 0 2"}
+{"id": "arc191_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 291 != 593"}
+{"id": "arc191_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/2 Wrong answer at output_line_idx=1: 2 65535 != 11 68"}
+{"id": "arc191_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 1 != 3"}
+{"id": "arc192_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=24/43 Wrong answer at output_line_idx=0: Yes != No"}
+{"id": "arc192_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=1/43 Wrong answer at output_line_idx=0: Fennec != Snuke"}
+{"id": "arc192_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 0 != 939634344"}
+{"id": "arc192_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 7 != 192"}
+{"id": "arc193_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 7 != 11"}
+{"id": "arc193_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 15 != 14"}
+{"id": "arc193_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/2 Wrong answer at output_line_idx=0: 5 != 3"}
+{"id": "arc194_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 3 != 8"}
+{"id": "arc194_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 3 != 4"}
+{"id": "arc194_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 42 != 16"}
+{"id": "arc194_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: 120 != 2"}
+{"id": "arc194_e", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: No != Yes"}
+{"id": "arc195_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=18/43 Wrong answer at output_line_idx=0: Yes != No"}
+{"id": "arc195_b", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=1/43 Wrong answer at output_line_idx=0: Yes != No"}
+{"id": "arc195_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/5 Wrong answer: mismatched output length"}
+{"id": "arc195_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/2 Wrong answer at output_line_idx=0: 5 != 3"}
+{"id": "arc195_e", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/43 Runtime Error IndexError('list index out of range')"}
+{"id": "arc196_a", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 9 != 5"}
+{"id": "arc196_b", "official_pass": false, "official_status": "Runtime Error", "detail": "[ran] tests=0/2 Runtime Error ValueError(\"invalid literal for int() with base 10: 'AAB'\")"}
+{"id": "arc196_c", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/43 Wrong answer at output_line_idx=0: 499122177 != 1"}
+{"id": "arc196_d", "official_pass": false, "official_status": "Wrong Answer", "detail": "[ran] tests=0/42 Wrong answer at output_line_idx=0: No != Yes"}

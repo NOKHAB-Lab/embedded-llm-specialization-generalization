@@ -1,0 +1,161 @@
+{"id": "HumanEval_0_has_close_elements", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_1_separate_paren_groups", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_2_truncate_number", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_3_below_zero", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: invalid preprocessing directive #Assumes"}
+{"id": "HumanEval_4_mean_absolute_deviation", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_5_intersperse", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_6_parse_nested_parens", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_7_filter_by_substring", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_8_sum_product", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: invalid preprocessing directive #For"}
+{"id": "HumanEval_9_rolling_max", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_10_make_palindrome", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_11_string_xor", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_12_longest", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: \u2018import\u2019 was not declared in this scope"}
+{"id": "HumanEval_13_greatest_common_divisor", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: invalid preprocessing directive #Return"}
+{"id": "HumanEval_14_all_prefixes", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: \u2018import\u2019 was not declared in this scope"}
+{"id": "HumanEval_15_string_sequence", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_16_count_distinct_characters", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_17_parse_music", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_18_how_many_times", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_19_sort_numbers", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_20_find_closest_elements", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_21_rescale_to_unit", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_22_filter_integers", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018import\u2019 does not name a type"}
+{"id": "HumanEval_23_strlen", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_24_largest_divisor", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_25_factorize", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_26_remove_duplicates", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_27_flip_case", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_28_concatenate", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018import\u2019 does not name a type"}
+{"id": "HumanEval_29_filter_by_prefix", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_30_get_positive", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018import\u2019 does not name a type"}
+{"id": "HumanEval_31_is_prime", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_33_sort_third", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_34_unique", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_35_max_element", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018import\u2019 does not name a type"}
+{"id": "HumanEval_36_fizz_buzz", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 <evaluator>/multipl_e_cpp/native/codellama_13b_instruc"}
+{"id": "HumanEval_37_sort_even", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018import\u2019 does not name a type"}
+{"id": "HumanEval_39_prime_fib", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_40_triples_sum_to_zero", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_41_car_race_collision", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_42_incr_list", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018import\u2019 does not name a type"}
+{"id": "HumanEval_43_pairs_sum_to_zero", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_44_change_base", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_45_triangle_area", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_46_fib4", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018import\u2019 does not name a type"}
+{"id": "HumanEval_47_median", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_48_is_palindrome", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: invalid preprocessing directive #Add"}
+{"id": "HumanEval_49_modp", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: invalid preprocessing directive #Handle"}
+{"id": "HumanEval_51_remove_vowels", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_52_below_threshold", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018import\u2019 does not name a type"}
+{"id": "HumanEval_53_add", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: stray \u2018@\u2019 in program"}
+{"id": "HumanEval_54_same_chars", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_55_fib", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018import\u2019 does not name a type"}
+{"id": "HumanEval_56_correct_bracketing", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_57_monotonic", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018import\u2019 does not name a type"}
+{"id": "HumanEval_58_common", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018import\u2019 does not name a type"}
+{"id": "HumanEval_59_largest_prime_factor", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_60_sum_to_n", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: invalid preprocessing directive #sum_to_n"}
+{"id": "HumanEval_61_correct_bracketing", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_62_derivative", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_63_fibfib", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018import\u2019 does not name a type"}
+{"id": "HumanEval_64_vowels_count", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_65_circular_shift", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_66_digitSum", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_67_fruit_distribution", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_68_pluck", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_69_search", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_70_strange_sort_list", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_71_triangle_area", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_72_will_it_fly", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_73_smallest_change", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_74_total_match", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_75_is_multiply_prime", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_76_is_simple_power", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_77_iscube", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_78_hex_key", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_79_decimal_to_binary", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_80_is_happy", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_81_numerical_letter_grade", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_82_prime_length", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: stray \u2018@\u2019 in program"}
+{"id": "HumanEval_83_starts_one_ends", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_84_solve", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_85_add", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: invalid preprocessing directive #Given"}
+{"id": "HumanEval_86_anti_shuffle", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_87_get_row", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_88_sort_array", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_89_encrypt", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_90_next_smallest", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_91_is_bored", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_92_any_int", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_93_encode", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_94_skjkasdkd", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_95_check_dict_case", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_96_count_up_to", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_97_multiply", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: invalid preprocessing directive #Include; did you mean #include?"}
+{"id": "HumanEval_98_count_upper", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_99_closest_integer", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_100_make_a_pile", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_101_words_string", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: invalid preprocessing directive #Remove"}
+{"id": "HumanEval_102_choose_num", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_103_rounded_avg", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: \u2018import\u2019 was not declared in this scope"}
+{"id": "HumanEval_104_unique_digits", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_105_by_length", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_106_f", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_107_even_odd_palindrome", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_108_count_nums", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_109_move_one_ball", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_110_exchange", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_111_histogram", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_112_reverse_delete", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: invalid preprocessing directive #Remove"}
+{"id": "HumanEval_113_odd_count", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_114_minSubArraySum", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_115_max_fill", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_116_sort_array", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_117_select_words", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_118_get_closest_vowel", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_119_match_parens", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_120_maximum", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_121_solution", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: invalid preprocessing directive #Given"}
+{"id": "HumanEval_122_add_elements", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_123_get_odd_collatz", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_124_valid_date", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_125_split_words", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_126_is_sorted", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_127_intersection", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018import\u2019 does not name a type"}
+{"id": "HumanEval_128_prod_signs", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: invalid preprocessing directive #You"}
+{"id": "HumanEval_129_minPath", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_130_tri", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_131_digits", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: invalid preprocessing directive #Given"}
+{"id": "HumanEval_132_is_nested", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_133_sum_squares", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_134_check_if_last_char_is_a_letter", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_135_can_arrange", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_136_largest_smallest_integers", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: invalid preprocessing directive #Create"}
+{"id": "HumanEval_137_compare_one", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: \u2018nullopt\u2019 in namespace \u2018std\u2019 does not name a type"}
+{"id": "HumanEval_138_is_equal_to_sum_even", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_139_special_factorial", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_140_fix_spaces", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_141_file_name_check", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_142_sum_squares", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: stray \u2018@\u2019 in program"}
+{"id": "HumanEval_143_words_in_sentence", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_144_simplify", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_145_order_by_points", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_146_specialFilter", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_147_get_max_triples", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_148_bf", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_149_sorted_list_sum", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_150_x_or_y", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_151_double_the_difference", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_152_compare", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_153_Strongest_Extension", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_154_cycpattern_check", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_155_even_odd_count", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_156_int_to_mini_roman", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_157_right_angle_triangle", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_158_find_max", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_159_eat", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_160_do_algebra", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_161_solve", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=completion exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_162_string_to_md5", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: missing terminating \" character"}
+{"id": "HumanEval_163_generate_integers", "official_pass": false, "official_status": "SyntaxError", "detail": "rule=split exit=1 error: \u2018import\u2019 does not name a type"}
